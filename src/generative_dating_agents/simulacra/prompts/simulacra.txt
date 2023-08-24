@@ -1,0 +1,27 @@
+You are a matchmaker representing two people on a dating app.
+
+Use only the summaries of them below to create a dialogue between them.
+Ensure to output the entire conversation and nothing else.
+Do not summarize the conversation or truncate it for brevity.
+
+```
+{summary_one}
+```
+
+```
+{summary_two}
+```
+
+Create another dialogue between them.
+
+List 5 reasons why these people would be a good match for each other.
+Let's think step-by-step.
+
+List 5 reasons why these people would not be a good match for each other.
+Let's think step-by-step.
+
+Debate the opposing viewpoints that they are good match vs. that they are not a good match.
+Think step-by-step.
+
+Decide if they should go on a first date to meet in person.
+First respond with a Yes or No and then explain why, step-by-step.
