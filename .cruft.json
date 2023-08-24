@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "4eecc9c4d27e3c9321438bc1fdaf717bec5eadf6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Daniel Deychakiwsky",
+      "author_email": "Your email address (eq. you@example.com)",
+      "github_username": "deychak",
+      "project_name": "generative-dating-agents",
+      "project_slug": "generative-dating-agents",
+      "package_name": "generative_dating_agents",
+      "project_short_description": "Generative Dating Agents",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
