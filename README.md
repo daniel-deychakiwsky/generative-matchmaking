@@ -24,6 +24,18 @@ Generative Dating Agents
 pip install generative-dating-agents
 ```
 
+## Running
+
+```sh
+export OPENAI_API_KEY={{YOUR OPEN AI KEY}}
+```
+
+### Generate User Profiles
+
+```sh
+python3 -m src.generative_dating_agents.data.main
+```
+
 ## Development
 
 * Clone this repository
