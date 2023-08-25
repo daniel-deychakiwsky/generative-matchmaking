@@ -1,4 +1,4 @@
-user_profile_schema = {
+user_profile_function_schema = {
     "type": "object",
     "properties": {
         "name": {"type": "string", "description": "The user's first and last name"},

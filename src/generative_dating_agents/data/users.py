@@ -7,7 +7,7 @@ import jsonlines
 from joblib import Parallel, delayed
 
 from ..llm.oai import Conversation, chat_completion
-from .schemas import user_profile_schema
+from .schemas import user_profile_function_schema
 
 JsonType = Dict[str, str | bool | int | List[str] | Dict[str, str | bool | int]]
 
@@ -15,17 +15,18 @@ JsonType = Dict[str, str | bool | int | List[str] | Dict[str, str | bool | int]]
 def generate_user_profiles(
     num_profiles: int,
     model: str,
+    output_filename: str,
     max_tokens: int,
     temperature: float,
     n_jobs: int = -1,
 ) -> None:
-    output_filepath: str = os.path.join(os.getcwd(), "user_profiles.jsonl")
+    output_filepath: str = os.path.join(os.getcwd(), f"{output_filename}.jsonl")
     sys_prompt: str = "You are a helpful assistant."
     gen_prompt: str = "Generate a dating profile. Ensure diversity."
     sum_prompt: str = "Summarize the user's dating profile."
     function_name: str = "set_dating_profile"
     functions: list[dict[str, Collection[str]]] = [
-        {"name": function_name, "parameters": user_profile_schema}
+        {"name": function_name, "parameters": user_profile_function_schema}
     ]
     function_call: Dict[str, str] = {"name": function_name}
 
@@ -73,6 +74,7 @@ if __name__ == "__main__":
     generate_user_profiles(
         num_profiles=100,
         model="gpt-4-0613",
+        output_filename="user_profiles",
         max_tokens=5000,
         temperature=1.05,
         n_jobs=2,
