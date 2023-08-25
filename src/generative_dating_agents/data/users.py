@@ -11,7 +11,7 @@ from .schemas import user_profile_function_schema
 from .types import JsonType
 
 
-def generate_user_profiles(
+def generate_profiles(
     num_profiles: int,
     model: str,
     output_filename: str,
@@ -29,7 +29,7 @@ def generate_user_profiles(
     ]
     function_call: Dict[str, str] = {"name": function_name}
 
-    def generate() -> JsonType:
+    def gen() -> JsonType:
         conversation: Conversation = Conversation()
         conversation.add_system_message(message=sys_prompt)
         conversation.add_user_message(message=gen_prompt)
@@ -56,24 +56,12 @@ def generate_user_profiles(
         user_profile_json["user_id"] = str(uuid.uuid4())
         return user_profile_json
 
-    def parallel_generate() -> List[JsonType]:
+    def parallel_gen() -> List[JsonType]:
         user_profiles_accum: List[JsonType] = Parallel(n_jobs=n_jobs)(
-            delayed(generate)() for _ in range(num_profiles)
+            delayed(gen)() for _ in range(num_profiles)
         )
         return user_profiles_accum
 
-    user_profiles: List[JsonType] = parallel_generate()
+    user_profiles: List[JsonType] = parallel_gen()
 
     write_jsonl_file(json_array=user_profiles, output_filepath=output_filepath)
-
-
-# tune against rate and usage limits
-if __name__ == "__main__":
-    generate_user_profiles(
-        num_profiles=100,
-        model="gpt-4-0613",
-        output_filename="user_profiles",
-        max_tokens=5000,
-        temperature=1.05,
-        n_jobs=2,
-    )

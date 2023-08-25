@@ -1,3 +1,4 @@
+import os
 from typing import Optional
 
 import chromadb
@@ -11,19 +12,27 @@ from chromadb.api.models.Collection import (
     Where,
     WhereDocument,
 )
+from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
+from ..utils.io import read_jsonl_file
 
-class ChromaVectorDatabase:
+
+class ChromaVectorDatabaseClient:
     def __init__(self) -> None:
-        self.client = chromadb.Client()
+        self.client = chromadb.HttpClient(
+            host="localhost", port="8000", settings=Settings(anonymized_telemetry=False)
+        )
 
-    def create_collection(self, name: str) -> None:
+    def create_collection(self, name: str, distance: str = "cosine") -> None:
         embedding_function: Optional[
             EmbeddingFunction
         ] = embedding_functions.DefaultEmbeddingFunction()
         self.client.create_collection(
-            name, get_or_create=True, embedding_function=embedding_function
+            name,
+            get_or_create=True,
+            embedding_function=embedding_function,
+            metadata={"hnsw:space": distance},
         )
 
     def add_to_collection(
@@ -53,3 +62,46 @@ class ChromaVectorDatabase:
             where=where,
             where_document=where_document,
         )
+
+    def delete_collection(
+        self,
+        name: str,
+    ) -> None:
+        self.client.get_collection(name=name).delete()
+
+
+def load_collection(input_filename: str, collection_name: str, distance: str) -> None:
+    input_filepath: str = os.path.join(os.getcwd(), f"{input_filename}.jsonl")
+    user_profiles = read_jsonl_file(input_filepath=input_filepath)
+    user_ids = [p["user_id"] for p in user_profiles]
+    user_profile_summaries = [p["summary"] for p in user_profiles]
+
+    vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
+    vdb.create_collection(name=collection_name, distance=distance)
+    vdb.add_to_collection(
+        name=collection_name,
+        ids=user_ids,
+        documents=user_profile_summaries,
+    )
+
+
+def query_collection(
+    collection_name: str,
+    query_texts: Optional[OneOrMany[Document]],
+    n_results: int,
+    where: Optional[Where] = None,
+    where_document: Optional[WhereDocument] = None,
+) -> QueryResult:
+    vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
+    return vdb.query_collection(
+        name=collection_name,
+        query_texts=query_texts,
+        n_results=n_results,
+        where=where,
+        where_document=where_document,
+    )
+
+
+def delete_collection(collection_name: str) -> None:
+    vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
+    vdb.delete_collection(name=collection_name)
