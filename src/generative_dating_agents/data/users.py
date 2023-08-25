@@ -8,8 +8,7 @@ from joblib import Parallel, delayed
 from ..llm.oai import Conversation, chat_completion
 from ..utils.io import write_jsonl_file
 from .schemas import user_profile_function_schema
-
-JsonType = Dict[str, str | bool | int | List[str] | Dict[str, str | bool | int]]
+from .types import JsonType
 
 
 def generate_user_profiles(

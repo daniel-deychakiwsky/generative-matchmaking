@@ -30,12 +30,6 @@ export OPENAI_API_KEY={{YOUR OPEN AI KEY}}
 python3 -m src.generative_dating_agents.data.users
 ```
 
-### Embed User Profile Summaries
-
-```shell
-python3 -m src.generative_dating_agents.data.embeddings
-```
-
 ## Installation
 
 ```sh
