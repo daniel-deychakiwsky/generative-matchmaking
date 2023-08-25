@@ -1,10 +1,8 @@
 import os
 from typing import Dict, List
 
-import jsonlines
-
 from ..llm.oai import get_embeddings
-from ..utils.io import write_jsonl_file
+from ..utils.io import read_jsonl_file, write_jsonl_file
 
 JsonType = Dict[str, str | List[float]]
 
@@ -17,12 +15,10 @@ def embed_user_profile_summaries(
     input_filepath: str = os.path.join(os.getcwd(), f"{input_filename}.jsonl")
     output_filepath: str = os.path.join(os.getcwd(), f"{output_filename}.jsonl")
 
-    with jsonlines.open(input_filepath, "r") as user_profile_reader:
-        user_profiles: List[Dict[str, str]] = [
-            {"user_id": p["user_id"], "summary": p["summary"]}
-            for p in user_profile_reader
-        ]
-
+    user_profiles: List[Dict[str, str]] = [
+        {"user_id": p["user_id"], "summary": p["summary"]}
+        for p in read_jsonl_file(input_filepath=input_filepath)
+    ]
     user_profile_summaries: List[str] = [p["summary"] for p in user_profiles]
     user_profile_embeddings: List[List[float]] = get_embeddings(
         model=model, text=user_profile_summaries
