@@ -3,13 +3,12 @@ import os
 import uuid
 from typing import Collection, Dict, List
 
-import jsonlines
 from joblib import Parallel, delayed
 
 from ..llm.oai import Conversation, chat_completion
+from ..utils.io import write_jsonl_file
 from .schemas import user_profile_function_schema
-
-JsonType = Dict[str, str | bool | int | List[str] | Dict[str, str | bool | int]]
+from .types import JsonType
 
 
 def generate_user_profiles(
@@ -65,8 +64,7 @@ def generate_user_profiles(
 
     user_profiles: List[JsonType] = parallel_generate()
 
-    with jsonlines.open(output_filepath, "w") as writer:
-        writer.write_all(user_profiles)
+    write_jsonl_file(json_array=user_profiles, output_filepath=output_filepath)
 
 
 # tune against rate and usage limits

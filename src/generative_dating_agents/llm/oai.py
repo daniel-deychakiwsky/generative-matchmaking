@@ -106,15 +106,3 @@ def chat_completion(
     else:
         completion: str = ChatCompletion.create(**kwargs).choices[0].message.content
         return completion
-
-
-def get_embeddings(model: str, text: List[str]) -> List[List[float]]:
-    text_cleaned: List[str] = [t.replace("\n", " ") for t in text]
-    embeddings: List[List[float]] = [
-        e["embedding"]
-        for e in sorted(
-            openai.Embedding.create(input=text_cleaned, model=model).data,
-            key=lambda x: x["index"],
-        )
-    ]
-    return embeddings
