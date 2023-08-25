@@ -20,14 +20,40 @@ Generative Dating Agents
 
 ## Running
 
-```sh
-export OPENAI_API_KEY={{YOUR OPEN AI KEY}}
+```shell
+poetry install
 ```
 
 ### Generate User Profiles
 
 ```sh
-python3 -m src.generative_dating_agents.data.users
+export OPENAI_API_KEY={{YOUR OPEN AI KEY}}
+```
+
+```sh
+python3 -m src.generative_dating_agents.cli generate-profiles
+```
+
+### Initialize Chroma Vector DB
+
+Ensure the docker daemon is running.
+
+```shell
+git clone https://github.com/chroma-core/chroma.git &&
+cd chroma &&
+docker-compose up -d --build
+```
+
+```shell
+python3 -m src.generative_dating_agents.cli load-collection
+```
+
+```shell
+python3 -m src.generative_dating_agents.cli query-collection --query-text "A multilingual straight male athlete"
+```
+
+```shell
+python3 -m src.generative_dating_agents.cli delete-collection
 ```
 
 ## Installation
