@@ -4,6 +4,7 @@ from typing import Dict, List
 import jsonlines
 
 from ..llm.oai import get_embeddings
+from ..utils.io import write_jsonl_file
 
 JsonType = Dict[str, str | List[float]]
 
@@ -21,17 +22,19 @@ def embed_user_profile_summaries(
             {"user_id": p["user_id"], "summary": p["summary"]}
             for p in user_profile_reader
         ]
-        user_profile_summaries: List[str] = [p["summary"] for p in user_profiles]
-        user_profile_embeddings: List[List[float]] = get_embeddings(
-            model=model, text=user_profile_summaries
-        )
-        user_profile_id_embeddings: List[JsonType] = [
-            {"user_id": p["user_id"], "embedding": e}
-            for p, e in zip(user_profiles, user_profile_embeddings)
-        ]
 
-    with jsonlines.open(output_filepath, "w") as writer:
-        writer.write_all(user_profile_id_embeddings)
+    user_profile_summaries: List[str] = [p["summary"] for p in user_profiles]
+    user_profile_embeddings: List[List[float]] = get_embeddings(
+        model=model, text=user_profile_summaries
+    )
+    user_profile_id_embeddings: List[JsonType] = [
+        {"user_id": p["user_id"], "embedding": e}
+        for p, e in zip(user_profiles, user_profile_embeddings)
+    ]
+
+    write_jsonl_file(
+        json_array=user_profile_id_embeddings, output_filepath=output_filepath
+    )
 
 
 if __name__ == "__main__":
