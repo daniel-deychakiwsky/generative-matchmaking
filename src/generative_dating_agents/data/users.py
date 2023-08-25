@@ -10,6 +10,7 @@ from ..utils.io import write_jsonl_file
 from .schemas import user_profile_function_schema
 from .types import JsonType
 
+
 def generate_profiles(
     num_profiles: int,
     model: str,
@@ -60,7 +61,6 @@ def generate_profiles(
             delayed(gen)() for _ in range(num_profiles)
         )
         return user_profiles_accum
-
 
     user_profiles: List[JsonType] = parallel_gen()
 
