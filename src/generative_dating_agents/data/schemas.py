@@ -31,16 +31,22 @@ user_profile_function_schema = {
             "items": {"type": "string"},
         },
         "values": {
-            "type": "string",
+            "type": "array",
             "description": "The user's life values",
-            "minLength": 300,
-            "maxLength": 500,
+            "items": {
+                "type": "string",
+            },
+            "minItems": 5,
+            "maxItems": 10,
         },
         "interests": {
-            "type": "string",
+            "type": "array",
             "description": "The user's life interests",
-            "minLength": 300,
-            "maxLength": 500,
+            "items": {
+                "type": "string",
+            },
+            "minItems": 5,
+            "maxItems": 10,
         },
         "education_level": {
             "type": "string",

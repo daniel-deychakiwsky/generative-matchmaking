@@ -30,6 +30,7 @@ def generate_profiles(
     output_filename: str,
     n_jobs: int,
 ) -> None:
+    click.echo("Generating user profiles")
     _generate_profiles(
         num_profiles=num_profiles,
         model=model,
@@ -61,12 +62,13 @@ def generate_profiles(
     help="Chroma collection distance function.",
 )
 def load_collection(input_filename: str, collection_name: str, distance: str) -> None:
+    click.echo("Loading database collection")
     _load_collection(
         input_filename=input_filename,
         collection_name=collection_name,
         distance=distance,
     )
-    click.echo("Successfully loaded database")
+    click.echo("Successfully loaded database collection")
 
 
 @click.command()
@@ -81,6 +83,7 @@ def load_collection(input_filename: str, collection_name: str, distance: str) ->
     "--n-results", type=int, default=2, help="Chroma number of query results."
 )
 def query_collection(collection_name: str, query_text: str, n_results: int) -> None:
+    click.echo("Querying database collection")
     result = _query_collection(
         collection_name=collection_name,
         query_texts=[query_text],
@@ -88,6 +91,7 @@ def query_collection(collection_name: str, query_text: str, n_results: int) -> N
         where=None,
         where_document=None,
     )
+    click.echo("Successfully queried database collection")
     click.echo(result)
 
 
@@ -99,10 +103,11 @@ def query_collection(collection_name: str, query_text: str, n_results: int) -> N
     help="Chroma collection name.",
 )
 def delete_collection(collection_name: str) -> None:
+    click.echo("Deleting database collection")
     _delete_collection(
         collection_name=collection_name,
     )
-    click.echo("Successfully deleted collection")
+    click.echo("Successfully deleted database collection")
 
 
 @click.group()
