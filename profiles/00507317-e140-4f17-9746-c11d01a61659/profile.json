@@ -1,0 +1,60 @@
+{
+    "name": "Mikael Johansson",
+    "age": 32,
+    "height": "5'11\"",
+    "school": "Stockholm University",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Stockholm, Sweden",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Swedish",
+        "English"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Adventure"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Mikael Johansson is a 32-year-old man from Stockholm, Sweden, currently residing in Los Angeles, California. He works as a Software Developer in the technology industry after graduating from Stockholm University. He identifies as a White Caucasian, speaks English and Swedish, and stands 5'11\" tall.\n\nHe values honesty, family, and adventure, with interests in hiking, coding, and cooking. As a man with no children, he indicates the desire to have them in the future. He also enjoys the company of his dog. He identifies as an atheist and leans liberal politically. \n\nIn terms of personality, he is an INTP (introversion, intuition, thinking, perceiving) per the Myers Briggs Type Indicator, a Virgo according to zodiac, and is active physically. \n\nHe's interested in meeting a woman aged between 25 and 35 years, preferably someone who doesn't currently have children but wants them in the future. She shouldn't be a smoker or into drugs, and should be active in her lifestyle. \n\nMikael occasionally partakes in drinking but refrains from smoking, marijuana, and other drugs. He is looking for a long-term relationship and monogamy.",
+    "user_id": "00507317-e140-4f17-9746-c11d01a61659"
+}

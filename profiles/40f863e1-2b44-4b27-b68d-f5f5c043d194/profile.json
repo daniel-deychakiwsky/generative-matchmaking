@@ -1,0 +1,61 @@
+{
+    "name": "Amina Abdi",
+    "age": 27,
+    "height": "5'4\"",
+    "school": "Stanford University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Minneapolis, Minnesota",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Somali"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Hard Work"
+    ],
+    "interests": [
+        "Coding",
+        "Photography",
+        "Travelling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Amina Abdi is a 27 year old software engineer, originally from Minneapolis, Minnesota, but currently residing in Los Angeles, California. She works in the tech industry after graduating from Stanford University. She speaks both English and Somali, and is characterized by her values of honesty, family, and hard work. Amina has a diverse range of interests, including coding, photography, and traveling. \n\nA devout Muslim with liberal political views, Amina is a straight woman who is looking for a life partner. She is of the INTJ personality type and is active in terms of physical health. Amina does not smoke, drink, or use any substances.\n\nShe prefers her partner to be between the ages of 27 and 35, at least 5'7\" in height, and to share her views on lifestyle habits and family planning. Amina does not have any children currently, but she desires to have children in the future. Also, she prefers her partner to have the same views on substance use and to be active.",
+    "user_id": "40f863e1-2b44-4b27-b68d-f5f5c043d194"
+}

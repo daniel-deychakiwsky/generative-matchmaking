@@ -1,0 +1,61 @@
+{
+    "name": "Zara Abubakar",
+    "age": 27,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Houston, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Arabic"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Creativity"
+    ],
+    "interests": [
+        "Programming",
+        "Photography",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Zara Abubakar is a 27-year-old straight woman living in Los Angeles, California. She is 5'6\" tall, of Middle Eastern ethnicity, and a software engineer in the tech industry. Identifying with liberal political views and the Muslim faith, she values family, ambition, and creativity.\n \nShe takes pride in her INTJ personality type and being a Libra. Her main interests are programming, photography, and traveling, and she is proficient both in English and Arabic. Healthy living is important to Zara, and she maintains an active lifestyle while avoiding drinking, smoking, and drug use.\n\nZara is seeking a life partner who values monogamy. She would prefer someone over 27 but younger than 35, between 5'8\" and 6'2\". Similar to her lifestyle choices, she wishes for a partner who does not smoke, drink, or use drugs, and maintains an active lifestyle. Her love for family extends to her desires for the future, as she does not currently have children but wishes to do so with her life partner.",
+    "user_id": "5d479074-6587-46b5-a0b0-e260a7324ccb"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Isabella Greenwood",
+    "age": 28,
+    "height": "5'4\"",
+    "school": "Stanford University",
+    "job_industry": "Healthcare",
+    "job_title": "Physician Assistant",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Honesty"
+    ],
+    "interests": [
+        "Cooking",
+        "Traveling",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Spiritual",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Isabella Greenwood is a hardworking and honest 28-year-old woman from Austin, Texas, who currently resides in Los Angeles, California. Standing at 5'4'', she is a Physician Assistant in the healthcare industry. Bilingual in English and Spanish, she values family and holds honesty in high regard. Isabella enjoys cooking, traveling, and hiking in her free time. She is spiritually inclined, with a liberal political ideology, and is looking for a long-term, monogamous relationship. Isabella identifies as straight. She is of Hispanic/Latino ethnicity and has no children yet, but would want some in the future. Isabella is a proud cat owner, a Virgo, and her MBTI personality type is ENFJ. She occasionally drinks but refrains from smoking, marijuana, and other drugs. Isabella maintains an active lifestyle. For her partner, she is looking for a straight man aged between 28 and 35 years who shares similar lifestyle habits. The man should preferably not have children, but, like Isabella, he should want them in the future. A non-smoker who's occasionally up for a drink would be perfect for her. Isabella's ideal partner leads an active lifestyle as well.",
+    "user_id": "2cb3f9a4-59e1-4b8e-bc08-0bd6c3ebeee2"
+}

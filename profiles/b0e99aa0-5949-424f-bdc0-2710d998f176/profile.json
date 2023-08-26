@@ -1,0 +1,63 @@
+{
+    "name": "Hannah Goldberg",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard Work",
+        "Compassion"
+    ],
+    "interests": [
+        "Yoga",
+        "Reading",
+        "Coding",
+        "Hiking",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Jewish",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 34,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Hannah Goldberg, a 28-year-old woman, works as a Software Engineer in the technology industry. She is based in Los Angeles, California, but originally comes from San Francisco. She is a graduate of the University of California, Berkeley. Honesty, hard work, and compassion are her central values. Hannah loves yoga, reading, coding, hiking, and cooking in her free time. Fluent in English and Spanish, she identifies herself as Jewish and liberal. \n\nHannah is interested in monogamous, long-term relationships. She doesn't have children but would like to start a family in the future. She owns a cat and appreciates people who are passionate about their fitness. Hannah's preferred partner should be a straight man, between ages 26-34 and taller than her. His lifestyle must align with hers - social drinking only, non-smoking, and doesn't consume marijuana or drugs.",
+    "user_id": "b0e99aa0-5949-424f-bdc0-2710d998f176"
+}

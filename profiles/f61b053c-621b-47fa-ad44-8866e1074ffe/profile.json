@@ -1,0 +1,61 @@
+{
+    "name": "Amelia Larson",
+    "age": 30,
+    "height": "5'6\"",
+    "school": "University of Southern California",
+    "job_industry": "Healthcare",
+    "job_title": "Nurse Practitioner",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard work",
+        "Family"
+    ],
+    "interests": [
+        "Hiking",
+        "Photography",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Amelia Larson is a 30-year-old woman based in Los Angeles, California. She's a graduate from the University of Southern California and currently works in the Healthcare industry as a Nurse Practitioner. She maintains an active lifestyle and enjoys interests such as hiking, photography, and traveling. She places great importance on honesty, hard work, and family, while identifying as a moderate Catholic. Amelia is a straight, English and Spanish speaking white Caucasian woman who uses \"she/her/hers\" pronouns. She doesn't have children but desires to have them in the future. A dog lover, she occasionally drinks, doesn't smoke, and abstains from marijuana and other drugs. A Gemini and an ENFJ personality type, she seeks a monogamous, long-term relationship with a man aged between 28 and 38, who doesn't have children but wants them, is active, and doesn't indulge in smoking, drugs, or marijuana, but is okay with drinking.",
+    "user_id": "f61b053c-621b-47fa-ad44-8866e1074ffe"
+}

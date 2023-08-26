@@ -1,0 +1,53 @@
+{
+    "name": "Kendra Smith",
+    "age": 27,
+    "height": "5'5\"",
+    "school": "Columbia University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Chicago, Illinois",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Family, Culture, Learning new things",
+    "interests": "Technology, Music, Travelling, Cooking",
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Kendra Smith is a 27-year-old software engineer from Chicago, Illinois, currently living in Los Angeles, California. She is educated with a graduate degree from Columbia University and is fluent in both English and Spanish. She is a woman of Black African descent who uses the pronouns \"She/Her/Hers\", identifies as straight and is interested in finding a life partner.\n\nHer beliefs revolve around the values of family and culture and she has a keen interest in learning new things. In her leisure time, she enjoys engaging with technology, listening to music, traveling, and cooking. Her major personality traits conform to the MBTI type INFJ and zodiac sign Leo. Additionally, she considers herself part of the liberal political movement and practices Buddhism.\n\nKendra enjoys living an active lifestyle and sometimes partakes in drinking but abstains from smoking, marijuana, and other drugs. She is an animal lover, owning a dog, and with definite intentions of having children in the future.\n\nAs for partner preferences, Kendra prefers someone with a minimum height of 5'8\" and a maximum height of 6'3\" in the age range of 27-35 years. Her ideal partner would also be interested in having children, live an active lifestyle, occasionally drink but avoid smoking and drugs.",
+    "user_id": "82434c24-927c-469b-a5a6-84d961da2397"
+}

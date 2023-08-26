@@ -1,0 +1,61 @@
+{
+    "name": "Oliver Thomsen",
+    "age": 29,
+    "height": "6'1\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "German"
+    ],
+    "values": [
+        "Hard work",
+        "Honesty",
+        "Independence"
+    ],
+    "interests": [
+        "Music",
+        "Movies",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 34,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Oliver Thomsen is a 29-year-old man who studied at the University of California, Los Angeles and works as a Software Engineer in the technology industry. He identifies as straight, and he's looking for a life partner interested in a monogamous relationship. He's currently based in Los Angeles, California, and hails originally from San Francisco. Apart from English, he speaks German, enjoys music, movies, and traveling, and values hard work, honesty, and independence. His political views lean towards liberalism, and he identifies as an agnostic. Oliver has no children, but he would like to have them in the future. He also owns a dog. His habits include being active with exercise, occasionally drinking, and he is a non-smoker. His preference for a partner is a straight woman between the ages of 25 and 34 with no children, who leads an active lifestyle and shares similar habits.",
+    "user_id": "52b6ba11-bd74-463f-a598-f33f55e5a53a"
+}

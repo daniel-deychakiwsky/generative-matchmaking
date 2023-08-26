@@ -1,0 +1,61 @@
+{
+    "name": "Hiroshi Tanaka",
+    "age": 32,
+    "height": "5'8\"",
+    "school": "Tokyo University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Tokyo, Japan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Japanese",
+        "English"
+    ],
+    "values": [
+        "Hard work",
+        "Loyalty",
+        "Creativity"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Reading Fiction"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'9\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Hiroshi Tanaka is a 32-year-old man looking for a long-term relationship. He identifies as straight and practices monogamy. Although he doesn't have children, he is keen on starting a family someday. Professionally, he works as a Software Engineer in the tech industry. Hiroshi is a graduate from Tokyo University and fluent in Japanese and English. \n\nOriginally from Tokyo, Japan, Hiroshi now lives in Los Angeles, California. His values include hard work, loyalty, and creativity, while his hobbies are cooking, traveling, and reading fiction. He identifies as a Buddhist and is politically liberal. He occasionally drinks but does not indulge in smoking or drugs.\n\nHiroshi's prospective partner should be between 25 and 35, straight, and share his interest in having children in the future. The ideal partner for him would also value physical activity as Hiroshi leads an active lifestyle himself. Hiroshi also prefers that his potential partner is a social drinker, but not smoking, marijuana or drug user.",
+    "user_id": "e86fdf75-6f96-44a9-89be-d86a1f326dee"
+}

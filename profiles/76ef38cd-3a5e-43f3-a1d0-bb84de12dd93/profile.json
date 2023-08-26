@@ -1,0 +1,61 @@
+{
+    "name": "Stella Gomez",
+    "age": 30,
+    "height": "5'4\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Healthcare",
+    "job_title": "Registered Nurse",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Health"
+    ],
+    "interests": [
+        "Travel",
+        "Books",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 32,
+        "maximum_age": 40,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Stella Gomez is a 30-year-old Registered Nurse from San Diego, currently living and working in Los Angeles. She's a graduate of the University of California, Los Angeles and places high importance on values like family, ambition, and health. Stella is fluent in English and Spanish and has interests in travel, books, and yoga. She identifies as a straight woman, is looking for a life partner, and prefers monogamous relationships. Although she doesn't currently have children, she wants to in the future. Her faith and politically she leans liberal. Stella is a Leo, and her Myers-Briggs personality type is ENFJ. She is an active person who enjoys a drink sometimes, does not smoke or use drugs. She also has a pet dog. When it comes to her ideal partner, Stella is looking for a straight man between the ages of 32 to 40, who leads an active lifestyle, envisions having children in the future, and does not smoke.",
+    "user_id": "76ef38cd-3a5e-43f3-a1d0-bb84de12dd93"
+}

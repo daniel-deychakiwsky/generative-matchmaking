@@ -1,0 +1,61 @@
+{
+    "name": "Avery Thompson",
+    "age": 29,
+    "height": "6'1\"",
+    "school": "California State University",
+    "job_industry": "Finance",
+    "job_title": "Financial Analyst",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Fitness"
+    ],
+    "interests": [
+        "Football",
+        "Traveling",
+        "Cooking",
+        "Reading"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Avery Thompson is a 29-year-old man who lives in Los Angeles, California. Originally from Sacramento, he is a Financial Analyst in the finance industry. He speaks English and holds an undergraduate degree from California State University. His core values are honesty, loyalty, and fitness. His interests include football, traveling, cooking, and reading. \n\nAvery identifies himself as an Agnostic and leans towards liberal political views. He is currently looking for a potential life partner and is interested in monogamous relationships. Straight in terms of sexuality, Avery doesn't have children, although he wants them in the future. He is a proud dog owner, active in exercise, and doesn't smoke. He sometimes drinks but doesn't take marijuana or other drugs. His partner preferences are a straight woman between the ages of 24 and 35, who shares similar values, does not smoke, exercises regularly, and also wants children in the future.",
+    "user_id": "071ccc51-12b5-4ee9-a7d4-242572d02d90"
+}

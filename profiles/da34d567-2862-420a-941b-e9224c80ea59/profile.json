@@ -1,0 +1,61 @@
+{
+    "name": "Rosa Fernandez",
+    "age": 35,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Medical",
+    "job_title": "Nurse Practitioner",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Honesty",
+        "Kindness"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ISFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 35,
+        "maximum_age": 45,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Rosa Fernandez is a 35-year-old Nurse Practitioner living in Los Angeles, California, originally from San Diego. A graduate from UCLA, Rosa is bilingual, fluent in both English and Spanish. As a Hispanic/Latino woman, she values family, honesty, and kindness. While she is Catholic, Rosa has a moderate political stance. \n\nShe enjoys traveling, cooking and photography in her leisure time. Rosa identifies as a straight woman and uses \u201cShe/Her/Hers\u201d pronouns. Rosa is interested in a long-term monogamous relationship and although she doesn't have children, she is open to having them in the future. \n\nIn terms of lifestyle, Rosa is active and occasionally enjoys a drink but refrains from smoking or using any recreational drugs. She owns a dog and is a Libra by zodiac sign. Her MBTI personality type is ISFJ.\n\nIn a partner, Rosa prefers someone who respects her need for monogamy, is between the ages of 35-45, and at least 5'7\" tall. She is open to partners who enjoy drinking but prefers non-smokers. Her potential partner should also be active, childless but open to the idea of having children in the future.",
+    "user_id": "da34d567-2862-420a-941b-e9224c80ea59"
+}

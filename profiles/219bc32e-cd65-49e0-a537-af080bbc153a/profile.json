@@ -1,0 +1,53 @@
+{
+    "name": "Aaliyah Williams",
+    "age": 36,
+    "height": "5'7\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Detroit, Michigan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Family, Career, Adventure",
+    "interests": "Coding, Food (Vegan cooking), Music (Jazz & Blues), Travel (Backpacking around the world)",
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Aaliyah Williams is a 36-year-old Software Engineer currently living in Los Angeles, California. She graduated from Stanford University and is fluent in English and Spanish. She values family, her career, and adventures. Her interests include coding, vegan cooking, jazz and blues music, and backpacking around the world. Although she identifies as agnostic and politically liberal, her main intentions for dating are to engage in a long term, monogamous relationship. Aaliyah, who identifies as a straight woman of Black African descent, does not currently have any children but is open to having them in the future. She does not have any pets and her lifestyle is fairly health-conscious - she works out regularly, and while she sometimes enjoys a drink, she does not smoke or use marijuana. As for her partner preferences, Aaliyah is looking for a straight man between the ages of 30 and 40 who leads an active lifestyle, does not smoke, and wants children.",
+    "user_id": "219bc32e-cd65-49e0-a537-af080bbc153a"
+}

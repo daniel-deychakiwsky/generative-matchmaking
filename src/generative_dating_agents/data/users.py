@@ -7,7 +7,7 @@ from typing import Collection, Dict, List
 from joblib import Parallel, delayed
 
 from ..llm.oai import Conversation, chat_completion
-from ..utils.io import write_jsonl_file
+from ..utils.io import write_json
 from .schemas import user_profile_function_schema
 from .types import JsonType
 
@@ -15,9 +15,10 @@ from .types import JsonType
 def generate_profiles(
     num_profiles: int,
     model: str,
-    output_filename: str,
     max_tokens: int,
     temperature: float,
+    output_directory: str,
+    output_file_name: str,
     n_jobs: int = -1,
 ) -> None:
     sys_prompt: str = "You are a helpful assistant."
@@ -33,8 +34,6 @@ def generate_profiles(
         {"name": function_name, "parameters": user_profile_function_schema}
     ]
     function_call: Dict[str, str] = {"name": function_name}
-
-    output_filepath: str = os.path.join(os.getcwd(), f"{output_filename}.jsonl")
 
     def gen() -> JsonType:
         stochastic_gen_names_prompt = gen_names_prompt
@@ -114,4 +113,11 @@ def generate_profiles(
 
     user_profiles: List[JsonType] = parallel_gen()
 
-    write_jsonl_file(json_array=user_profiles, output_filepath=output_filepath)
+    for user_profile in user_profiles:
+        output_file_path: str = os.path.join(
+            os.getcwd(),
+            output_directory,
+            str(user_profile["user_id"]),
+            output_file_name,
+        )
+        write_json(data=user_profile, file_path=output_file_path)

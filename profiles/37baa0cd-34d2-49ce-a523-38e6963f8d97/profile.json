@@ -1,0 +1,65 @@
+{
+    "name": "Simone Chen",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Adventurous",
+        "Creativity",
+        "Intelligence"
+    ],
+    "interests": [
+        "Traveling",
+        "Photography",
+        "Rock climbing",
+        "Cooking",
+        "Live concerts"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "6'0\"",
+        "maximum_height": "6'7\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Simone Chen is a 28-year-old software engineer who currently resides in Los Angeles, California but originally hails from San Francisco. She's a graduate from the University of California Berkeley, and she's particularly passionate about traveling, photography, rock climbing, cooking, and live concerts. Simone values honesty, adventurousness, creativity, and intelligence. She speaks Spanish, Mandarin, and English fluently.\n\nIdentifying as an Agnostic, she leans liberal politically. Simone aligns herself with the monogamous relationship type and is considering a long-term relationship, specifically with a man of similar age and taller height. Although she currently does not have children, she hopes to start a family someday. She enjoys the company of her dog and is an active ENFJ Leo woman who enjoys a good drink on occasion yet abstains from smoking, marijuana, or drug use.\n\nShe's looking for a man aged between 28 to 35 who's also interested in a long-term, monogamous relationship. Her potential match would ideally be an active non-smoker who does not have children already but is also open to having kids in the future.",
+    "user_id": "37baa0cd-34d2-49ce-a523-38e6963f8d97"
+}

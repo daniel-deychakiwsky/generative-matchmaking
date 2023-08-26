@@ -1,0 +1,53 @@
+{
+    "name": "John Doe",
+    "age": 28,
+    "height": "5'10\"",
+    "school": "University of Houston",
+    "job_industry": "Healthcare",
+    "job_title": "Nurse",
+    "hometown_location": "Houston, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Portuguese"
+    ],
+    "values": "Community, love and nurturing, environmental stability",
+    "interests": "Music festivals, hiking, poetry writing",
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Gay",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 34,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Gay",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "John Doe is a 28-year-old man from Houston, Texas, currently residing in Los Angeles, California. He is a Nurse in the healthcare field and holds a graduate degree from the University of Houston. He speaks English and Portuguese and identifies as a Gay Hispanic/Latino man with Scorpio as his zodiac sign. His social attitudes are liberal and he follows Buddhist religious beliefs. \n\nJohn is passionate about community, love and nurturing, and environmental stability. His interests include music festivals, hiking, and poetry writing. He does drink but does not smoke or use marijuana or drugs. John exercises regularly and has a dog. He follows monogamy and is interested in long-term dating. \n\nAlthough he doesn't have children, he wishes to have them in the future. When it comes to his potential partners, he prefers them to be within the age range of 26 to 34, between the heights of 5'6\" and 6'0\". He also wishes for them to want children, drink socially, live an active lifestyle, and to not smoke or use drugs. John's personality type is ENFJ.",
+    "user_id": "457d4ed6-7bf6-4edb-b4cc-957604d2caf2"
+}

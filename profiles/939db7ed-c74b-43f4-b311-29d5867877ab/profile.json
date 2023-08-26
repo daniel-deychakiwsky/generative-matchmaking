@@ -1,0 +1,61 @@
+{
+    "name": "Amelia Green",
+    "age": 32,
+    "height": "5'7\"",
+    "school": "Yale University",
+    "job_industry": "Healthcare",
+    "job_title": "Nurse Practitioner",
+    "hometown_location": "New York, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Health & Exercise",
+        "Helping Others",
+        "Career & Ambition"
+    ],
+    "interests": [
+        "Cooking",
+        "Music",
+        "Running"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Amelia Green is a 32-year-old, 5'7\" tall woman who identifies as straight. She is an ambitious, healthcare-focused Nurse Practitioner. She is from New York, New York but is currently dating in Los Angeles, California. Being bilingual, she speaks both English and Spanish fluently. Her core values include health & exercise, helping others, and career ambitions.\n\nAmelia's interests are diverse, encompassing cooking, music, and running. She is a graduate of Yale University, identifies as a Christian and leans liberal politically. She doesn't have any children but is open to having them in the future. Amelia is fond of dogs and her zodiac sign is Libra. In terms of personal health habits, Amelia is an active individual who occasionally drinks but refrains from smoking, marijuana and other drugs.\n\nShe's seeking a life partner in a monogamous relationship, preferably a straight man between 30 to 40 years old who values health & exercise, doesn't smoke and is keen on having children.",
+    "user_id": "939db7ed-c74b-43f4-b311-29d5867877ab"
+}

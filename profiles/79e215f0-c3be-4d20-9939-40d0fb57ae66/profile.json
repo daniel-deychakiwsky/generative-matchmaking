@@ -1,0 +1,62 @@
+{
+    "name": "Lerato Dlamini",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "University of Cape Town",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Durban, South Africa",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Zulu",
+        "Afrikaans"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Adventure"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Listening to music"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Lerato Dlamini is a 28-year-old Christian woman of Black African descent. She is a software developer and a graduate of the University of Cape Town. Lerato is 5'7\" tall and hails from Durban, South Africa but is currently living in Los Angeles, California. She values her family, her career, and adventuring. In her free time, she enjoys coding, hiking, and listening to music. \n\nShe is straight, operates with the pronouns She/Her/Hers, and identifies as an INTJ on the Meyers-Briggs personality type chart. She enjoys an active lifestyle and occasionally drinks alcohol but does not smoke or use marijuana. She doesn't have children, but wants to have in the future.\n\nLerato is seeking a long-term, monogamous relationship and her partner preferences include a straight man between 27 and 35. Her ideal partner is someone who shares her active lifestyle, wishes for similar life goals such as having children, and respects her boundaries related to drug use and smoking.",
+    "user_id": "79e215f0-c3be-4d20-9939-40d0fb57ae66"
+}

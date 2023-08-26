@@ -1,0 +1,53 @@
+{
+    "name": "Alex Garcia",
+    "age": 32,
+    "height": "6'0\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Chicago, Illinois",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Independence, Creativity, Social Justice",
+    "interests": "Cooking, Coding, Music",
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Gay",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Gay",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Alex Garcia is a 32-year-old software developer residing in Los Angeles, California. Originally from Chicago, Illinois, he is a graduate of the University of California, Los Angeles. Alex identifies as a Hispanic/Latino gay man who uses He/Him/His pronouns. He has a keen interest in cooking, coding, and music. Alex summons his salsa skills in the kitchen and loves creating software. He values independence, creativity, and social justice.\n\nAlex believes in monogamy and is in search of a long-term relationship. Even though he doesn't have children, he hopes to embrace parenthood in the future. He shares his home with a dog, lives an active lifestyle, and occasionally enjoys a drink. \n\nAlex is open to dating men between the ages of 28 to 35 who have a similar desire for future parenthood, lead an active lifestyle, enjoy a drink now and then, and who don't smoke or use drugs. As an open-minded Scorpio and INTJ type, Alex is looking for someone who respects his beliefs and enjoys the colorful spectrum of life as he does.",
+    "user_id": "bb05bdd8-6f8a-447b-bbb3-afeb5ca7c75e"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Benjamin Carter",
+    "age": 28,
+    "height": "5'10\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Boston, Massachusetts",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Creativity"
+    ],
+    "interests": [
+        "Music",
+        "Hiking",
+        "Cooking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Benjamin Carter is a 28-year-old man who stands 5'10\". Currently, he is working as a Software Engineer in the technology sector. He graduated from Stanford University and is now living in Los Angeles, California, originally from Boston, Massachusetts. Being bilingual, he can fluently converse in English and Spanish. He values honesty, kindness, and creativity and takes interest in music, hiking, cooking, and coding. Benjamin is an Agnostic and has liberal political beliefs. He's looking for a long-term relationship and prefers monogamy. He identifies as straight and uses the pronouns He/Him/His. Benjamin is of White Caucasian ethnicity, does not have children currently but would like to in the future. He owns a dog and is a non-smoker. He enjoys a drink sometimes, is active in exercise, does not use marijuana or other drugs and is a Gemini, with an INTJ personality type according to the Myers-Briggs Type Indicator. His ideal partner would be a straight woman aged between 24 and 30, preferably non-smoker, active, enjoys a drink occasionally and who does not have but wants children in the future.",
+    "user_id": "326e9e8a-e897-4f41-b277-044eaf473600"
+}
