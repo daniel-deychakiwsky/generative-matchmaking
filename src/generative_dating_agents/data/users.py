@@ -1,3 +1,5 @@
+import base64
+from openai import Image
 import json
 import os
 import random
@@ -34,7 +36,8 @@ def generate_profiles(
     ]
     function_call: Dict[str, str] = {"name": function_name}
 
-    output_filepath: str = os.path.join(os.getcwd(), f"{output_filename}.jsonl")
+    output_filepath: str = os.path.join(
+        os.getcwd(), f"{output_filename}.jsonl")
 
     def gen() -> JsonType:
         stochastic_gen_names_prompt = gen_names_prompt
@@ -85,7 +88,8 @@ def generate_profiles(
 
         user_profile_json: JsonType = json.loads(user_dating_profile_json_str)
 
-        conversation.add_assistant_message(message=user_dating_profile_json_str)
+        conversation.add_assistant_message(
+            message=user_dating_profile_json_str)
         conversation.add_user_message(message=sum_dating_prompt)
 
         messages_instruct_summarize_dating_profile: List[
@@ -115,3 +119,60 @@ def generate_profiles(
     user_profiles: List[JsonType] = parallel_gen()
 
     write_jsonl_file(json_array=user_profiles, output_filepath=output_filepath)
+
+
+def generate_profile_photo_prompt(profile):
+    # Extract relevant physical, style, and personality details
+    name = profile["name"]
+    age = profile["age"]
+    height = profile["height"]
+    gender = profile["gender"]
+    pronouns = profile["pronouns"]
+    ethnicity = profile["ethnicity"]
+    job_industry = profile["job_industry"]
+    exercise = profile["exercise"]
+    interests = ", ".join(profile["interests"][:2])
+    religious_beliefs = profile["religious_beliefs"]
+    # Taking first two values due to length constraints
+    values = ", ".join(profile["values"][:2])
+    drinking = profile["drinking"]
+    smoking = profile["smoking"]
+    zodiac_sign = profile["zodiac_sign"]
+    mbti_personality_type = profile["mbti_personality_type"]
+
+    # Construct the enriched prompt
+    prompt = (
+        f"Generate a portrait photo of this human for a dating profile."
+        f"{name}, {age}-year-old {gender} ({pronouns}) of {ethnicity} descent and {height} height. "
+        f"An {job_industry} professional with an {exercise} physique, valuing {values}. Enjoys {interests}. "
+        f"Identifies with {religious_beliefs}, {zodiac_sign}, {mbti_personality_type}. Drinks {drinking}, smokes {smoking}. "
+    )
+
+    # Ensure the length is not exceeding 400 characters
+    if len(prompt) > 400:
+        prompt = prompt[:397] + "..."
+
+    return prompt
+
+
+def generate_profile_images() -> None:
+    # Open and read the user_profiles.jsonl file
+    with open('user_profiles.jsonl', 'r') as file:
+        for line in file:
+            profile = json.loads(line)
+            prompt = generate_profile_photo_prompt(profile)
+            response = Image.create(
+                prompt=prompt,
+                response_format="b64_json",
+                n=1,
+                size="256x256",
+            )
+
+            img_data = response["data"][0]["b64_json"]
+            image_path = f"./images/{profile['user_id']}.png"
+            # save the base 64 image as a png
+            with open(image_path, "wb") as fh:
+                fh.write(base64.decodebytes(img_data.encode('utf-8')))
+
+            # circuit breaker safety for API cost, comment when ready
+            break
