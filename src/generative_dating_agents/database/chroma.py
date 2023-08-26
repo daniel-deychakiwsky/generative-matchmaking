@@ -15,8 +15,8 @@ from chromadb.api.models.Collection import (
 from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
-from ..data.types import JsonType
-from ..utils.io import read_json
+from ..data.schemas import UserProfile
+from ..utils.io import read_user_profile_from_json
 
 
 class ChromaVectorDatabaseClient:
@@ -75,14 +75,16 @@ def load_collection(
     input_directory: str, input_file_name: str, collection_name: str, distance: str
 ) -> None:
     input_directory_path: str = os.path.join(os.getcwd(), input_directory)
-    user_profiles: List[JsonType] = [
-        read_json(file_path=os.path.join(input_directory_path, d, input_file_name))
+    user_profiles: List[UserProfile] = [
+        read_user_profile_from_json(
+            file_path=os.path.join(input_directory_path, d, input_file_name)
+        )
         for d in os.listdir(input_directory_path)
         if os.path.isdir(os.path.join(input_directory_path, d))
     ]
 
-    user_ids: List[str] = [str(p["user_id"]) for p in user_profiles]
-    user_profile_summaries: List[str] = [str(p["summary"]) for p in user_profiles]
+    user_ids: List[str] = [p.user_id for p in user_profiles]
+    user_profile_summaries: List[str] = [p.summary for p in user_profiles]
 
     vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
     vdb.create_collection(name=collection_name, distance=distance)

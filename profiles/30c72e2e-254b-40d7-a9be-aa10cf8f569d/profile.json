@@ -1,0 +1,63 @@
+{
+    "name": "Mohammed Radi",
+    "age": 34,
+    "height": "5'9\"",
+    "school": "University of Alexandria",
+    "job_industry": "Information Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Alexandria, Egypt",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Arabic",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Hard Work",
+        "Empathy",
+        "Adventure"
+    ],
+    "interests": [
+        "Traveling",
+        "Photography",
+        "Programming",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Mohammed Radi is a 34-year-old straight man from Alexandria, Egypt, currently residing in Los Angeles, California. Professionally, Mohammed is a Software Engineer in the tech industry and is an alumnus of the University of Alexandria. He speaks both Arabic and English. Mohammed holds family, hard work, empathy, and adventure in high regard when it comes to personal values.\n\nHis interests range from traveling and photography to programming and cooking. As a practicing Muslim, he moderates his political views. Mohammed is single, with no children, but he desires to start a family in the future. He owns a cat and is an active man who likes to stay fit. Scorpio is his zodiac sign and he is an INTJ according to MBTI personality type. He doesn't drink, smoke, or use illegal drugs.\n \nHe is looking for a straight woman between 27 to 35 years old, who does not have children but wants them, leads an active lifestyle, doesn't drink, smoke, and does not use drugs.",
+    "user_id": "30c72e2e-254b-40d7-a9be-aa10cf8f569d"
+}

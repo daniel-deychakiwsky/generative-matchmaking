@@ -7,9 +7,9 @@ from typing import Collection, Dict, List
 from joblib import Parallel, delayed
 
 from ..llm.oai import Conversation, chat_completion
-from ..utils.io import write_json
-from .schemas import user_profile_function_schema
-from .types import JsonType
+from ..utils.io import write_user_profile_as_json
+from ..utils.types import JSON
+from .schemas import UserProfile, user_profile_function_schema
 
 
 def generate_profiles(
@@ -35,7 +35,7 @@ def generate_profiles(
     ]
     function_call: Dict[str, str] = {"name": function_name}
 
-    def gen() -> JsonType:
+    def gen() -> UserProfile:
         stochastic_gen_names_prompt = gen_names_prompt
         stochastic_gen_dating_prompt = gen_dating_prompt
 
@@ -82,7 +82,7 @@ def generate_profiles(
             function_call=function_call,
         )
 
-        user_profile_json: JsonType = json.loads(user_dating_profile_json_str)
+        user_profile_json: JSON = json.loads(user_dating_profile_json_str)
 
         conversation.add_assistant_message(message=user_dating_profile_json_str)
         conversation.add_user_message(message=sum_dating_prompt)
@@ -103,21 +103,24 @@ def generate_profiles(
         user_profile_json["summary"] = user_profile_summary
         user_profile_json["user_id"] = str(uuid.uuid4())
 
-        return user_profile_json
+        return UserProfile(**user_profile_json)  # type: ignore[arg-type]
 
-    def parallel_gen() -> List[JsonType]:
-        user_profiles_accum: List[JsonType] = Parallel(n_jobs=n_jobs)(
+    def parallel_gen() -> List[UserProfile]:
+        user_profiles_accum: List[UserProfile] = Parallel(n_jobs=n_jobs)(
             delayed(gen)() for _ in range(num_profiles)
         )
         return user_profiles_accum
 
-    user_profiles: List[JsonType] = parallel_gen()
+    user_profiles: List[UserProfile] = parallel_gen()
 
     for user_profile in user_profiles:
         output_file_path: str = os.path.join(
             os.getcwd(),
             output_directory,
-            str(user_profile["user_id"]),
+            user_profile.user_id,
             output_file_name,
         )
-        write_json(data=user_profile, file_path=output_file_path)
+
+        write_user_profile_as_json(
+            user_profile=user_profile, file_path=output_file_path
+        )
