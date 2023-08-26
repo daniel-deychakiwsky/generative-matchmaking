@@ -27,6 +27,12 @@ from .database.chroma import query_collection as _query_collection
     default="profile.json",
     help="Output user profile file name",
 )
+@click.option(
+    "--output-image-file-name",
+    type=str,
+    default="profile.png",
+    help="Output user profile file name",
+)
 @click.option("--n-jobs", type=int, default=2, help="OpenAI generation parallelism.")
 def generate_profiles(
     num_profiles: int,
@@ -35,6 +41,7 @@ def generate_profiles(
     temperature: float,
     output_directory: str,
     output_file_name: str,
+    output_image_file_name: str,
     n_jobs: int,
 ) -> None:
     click.echo("Generating user profiles")
@@ -45,6 +52,7 @@ def generate_profiles(
         temperature=temperature,
         output_directory=output_directory,
         output_file_name=output_file_name,
+        output_image_file_name=output_image_file_name,
         n_jobs=n_jobs,
     )
     click.echo("Successfully generated user profiles")
