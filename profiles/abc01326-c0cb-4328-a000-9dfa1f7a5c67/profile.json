@@ -1,0 +1,64 @@
+{
+    "name": "Nora Fitzgerald",
+    "age": 27,
+    "height": "5'7\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Fulfillment",
+        "Curiosity"
+    ],
+    "interests": [
+        "Cooking",
+        "Hiking",
+        "Reading",
+        "Dancing",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Nora Fitzgerald is a 27-year-old woman living in Los Angeles, California. She is educated, working as a Software Engineer in the tech industry after graduating from the University of California, Los Angeles. Nora speaks both English and Spanish. She values honesty, kindness, fulfillment, and curiosity.\n\nIn her free time, Nora enjoys cooking, hiking, reading, dancing, and photography. She identifies as agnostic and politically leans towards liberalism. Nora is currently interested in a long-term, monogamous relationship. \n\nNora is a straight, white Caucasian woman using she/her pronouns. She does not have kids, but she hopes to have children in the future. She has a pet dog. Nora's zodiac sign is Cancer and her MBTI personality type is INFJ. \n\nShe occasionally drinks, but she doesn't smoke or use marijuana or other drugs. She leads an active lifestyle. Her partner preferences include someone who is between 27 and 35 years old, above 5'7\" in height, without children but wanting them in the future, shares similar habits on drug use and physically active.",
+    "user_id": "abc01326-c0cb-4328-a000-9dfa1f7a5c67"
+}
