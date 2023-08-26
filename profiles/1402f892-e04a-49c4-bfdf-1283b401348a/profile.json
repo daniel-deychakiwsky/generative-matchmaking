@@ -1,0 +1,61 @@
+{
+    "name": "Jose Delgado",
+    "age": 28,
+    "height": "5'9\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Respect",
+        "Loyalty"
+    ],
+    "interests": [
+        "Surfing",
+        "Coding",
+        "Travelling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "The profile belongs to Jose Delgado, a 28-year-old straight man. He is 5'9\", Hispanic/Latino, and resides in Los Angeles, California. He is originally from Sacramento, California. As a software engineer in the technology industry, he is educated with a degree from the University of California, Los Angeles. He speaks both English and Spanish, highly values honesty, respect, and loyalty, and enjoys hobbies such as surfing, coding, and traveling. He identifies as a Catholic and a liberal. He is monogamous and is looking for a long-term relationship. He does not currently have children but wants some in the future. He has a dog, enjoys occasional drinking, but does not smoke or use any substances, including marijuana. He is active, hence exercises regularly and identifies as an INTP (Introverted, Intuitive, Thinking, Perceiving) in",
+    "user_id": "1402f892-e04a-49c4-bfdf-1283b401348a"
+}

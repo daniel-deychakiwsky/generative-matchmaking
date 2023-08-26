@@ -1,5 +1,5 @@
 import os
-from typing import Optional
+from typing import List, Optional
 
 import chromadb
 from chromadb.api.models.Collection import (
@@ -15,7 +15,8 @@ from chromadb.api.models.Collection import (
 from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
-from ..utils.io import read_jsonl_file
+from ..data.types import JsonType
+from ..utils.io import read_json
 
 
 class ChromaVectorDatabaseClient:
@@ -67,14 +68,21 @@ class ChromaVectorDatabaseClient:
         self,
         name: str,
     ) -> None:
-        self.client.get_collection(name=name).delete()
+        self.client.delete_collection(name=name)
 
 
-def load_collection(input_filename: str, collection_name: str, distance: str) -> None:
-    input_filepath: str = os.path.join(os.getcwd(), f"{input_filename}.jsonl")
-    user_profiles = read_jsonl_file(input_filepath=input_filepath)
-    user_ids = [p["user_id"] for p in user_profiles]
-    user_profile_summaries = [p["summary"] for p in user_profiles]
+def load_collection(
+    input_directory: str, input_file_name: str, collection_name: str, distance: str
+) -> None:
+    input_directory_path: str = os.path.join(os.getcwd(), input_directory)
+    user_profiles: List[JsonType] = [
+        read_json(file_path=os.path.join(input_directory_path, d, input_file_name))
+        for d in os.listdir(input_directory_path)
+        if os.path.isdir(os.path.join(input_directory_path, d))
+    ]
+
+    user_ids: List[str] = [str(p["user_id"]) for p in user_profiles]
+    user_profile_summaries: List[str] = [str(p["summary"]) for p in user_profiles]
 
     vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
     vdb.create_collection(name=collection_name, distance=distance)

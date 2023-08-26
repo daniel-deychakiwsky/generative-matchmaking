@@ -16,10 +16,16 @@ from .database.chroma import query_collection as _query_collection
     "--temperature", type=float, default=1.05, help="OpenAI model temperature."
 )
 @click.option(
-    "--output-filename",
+    "--output-directory",
     type=str,
-    default="user_profiles",
-    help="Output user profiles filename",
+    default="profiles",
+    help="Output user profile directory",
+)
+@click.option(
+    "--output-file-name",
+    type=str,
+    default="profile.json",
+    help="Output user profile file name",
 )
 @click.option("--n-jobs", type=int, default=2, help="OpenAI generation parallelism.")
 def generate_profiles(
@@ -27,7 +33,8 @@ def generate_profiles(
     model: str,
     max_tokens: int,
     temperature: float,
-    output_filename: str,
+    output_directory: str,
+    output_file_name: str,
     n_jobs: int,
 ) -> None:
     click.echo("Generating user profiles")
@@ -36,7 +43,8 @@ def generate_profiles(
         model=model,
         max_tokens=max_tokens,
         temperature=temperature,
-        output_filename=output_filename,
+        output_directory=output_directory,
+        output_file_name=output_file_name,
         n_jobs=n_jobs,
     )
     click.echo("Successfully generated user profiles")
@@ -44,10 +52,16 @@ def generate_profiles(
 
 @click.command()
 @click.option(
-    "--input-filename",
+    "--input-directory",
     type=str,
-    default="user_profiles",
-    help="Output user profiles filename",
+    default="profiles",
+    help="Input user profiles directory",
+)
+@click.option(
+    "--input-file-name",
+    type=str,
+    default="profile.json",
+    help="Input user profiles file name",
 )
 @click.option(
     "--collection-name",
@@ -61,10 +75,13 @@ def generate_profiles(
     default="cosine",
     help="Chroma collection distance function.",
 )
-def load_collection(input_filename: str, collection_name: str, distance: str) -> None:
+def load_collection(
+    input_directory: str, input_file_name: str, collection_name: str, distance: str
+) -> None:
     click.echo("Loading database collection")
     _load_collection(
-        input_filename=input_filename,
+        input_directory=input_directory,
+        input_file_name=input_file_name,
         collection_name=collection_name,
         distance=distance,
     )

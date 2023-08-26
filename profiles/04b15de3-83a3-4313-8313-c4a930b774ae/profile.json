@@ -1,0 +1,61 @@
+{
+    "name": "Jason Carrington",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Compassion",
+        "Honesty",
+        "Ambition"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "ISTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Jason Carrington is a 32-year old straight man from San Francisco, California, who is currently living in Los Angeles. He is a successful software engineer in the technology industry and a Stanford University graduate. Fluent in English and Spanish, Jason values compassion, honesty, and ambition. He enjoys traveling, cooking, and reading in his spare time. \n\nOn a personal level, he identifies as Agnostic and politically moderate. Although he doesn't have any children, he hopes to become a father in the future. Jason is a cat owner who hardly drinks and doesn't smoke or use any sort of drugs. \n\nAs an active, health-conscious individual, he is looking for a long-term, monogamous relationship with a straight woman aged between 26 and 35 who shares similar lifestyle habits and values. This includes a preference for someone who doesn't smoke, has no children but wants them in the future, and enjoys an active lifestyle.",
+    "user_id": "04b15de3-83a3-4313-8313-c4a930b774ae"
+}

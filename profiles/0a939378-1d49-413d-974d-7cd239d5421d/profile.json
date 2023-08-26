@@ -1,0 +1,61 @@
+{
+    "name": "Alexander Patel",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Integrity",
+        "Empathy",
+        "Passion"
+    ],
+    "interests": [
+        "Traveling",
+        "Reading",
+        "Cycling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Alexander Patel is a 32-year-old man, standing 6'1\" tall, and a straight South Asian individual who prefers the pronouns He/Him/His. He is a software engineer in the technology industry, and a graduate of Stanford University. Originally from Austin, Texas, he currently lives in Los Angeles, California. \n\nAlexander speaks both English and Hindi, identifies as a Hindu, and leans liberal in his political views. He embodies values such as integrity, empathy, and passion. In his spare time, he enjoys traveling, reading, and cycling. His Zodiac sign is Gemini and he boasts an INTJ personality type. \n\nAlexander does not currently have any children but hopes to in the future. He owns a dog and lives an active lifestyle, drinking only sometimes and abstaining from smoking and drugs. \n\nHe is seeking a straight woman between the ages of 26 and 35, who leads an active lifestyle, doesn't smoke, and drinks sometimes. His ideal partner should not have children but should be open to having them in the future.\n",
+    "user_id": "0a939378-1d49-413d-974d-7cd239d5421d"
+}

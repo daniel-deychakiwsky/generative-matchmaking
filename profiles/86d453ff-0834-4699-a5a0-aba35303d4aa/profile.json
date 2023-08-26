@@ -1,0 +1,53 @@
+{
+    "name": "Dana Rodriguez",
+    "age": 34,
+    "height": "5'4\"",
+    "school": "Stanford University",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Santa Fe, New Mexico",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Honesty, Humor, Ambition",
+    "interests": "Travel, Coding, Photography, Yoga",
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Dana Rodriguez is a 34-year-old software engineer in the tech industry who currently lives in Los Angeles, California. Originally from Santa Fe, New Mexico, she studied at Stanford University. Dana is bilingual, speaking both English and Spanish. Dana's values are honesty, humor, and ambition, and she is keen on photography, yoga, and travel. She identifies as a woman, uses she/her/hers pronouns and is straight. Although she currently doesn't have children, she hopes to in the future. Dana has a pet dog and is a Taurus and ENTP. She occasionally indulges in a drink but is a non-smoker and doesn't use marijuana or other drugs. Dana leads an active lifestyle and is interested in a long-term monogamous relationship. Her ideal partner would be a straight man between 30 and 40, having a height between 5'7\" and 6'2\", who shares similar lifestyle habits and wants children in the future.",
+    "user_id": "86d453ff-0834-4699-a5a0-aba35303d4aa"
+}

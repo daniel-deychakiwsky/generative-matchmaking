@@ -1,0 +1,63 @@
+{
+    "name": "Nathan Crawford",
+    "age": 30,
+    "height": "6'1\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Integrity",
+        "Ambition"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Traveling",
+        "Cooking"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Nathan Crawford is a 30-year-old software developer based in Los Angeles, California. He's a graduate from the University of California, Berkeley. Originally from Seattle, Washington, Nathan is bilingual and speaks both English and Spanish. In his free time, he enjoys hiking, reading, traveling and cooking. \n\nNathan values honesty, loyalty, integrity, and ambition. His political views are moderate and he is an atheist. He is interested in long-term relationships, practicing monogamy. Identifying as a straight man, he uses he/his/him pronouns, and is white caucasian.\n\nNathan doesn't have children, but he is open to having them in the future. He has a dog and is an active individual when it comes to fitness. Although he sometimes drinks, he doesn't smoke or partake in drug use. He is a Leo and an ENTJ according to the Myers-Briggs Indicator. \n\nRegarding partner preference, Nathan is interested in straight women aged between 25 and 35, who lead an active lifestyle. Like him, he prefers someone who doesn't smoke, uses drugs, or consumes marijuana. He also wishes his potential partner to be open to having children in the future.",
+    "user_id": "5c37b6f7-ff0b-43c2-9329-d609a1545ad7"
+}

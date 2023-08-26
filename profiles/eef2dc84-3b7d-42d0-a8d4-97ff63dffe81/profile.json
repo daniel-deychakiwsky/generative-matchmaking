@@ -1,0 +1,63 @@
+{
+    "name": "Eduardo Martinez",
+    "age": 34,
+    "height": "5'9\"",
+    "school": "Stanford University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Honesty",
+        "Education",
+        "Diversity"
+    ],
+    "interests": [
+        "Photography",
+        "Travel",
+        "Cooking",
+        "Tech"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 36,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Eduardo Martinez is a 34-year-old software engineer based in Los Angeles, California. He originally hails from Austin, Texas and is an alumnus of Stanford University. Eduardo can fluently converse in English and Spanish. He is a man of values, emphasizing family, honesty, education, and diversity. \n\nEduardo has an active interest in photography, travel, cooking, and technology. A liberal in terms of politics, he identifies himself as an agnostic. He is in search of a long-term monogamous relationship. \n\nEduardo, a Pisces, identifies as a straight Hispanic/Latino man using 'He/Him/His' pronouns. He doesn't have children but hopes to in the future. He enjoys the company of his dog at home. \n\nEduardo is a non-smoker and does not use recreational drugs but does enjoy alcohol occasionally. Pursuing a healthy lifestyle, he exercises regularly. \n\nHe seeks a woman aged between 28 to 36 who leads an active lifestyle, doesn't smoke, and is open to having children. His potential partner may drink, but he prefers someone who also refrains from recreational drug use.",
+    "user_id": "eef2dc84-3b7d-42d0-a8d4-97ff63dffe81"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Charles Johnson",
+    "age": 33,
+    "height": "6'2\"",
+    "school": "University of California",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Charlotte, North Carolina",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Career progression",
+        "Spirituality"
+    ],
+    "interests": [
+        "Movies",
+        "Outdoor activities",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Conservative",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "At least Sometimes"
+    },
+    "summary": "Charles Johnson is a 33-year-old straight man of Black African descent who currently resides in Los Angeles, California. He is a 6'2\" Software Engineer in the tech industry and a graduate of the University of California. Born and raised in Charlotte, North Carolina, he speaks English and Spanish and identifies as Christian and politically conservative. He values family, career progression, and spirituality. His interests include movies, outdoor activities, and cooking. He doesn't have children but wants them in the future and enjoys the company of his dog. He is a Cancer zodiac sign with an INTJ personality type. He is looking for a long-term monogamous relationship. He drinks occasionally but is a non-smoker and against drug usage. Charles leads an active lifestyle and his partner preferences are a straight woman aged between 27 and 35 who has no children but wants them, drinks occasionally, doesn't smoke, is against drug usage, and exercises at least occasionally.",
+    "user_id": "4e6cfe35-235c-4034-9a9c-ceab7005ed0b"
+}

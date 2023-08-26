@@ -1,0 +1,61 @@
+{
+    "name": "Naomi Johnson",
+    "age": 32,
+    "height": "5'6\"",
+    "school": "University of California, San Diego",
+    "job_industry": "Healthcare",
+    "job_title": "Pediatric Nurse",
+    "hometown_location": "New York, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Kindness",
+        "Hard Work"
+    ],
+    "interests": [
+        "Photography",
+        "Traveling",
+        "Volunteering"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'1\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Naomi Johnson is a 32-year-old Pediatric Nurse originally from New York, now residing in Los Angeles, California. She is a graduate from the University of California, San Diego and is fluent in both English and Spanish. With core values rooted in Family, Kindness, and Hard Work, Naomi sees herself engaged in long-term, monogamous dating intentions. She identifies as a straight woman of Black African descent, uses she/her/hers pronouns and doesn't have children but wishes to have some in the future. Her interests range from Photography, Traveling to Volunteering. Naomi's matchups must fall between the age of 30-40 and preferably non-smokers. Her preference extends to men who exercise regularly and share her desire of eventually wanting children. As a Christian and Moderate politically, she owns a dog, is an occasional drinker, doesn't smoke, and doesn't engage with drugs or marijuana. She belongs to Scorpio zodiac and identifies as ENFJ as per MBTI personality type.",
+    "user_id": "718ecf88-343c-42a4-a8b0-cdb30db7a381"
+}

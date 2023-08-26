@@ -1,0 +1,65 @@
+{
+    "name": "Sophia Baxter",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Independence",
+        "Creativity",
+        "Kindness",
+        "Ambition"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Coding",
+        "Traveling",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "Sometimes",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "Sometimes",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Sophia Baxter is a 29 year old woman living in Los Angeles, California. She is a graduate of the University of California, Berkeley and works as a Software Engineer in the tech industry. Originally from San Francisco, she is fluent in English and Spanish. Sophia values honesty, independence, creativity, kindness, and ambition. In her spare time, she enjoys reading, hiking, coding, traveling, and cooking. \n\nIn terms of her personal beliefs, Sophia is Agnostic and politically leans liberal. Her intention in the dating scene is to find a long-term, monogamous relationship. Although she currently does not have children, she does want them in the future. She also has a cat. \n\nShe is a Cancer by zodiac sign and her Myers-Briggs personality type is INTP. She drinks alcohol occasionally, uses marijuana sometimes, but does not smoke or use other drugs. Sophia is active and enjoys regular exercise. \n\nSophia prefers a partner between the ages of 28 and 35, whose height is between 5'8\" and 6'2\". She prefers a partner who does not yet have children but wants them in the future. Ideally, her partner would also enjoy alcohol occasionally, use marijuana sometimes, but does not smoke or use drugs. They should also value regular exercise.",
+    "user_id": "ccaa9fdd-698e-41d5-8a88-6762a010d2ff"
+}

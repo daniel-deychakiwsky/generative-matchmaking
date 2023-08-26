@@ -1,0 +1,61 @@
+{
+    "name": "Rajan Singh",
+    "age": 35,
+    "height": "5'10\"",
+    "school": "University of Delhi",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Delhi, India",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Family",
+        "Adventure",
+        "Respect"
+    ],
+    "interests": [
+        "Cooking",
+        "Hiking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Sikh",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 36,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Rajan Singh, a 35-year-old software engineer in the tech industry, is seeking a long-term relationship. He values family, adventure, and respect. He enjoys cooking, hiking, and coding in his spare time. He hails from Delhi, India, but is currently living in Los Angeles, California. His spoken languages are English and Hindi. He is a Sikh and identifies politically as liberal. Rajan is open to monogamy and wants children in the future. His pronouns are he/him/his and he identifies as straight. He is a proud dog owner, an active Capricorn and identifies as INTJ in Myers-Briggs personality types. \n\nRajan's partner preferences include a straight female between the ages of 26 to 36 who values an active lifestyle. She should not already have children, but wants them in the future, and preferable to have a healthy lifestyle in regards to drinking, smoking, marijuana, and other drugs.",
+    "user_id": "9b8e031c-372e-4841-b268-aef4e47aef32"
+}

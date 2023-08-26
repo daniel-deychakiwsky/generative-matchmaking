@@ -1,0 +1,63 @@
+{
+    "name": "Hikaru Sato",
+    "age": 30,
+    "height": "5'7\"",
+    "school": "Tokyo University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Tokyo, Japan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Japanese"
+    ],
+    "values": [
+        "Integrity",
+        "Hard Work",
+        "Creativity",
+        "Friendship"
+    ],
+    "interests": [
+        "Coding",
+        "Animation",
+        "Cooking",
+        "Nature"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'8\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Hikaru Sato is a 30-year-old man from Tokyo, Japan. He's currently based in Los Angeles, California, and works as a Software Engineer in the technology sector. Fluent in both English and Japanese, he values integrity, hard work, creativity, and friendship. With interests in coding, animation, cooking, and nature, Hikaru is a well-rounded and diverse individual.\n\nHe's an atheist and stands with moderate political views, and he's ready for a long-term, monogamous relationship. He identifies as straight, doesn't have any children, but wishes to have some in the future. He doesn't own any pets and has a Scorpio star sign. As an INTJ (Introverted, Intuitive, Thinking, and Judging) personality type, Hikaru enjoys deep thinking and values efficiency.\n\nIn terms of lifestyle, Hikaru drinks occasionally and doesn't smoke or use marijuana or drugs. He is active and maintains an exercise routine. \n\nHe is looking for a straight female partner, aged between 24-35, who doesn't have children yet but wants some in the future. His potential partner leads an active lifestyle, drinks occasionally, and doesn't smoke or use drugs or marijuana.",
+    "user_id": "a7e0dd34-a93c-408f-96d6-4a82ced2a7a6"
+}

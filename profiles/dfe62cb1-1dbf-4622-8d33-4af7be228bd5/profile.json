@@ -1,0 +1,53 @@
+{
+    "name": "Alex Kim",
+    "age": 30,
+    "height": "5'11\"",
+    "school": "University of Southern California",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Jose, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Korean"
+    ],
+    "values": "Openness, Curiosity, Diversity, Inclusion",
+    "interests": "Reading, Traveling, Food-Tasting, Coding",
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Gay",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Gay",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Alex Kim is a 30-year-old man, living in Los Angeles, California. Originally from San Jose, he works in the technology sector as a Software Developer and holds a graduate degree from the University of Southern California. An Agnostic and a Liberal, Alex speaks English and Korean. His hobbies include reading, traveling, and food tasting. He is an openly gay individual who identifies himself with 'He/Him/His' pronouns. He\u2019s diverse and inclusive with values centered on openness and curiosity. His relationship preference is monogamous, looking for a life partner who is between 27 to 35 years of age. Alex doesn't have children but is open to having some in the future. He maintains an active lifestyle with an interest in having a dog. He is a Leo and an INTP, who occasionally likes to drink but doesn't smoke or do drugs.",
+    "user_id": "dfe62cb1-1dbf-4622-8d33-4af7be228bd5"
+}

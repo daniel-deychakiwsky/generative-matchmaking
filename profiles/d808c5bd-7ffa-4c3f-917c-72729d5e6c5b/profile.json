@@ -1,0 +1,53 @@
+{
+    "name": "Alex Johnson",
+    "age": 34,
+    "height": "6'1\"",
+    "school": "University of Texas at Austin",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Houston, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Honesty, kindness, and respect for all people and environments.",
+    "interests": "Tech gadgets, yoga, hiking and photography",
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Non binary",
+    "pronouns": "They/Them/Their",
+    "sexuality": "Other",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 40,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Other",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Alex Johnson is a 34-year-old non-binary software developer from Houston, Texas, currently living in Los Angeles, California. Fluent in English and Spanish, they value honesty, kindness, and respect. Their interests include tech gadgets, yoga, hiking, and photography. A graduate of the University of Technology at Austin, Alex identifies as agnostic and leans towards liberal politics. They are interested in long-term, monogamous relationships and though they don't currently have children, they intend to have some in the future. Alex doesn\u2019t smoke or use drugs, but does enjoy a drink occasionally and maintain an active lifestyle. They are a dog owner, a Libra, and an ENTP personality type. In their partner, they are looking for someone aged between 28 and 40, who is at least 5'5\" tall, doesn't have children but would like to in the future, and leads an active lifestyle. They prefer hangouts with no smoking or drug use, but are okay with their partner drinking.",
+    "user_id": "d808c5bd-7ffa-4c3f-917c-72729d5e6c5b"
+}

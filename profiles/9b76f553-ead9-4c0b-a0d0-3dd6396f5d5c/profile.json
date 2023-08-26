@@ -1,0 +1,62 @@
+{
+    "name": "Oliver Kemp",
+    "age": 33,
+    "height": "6'1\"",
+    "school": "New York University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Rochester, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Intellectuality",
+        "Compassion",
+        "Honesty"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "None"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "5'9\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Oliver Kemp is a 33-year-old Straight Man who works as a Software Engineer in the Technology Industry. He is a graduate of New York University and currently resides in Los Angeles, California. Originally from Rochester, New York, Oliver speaks fluent English and Spanish. Standing tall at 6'1\", he identifies as a White Caucasian Gemini with an ENTJ personality type.\n\nOliver believes in Intellectuality, Compassion, and Honesty and enjoys Hiking, Coding, and Photography as hobbies. He identifies as an Agnostic and holds Liberal political views. A non-smoker and occasional drinker, Oliver is an active person and doesn't use drugs or marijuana.\n\nAs for his relationship values, Oliver is interested in Monogamy and is looking to date for the Long-term. He doesn't have any children yet but would like to have kids in the future. He is comfortable with dogs but currently doesn't have any pets.\n\nWhen it comes to partner preferences, Oliver is hoping to meet a straight woman between the ages of 27 and 35. His ideal partner would share his active lifestyle, non-smoking habits, and interest in having children. He is okay with occasional drinking but prefers someone not involved with drugs or marijuana.",
+    "user_id": "9b76f553-ead9-4c0b-a0d0-3dd6396f5d5c"
+}

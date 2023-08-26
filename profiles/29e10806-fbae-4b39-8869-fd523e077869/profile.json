@@ -1,0 +1,53 @@
+{
+    "name": "Jordan Sullivan",
+    "age": 35,
+    "height": "5'8\"",
+    "school": "Harvard University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "New York, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Equality, Family, Ambition",
+    "interests": "Coding, Music, Hiking, Cooking",
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Non binary",
+    "pronouns": "They/Them/Their",
+    "sexuality": "Other",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Other",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Jordan Sullivan is a 35-year-old non-binary software engineer located in Los Angeles, California. Originally from New York City, they graduated from Harvard University and currently work in the technology sector. They identify themselves as agnostic and politically liberal. \n\nJordan is deeply invested in core values of equality, family, and ambition. They have a range of interests that include coding, music, hiking, and cooking. They are fluent in English and Spanish. \n\nAs per their lifestyle habits, Jordan is an active individual who exercises regularly. They drink occasionally and opt to keep away from smoking and drugs. They have a dog and wish to have children in future despite not having any currently. As an Aquarius and an ENFJ, Jordan hopes for long-term, monogamous relationships and shows an openness to dating someone who is also active, doesn't smoke, and is potentially interested in having children.",
+    "user_id": "29e10806-fbae-4b39-8869-fd523e077869"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Penelope Brooks",
+    "age": 34,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Integrity",
+        "Hard Work",
+        "Compassion"
+    ],
+    "interests": [
+        "Data Science",
+        "Yoga",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Penelope Brooks is a 34-year-old woman who identifies as straight. Standing at 5'6\", she is a software engineer in the tech industry. She currently lives in Los Angeles but grew up in San Francisco, California. She obtained her graduate degree from the University of California, Berkeley. She firmly believes in the values of integrity, hard work, and compassion. Her interests include data science, yoga, and travel. Although an atheist and liberal at heart, she tends to openly show respect for others' belief systems. \n\nShe has no children but hopes to start a family one day. She owns a dog and exercises regularly to keep active. She doesn't smoke, doesn't use marijuana, or any other drugs but does consume alcohol occasionally. Being a keen follower of astrology, she belongs to the Gemini zodiac sign. Her Myers-Briggs personality type is ENFP which assigns her as an extroverted, intuitive, feeling, and perceiving individual. \n\nWhen it comes to her ideal partner, Penelope seeks a straight man who is between the ages of 30 and 40. A height between 5'9\" and 6'2, a non-smoker, and someone leading an active lifestyle appeals to her. She is also interested in someone who is willing to have children someday but does not have any at present. Being a moderate drinker himself is acceptable but she draws the line at use of marijuana or other drugs. She envisions a monogamous, long-term relationship with her partner.",
+    "user_id": "bcd550a3-f4d7-4e1c-b9dd-e9f017feb450"
+}

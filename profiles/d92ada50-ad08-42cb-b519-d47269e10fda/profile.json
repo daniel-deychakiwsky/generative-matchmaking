@@ -1,0 +1,53 @@
+{
+    "name": "Ava Martinez",
+    "age": 32,
+    "height": "5'7\"",
+    "school": "University of Southern California",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Family, Career, Health, Education",
+    "interests": "Cooking, Coding, Photography, Traveling",
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Ava Martinez is a 32-year-old woman who identifies as straight and uses she/her pronouns. She is an accomplished software engineer in the technology sector, based in Los Angeles, California. A graduate from the University of Southern California, Ava values family, career, health, education and is fluent in English and Spanish. In her leisure time, she enjoys cooking, coding, photography, and traveling.\n\nReligiously, Ava identifies as agnostic and holds liberal political views. She is interested in long-term, monogamous relationships, and while she doesn't currently have any children, she would like to in the future. She\u2019s a devoted dog owner and a fitness enthusiast. She prefers non-smokers and is personally not a recreational drug user, although she drinks occasionally.\n\nAva is interested in straight men between the ages of 30 and 40, who doesn\u2019t have children but wants them in future. She appreciates partners who are active, exercise regularly, and shares her view on drinking, smoking, and drug use.\n",
+    "user_id": "d92ada50-ad08-42cb-b519-d47269e10fda"
+}

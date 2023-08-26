@@ -1,0 +1,61 @@
+{
+    "name": "Adrian Howard",
+    "age": 35,
+    "height": "6'1\"",
+    "school": "University of Southern California",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Fitness"
+    ],
+    "interests": [
+        "Running",
+        "Reading",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": true,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 40,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": true,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Adrian Howard is a 35-year-old software engineer residing in Los Angeles, California. He graduated from the University of Southern California and originally hails from Austin, Texas. Adrian speaks both English and Spanish. As someone who values hard work, family, and fitness, he has a keen interest in running, reading, and coding. Although he identifies as an agnostic and leans towards liberal politics, Adrian is serious about finding a long-term relationship and is a staunch believer in monogamy. As a straight man of Black African descent, he is a proud father who also desires more children in the future. He's a dog owner and a Gemini who identifies as an INTJ personality type. Adrian is a drinker but doesn't partake in smoking or usage of marijuana or other drugs. He is active and exercises regularly. Adrian prefers a straight woman who is between 28-40 years old, stands 5'4\" to 6'0\" in height, shares his enthusiasm for parenthood, drinks socially but refrains from smoking or drug use, and maintains an active lifestyle.",
+    "user_id": "afc5c205-c898-4216-8be0-d14a2e0f4ed4"
+}

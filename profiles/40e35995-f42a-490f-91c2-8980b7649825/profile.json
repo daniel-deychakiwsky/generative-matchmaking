@@ -1,0 +1,63 @@
+{
+    "name": "Charlotte Griffin",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "Columbia University",
+    "job_industry": "Healthcare",
+    "job_title": "Registered Nurse",
+    "hometown_location": "Syracuse, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Compassion",
+        "Creativity",
+        "Family importance",
+        "Spirituality"
+    ],
+    "interests": [
+        "Art Museums",
+        "Running and Fitness",
+        "Photography",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Charlotte Griffin is a 28-year-old, compassionate, and creative Registered Nurse based in Los Angeles, California. Originally from Syracuse, New York, she's a Graduate from Columbia University and values her family, spirituality, creativity, and compassion. \n\nShe is fluent in English and Spanish and enjoys visiting art museums, fitness, photography, and traveling. Charlotte identifies as a Christian, is politically liberal, interested in a long-term relationship, and practices monogamy. \n\nShe is a woman, uses she/her pronouns, identifies as straight, and is of White Caucasian ethnicity. She currently doesn't have children but wishes to have some in the future. She is a dog lover and enjoys staying active. \n\nCharlotte's ideal partner would be a straight man aged between 28 and 35 who shares her interests, is active, does not smoke and is open to the idea of having children. Drinking is acceptable on occasion.",
+    "user_id": "40e35995-f42a-490f-91c2-8980b7649825"
+}

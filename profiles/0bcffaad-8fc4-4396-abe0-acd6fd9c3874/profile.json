@@ -1,0 +1,63 @@
+{
+    "name": "Elias Richards",
+    "age": 31,
+    "height": "6'1\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "values": [
+        "Hard work",
+        "Honesty",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Music",
+        "Traveling",
+        "Fitness"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Elias Richards is a 31-year-old man living in Los Angeles, California. He is a Software Engineer in the Technology industry and holds a degree from the University of California, Los Angeles. Elias speaks three languages including English, Spanish and French and highly values hard work, honesty, and creativity. His interests are coding, music, traveling and staying fit. He does not currently have children but is open to the idea in the future. Elias is seeking a life partner who matches his active lifestyle. He prefers to date a woman aged between 25 and 35, is at least 5'4\" tall, does not smoke, and leads an active life.",
+    "user_id": "0bcffaad-8fc4-4396-abe0-acd6fd9c3874"
+}

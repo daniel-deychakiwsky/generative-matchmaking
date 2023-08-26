@@ -1,0 +1,61 @@
+{
+    "name": "Isabella Hampton",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Stanford University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Health"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Isabella Hampton is a 28-year-old software engineer who values family, her career, and health. She graduated from Stanford University and is currently working in the tech industry in Los Angeles, having been originally from Seattle, Washington. She's an avid reader who enjoys hiking and photography in her spare time. Isabella identifies as an agnostic and has liberal political views. She is interested in long-term dating and believes in a monogamous relationship. She doesn't have children but wants some in the future. Isabella is a straight Aquarius and an INTJ personality type. Her drinking habit is moderate, she is a non-smoker, and doesn't consume drugs or marijuana. She highly values physical fitness and has an active workout regimen.\n\nIsabella's ideal partner would be a man aged between 28 to 35 years who values physical fitness, doesn't have children but wants kids in the future, is a moderate drinker, and a non-smoker.",
+    "user_id": "32816bd1-1d67-4c41-90bd-ef0bdb2ba80d"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Claire Mitchell",
+    "age": 27,
+    "height": "5'7\"",
+    "school": "University of Southern California",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Integrity",
+        "Empathy",
+        "Equality"
+    ],
+    "interests": [
+        "Technology",
+        "Nature",
+        "Hiking",
+        "Vegan Cooking",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Claire Mitchell is a 27-year-old Software Engineer working in the tech industry and living in Los Angeles, California. She's originally from Seattle, Washington. She speaks English and Spanish and values integrity, empathy, and equality. \n\nClaire has a keen interest in technology, nature, hiking, vegan cooking, and reading. She holds a graduate degree from the University of Southern California and identifies as agnostic. Politically, she is moderate. \n\nShe is interested in a long-term, monogamous relationship and uses she/her pronouns. Claire identifies as straight, is white Caucasian, and she doesn't have children but is open to having them in the future. Claire owns a cat and is a Gemini with an INFJ personality type as per the MBTI. \n\nShe indulges in drinking sometimes but does not smoke or use marijuana and drugs. Her exercise regimen is active. \n\nClaire is seeking a straight male partner aged between 26 and 35 years. She prefers her partner to be a non-smoker, sporadic drinker, and someone who doesn't use marijuana or drugs. They should exercise regularly, be childless but open to having children in the future. Her preferred height range for her partner is between 5'8\" and 6'2\".\n",
+    "user_id": "b4ce4c6c-1dee-402c-90f5-27581b403ba0"
+}

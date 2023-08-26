@@ -1,0 +1,61 @@
+{
+    "name": "Mei Chen",
+    "age": 28,
+    "height": "5'4\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Shanghai, China",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Honesty",
+        "Career Success",
+        "Fitness"
+    ],
+    "interests": [
+        "Cooking",
+        "Traveling",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Mei Chen is a 28-year-old software engineer, straight woman from Los Angeles, California who originally hails from Shanghai, China. She's educated with a graduate degree from the University of California, Los Angeles. Her religious beliefs are Buddhist and politically she identifies as moderate. She's an INTP with a Leo zodiac sign. Mei places high value on honesty, career success, and fitness. Her interests include cooking, hiking, and traveling. She speaks both English and Mandarin.\n\nIn terms of lifestyle, she's sometimes enjoys a drink but doesn't smoke, use marijuana, or drugs, and stays active with exercise. Mei doesn't have children but she does want to in the future. She's interested in a long-term monogamous relationship. \n\nHer preferred partner should be a straight man, between the ages of 28 and 35, who matches her lifestyle habits. He should also want children in the future.",
+    "user_id": "67ffabf2-516e-416f-99e2-9a954b58348e"
+}

@@ -77,3 +77,4 @@ venv.bak/
 
 # IDEs
 .idea/
+.DS_Store

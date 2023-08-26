@@ -1,0 +1,61 @@
+{
+    "name": "Muhammad Aaliyah",
+    "age": 30,
+    "height": "5'8\"",
+    "school": "London School of Economics",
+    "job_industry": "Financial Services",
+    "job_title": "Investment Banker",
+    "hometown_location": "London, United Kingdom",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Arabic"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Generosity"
+    ],
+    "interests": [
+        "Travelling",
+        "Reading",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Muhammad Aaliyah is a 30-year-old Investment Banker of Middle Eastern ethnicity, currently living in Los Angeles, California. Originally from London, UK, he is 5'8\" tall, is a graduate of the London School of Economics and speaks English and Arabic fluently. His interests include traveling, reading, and cooking, and he values family, ambition, and generosity. Muhammad, who uses the pronouns he/him/his, is a Muslim, politically liberal, and is an INTJ personality type. He is a straight, monogamous man who doesn't drink, smoke, or use drugs. He is physically active and a proud cat owner. In terms of his future partner, Muhammad is looking for a straight woman aged 25 to 35, who also doesn't drink or smoke, leads an active lifestyle, and, like him, wants children but does not currently have any.",
+    "user_id": "bb356a3d-6992-4e57-bed5-d35d8d7d7ab1"
+}

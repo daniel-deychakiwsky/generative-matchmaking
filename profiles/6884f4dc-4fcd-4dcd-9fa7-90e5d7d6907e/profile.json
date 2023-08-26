@@ -1,0 +1,63 @@
+{
+    "name": "Riley Ainsworth",
+    "age": 30,
+    "height": "6'2\"",
+    "school": "University of California, Berkley",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Japanese"
+    ],
+    "values": [
+        "Creativity",
+        "Fitness",
+        "Environmental Conservation"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Music"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat",
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Riley Ainsworth is a 30-year-old man who is currently based in Los Angeles, California. He was born and raised in San Francisco and studied in University of California, Berkley. As a software developer in the Technology industry, Riley can fluently speak English, Spanish, and Japanese.\n\nRiley values creativity, fitness, and environmental conservation. He enjoys hiking, coding, and listening to music in his free time. He is an Agnostic, identifies as a liberal politically, and is seeking a long-term, monogamous relationship.\n\nRiley identifies as straight and prefers partners who are between 25 and 35 years old, have no children but want to have them in the future. He maintains an active exercise regimen and prefers non-smokers with a similar active lifestyle.\n\nRiley identifies as an INTJ on the Myers-Briggs Type Indicator and is an Aquarian. He enjoys drinking occasionally but doesn't smoke or use marijuana or drugs. He is a proud pet owner of a cat and a dog, and is excited to find a partner who shares his active lifestyle and interest in having children in the future.",
+    "user_id": "6884f4dc-4fcd-4dcd-9fa7-90e5d7d6907e"
+}
