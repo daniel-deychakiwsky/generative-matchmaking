@@ -1,0 +1,63 @@
+{
+    "name": "Natalie Briggs",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "Harvard University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Japanese"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Independence"
+    ],
+    "interests": [
+        "Tech conferences",
+        "Jazz music",
+        "Travelling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Natalie Briggs is a 29-year-old software engineer originally from Seattle and currently resides in Los Angeles. She is a graduate of Harvard University and speaks English, Spanish, and Japanese. Driven by values of honesty, kindness, and independence, Natalie enjoys attending tech conferences, listening to jazz music, and traveling. As an agnostic liberal, she identifies as a straight, White Caucasian female with pronouns of She/Her. Currently, she does not have any children, but she is open to the possibility in the future. She is an active woman, who occasionally drinks but does not smoke or use any sort of drugs. She has pets \u2014 a dog and a cat. Natalie is looking for a long term monogamous relationship with a man who is between 27 and 35 years old, at least 5'8\", and leads an active lifestyle. He should be a non-smoker, non-drinker, with no children but open to having some in the future. Natalie is an Aquarius and identifies her personality type as ENFP (Extraversion, Intuition, Feeling, Perception).",
+    "user_id": "87b0804d-aab3-48ee-98c6-3c8fee8d7f82"
+}

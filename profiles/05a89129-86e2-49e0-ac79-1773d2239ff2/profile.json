@@ -1,0 +1,61 @@
+{
+    "name": "Sophia Martinez",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Yoga"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Sophia Martinez is a 28-year-old software developer from San Diego, currently living in Los Angeles. She is multilingual, speaking both English and Spanish. Her values include honesty, kindness, and creativity. Sophia holds a degree from the University of California, Los Angeles and is interested in activities such as coding, hiking, and yoga. \n\nShe identifies as a straight woman and uses she/her pronouns. Sophia is Hispanic/Latino and leans towards liberal politics. Her religious beliefs skew towards agnosticism. Sophia tends to lead an active lifestyle and enjoys drinks socially, but she does not smoke or use drugs.\n\nSophia is looking for a long-term monogamous relationship and wants to have children in the future. Her ideal partner would be someone between the ages of 28 and 35, who is at least 5'8\" in height, does not smoke, leads an active lifestyle, and shares her interest in starting a family. This suitor can enjoy social drinking but should not use other drugs.",
+    "user_id": "05a89129-86e2-49e0-ac79-1773d2239ff2"
+}

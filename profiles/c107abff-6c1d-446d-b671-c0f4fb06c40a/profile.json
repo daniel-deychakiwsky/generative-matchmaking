@@ -1,0 +1,53 @@
+{
+    "name": "Alex Hill",
+    "age": 32,
+    "height": "5'9\"",
+    "school": "University of Cincinnati",
+    "job_industry": "Finance",
+    "job_title": "Financial Analyst",
+    "hometown_location": "Cincinnati, Ohio",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Honesty, Hard work, Family",
+    "interests": "Traveling, Hiking, Football, Cooking",
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Gay",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 36,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Gay",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Alex Hill is a 32-year-old man, working as a Financial Analyst in the Finance industry, based in Los Angeles, California. He graduated from the University of Cincinnati and identifies as a Buddhist with liberal political views. His interests are traveling, hiking, football, and cooking. Alex, who is of black African descent, identifies as gay and uses He/Him/His pronouns. He is a dog lover and does not have children, but wants them in the future. \n\nFitness is an integral part of his lifestyle, and he enjoys a drink now and then but doesn't smoke or use marijuana or other drugs. He's a Taurus and an ENTJ. Alex is looking for a long-term, monogamous relationship with a man aged between 28 and 36, who also wants children, is active, and doesn't smoke or use drugs. Drinking and a love for dogs would be a bonus. Alex would prefer his match also to identify as gay, aligning with his sexuality. He is multilingual and speaks English and Spanish fluently.\n",
+    "user_id": "c107abff-6c1d-446d-b671-c0f4fb06c40a"
+}

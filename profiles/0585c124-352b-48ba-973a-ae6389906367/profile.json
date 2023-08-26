@@ -1,0 +1,61 @@
+{
+    "name": "Emily Underwood",
+    "age": 30,
+    "height": "5'8\"",
+    "school": "Harvard University",
+    "job_industry": "Tech",
+    "job_title": "Software engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hardwork",
+        "Honesty",
+        "Kindness"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Emily Underwood is a 30-year-old woman from Seattle, now living in Los Angeles. She is a software engineer in the tech industry and a graduate from Harvard University. Emily speaks English and Spanish fluently, stands tall at 5'8\", and identifies herself as straight and white Caucasian. She values hard work, honesty, and kindness. Emily loves to spend her free time hiking, reading, and traveling. \n\nShe is an agnostic and leans liberal politically. Her relationship intentions are to find a life partner for a monogamous relationship. She doesn't have children yet but plans to in the future. Emily is a proud dog owner and her zodiac sign is Taurus. \n\nShe maintains an active lifestyle, drinks sometimes, but is a non-smoker and doesn't use marijuana or drugs at all. Emily is an INTJ according to the MBTI personality type.\n\nIn terms of a partner, Emily is looking for a straight man between the ages of 28-35, who is at least 5'8\" tall. Her ideal partner does not have children but wants them in the future. They share her active lifestyle, occasionally drink but don't smoke or use marijuana or other drugs.",
+    "user_id": "0585c124-352b-48ba-973a-ae6389906367"
+}

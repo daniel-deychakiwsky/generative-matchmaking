@@ -1,0 +1,61 @@
+{
+    "name": "Olivia Cedarfield",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Creativity",
+        "Career Progress",
+        "Travel/exploration"
+    ],
+    "interests": [
+        "Yoga",
+        "Cooking",
+        "Programming"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Olivia Cedarfield is a 28-year-old Software Engineer hailing from Seattle, Washington, but is currently residing in Los Angeles, California. An alumnus of the University of California, this creative woman is fluent in the languages of English and Spanish. Olivia enjoys activities like yoga, cooking, and programming and highly values creativity, career progression, and travel.\n\nComing off as an atheist, Olivia boats liberal political views. While she is straight, Olivia's dating interests lie in men between ages 28 to 35 and preferably the height between 5'10\" and 6'4\". Currently single with no kids, she is looking forward to monogamous, long-term relationships, and open to having kids in the future. Olivia adores her cat and desires a partner who respects her pet love.\n\nA pitch-perfect Gemini, Olivia identifies herself as an INTJ on Myers-Briggs Type Indicator. Talking about lifestyle habits, Olivia feasts healthy, occasionally drinks, and refrains from smoking or using drugs. Converting her passion for yoga into a healthy lifestyle, Olivia is a fitness enthusiast. Equally she prefers her partner to keep a fit lifestyle, and resonate with her views against smoking, drinking, marijuana, and drugs.",
+    "user_id": "7b74c474-fdf9-42ce-aabc-8bd54d1d71d0"
+}

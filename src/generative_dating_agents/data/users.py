@@ -9,17 +9,18 @@ from typing import Collection, Dict, List
 from joblib import Parallel, delayed
 
 from ..llm.oai import Conversation, chat_completion
-from ..utils.io import write_jsonl_file
-from .schemas import user_profile_function_schema
-from .types import JsonType
+from ..utils.io import write_user_profile_as_json
+from ..utils.types import JSON
+from .schemas import UserProfile, user_profile_function_schema
 
 
 def generate_profiles(
     num_profiles: int,
     model: str,
-    output_filename: str,
     max_tokens: int,
     temperature: float,
+    output_directory: str,
+    output_file_name: str,
     n_jobs: int = -1,
 ) -> None:
     sys_prompt: str = "You are a helpful assistant."
@@ -39,7 +40,7 @@ def generate_profiles(
     output_filepath: str = os.path.join(
         os.getcwd(), f"{output_filename}.jsonl")
 
-    def gen() -> JsonType:
+    def gen() -> UserProfile:
         stochastic_gen_names_prompt = gen_names_prompt
         stochastic_gen_dating_prompt = gen_dating_prompt
 
@@ -86,7 +87,7 @@ def generate_profiles(
             function_call=function_call,
         )
 
-        user_profile_json: JsonType = json.loads(user_dating_profile_json_str)
+        user_profile_json: JSON = json.loads(user_dating_profile_json_str)
 
         conversation.add_assistant_message(
             message=user_dating_profile_json_str)
@@ -108,17 +109,27 @@ def generate_profiles(
         user_profile_json["summary"] = user_profile_summary
         user_profile_json["user_id"] = str(uuid.uuid4())
 
-        return user_profile_json
+        return UserProfile(**user_profile_json)  # type: ignore[arg-type]
 
-    def parallel_gen() -> List[JsonType]:
-        user_profiles_accum: List[JsonType] = Parallel(n_jobs=n_jobs)(
+    def parallel_gen() -> List[UserProfile]:
+        user_profiles_accum: List[UserProfile] = Parallel(n_jobs=n_jobs)(
             delayed(gen)() for _ in range(num_profiles)
         )
         return user_profiles_accum
 
-    user_profiles: List[JsonType] = parallel_gen()
+    user_profiles: List[UserProfile] = parallel_gen()
 
-    write_jsonl_file(json_array=user_profiles, output_filepath=output_filepath)
+    for user_profile in user_profiles:
+        output_file_path: str = os.path.join(
+            os.getcwd(),
+            output_directory,
+            user_profile.user_id,
+            output_file_name,
+        )
+
+        write_user_profile_as_json(
+            user_profile=user_profile, file_path=output_file_path
+        )
 
 
 def generate_profile_photo_prompt(profile):

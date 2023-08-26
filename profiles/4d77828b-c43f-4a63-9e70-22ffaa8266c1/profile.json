@@ -1,0 +1,61 @@
+{
+    "name": "Maxwell Baxter",
+    "age": 30,
+    "height": "5'10\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Patience"
+    ],
+    "interests": [
+        "Reading",
+        "Cycling",
+        "Gourmet cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Maxwell Baxter is a 30-year-old man, standing 5'10\" tall. He is educated with a degree from the University of California, Los Angeles and works as a Software Engineer in the technology industry. He hails from San Francisco, California, but nowadays he operates from Los Angeles. He is fluent in English and Spanish. \n\nMaxwell considers honest, kindness, and patience as core values. He spends his free time reading, cycling, and cooking gourmet meals. He is agnostic and leans politically liberal. \n\nMaxwell is in search of a long-term, monogamous relationship. He is straight, uses he/him/his pronouns, and declares as a White Caucasian. He doesn't have any children but is open to having some in the future. He doesn't have any pets currently. \n\nMaxwell is born under Cancer zodiac sign and fits the INTJ personality type. He occasionally drinks but doesn't smoke or do marijuana or other drugs. \n\nMaxwell stays active and prefers a partner who leads a similar lifestyle. He is looking to date women,  between the ages 25 and 35. His prospective partner should ideally not have any children yet but should be comfortable with the idea of having children in the future. He prefers a non-smoker and someone who drinks.",
+    "user_id": "4d77828b-c43f-4a63-9e70-22ffaa8266c1"
+}

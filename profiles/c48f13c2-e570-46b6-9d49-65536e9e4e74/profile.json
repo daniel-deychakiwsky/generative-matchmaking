@@ -1,0 +1,53 @@
+{
+    "name": "Alex Morgan",
+    "age": 32,
+    "height": "5'9\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Entertainment",
+    "job_title": "Film Producer",
+    "hometown_location": "Houston, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Integrity, Hard Work, Compassion",
+    "interests": "Cinema, Hiking, Photography, Cooking",
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Non binary",
+    "pronouns": "They/Them/Their",
+    "sexuality": "Other",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "Sometimes",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Other",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "Sometimes",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Alex Morgan is a 32-year-old, non-binary individual who works in the entertainment industry as a film producer. Based in Los Angeles and originally from Houston, Texas, they value integrity, hard work, and compassion. Their interests include cinema, hiking, photography, and cooking. An atheist with liberal political beliefs, Alex is multilingual, speaking both English and Spanish. They do not have children but wish to in the future. They also have a pet dog and their zodiac sign is Gemini. As an ENFP, they sometimes enjoy a drink and marijuana but do not smoke or take drugs. Alex is active and enjoys exercise. They are looking for a long-term, monogamous relationship with someone between the ages of 28 and 38 who shares similar values, interests, and lifestyle preferences. This person should be open to having children in the future and should not smoke. They should also be sometimes open to drinking and marijuana use.\n",
+    "user_id": "c48f13c2-e570-46b6-9d49-65536e9e4e74"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Samantha Jones",
+    "age": 32,
+    "height": "5'6\"",
+    "school": "Columbia University",
+    "job_industry": "Publishing",
+    "job_title": "Senior Editor",
+    "hometown_location": "Brooklyn, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": "Honesty, Hardwork, Equality",
+    "interests": "Reading, Travelling, Yoga",
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes"
+    },
+    "summary": "Samantha Jones is a 32-year-old straight woman. She is a Senior Editor in the Publishing industry, and a graduate from Columbia University. Originally from Brooklyn, New York, she currently resides in Los Angeles, California. Samantha communicates in English and Spanish, and believes in honesty, hardwork, and equality. She enjoys reading, travelling, and practicing yoga, follows Liberal politics, and identifies as agnostic. She is seeking a long-term, monogamous relationship. Samantha doesn't have children, but would like to in the future. She has a pet dog, and occasionally enjoys a drink but doesn't smoke or do drugs. She is active and is a Pisces with an ENFJ personality type. Her preferences for a partner are a straight man between the age of 30 and 40, who is at least 5'8\", doesn't smoke, is fine with occasional drinking, does not use marijuana or other drugs, and sometimes exercises. Ideally, her partner would also want children in the future.\n",
+    "user_id": "f8390f5b-469c-404a-be08-6e0408a361b2"
+}

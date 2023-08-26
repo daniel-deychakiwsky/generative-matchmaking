@@ -1,0 +1,61 @@
+{
+    "name": "Cecilia Dawson",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Brooklyn, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Kindness"
+    ],
+    "interests": [
+        "Nature",
+        "Photography",
+        "World Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Cecilia Dawson is a 29-year-old software engineer residing in Los Angeles, California. Originally from Brooklyn, New York, she's a proud graduate of Stanford University. Apart from English, Cecilia speaks fluent Spanish. She is an ENFP personality type, identified in the Myers-Briggs Type Indicator, who highly values honesty, loyalty, and kindness.\n\nIn her leisure time, Cecilia enjoys embracing nature, photography, and travel. She's a dog lover with an ambitious approach towards her career in the technology industry. Cecilia identifies as an agnostic with liberal political views and aims for a long-term, monogamous relationship.\n\nAs a Leo and straight woman, she has no children but intends to in the future. She doesn't smoke or consume any drugs whereas, drinking is occasional. Cecilia leads an active lifestyle and has a preference for a partner who also holds an approach towards health and fitness.\n\nHer ideal partner would be a straight man between 28 and 35 years of age who doesn't have children but wishes to have some in the future. He must share a similar lifestyle specifically with regards to exercising, moderate drinking, and no smoking.",
+    "user_id": "fa40e780-5e95-4b7b-aa82-a16fe1824f0a"
+}

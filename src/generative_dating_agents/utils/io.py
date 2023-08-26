@@ -1,18 +1,18 @@
+import json
 import os
-from typing import Any, List
+from dataclasses import asdict
 
-import jsonlines
-
-
-def read_jsonl_file(input_filepath: str) -> List:
-    with jsonlines.open(input_filepath, "r") as jsonl_f:
-        return list(jsonl_f)
+from ..data.schemas import UserProfile
 
 
-def write_jsonl_file(json_array: List[Any], output_filepath: str) -> None:
-    if os.path.exists(output_filepath):
-        with jsonlines.open(output_filepath, "a") as writer:
-            writer.write_all(json_array)
-    else:
-        with jsonlines.open(output_filepath, "w") as writer:
-            writer.write_all(json_array)
+def read_user_profile_from_json(file_path: str) -> UserProfile:
+    with open(file_path) as json_file:
+        json_obj: UserProfile = UserProfile(**json.load(json_file))
+        return json_obj
+
+
+def write_user_profile_as_json(user_profile: UserProfile, file_path: str) -> None:
+    directory: str = os.path.dirname(file_path)
+    os.makedirs(directory, exist_ok=True)
+    with open(file_path, "w") as json_file:
+        json.dump(asdict(user_profile), json_file, indent=4)

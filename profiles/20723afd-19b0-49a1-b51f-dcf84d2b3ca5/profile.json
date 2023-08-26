@@ -1,0 +1,61 @@
+{
+    "name": "Sofia Perez",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Ambition",
+        "Family",
+        "Independence"
+    ],
+    "interests": [
+        "Travelling",
+        "Cooking",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Sofia Perez is a 29-year-old Software Engineer from San Diego, California, currently living in Los Angeles. She is a graduate of the University of California who values ambition, family, and independence. Sofia is a multi-lingual woman who speaks both English and Spanish fluently. She identifies as a straight woman with a Hispanic/Latino ethnicity. Her interests include traveling, cooking, and reading. Even though she is agnostic and politically Liberal, she is looking for a life partner who believes in monogamy. Sofia doesn't have children but is open to starting a family. A Libra at heart, she prefers the company of people who are energetic and active like her. Her love for animals is evident as she owns a cat. Although she enjoys an occasional drink, Sofia remains firm about her non-smoking status and doesn't partake in marijuana use or drugs. She prefers a partner who is between 29 and 35 years old, exercises regularly, and does not smoke or use drugs.",
+    "user_id": "20723afd-19b0-49a1-b51f-dcf84d2b3ca5"
+}

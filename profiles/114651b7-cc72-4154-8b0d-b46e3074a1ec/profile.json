@@ -1,0 +1,65 @@
+{
+    "name": "Naomi Wells",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California",
+    "job_industry": "Tech",
+    "job_title": "Product Manager",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Ambition",
+        "Compassion",
+        "Loyalty",
+        "Independence",
+        "Creativity"
+    ],
+    "interests": [
+        "Fashion",
+        "Technologies",
+        "Travel",
+        "Yoga",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "Sometimes",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Naomi Wells is a 29-year-old straight woman of Black African descent. She is from San Francisco, California but currently based in Los Angeles. Naomi has earned a graduate degree from the University of California and works as a Product Manager in the tech industry. She values ambition, compassion, loyalty, independence, and creativity. Naomi's interests span fashion, technology, travel, yoga, and photography. As an agnostic and liberal, she is interested in long-term monogamous relationships. Her partner preferences range from men aged 27 to 35.\nFurthermore, Naomi does not have children but desires to have them in the future. While she drinks sometimes and uses marijuana rarely, she does not smoke or do drugs. She is an active lady who owns a cat and exercises routinely. Naomi's preferred partner shares the same values, is within her preferred age bracket, is taller than her, does not have children but wants to have, drinks but does not smoke or do drugs, and exercises regularly.",
+    "user_id": "114651b7-cc72-4154-8b0d-b46e3074a1ec"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Raj Patel",
+    "age": 32,
+    "height": "5'10\"",
+    "school": "University of Southern California",
+    "job_industry": "Technology",
+    "job_title": "Product Manager",
+    "hometown_location": "Mumbai, India",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": "Hard work, family, education",
+    "interests": "Traveling, coding, baking, yoga",
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Moderate",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 37,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Raj Patel is a 32-year-old South Asian man from Mumbai, India, now living in Los Angeles, California. He works in the technology industry as a Product Manager and is a graduate of the University of Southern California. Raj speaks English and Hindi and values hard work, education, and family. His interests range from traveling and baking to coding and doing yoga. \n\nAlthough Raj does not currently have children, he is open to having them in the future. Moreover, he is a proud owner of a dog. He's a Virgo and his Myers-Briggs Type Indicator (MBTI) is INTJ. \n\nIn terms of his lifestyle, Raj does not smoke or consume alcohol or drugs and maintains an active lifestyle. When it comes to dating, Raj is looking for a long-term relationship but is open to short-term as well. His potential partner's age range is between 27 and 37 years, they should be active and do not smoke or drink. Raj prefers women who are open to having children in the future.",
+    "user_id": "c5e42987-0532-4cfa-bc22-e192f6896e5f"
+}

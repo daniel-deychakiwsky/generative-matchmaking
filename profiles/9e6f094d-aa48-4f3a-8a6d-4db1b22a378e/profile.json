@@ -1,0 +1,61 @@
+{
+    "name": "Amelia Turner",
+    "age": 30,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Biotechnology",
+    "job_title": "Biochemical Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Intellectual curiosity",
+        "Compassion",
+        "Fitness"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes"
+    },
+    "summary": "Amelia Turner is a 30-year-old \u2014 a health-conscious, compassionate, and intellectually curious Biochemical Engineer, currently residing in Los Angeles, California, originally from Seattle, Washington. She graduated from the University of California, Berkeley, and works in the Biotechnology industry. Amelia speaks English and Spanish and leads an active lifestyle, enjoying hobbies like hiking, reading, and cooking.\n\nIdentifying as a straight white Caucasian woman, she uses she/her/hers pronouns. She holds liberal political views and categorizes herself as agnostic. She's a Virgo and an INFJ personality type who occasionally indulges in a drink but doesn't smoke or use recreational drugs. Amelia loves cats and currently doesn't have children but is open to the possibility in the future.\n\nShe\u2019s seeking a long-term, monogamous relationship with a man aged 28-35 who values health and fits her partner preferences. Similar to her, her ideal partner would want to have children in the future. Enjoying a drink is acceptable for her potential partner, but smoking and drug usage are not.",
+    "user_id": "9e6f094d-aa48-4f3a-8a6d-4db1b22a378e"
+}

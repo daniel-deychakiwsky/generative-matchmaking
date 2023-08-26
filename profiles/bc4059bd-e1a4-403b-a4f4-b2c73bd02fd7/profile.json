@@ -1,0 +1,62 @@
+{
+    "name": "Keiko Yoshida",
+    "age": 28,
+    "height": "5'4\"",
+    "school": "University of Tokyo",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Developer",
+    "hometown_location": "Tokyo, Japan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Japanese",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Art"
+    ],
+    "interests": [
+        "Travelling",
+        "Cooking",
+        "Software Coding",
+        "Fine Art"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Keiko Yoshida is a 28-year-old woman originally from Tokyo, Japan, and currently resides in Los Angeles, California. She is a software developer in the tech industry and holds a graduate degree from the University of Tokyo. Keiko values family, career, and art, and is especially interested in traveling, cooking, software coding, and fine art. She is an agnostic and politically liberal.\n\nKeiko seeks a life partner and prefers a monogamous relationship. Although she doesn't currently have children, she is open to having them in the future. She is an Aquarius and her MBTI personality type is INTJ.\n\nIn her leisure time, Keiko maintains an active lifestyle. While she enjoys an occasional drink, she does not smoke or use marijuana or drugs. Speaking English and Japanese fluently, she is seeking a straight man aged between 28 and 35 who also values an active lifestyle and does not smoke or use drugs. Similar to Keiko, her ideal partner will also be open to the idea of having children.",
+    "user_id": "bc4059bd-e1a4-403b-a4f4-b2c73bd02fd7"
+}

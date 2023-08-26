@@ -1,0 +1,61 @@
+{
+    "name": "Millie Nicholson",
+    "age": 27,
+    "height": "5'6\"",
+    "school": "University of California",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Trustworthiness",
+        "Kindness",
+        "Compassion"
+    ],
+    "interests": [
+        "Cooking",
+        "Reading",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Millie Nicholson is a 27 year old woman, standing 5'6\" tall and working as a Software Engineer in the technology industry in Los Angeles, California. She is a graduate from the University of California and is fluent in English and Spanish. Her hobbies include cooking, reading, and hiking and values trustworthiness, kindness, and compassion. Millie identifies herself as agnostic and leans towards liberal politics. She's interested in long-term monogamous dating. She doesn't have children but would like to have some in the future, and owns a cat. She's a Gemini and an ENFJ personality type. Millie only drinks occasionally and doesn't smoke or take drugs. She is an active person.\n\nAs for her partner, Millie prefers someone within the age range of 26 to 35 years old, with a height between 5'0\" and 6'2\". She would like her partner to not have children currently but be open to having them in the future. Millie prefers a partner who doesn't smoke or take drugs, but drinking occasionally is fine. She is looking for an equally active person.",
+    "user_id": "0e019049-2a6a-4e23-843d-f07f09472269"
+}

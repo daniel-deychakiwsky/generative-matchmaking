@@ -1,0 +1,63 @@
+{
+    "name": "Amelia Griffiths",
+    "age": 27,
+    "height": "5'6\"",
+    "school": "University of Pennsylvania",
+    "job_industry": "Engineering",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Italian"
+    ],
+    "values": [
+        "Honesty",
+        "Hard Work",
+        "Family"
+    ],
+    "interests": [
+        "Reading",
+        "Yoga",
+        "Cooking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Spiritual",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes"
+    },
+    "summary": "Amelia Griffiths is a 27-year-old straight woman with the pronouns she/her/hers. She hails from Seattle, Washington but currently resides in Los Angeles, California. Amelia is a Software Engineer in the field of Engineering and has a graduate degree from the University of Pennsylvania. Bilingual, she can communicate in English, Spanish, and can speak a bit of Italian too. Amelia identifies herself as spiritually inclined and politically moderate.\n\nShe places a great deal of value on honesty, hard work, and family. She enjoys reading, yoga, cooking, and coding in her free time. Amelia is a Gemini as per astrology and is an INFJ personality type according to Myers-Briggs Type Indicator. She does not have children yet but is open to having them in the future. She doesn't own any pets yet.\n\nAmelia enjoys occasional drinking, but she doesn't smoke or use marijuana or other drugs. Keeping herself physically active is also a part of her routine. \n\nAs for her partner, Amelia prefers a man between the ages of 25 and 35, with a height ranging from 5'8\" to 6'2\". She hopes to find someone who doesn't have children of their own but would be open to having kids in the future. Similarly to her, Amelia would prefer her partner to be a non-smoker, not use marijuana or other drugs, also be physically active, and enjoy an occasional drink as she does.",
+    "user_id": "3f7556d8-c770-440a-9c06-be2316d5f072"
+}

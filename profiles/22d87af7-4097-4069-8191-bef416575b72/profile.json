@@ -1,0 +1,62 @@
+{
+    "name": "Anna Kuznetsova",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Moscow, Russia",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Russian"
+    ],
+    "values": [
+        "Education",
+        "Hard work",
+        "Independence"
+    ],
+    "interests": [
+        "Coding",
+        "Fitness",
+        "Music",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Anna Kuznetsova, a Russian native, is a currently residing in Los Angeles, California. At 29 years old and 5'7'' tall, she works as a Software Engineer in the tech industry, having graduated from the University of California, Los Angeles. Anna can speak both English and Russian fluently. She values education, hard work and independence, and enjoys coding, fitness, music and traveling.\n\nAnna identifies herself as a straight woman and uses 'she/her' pronouns. She's an atheist with liberal political views. Although she doesn't have any children right now, she looks forward to motherhood in the future. Anna's personality type is classified as 'INTP' by the MBTI. While she occasionally indulges in drinking, she does not smoke or use marijuana or other drugs. She is a committed exerciser and the proud owner of a cat.\n\nWhen it comes to her partner preferences, Anna is interested in a straight man who is between the ages of 30 and 40 and anywhere from 5'10'' to 6'5'' tall. She prefers a companion who also wants children, does not smoke or use drugs, and likes to stay active. While it's okay for her match to be a drinker, she would prefer if he did not partake in the consumption of marijuana.",
+    "user_id": "22d87af7-4097-4069-8191-bef416575b72"
+}

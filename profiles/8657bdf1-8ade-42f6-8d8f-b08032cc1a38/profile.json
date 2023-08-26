@@ -1,0 +1,61 @@
+{
+    "name": "Emily Vaughn",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Creativity"
+    ],
+    "interests": [
+        "Writing",
+        "Coding",
+        "Long drives"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Emily Vaughn is a 29-year-old software engineer based in Los Angeles, California, originally from Seattle, Washington. She attained her graduate education from the University of California, Los Angeles. Fluent in both English and Spanish, she values honesty, kindness, and creativity. Outside of work, her interests include writing and long drives.\n\nEmily identifies as a straight woman; she uses she/her pronouns and is looking for a monogamous long-term relationship. Though she doesn't have children, she wants to have them in the future. Her only pet is a cat. Pisces by zodiac and INFJ by Myers-Briggs, she is a sober, active woman who occasionally enjoys a drink. \n\nAs for partner preferences, Emily prefers straight men between the ages of 29 and 35 who are at least 5'6\". Ideally, her partner does not have children but is open to having them in the future, lives an active lifestyle, and drinks occasionally while avoiding smoking and drugs.",
+    "user_id": "8657bdf1-8ade-42f6-8d8f-b08032cc1a38"
+}

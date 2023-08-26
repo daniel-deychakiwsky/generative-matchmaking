@@ -1,0 +1,62 @@
+{
+    "name": "Sanjay Patel",
+    "age": 35,
+    "height": "5'11\"",
+    "school": "University of Mumbai",
+    "job_industry": "Information Technology",
+    "job_title": "Software Engineering Manager",
+    "hometown_location": "Mumbai, India",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Personal growth"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Meditation",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 40,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Sanjay Patel is a 35-year old man living in Los Angeles, California. He hails from Mumbai, India and works in the IT industry as a Software Engineering Manager. He attended the University of Mumbai and values hard work, family, and personal growth. Sanjay is bilingual, speaking both English and Hindi. His interests include coding, hiking, meditation, and reading. He practices Hindu by religion and identifies politically as a liberal. He's seeking a life partner in a monogamous relationship. As a straight man, he is looking for a straight woman between the ages of 28 and 40, who does not have children but would like to have some in the future. His potential partner should be a non-smoker and non-drinker, or only drinks occasionally, and someone who maintains an active lifestyle. Sanjay does not have any pets, he's a Virgo, and an INTJ on the Myers-Briggs personality scale.",
+    "user_id": "468e634c-d824-4291-b5ab-fb58210dd004"
+}

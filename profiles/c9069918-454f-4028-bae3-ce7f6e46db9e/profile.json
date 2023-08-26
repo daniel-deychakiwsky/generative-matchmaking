@@ -1,0 +1,62 @@
+{
+    "name": "Emily Chen",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "New York University",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Family",
+        "Career progression",
+        "Health and wellness"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Reading",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Emily Chen is a 28-year-old straight woman living in Los Angeles, California. A software developer by profession, she values her family, career progression, and health and wellness. She enjoys traveling, cooking, reading, and hiking while also appreciating her East Asian heritage. She speaks both English and Mandarin fluently. Emily holds a graduate degree from New York University. She is a practicing Buddhist and politically a moderate. Her relationship goal is long-term monogamy. Emily doesn't have children but would like to have some in the future. She owns a cat, doesn't smoke, occasionally drinks, and does not engage in drug use. She maintains an active health and fitness routine. She is interested in meeting straight men between 28 and 35 who have similar values and lifestyle preferences, who don't smoke, don't do drugs, are open to having children, and stay active.\n",
+    "user_id": "c9069918-454f-4028-bae3-ce7f6e46db9e"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Keiko Yamamoto",
+    "age": 30,
+    "height": "5'4\"",
+    "school": "University of Tokyo",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Tokyo, Japan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Japanese",
+        "English"
+    ],
+    "values": [
+        "Honesty",
+        "Hard work",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Anime",
+        "Hiking",
+        "Yoga",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "ISFJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'1\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active"
+    },
+    "summary": "Keiko Yamamoto is a 30-year-old software developer living in Los Angeles, California. Originally from Tokyo, Japan, she is well-educated, having graduated from the University of Tokyo. She takes pride in her work and values honesty, hard work, and creativity. Keiko enjoys a variety of activities, from coding and watching anime to hiking, yoga, and cooking. She identifies as a liberal, Buddhist woman and is fluent in both Japanese and English.\n\nKeiko is seeking a long-term, monogamous relationship and hopes to have children in the future. She shares her life currently with a pet cat. Even though Keiko is a social drinker, she doesn't smoke. She lives an active lifestyle and prefers her partner does the same. She is looking for a straight male partner between the ages of 28 and 35, who does not have children but also shares her wish to have them in the future.",
+    "user_id": "98bf03b4-74b2-4078-967a-31c522d77f37"
+}
