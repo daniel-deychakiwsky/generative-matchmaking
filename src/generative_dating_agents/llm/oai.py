@@ -1,9 +1,10 @@
+import base64
 import copy
 import os
 from typing import Any, Collection, Dict, List, Set
 
 import openai
-from openai import ChatCompletion
+from openai import ChatCompletion, Image
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -106,3 +107,24 @@ def chat_completion(
     else:
         completion: str = ChatCompletion.create(**kwargs).choices[0].message.content
         return completion
+
+
+def text_to_image(
+    prompt: str,
+    response_format: str = "b64_json",
+    num_images: int = 1,
+    size: str = "256x256",
+) -> bytes:
+    truncated_prompt: str = prompt[:397] + "..." if len(prompt) > 400 else prompt
+
+    response: Image = Image.create(
+        prompt=truncated_prompt,
+        response_format=response_format,
+        n=num_images,
+        size=size,
+    )
+
+    img_data: str = response["data"][0]["b64_json"]
+    img_bytes: bytes = base64.decodebytes(img_data.encode("utf-8"))
+
+    return img_bytes
