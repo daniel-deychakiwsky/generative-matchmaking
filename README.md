@@ -37,6 +37,7 @@ python3 -m src.generative_dating_agents.cli generate-profiles
 ### Initialize Chroma Vector DB
 
 Ensure the docker daemon is running.
+Clone chroma repository as a sibling to this repository.
 
 ```shell
 git clone https://github.com/chroma-core/chroma.git &&
