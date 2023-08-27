@@ -1,0 +1,96 @@
+{
+    "name": "Alejandro Torres",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "University of California",
+    "job_industry": "Engineering",
+    "job_title": "Civil Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Hard Work",
+        "Honesty"
+    ],
+    "interests": [
+        "Soccer",
+        "Cooking",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "Other"
+        ],
+        "politics": [
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Finance",
+            "Arts"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Honesty"
+        ],
+        "interests": [
+            "Traveling",
+            "Outdoors",
+            "Movies"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old straight man, who adheres to He/Him/His pronouns. Standing 6'1\" tall, he belongs to the Hispanic/Latino ethnic group. He proudly states his birth sign as Leo and identifies his MBTI personality type as ENFJ. Born and raised in San Diego, California, he currently dwells in Los Angeles. Professionally, he works as a Civil Engineer in the engineering industry and holds a graduate degree from the University of California. Bilingual in English and Spanish, he loves immersing himself in soccer, cooking, reading, and traveling. As a Catholic, he values family, hard work, and honesty and leans toward moderate political viewpoints. He doesn't have children but looks forward to having them in the future. Currently, he practices monogamy and long-term dating. His lifestyle habits include not using drugs or marijuana, abstaining from smoking, moderate drinking, and maintaining active physical exercise. His friendly companion is a dog.",
+    "preferences_summary": "The user is interested in dating a woman, aged 25 to 35 years, whose height ranges between 5'2\" and 6'0\". Ideally, she does not have children but wants them in the future. The user prefers a woman who is straight, drinks occasionally, and is active, but does not smoke, consume marijuana, or take drugs. The preferred ethnicities are Hispanic/Latino or others, and she should be moderately political or not political. The user is open to a partner in the Education, Healthcare, Finance, or Arts industries who speaks English. Emphasis is placed on the values of family and honesty. Shared interests could include traveling, outdoor activities, or watching movies. The potential partner should have an education level of undergraduate or graduate, and is looking for a long term relationship and is comfortable with monogamy.",
+    "user_id": "e289eea8-c9a2-437b-97d8-e3d3989b5e41"
+}

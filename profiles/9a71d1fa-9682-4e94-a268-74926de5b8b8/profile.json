@@ -1,0 +1,101 @@
+{
+    "name": "Bianca Peterson",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Software",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Hard-working",
+        "Respect"
+    ],
+    "interests": [
+        "Traveling",
+        "RTeading",
+        "Yoga",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Software",
+            "Finance",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Hard-working",
+            "Respect"
+        ],
+        "interests": [
+            "Traveling",
+            "Reading",
+            "Sports"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old Hispanic/Latino woman who is 5'6\" tall. Residing in Los Angeles, California, but originally from San Francisco, she works as a Software Engineer in the software industry. A proud graduate from the University of California, Berkeley, she cherishes values such as honesty, kindness, hard work, and respect. Speaking both English and Spanish, this active Virgo woman has many interests that include traveling, reading, yoga, and photography. She identifies herself as Straight and practices monogamy while looking forward to a long-term relationship. Religious views are Agnostic with moderate political beliefs. She doesn't smoke, drink occasionally, and doesn't use marijuana or other drugs. She loves both dogs and cats and looks forward to having children in the future. Her MBTI personality type is ENFJ, indicating a preference for extraversion, intuition, feeling, and judging.\n",
+    "preferences_summary": "The user is interested in a man who is between the ages of 28 and 35, and stands between 5'8\" to 6'2\". He should not have children but should want children in future. The potential partner should be of Black African descent, White Caucasian, or Hispanic/Latino ethnicity. His sexuality should be straight and should be inclined towards a long-term monogamous relationship. He should not smoke or use marijuana or drugs, and should be active in exercise. The man should belong to either the Software, Finance, or Healthcare industries. He should be proficient in English, and share the same values; honesty, kindness, hard-working, and respect. His interests should include traveling, reading, and sports. He should be at least an undergraduate or a graduate. In politics, he could be liberal, moderate, or not political. Drinking is acceptable for the potential partner.\n",
+    "user_id": "9a71d1fa-9682-4e94-a268-74926de5b8b8"
+}

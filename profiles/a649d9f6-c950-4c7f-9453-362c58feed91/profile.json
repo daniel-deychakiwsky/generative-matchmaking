@@ -1,0 +1,112 @@
+{
+    "name": "Ming Zhao",
+    "age": 32,
+    "height": "5'10\"",
+    "school": "Peking University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Beijing, China",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Mandarin",
+        "English"
+    ],
+    "values": [
+        "Hard Work",
+        "Honesty",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Reading",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "South Asian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "Southeast Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative",
+            "Not political",
+            "Other"
+        ],
+        "job_industry": [
+            "Technology",
+            "Education",
+            "Healthcare",
+            "Law"
+        ],
+        "languages_spoken": [
+            "Mandarin",
+            "English"
+        ],
+        "values": [
+            "Hard Work",
+            "Honesty",
+            "Creativity"
+        ],
+        "interests": [
+            "Coding",
+            "Hiking",
+            "Reading",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral",
+            "Other"
+        ]
+    },
+    "profile_summary": "This user is a 32-year-old man of East Asian ethnicity who stands 5'10\" tall. He is a straight software engineer in the technology field and is proficient in Mandarin and English. He graduated from Peking University and is an INTJ personality type as per the Myers-Briggs Type Indicator scale. Born in Beijing, China, he currently lives in Los Angeles. His values include hard work, honesty, and creativity and he enjoys coding, hiking, reading, and travel. He identifies as a Buddhist and is politically moderate. He is interested in finding a life partner and is looking for a monogamous relationship. He is an Aquarius who doesn't smoke or do drugs and only occasionally consumes alcohol. He is physically active and does not have children but hopes to in the future. He has no pets.",
+    "preferences_summary": "The user's ideal dating partner is a straight woman aged between 26 and 35 years, with a height range of 5'2\" to 6'0\". The partner should not have children but must want them in the future. She should not drink alcohol, smoke, use marijuana, or take drugs. Her ethnicity can be anywhere from East Asian, White Caucasian, South Asian, to Black of African descent or any others. The woman should be actively exercising and have political views ranging from liberal to conservative or even be not political. She should be working in the industries of technology, education, healthcare, or law. The woman should be fluent in Mandarin and English. Her values should align with hard work, honesty, and creativity, while interests should complement those of the user (coding, hiking, reading, and traveling). She should have an educational level from undergraduate to doctoral or something akin. Her intentions should be seeking a life partner and being in a monogamous relationship.",
+    "user_id": "a649d9f6-c950-4c7f-9453-362c58feed91"
+}

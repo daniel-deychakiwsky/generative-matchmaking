@@ -1,0 +1,97 @@
+{
+    "name": "Theodore Watkins",
+    "age": 28,
+    "height": "6'2\"",
+    "school": "University of Southern California",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Open-mindedness"
+    ],
+    "interests": [
+        "Art",
+        "Reading",
+        "Traveling",
+        "Cycling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Compassion"
+        ],
+        "interests": [
+            "Art",
+            "Reading",
+            "Outdoors",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 28-year-old man, standing at 6'2\", is a graduate from the University of Southern California. Currently, he is working in the tech industry as a Software Engineer. Born and raised in Seattle, Washington, he now resides in Los Angeles, California. An avid speaker of English and Spanish, he values honesty, ambition, and open-mindedness. Some of his interests include art, reading, traveling, and cycling. He identifies as Agnostic and leans more towards moderate politics. His intention is to have a long-term, monogamous relationship. While he doesn't have any children yet, he is keen on having someday. He doesn't have any pets at the moment. His zodiac sign is Leo and belongs to the INTJ personality type. He occasionally enjoys a drink but does not smoke or do drugs, including marijuana. To keep fit, he maintains an active exercise regime.",
+    "preferences_summary": "The user is looking for a woman, aged between 24 to 30 years old, who is interested in a long-term commitment to monogamy. He prefers his partner to be active, a non-smoker, and does not use marijuana or other drugs, though drinking is acceptable. He hopes his partner shares his values of honesty and ambition, and possesses a sense of compassion. She should also share some of his interests like art and reading while bringing in her own, such as the outdoors and cooking. The ideal partner would have finished an undergraduate degree or higher, works in healthcare, education, or finance industry, and speaks English predominantly. She can be a White Caucasian or Hispanic/Latino, and political leanings can be liberal or moderate. She should also match his intentions regarding children, that is, currently without children but open to having them in the future.\n",
+    "user_id": "98f507da-cc00-4045-b565-d5b609d9277c"
+}

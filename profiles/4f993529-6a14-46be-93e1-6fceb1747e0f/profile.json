@@ -1,0 +1,106 @@
+{
+    "name": "Stella Walsh",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Healthcare",
+    "job_title": "Nurse Practitioner",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Charity",
+        "Independence"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Yoga",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Engineering",
+            "Arts",
+            "Science"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Family",
+            "Innovation",
+            "Ambition",
+            "Charity",
+            "Fidelity"
+        ],
+        "interests": [
+            "Hiking",
+            "Music",
+            "Traveling",
+            "Sports",
+            "Photography",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman of White Caucasian ethnicity, who identifies as straight. She utilizes the pronouns She/Her/Hers, and resides in Los Angeles, California. She is originally from Seattle, Washington. As a professional, she works in the Healthcare industry as a Nurse Practitioner and has completed graduate level education from the University of California, Los Angeles. She is able to speak two languages: English and Spanish. Key personal values for her include family, charity, and independence. With an interest in hiking, reading, yoga, and cooking, she enjoys leading an active lifestyle. She has leanings towards Agnostic beliefs and is politically liberal. She is seeking a long-term relationship with a preference for monogamy. She does not have any children currently, but desires to have them in the future. She owns a cat and doesn't smoke or use drugs, though she drinks occasionally. In terms of her personality, she is a Leo zodiac sign and her MBTI personality type is ENFJ.",
+    "preferences_summary": "The user is seeking a man who is between the ages of 28 and 38, and stands between 5'8\" and 6'5\". Ideally, her partner should not have children but wants them in the future. He should be straight, usually drinks sometimes and does not smoke, use marijuana or drugs. The man should be active and intends to be in a long-term monogamous relationship. His ethnicity can be White Caucasian, Black African Descent, Hispanic/Latino, or East Asian. Politically, he should be either liberal or moderate. His job industry can be in Healthcare, Education, Engineering, Arts, or Science. He should speak either English or Spanish. Important values for him should include Family, Innovation, Ambition, Charity, and Fidelity. Shared interests can include hiking, music, traveling, sports, photography, or cooking. His education level should be either an undergraduate or graduate.",
+    "user_id": "4f993529-6a14-46be-93e1-6fceb1747e0f"
+}

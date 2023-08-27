@@ -1,0 +1,100 @@
+{
+    "name": "Nathan Westbrook",
+    "age": 35,
+    "height": "6'2\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Mandarin"
+    ],
+    "values": [
+        "Hard Work",
+        "Family",
+        "Independence"
+    ],
+    "interests": [
+        "Travel",
+        "Cooking",
+        "Hiking",
+        "Reading",
+        "Cycling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 40,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Education",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard Work",
+            "Family",
+            "Independence"
+        ],
+        "interests": [
+            "Travel",
+            "Cooking",
+            "Hiking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 35-year-old man who identifies as straight with the pronouns He/Him/His. He stands 6'2\" tall, is of white Caucasian ethnicity, and does not have children but is interested in having them in the future. Professionally, he works in the technology industry as a software developer. He holds a graduate degree from Stanford University and is fluent in English, Spanish, and Mandarin. His values include hard work, family, and independence, and his interests are travel, cooking, hiking, reading, and cycling. He lives in Los Angeles, California, originally from San Diego, California. He is politically moderate, identifies as an agnostic, and has an MBTI personality type of INTJ. He is of the Libra zodiac sign. Concerning lifestyle, he is active, often engages in cycling, and enjoys drinking occasionally. However, he does not smoke or use marijuana or other drugs. He owns a dog and is looking for a long term monogamous relationship.",
+    "preferences_summary": "The user is looking for a woman aged between 28 and 40 years old, who is 5'0\" to 6'5\" in height. The woman should have no children but want to have them in the future. She should be straight, enjoy being active, and have a preference for long term relationships and monogamy. In terms of lifestyle, the prospective partner should drink socially but abstain from smoking, marijuana, and drugs. Ethnicity-wise, she can be East Asian, Hispanic/Latino, White Caucasian, or Black African Descent. Preferred political views are moderate or liberal. She must work in the Technology, Education, or Healthcare industries and be able to communicate in English. Core values she must hold include hard work, family, and independence. She should have interests in traveling, cooking, and hiking, and her education level should be at the Undergraduate or Graduate level.",
+    "user_id": "5421b77e-2d3f-4ae4-bd2f-c4cfcdd3dd71"
+}

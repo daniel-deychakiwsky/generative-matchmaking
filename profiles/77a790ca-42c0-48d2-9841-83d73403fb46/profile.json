@@ -1,0 +1,104 @@
+{
+    "name": "David Ginsburg",
+    "age": 31,
+    "height": "6'1\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hebrew"
+    ],
+    "values": [
+        "Respect",
+        "Honesty",
+        "Compassion"
+    ],
+    "interests": [
+        "Hiking",
+        "Cooking",
+        "Tech News",
+        "Cats"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Jewish",
+    "politics": "Liberal",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "Sometimes",
+    "drugs": "No",
+    "exercise": "Sometimes",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 34,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "Sometimes",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term, open to short",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political",
+            "Other"
+        ],
+        "job_industry": [
+            "All"
+        ],
+        "languages_spoken": [
+            "All"
+        ],
+        "values": [
+            "Respect",
+            "Honesty",
+            "Compassion"
+        ],
+        "interests": [
+            "All"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral",
+            "Other"
+        ]
+    },
+    "profile_summary": "The user is a 31-year-old, 6'1\" tall agent from the technology sector working as a Software Engineer. They studied at Stanford University and achieved graduate-level education. They identify as a straight man and their pronouns are he/him/his. They are from Seattle, Washington, but are currently living in Los Angeles, California. This user is of White Caucasian ethnicity and his zodiac sign is Leo. He is from the Jewish faith and has liberal political views. He speaks both English and Hebrew and values respect, honesty, and compassion. He is an occasional drinker and consumer of marijuana but refrains completely from smoking and drugs. He exercises sometimes and enjoys hiking, cooking, reading tech news, and spending time with his cat. He is a family person and wants children in the future. They adhere to monogamy and are seeking both long and short-term relationships.\n",
+    "preferences_summary": "The user is interested in a woman who falls between the ages of 25 to 34 and stands between 5'4\" and 6'0\" tall. She should not have any children but it's crucial that she's open to want children in the future. She should identify as straight and be open to both long term and short term dating, in favour of monogamy. Additionally, regardless of her ethnicity or political stance, smoking and drug use are dealbreakers. Drinking and marijuana use are acceptable if occasional and sporadically. Interestingly, regardless of her occupation or languages she speaks, she should be fairly active. The ideal partner is at least an undergraduate and should prioritise values of respect, honesty and compassion. There are no restrictions on the partner's interests.",
+    "user_id": "77a790ca-42c0-48d2-9841-83d73403fb46"
+}

@@ -1,0 +1,97 @@
+{
+    "name": "DeShawn Thomas",
+    "age": 29,
+    "height": "6'0\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Detroit, Michigan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Education",
+        "Family",
+        "Fitness"
+    ],
+    "interests": [
+        "Basketball",
+        "Coding",
+        "Video Games"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Education",
+            "Family",
+            "Fitness"
+        ],
+        "interests": [
+            "Reading",
+            "Fitness",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old man, standing at 6'0\", of Black African descent hailing from Detroit, Michigan, but currently dating in Los Angeles, California. Professionally, he works in the technology industry as a software engineer, a career merited via his graduate-level education from Stanford University. Multilingual, he is fluent in both English and Spanish. He values education, family, fitness, and is interested in basketball, coding, and video games. As an agnostic, politically liberal straight person, he practices monogamy and intends to foster a long-term relationship. Despite not having any children, he is looking forward to parenthood. He keeps a pet dog, drinks but abstains from smoking, marijuana, or any drugs usage. Being active in exercising, he practices a fit lifestyle. His ENFP personality aligns with his zodiac sign, Leo.",
+    "preferences_summary": "The user is seeking a woman between the ages of 25 and 35 who is 5'4\" to 6'0\" in height. She should not have children but must want to have them in the future. The woman should be straight, physically active, and a non-smoker. Drinking is acceptable, but she should not use marijuana or drugs. The potential partner should be of Black African descent, Hispanic/Latino, White Caucasian, or any other ethnicities. In terms of politics, she can be either liberal or moderate. Ideally, she would work in the Education, Healthcare, or Technology industries and speak English. The woman should value education, family, and fitness, have interests in reading, fitness, and travel, and achieved a minimum education level of undergraduate. The woman should also be interested in a long-term, monogamous relationship.",
+    "user_id": "6b72ecb9-4d09-4146-a8d5-ab7768845368"
+}

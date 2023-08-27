@@ -1,0 +1,99 @@
+{
+    "name": "Priya Gupta",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of Delhi",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Delhi, India",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi",
+        "Punjabi"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Adventure"
+    ],
+    "interests": [
+        "Travel",
+        "Cooking",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "South Asian",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Education",
+            "Business"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career",
+            "Adventure"
+        ],
+        "interests": [
+            "Travel",
+            "Food",
+            "Outdoors"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a 29-year-old woman who hails from Delhi, India, and is currently living in Los Angeles, California. She works in the technology industry as a Software Engineer and holds a graduate degree from the University of Delhi. She speaks English, Hindi, and Punjabi and identifies as a Hindu. Her core values are Family, Career, and Adventure, while her interests lie in traveling, cooking, and hiking. Her dating intentions are for the long term and she prefers monogamy. Fit and active, she occasionally enjoys a drink but does not smoke, use marijuana or drugs. She holds moderate political views and has an INTP personality type. She has no children but hopes to have them in the future, and she does not currently have any pets. She identifies as straight, uses she/her/hers pronouns, and is of South Asian ethnicity. Her zodiac sign is Aquarius.",
+    "preferences_summary": "The user is searching for a man aged between 28 to 35, with a height between 5'8\" to 6'3\". Her preferred partner should not have children but want to have children in future. She prefers a straight, non-smoker who drinks occasionally and does not use marijuana or other drugs. The partner should have an active approach towards exercising. The dating intention should be long-term with expectations for a monogamous relationship. Preference for ethnicity includes East Asian, White Caucasian, South Asian, and Middle Eastern. Politically, a moderate or liberal stance would be ideal. The potential partner should be working in technology, healthcare, education, or business sectors and must be able to converse in English. The partner should value family, career, and adventure and have interests such as travel, food, and outdoor activities. Preferred education level ranges from Undergraduate to Graduate.",
+    "user_id": "8ac5b3af-f4a2-4bfe-aeae-7f53cbbe839e"
+}

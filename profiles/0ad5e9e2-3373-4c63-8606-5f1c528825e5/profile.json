@@ -1,0 +1,104 @@
+{
+    "name": "Isabella Thorne",
+    "age": 30,
+    "height": "5'4\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Responsibility",
+        "Respect",
+        "Fairness"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Reading",
+        "Photography",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Science",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Family",
+            "Responsibility",
+            "Respect",
+            "Fairness"
+        ],
+        "interests": [
+            "Technology",
+            "Outdoors",
+            "Cinema",
+            "Reading",
+            "Sports"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old straight woman of White Caucasian ethnicity who identifies with the pronouns she/her/hers. She has an active lifestyle but doesn't smoke, drink or use marijuana frequently. She is a Taurus and she identifies as an INTP in the Myers-Briggs personality type. She speaks English and Spanish, works as a Software Engineer in the technology industry, and holds a graduate degree from the University of California, Los Angeles. She's originally from Sacramento, California, but is currently living and dating in Los Angeles, California. Her interests range from coding and hiking to reading, photography, and yoga. The user values honesty, family, responsibility, respect, and fairness and her political views lean toward liberal. She practices agnosticism religiously, maintains a monogamy relationship type, and is seeking a long-term relationship. She doesn't currently have children, but would like to in the future, and she has a cat for a pet.",
+    "preferences_summary": "The user is seeking a man between the ages of 30 and 40, who is at least 5'8\" and no taller than 6'3\". He should have no children but wish to have them in the future. His sexual orientation should be straight and he should be someone who drinks sometimes, but does not smoke, use marijuana, or other drugs. He should live an active lifestyle. His ethnicity could be White Caucasian, East Asian, or Hispanic/Latino and he should have liberal or moderate political beliefs. Ideal occupations would be within the Technology, Science, or Education industries. He must speak English and have similar values, specifically Honesty, Family, Responsibility, Respect, and Fairness. His interests could include Technology, Outdoors, Cinema, Reading, and Sports. The prospective partner should have at least an undergraduate level education, with intentions for long-term dating and a preference for monogamy.\n",
+    "user_id": "0ad5e9e2-3373-4c63-8606-5f1c528825e5"
+}

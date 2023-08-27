@@ -1,0 +1,93 @@
+{
+    "name": "Amelia Brentwood",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Harvard University",
+    "job_industry": "Biotechnology",
+    "job_title": "Geneticist",
+    "hometown_location": "Boulder, Colorado",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Education",
+        "Fitness",
+        "Resilience"
+    ],
+    "interests": [
+        "Mountain climbing",
+        "Reading science fiction",
+        "Piano"
+    ],
+    "education_level": "Doctoral",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'6\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Academia",
+            "Science",
+            "Engineering"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Education",
+            "Health And Fitness",
+            "Determination"
+        ],
+        "interests": [
+            "Outdoors Sports",
+            "Science Fiction",
+            "Music"
+        ],
+        "education_level": [
+            "Doctoral",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight woman of White Caucasian ethnicity, standing 5'6\" tall. Aligned with her Virgo zodiac and INTJ Myers-Briggs personality, she is a Geneticist in the Biotechnology industry with a Doctorate from Harvard University. She hails from Boulder, Colorado, and now resides in Los Angeles, California. She embraces liberal political views, is an agnostic, and lives by the values of education, fitness, and resilience. Her hobbies include mountain climbing, reading science fiction, and playing the piano. She is proficient in English and Spanish, and although she currently has a cat and no children, she plans on having children in the future. To maintain good health, she engages in regular exercise, sometimes drinks, but is a non-smoker with no inclination towards marijuana or other drugs. The user's dating intentions are serious, looking for a long-term monogamous relationship leading to a life partner.",
+    "preferences_summary": "The user is seeking a man who is between 28 and 38 years old and between 5'8\" - 6'6\" in height. Her preferred partner wouldn't have children currently but would want children in the future. Ideally, he's someone who is also straight, drinks sometimes, doesn't smoke, doesn't use marijuana or drugs, and is active physically since the user values Heath and Fitness. She hopes for someone of White Caucasian ethnicity, holding similar liberal political views. Professionally, she prefers him to be within Academia, Science, or Engineering sectors and Education is essential value. He should, at minimum, have a Graduate degree. It is preferable that he speaks English and shares interests in Outdoors Sports, Science Fiction, and Music. Lastly, she desires a life partner and looks for someone who is also looking for a monogamous relationship.",
+    "user_id": "8ba438f2-e760-47a4-a365-7c22934aad30"
+}

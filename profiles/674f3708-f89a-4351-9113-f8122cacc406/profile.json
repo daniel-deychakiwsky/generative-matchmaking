@@ -1,0 +1,104 @@
+{
+    "name": "Amelia Fitzgerald",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of Washington",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Creativity"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Coding",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Art",
+            "Education",
+            "Tech",
+            "Science"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Adventure",
+            "Creativity",
+            "Honesty"
+        ],
+        "interests": [
+            "Reading",
+            "Outdoors",
+            "Active lifestyle"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old straight woman who identifies as White Caucasian and uses She/Her/Hers pronouns, plus she stands 5'6\" tall. Coming from Seattle, Washington, she is a Libra and an INTP personality type. Currently working as a Software Engineer in the tech industry, she lived at the University of Washington and is now based in Los Angeles, California. As someone who values ambition, creativity and family, she is fluent in English and Spanish, enjoys hiking, reading, coding, and cooking, is Agnostic and politically liberal. As of now, she has no children but wants some in the future, practices active exercise, and takes alcohol but doesn't smoke or do any drugs. In for a monogamous, long-term dating intention, should the relationship prove successful. She cherishes her cat, exercising in her active lifestyle.",
+    "preferences_summary": "The user is interested in a long-term monogamous relationship with a straight man aged between 28 to 35 years. Her potential partner should be from any of the races including Black African Descent, East Asian, Hispanic/Latino, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian, or White Caucasian. An ideal partner's height should be between 5'9\" and 6'4\". He should not have children but would like to want them in the future. He should be physically active and refrain from smoking, marijuana, and drug use but occasional drinking is acceptable. In politics, someone with liberal or moderate views is preferred. The desirable partners should work in the Art, Education, Tech, or Science industry and communicate effectively in English. He should value Adventure, Creativity, and Honesty and interests should align in Reading, Outdoors, and an Active lifestyle. Expectations from the partner's education level range from undergraduate to graduate studies.",
+    "user_id": "674f3708-f89a-4351-9113-f8122cacc406"
+}

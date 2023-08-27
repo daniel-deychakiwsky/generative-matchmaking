@@ -1,0 +1,101 @@
+{
+    "name": "Oliver Bennett",
+    "age": 29,
+    "height": "6'2\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Loyalty",
+        "Intelligence",
+        "Honesty"
+    ],
+    "interests": [
+        "Hiking",
+        "Cooking",
+        "Music",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Middle Eastern",
+            "Southeast Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Media",
+            "Education",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Loyalty",
+            "Intelligence",
+            "Honesty"
+        ],
+        "interests": [
+            "Hiking",
+            "Cooking",
+            "Reading",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 29-year-old man is a software developer in the tech industry, and a graduate of the University of California, Berkeley. Standing at 6'2\", he hails from San Francisco, California, but is currently dating in Los Angeles, California. He is fluent in English and Spanish, and practices agnostic beliefs. Politically, he leans liberal. His interests span from hiking and cooking to music and coding. Values such as loyalty, intelligence, and honesty are important to him. He's a man of an active lifestyle, occasionally indulges in a drink, but doesn't partake in smoking or any form of drug. With an INTJ personality type and a Cancer zodiac sign, he prefers monogamy, and is in search of a long-term relationship. While he doesn't have any children at the moment, he does aspire to be a father someday. He is a proud pet dad to his dog. He identifies as a straight white Caucasian using he/him/his pronouns.",
+    "preferences_summary": "This person is interested in dating a woman who is between the ages of 24 and 32. She should have a height that ranges from 5'6\" to 6'0\". Their ideal partner should not have children currently, but she should want children in the future and should be straight. Lifestyle-wise, she should exercise often and be open to drinking occasionally, but she should not engage in smoking or drug use. She should also identify as liberal in her political leanings. Career-wise, she should be working in fields like Tech, Media, Education or Finance. Fluent English is a must. In terms of values, she should prioritize loyalty, intelligence, and honesty. Her interests should include hiking, cooking, reading, or traveling. She should have at least an undergraduate level of education. Additionally, her ethnicity can be White Caucasian, Hispanic/Latino, East Asian, Middle Eastern, Southeast Asian, or Other. Lastly, she should want a long-term relationship based on monogamy.",
+    "user_id": "fdb1a150-06fe-4acf-995c-0678172fb770"
+}

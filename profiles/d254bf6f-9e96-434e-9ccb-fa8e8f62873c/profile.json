@@ -1,0 +1,96 @@
+{
+    "name": "Felicity Bennett",
+    "age": 32,
+    "height": "5'7\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Publishing",
+    "job_title": "Editor",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Empathy"
+    ],
+    "interests": [
+        "Reading",
+        "Traveling",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Publishing",
+            "Culture & Art",
+            "Information Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Empathy"
+        ],
+        "interests": [
+            "Reading",
+            "Traveling",
+            "Gym"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old woman, standing at 5'7\", working as an editor in the publishing industry. She is an alumnus of the University of California, Berkeley and is currently located in Los Angeles, California for dating. She hails from San Francisco, California originally. Fluent in English and Spanish, she values honesty, ambition, and empathy. Her interests include reading, traveling, and hiking. She has attained a graduate level education, and follows agnostic religious beliefs. She describes herself as liberal, is interested in a long-term monogamous relationship, identifies as straight, and is caucasian. She uses she/her pronouns. She has no children but would like to have them in the future. Among her pets is a cat. Born under the sign Gemini, she is typed as ENFP in MBTI. She drinks occasionally, does not smoke, and rejects marijuana and drugs. She maintains an active lifestyle.",
+    "preferences_summary": "The user is seeking a man who is between 30 to 40 years old, stands about 5'10\" to 6'3\" tall, is straight, and is currently without children, but wants them in the future. She prefers non-smokers who are active and occasionally drink but do not use marijuana or drugs. Her ideal partner shares her values of honesty, ambition, and empathy. He should also enjoy reading, traveling, and going to the gym. His ethnicity could be White Caucasian, East Asian, or Other. Politically, he could be liberal or moderate. She also prefers men who work in publishing, culture & art, or information technology. He should at least be able to speak English and have a minimum education level of undergraduate. Importantly, he should share her intention for a long-term relationship and prefer monogamy.",
+    "user_id": "d254bf6f-9e96-434e-9ccb-fa8e8f62873c"
+}

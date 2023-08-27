@@ -1,0 +1,90 @@
+{
+    "name": "Amelia Preston",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of Pittsburgh",
+    "job_industry": "Marketing",
+    "job_title": "Marketing Coordinator",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Loyalty"
+    ],
+    "interests": [
+        "Cooking",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 34,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness"
+        ],
+        "interests": [
+            "Reading",
+            "Dogs",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman, standing 5'6\" tall, who identifies as straight. She is a graduate of the University of Pittsburgh and now works as a Marketing Coordinator within the marketing industry. Originally from Seattle, Washington, she is currently dating in Los Angeles, California. She speaks both English and Spanish. Her Ethics include honesty, kindness, and loyalty, and she enjoys cooking, reading, and traveling. She identifies as an Agnostic, leans liberal in politics, and is searching for a long-term, monogamous relationship. Ethnicity-wise, she is White Caucasian, and she owns a dog. She does not have children but would like some in the future. Her zodiac sign is Gemini and her MBTI personality type is ENFP. While occasionally indulging in a drink, she does not smoke, nor does she partake in marijuana or other drugs. She also maintains an active lifestyle with regular exercises.",
+    "preferences_summary": "The ideal dating partner for this user is a man who is between the ages of 28 and 34 years old and has a height that ranges from 5'6\" to 6'4\". He should not have children but would want them in the future, the same as this user. He must adhere to straight sexuality, does not smoke but can occasionally drink, does not consume marijuana and generally avoids drugs. Engagement in physical exercise is seen favorable. The user is seeking a long-term, monogamous relationship and prefers partners who are caucasian and support liberal politics. Job industry is not vital while proficiency in English is necessary. Key value attributes that must be present are honesty and kindness, and it would be ideal if this partner enjoys reading, has affection for dogs, and engages in travelling. An educational level of either undergraduate or graduate suits this user.",
+    "user_id": "cf41aef4-3eb7-44da-9d4b-3e5cc44dd128"
+}

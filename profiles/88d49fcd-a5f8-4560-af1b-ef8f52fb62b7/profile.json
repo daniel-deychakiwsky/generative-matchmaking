@@ -1,0 +1,95 @@
+{
+    "name": "Mei Chen",
+    "age": 30,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Shanghai, China",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Creativity",
+        "Ambition",
+        "Diversity"
+    ],
+    "interests": [
+        "Travel",
+        "Reading",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "South Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Engineer",
+            "Business"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Ambition",
+            "Integrity",
+            "Respect"
+        ],
+        "interests": [
+            "Fitness",
+            "Travel",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 30-year-old woman is a Software Engineer in the tech industry, based in Los Angeles but originally from Shanghai. She is a graduate from the University of California, Berkeley, speaks both English and Mandarin, and leads an active lifestyle. As an Aquarius, she has an INTP personality type and follows liberal political views. Her core values include creativity, ambition, and diversity. In her free time, she enjoys travel, reading, and coding. She is agnostic, doesn't smoke or take drugs, and occasionally drinks. Currently, she has no pets and no children, but would like to have children in the future. Looking for a long-term, monogamous relationship, she prefers to date someone who respects her values and shares common interests.",
+    "preferences_summary": "The user is seeking a long-term, monogamistic relationship with a straight man aged between 30 to 40 years. He should be between 5'7\" and 6'5\" in height. Her desired partner doesn't have children but wants them in the future. He should indulge in drinking sometimes but must not smoke or use marijuana or any other drugs. An active lifestyle is important for her partner. From an ethnicity point of view, the partner should be East Asian, South Asian, or White Caucasian. On the political side, a liberal mindset aligns closely with her interest. In terms of profession, she is open to a partner from the Tech, Engineering, or Business industry. Her preference is for someone who speaks English and shares interests in Fitness, Travel, and Music. The partner should respect values like Ambition, Integrity, and Respect. For education, an undergraduate or graduate level is desirable.",
+    "user_id": "88d49fcd-a5f8-4560-af1b-ef8f52fb62b7"
+}

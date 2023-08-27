@@ -1,0 +1,100 @@
+{
+    "name": "Hina Patel",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Stanford University",
+    "job_industry": "Tech / IT",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Jose, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Ambition",
+        "Creativity",
+        "Adventure"
+    ],
+    "interests": [
+        "Traveling",
+        "Coding",
+        "Reading",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "ISTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech / IT",
+            "Healthcare",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Ambition",
+            "Family",
+            "Adventure"
+        ],
+        "interests": [
+            "Traveling",
+            "Coding",
+            "Reading",
+            "Fitness"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old Straight South Asian woman who uses she/her/hers pronouns. She is a Software Engineer in the Tech / IT industry and holds a Graduate degree from Stanford University, with ISTJ as her MBTI personality type. Originally from San Jose, California, she now lives and dates in Los Angeles, California. She values Ambition, Creativity, and Adventure and has interests in Traveling, Coding, Reading, and Yoga. She's an active individual who sometimes drinks, but doesn't smoke, and doesn't use marijuana or other drugs. As an Atheist and political moderate, she intends to engage in a Long term, Monogamous relationship. She does not have children currently but intends to have in the future. She's trilingual, fluent in English and Hindi. She does not own any pets, she is a Cancer by zodiac sign, and she's looking for a partner who meets her preferences.",
+    "preferences_summary": "The user, a woman aged 28, prefers a man between the ages of 28 to 35, who is at least 5'8\" to 6'2\" in height. Her preference is for her partner to not have children, but she wants them to be open to having children in the future. She prefers a man who occasionally drinks, but does not smoke or use marijuana or other drugs, and maintains an active lifestyle. Her partner should share similar interests in traveling, coding, reading, and fitness. This woman wants her man to have a long term dating intention and believes in monogamous relationships. She is open to meeting men from different ethnic backgrounds; specifically White Caucasian, Black African Descent, Hispanic/Latino, and South Asian ethnicities. She prefers the man's political beliefs to be either Liberal or Moderate. Possible job industries that the man could be working in include Tech / IT, Healthcare, or Education and he should share similar values such as ambition, family, and adventure. The man must be able to speak English and hold an undergraduate, graduate, or doctoral education level.",
+    "user_id": "9e3069d7-2ece-4fe9-8430-e46a18e003a2"
+}

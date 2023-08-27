@@ -1,0 +1,96 @@
+{
+    "name": "Amelia Robertson",
+    "age": 28,
+    "height": "5'5\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Open-mindedness",
+        "Kindness"
+    ],
+    "interests": [
+        "Coding",
+        "Cooking",
+        "Traveling",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat",
+        "Fish"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness"
+        ],
+        "interests": [
+            "Coding",
+            "Cooking",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who is 5'5\". She is a graduate of the University of California, Berkeley, and currently works as a Software Engineer in the tech industry. Although originally from San Diego, California, she is currently dating in Los Angeles. She speaks both English and Spanish fluently. Her core values include honesty, open-mindedness, and kindness. In her free time, she enjoys activities such as coding, cooking, traveling, and reading. She is agnostic, tilts left politically as a liberal, and is interested in long-term, monogamous relationships. She identifies as a straight, white Caucasian and specifies her pronouns as she/her/hers. She doesn\u2019t have any children but wishes to have them in the future. She has a pet cat and fish and is a Leo with an INTJ personality type. While she sometimes drinks, she doesn't smoke or use marijuana or other drugs. She is an active person who regularly exercises.",
+    "preferences_summary": "The user is looking for a man aged between 27 and 35 years old, who is 5'8\" to 6'3\" tall. He should not have children but wants them in the future, and is straight. He can be a moderate or liberal in political views. She expects her partner to be someone who exercises sometimes, occasionally drinks, and does not smoke marijuana or use drugs. Her match should come from tech or finance sectors and should be fluent in English. She wants someone who shares some of her interests, which include coding, cooking, and traveling. Her potential partner must value honesty and kindness, and his educational level should at least be undergraduate or graduate. The acceptable ethnicities for the partner include East Asian, Hispanic/Latino, and White Caucasian. The relationship the user is looking for must be monogamous and with long-term intentions.",
+    "user_id": "57675dcf-51a7-4d87-a238-35f2b83ef703"
+}

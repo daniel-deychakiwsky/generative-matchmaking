@@ -1,0 +1,88 @@
+{
+    "name": "Mayumi Nakamura",
+    "age": 32,
+    "height": "5'6\"",
+    "school": "Tokyo University",
+    "job_industry": "Telecommunications",
+    "job_title": "Software Engineer",
+    "hometown_location": "Kyoto, Japan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Japanese",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Career Growth",
+        "Travel"
+    ],
+    "interests": [
+        "Music",
+        "Hiking",
+        "Reading",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Any"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Any"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 32-year-old woman is a Software Engineer working in the Telecommunications industry. She's a graduate from Tokyo University and is originally from Kyoto, Japan but is now situated in Los Angeles, California. Fluent in both English and Japanese, she values family, career growth, and travel among several other interests such as music, coding, hiking, and reading. Although a devoted Buddhist and politically liberal, she believes in one on one, monogamous relationships and has intentions for the long term. She identifies as an INTJ, a grinder but doesn't have any children although she's interested in having some in the future. She's healthy, consumes Alcohol sometimes but doesn't smoke or use any illegal substances. She owns a cat and desires a partner of similar ethics, practices, and interests.",
+    "preferences_summary": "The user is interested in a man who is between the ages of 28 and 38, and stands from 5'6\" to 6'2\" tall. Important aspects to her are that her potential future partner is expecting to have a long-term, monogamous relationship and does not currently have children but would like to have them in the future. She also prefers her partner to be physically active and a non-smoker. Possibly consuming alcohol is acceptable but she says no to marijuana or any other drugs. A man who is politically liberal and who has at least a graduate education level is desirable. She is open to any ethnic backgrounds and the man doesn't necessarily need to come from a specific job industry or have some specific values or interests but he should be able to converse in English.",
+    "user_id": "a4fc7856-85dd-4192-ac9b-06d904b6ef66"
+}

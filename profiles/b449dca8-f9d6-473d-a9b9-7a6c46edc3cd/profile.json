@@ -1,0 +1,97 @@
+{
+    "name": "Diego Ramirez",
+    "age": 32,
+    "height": "5'11\"",
+    "school": "University of California, San Diego",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Independence",
+        "Creativity"
+    ],
+    "interests": [
+        "Biking",
+        "Photography",
+        "Tech innovation"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "Sometimes",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Not political",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Art",
+            "Education",
+            "Media"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Creativity"
+        ],
+        "interests": [
+            "Outdoor activities",
+            "Photography",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 32-year-old Software Engineer from the tech industry is a 5'11\", Hispanic/Latino male who goes by the pronouns of he/him/his. He graduated from the University of California, San Diego and currently resides in Los Angeles, originally from San Francisco. An active individual, he enjoys biking and photography, always intrigued by tech innovations. As a Gemini, his values steer towards honesty, independence, and creativity, while he identifies himself politically as Liberal and is an Atheist. In terms of lifestyle, he drinks, occasionally uses marijuana but steers clear from smoking and drugs. He currently doesn\u2019t have children, but would like some in the future. His furry companion comes in the form of a dog. In his quest for a long-term, monogamous relationship, he prefers a partner who shares his love for English and Spanish.\n",
+    "preferences_summary": "The user is looking for a long term, monogamous relationship with a woman who is straight, active, and between the ages of 25 to 35. She should ideally also be interested in having children. The ideal partner could vary in height - from 5'2'' to 6'0'' and should not already have children. The user prefers a non-smoker who uses no drugs, although occasional drinking is acceptable. Importantly, she should speak either English or Spanish. The user is attracted to women from diverse ethnic backgrounds including White Caucasian, Hispanic/Latino, and Black African Descent backgrounds. Politically, she can either be liberal or not political at all. The woman should share similar values such as honesty, ambition, and creativity, and have interests in outdoor activities, photography, or cooking. She should also be educated with an undergraduate or graduate degree and works in the Art, Education, or Media industry.",
+    "user_id": "b449dca8-f9d6-473d-a9b9-7a6c46edc3cd"
+}

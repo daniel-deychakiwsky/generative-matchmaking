@@ -1,0 +1,100 @@
+{
+    "name": "Julia Mendoza",
+    "age": 26,
+    "height": "5'6\"",
+    "school": "UC Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Jose, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Loyalty",
+        "Independence",
+        "Humor"
+    ],
+    "interests": [
+        "Cooking",
+        "Programming",
+        "Reading",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Any"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "High school",
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 26-year-old woman is a grounded and adventurous Scorpio. As an INTJ personality type, she values loyalty, independence, and humor. A Software Engineer in the Technology industry, she holds an advanced degree from UC Berkeley. She hails from San Jose, California but is currently based in Los Angeles. This avid cook loves reading, hiking, and keeps active. She identifies as straight and is loyal to her furry friend, her dog. Our user values a night with close company but also appreciates quiet solitary nights soaked in the glow of her coding screen. Notable qualities include her liberal political views, her agnostic religious beliefs, and her fluency in English and Spanish. Although she is a non-smoker and prefers to stay away from drugs and marijuana, she does enjoy drinking occasionally. She has strong intentions towards long term dating with potential monogamous relationships factoring in her future with children.",
+    "preferences_summary": "The user is seeking a man who is aged between 26 and 35, standing between 5'6\" and 6'3\" in height. It is mandatory for her to-be partner to want children in the future, be sexually straight, occasionally drink, and abstain from smoking, using marijuana, and drugs. Likely, her future partner also lives an active lifestyle. He should be courteous about commitment and be focused on starting a long-term relationship within a monogamous structure. She has no specific preferences about her potential partner's ethnicity, political ideologies, job industry, languages spoken, values, and interests. However, she considers the level of education which he finished, but even then, she accepts from a high school education onwards.",
+    "user_id": "639f1cc3-6cdb-47f2-85cf-a2deed6f2692"
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Tao Chen",
+    "age": 28,
+    "height": "5'9\"",
+    "school": "Beijing University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Beijing, China",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Mandarin",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Career Success",
+        "Integrity"
+    ],
+    "interests": [
+        "Reading",
+        "Gaming",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'9\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Mandarin",
+            "English",
+            "Other"
+        ],
+        "values": [
+            "Family",
+            "Career Success",
+            "Integrity"
+        ],
+        "interests": [
+            "Reading",
+            "Traveling",
+            "Other"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old man who stands 5'9\" tall and is of East Asian ethnicity. He currently works as a Software Engineer in the technology industry. He was educated at Beijing University and has reached a graduate level of education. He speaks both Mandarin and English. He lives in Los Angeles, California, originally from Beijing, China. His values focus on family, career success, and integrity, reflected through his interests which include reading, gaming, and traveling. Although he identifies with Buddhism and maintains moderate political beliefs, he doesn't have any pets. Gemini is his Zodiac sign, and his MBTI personality type is INTJ. He does not smoke, occasionally drinks, and does not use marijuana or other drugs. He leads an active lifestyle in terms of exercise. He does not have any children but does want them in the future. In terms of relationships, he is looking for monogamy and has long-term dating intentions. He identifies as straight and uses the pronouns he/him/his.",
+    "preferences_summary": "The user is seeking a woman aged between 24 and 32, who is between 5'2\" and 5'9\". She should not have children, but be interested in having some in the future. In terms of lifestyle habits, she should be active, sometimes drink, and not do drugs, including smoking and marijuana. She should have any job, and be a moderate or liberal. She's preferred to speak Mandarin, English or any other language. As for values, she should regard family, career success and integrity highly. The user is interested in partners who like reading, traveling, and other hobbies. He's open to partners with undergraduate, graduate, or doctoral educational levels. The user's partner should be interested in a long-term relationship and monogamous. He is open to partners who are East Asian, White Caucasian, or from other ethnic backgrounds.",
+    "user_id": "fffe2fd7-bd21-4cf3-aec6-d445fc92b8bc"
+}

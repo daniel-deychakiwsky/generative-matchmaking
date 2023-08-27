@@ -1,0 +1,96 @@
+{
+    "name": "Charlotte Davis",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Honesty",
+        "Ambition"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Reading",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Engineering"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Responsibility"
+        ],
+        "interests": [
+            "Hiking",
+            "Movies",
+            "Yoga"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old white Caucasian Taurus woman standing at 5'6\" tall. She is a Software Developer in the Tech industry, originally from Sacramento, California, but currently residing in Los Angeles, California for dating purposes. Highly educated, she is a graduate of the University of California, Los Angeles. She is Agnostic, Liberal, and identifies as straight with INTP personality type. Her pronouns are she/her/hers, and her interests include coding, hiking, reading, and yoga. She is bilingual, speaking English and Spanish, and values family, honesty, and ambition. Although she doesn't have any currently, she is open to having children in the future and is looking for a long-term, monogamous relationship. She has a cat, occasionally drinks, and is committed to staying active but does not smoke or use marijuana or drugs.",
+    "preferences_summary": "The user is seeking a man who is straight and falls within the age range of 28 to 35 years old. Ideal partner should be taller, with a height between 5'8\" to 6'2\". He doesn't have children but wants to have them in the future. The desired partner is physically active, drinks sometimes and does not smoke, use marijuana, or other drugs. He should be interested in a long-term relationship and believes in monogamy. Preferred ethnicities are White Caucasian and Hispanic/Latino. Politically, he should be liberal. The potential partner could work in the tech, healthcare, or engineering industries. He must be able to speak English, Spanish and share similar values such as honesty, ambition, and responsibility. The desired partner's interests include hiking, watching movies, and yoga, and he should have an undergraduate or graduate level of education.",
+    "user_id": "2e700208-32aa-4819-8669-9d5cadc64e47"
+}

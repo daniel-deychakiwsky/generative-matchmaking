@@ -1,0 +1,92 @@
+{
+    "name": "Isabelle Lowell",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of Southern California",
+    "job_industry": "Entertainment",
+    "job_title": "Film Producer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Creativity",
+        "Ambition",
+        "Family"
+    ],
+    "interests": [
+        "Cinema",
+        "Yoga",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 36,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Entertainment",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Creativity",
+            "Ambition",
+            "Family"
+        ],
+        "interests": [
+            "Outdoors",
+            "Movies",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who uses she/her pronouns and identifies as straight. She is a White Caucasian of 5'6\" in height, with an active lifestyle and is an inspiring Film Producer in the entertainment industry. She studied at the University of Southern California, marking her education level as a graduate. She prides herself in speaking both English and French fluently. This Gemini and an ENFP is originally from San Francisco, but is currently dating in Los Angeles. Her religious beliefs are agnostic, and politically, she leans liberal. Some of her highlighted values are creativity, ambition, and family. She enjoys cinema, yoga, and traveling in her free time. She's a proud cat owner, and while she does not have children, she would like them in the future. Lastly, her intake includes drinking but abstains from smoking, marijuana, and drugs.",
+    "preferences_summary": "The user is seeking a man between the ages of 28 and 36, who is between 5'10\" and 6'4\" in height. He should not have children but must want them in the future. He should be straight, enjoy drinking, but not smoke, use marijuana or drugs. He's expected to be active physically. The man should be interested in a long-term monogamous relationship. The user prefers a man of White Caucasian ethnicity and a liberal in terms of politics. The potential partner should be employed in the entertainment or technology industry. English should be one of his languages and he should espouse the values of creativity, ambition, and family. Interests should include the outdoors, movies, and traveling. His education level should be either undergraduate or graduate.",
+    "user_id": "2a220cb7-5cfa-4951-9d9b-2afee0fc7866"
+}

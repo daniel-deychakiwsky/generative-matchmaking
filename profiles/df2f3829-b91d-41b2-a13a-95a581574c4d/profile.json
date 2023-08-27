@@ -1,0 +1,99 @@
+{
+    "name": "Carlos Rodriguez",
+    "age": 30,
+    "height": "6'2\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Miami, Florida",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Humor",
+        "Creativity"
+    ],
+    "interests": [
+        "Salsa dancing",
+        "Cooking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Technology",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Drive",
+            "Humor"
+        ],
+        "interests": [
+            "Travel",
+            "Cooking",
+            "Reading",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 30-year-old straight man stands 6'2\" tall and works as a Software Engineer in the Technology industry in Los Angeles, California. Originating from Miami, Florida, he is an English and Spanish speaker, having graduated from the University of California, Los Angeles. As a very active gentleman with Liberal political views, his interests range from Salsa dancing and cooking to coding. He's serious about his relationship goals, aiming for long-term monogamy. He identifies as an Atheist with ENTP personality type and greatly values honesty, humor, and creativity. Despite not currently having children, he hopes for a future with youngsters. He owns a pet dog, he drinks but is a non-smoker, and does not engage in drug use. He is of Hispanic/Latino ethnicity and is a Libra by astrology. With his direct and witty nature, he loves to orchestrate and seeks a partner who shares similar values.\n",
+    "preferences_summary": "The user is seeking a woman between the ages of 25 and 35, standing anywhere from 5'5\" to 6'2\" tall. She should not have children but should desire to have some in the future. Her sexual orientation should be straight, and she should lead an active lifestyle. Ideally, she should be non-smoker, not use marijuana or other drugs, though she may enjoy drinking. Her ethnicity can be White Caucasian, East Asian, Hispanic/Latino, or Black African Descent. She could have a moderate to liberal political stance and work in the industries like Education, Healthcare, Technology, or Finance. The potential partner should at least speak English, value honesty, drive, and humor, have interests in traveling, cooking, reading, and music. Her education level should be at least an undergraduate. The user is looking for a long-term monogamous relationship.",
+    "user_id": "df2f3829-b91d-41b2-a13a-95a581574c4d"
+}

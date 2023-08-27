@@ -1,0 +1,101 @@
+{
+    "name": "Olivia Brown",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Education"
+    ],
+    "interests": [
+        "Hiking",
+        "Photography",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Education",
+            "Finance",
+            "Consulting"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Integrity",
+            "Kindness"
+        ],
+        "interests": [
+            "Traveling",
+            "Hiking",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a woman who prefers to be addressed with the pronouns She/Her/Hers. 28 years old and standing at 5'7\" tall, she resides in Los Angeles, California but originally comes from Seattle, Washington. As a Software Engineer in the tech industry, she holds a graduate level education from Stanford University. Her primary spoken languages include English and Spanish. A straight woman with an Aquarius sign and an ENFJ personality type, she labels herself as a Christian, moderate in politics, and upholds the values of honesty, family, and education. Her interests include hiking, photography, and traveling. Despite having no children, she does intend to have them in the future. She is also an owner of a dog. She doesn't smoke or do any drugs but she does drink occasionally, exercises actively, and is looking for a long-term, monogamous relationship.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 35, with a height ranging from 5'8\" to 6'2\". He should be without children, but wants to have them in the future, and identifies as straight. The user prefers a man who only drinks occasionally, doesn't smoke, and neither uses marijuana nor other drugs. Their potential partner should lead an active lifestyle. The user is interested in a man who is interested in a long term relationship and prefers monogamy. Ethnicity wise, acceptable backgrounds include White Caucasian, East Asian, Hispanic/Latino, Middle Eastern, and Black African Descent. Politically, the user is open to a partner who is liberal, moderate, or conservative. Preferred job industries are technology, healthcare, education, finance, and consulting. The potential partner should be able to speak English and shares values of honesty, integrity, and kindness. Common interests should include traveling, hiking, and cooking. As for education, the user's partner should at least have an undergraduate degree.",
+    "user_id": "d75c4464-755c-4142-b8e0-10cd27f9e50b"
+}

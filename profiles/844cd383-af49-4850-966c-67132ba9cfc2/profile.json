@@ -1,0 +1,96 @@
+{
+    "name": "Sarah O'Brien",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of Denver",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Denver, Colorado",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard Work",
+        "Creativity"
+    ],
+    "interests": [
+        "Hiking",
+        "Gaming",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 36,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Health",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Hard Work",
+            "Family"
+        ],
+        "interests": [
+            "Hiking",
+            "Gaming",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old straight woman of White Caucasian ethnicity, her pronouns are She/Her/Hers, and she is based out of Los Angeles, California. She stands 5'6\" tall, is a hardworking and creative software developer in the tech industry, and values honesty above all else. She's an atheist and leans to the liberal side of politics. Despite hailing from Denver, Colorado, she has adapted well to her Californian life, enjoying hiking, gaming, and cooking in her free time. She's also bilingual, capable of communicating effectively in both English and Spanish. As a graduate from the University of Denver, she has attained a high level of education. She follows an active exercise routine, occasionally likes to drink but stays away from smoking, marijuana, and other drugs. She's a proud cat owner too. Her profile indicates she's into monogamy and is looking for a long-term commitment. She is a non-parent who is open to having children in the future. She is a Capricorn and an INTJ personality type by Myers-Briggs classification.\n",
+    "preferences_summary": "This user is seeking a man who is straight and aged between 28 and 36 years. The preferred partner should fall in the height range of 5'8\" to 6'2\", and should not have children but wants to have them in the future. The ideal partner would occasionally drink, but not smoke, use marijuana or other drugs, and should lead an active lifestyle. Ethnic preferences include White Caucasian, Hispanic/Latino, or other ethnicities. The user prefers someone who has liberal or moderate political views. They would like their partner to work in the tech, health, or education sectors and must speak English. The partner's values should revolve around honesty, hard work, and family, and their interests should include hiking, gaming, and cooking. Their education level should at least be at the undergraduate level. The user is seeking a partner for a long-term, monogamous relationship.",
+    "user_id": "844cd383-af49-4850-966c-67132ba9cfc2"
+}

@@ -1,0 +1,98 @@
+{
+    "name": "Carlos Rodriguez",
+    "age": 35,
+    "height": "5'10\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Miami, Florida",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Work-Life Balance"
+    ],
+    "interests": [
+        "Surfing",
+        "Software Development",
+        "Traveling",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 37,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "East Asian",
+            "Pacific Islander"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "All"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Family-Oriented"
+        ],
+        "interests": [
+            "Outdoor Activities",
+            "Music",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 35-year-old man identifying as straight, going by the pronouns He/Him/His. He is of Hispanic/Latino ethnicity, stands 5'10\" tall, and has an Aries zodiac sign with an INTJ personality type. He holds a graduate degree and works in the technology industry as a Software Developer. He attended the University of California, Los Angeles, and hails from Miami, Florida, but currently resides in Los Angeles, California. An atheist with moderate political views, he values honesty, kindness, and work-life balance. His interests are inclined towards surfing, software development, traveling, and cooking. Although he doesn't have any children, he looks forward to having them in the future. He owns a dog, enjoys being active, and drinks occasionally but doesn't engage in smoking or drug use. He is fluent in both English and Spanish. His ultimate goal in dating is to find a life partner for a monogamous relationship.",
+    "preferences_summary": "The user is seeking a woman aged between 27 and 37 who is at least 5'4'' but not over 6'0'' in height. She shouldn't have children but should want to have them in the future. She must also be straight and lead an active lifestyle. She should not be a smoker, marijuana user, or drug user, but an occasional drinker is tolerable. When it comes to ethnicity, he is open to dating White Caucasians, Hispanic/Latinos, Black Africans, East Asians, and Pacific Islanders. In terms of politics, she can be liberal, moderate, or conservative. It doesn't matter what industry she works in, as long as she can speak English. This woman should be honest, kind and family-oriented, and should bear interests in outdoor activities, music and traveling. Finally, the woman should have at least an undergraduate degree.",
+    "user_id": "73677d2b-6f04-4159-a25b-ddaa2be11f3e"
+}

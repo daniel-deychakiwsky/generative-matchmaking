@@ -1,0 +1,100 @@
+{
+    "name": "Ian Chen",
+    "age": 28,
+    "height": "5'9\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Kindness",
+        "Honesty",
+        "Hard-Work"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Kindness",
+            "Honesty",
+            "Hard-Work"
+        ],
+        "interests": [
+            "Coding",
+            "Hiking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 28-year-old man stands at 5'9\" and is a Software Engineer in the tech industry. He is based in the tech hub of San Francisco but is currently dating in Los Angeles. As a graduate from the prestigious University of California, Berkeley, education is a significant part of his life. He is English and Mandarin bilingual. Previously defined as an Aries INTJ, he concentrates on values like Kindness, Honesty, and Hard-work. He likes coding, hiking, and reading. Labeling himself as Agnostic, he endorses liberal politics. His intentions in the dating scene are long term and lean towards monogamous relations. Although he does not have children, he plans to have them sometime in the future. He holds an active and healthy lifestyle and occasionally engages in social drinking, but abstains completely from smoking, marijuana, and drugs. At present time, he doesn't own any pets.",
+    "preferences_summary": "The user is interested in a woman who is between the ages of 24 and 30, with a height range of 5'2\" to 5'10\". She should not have children, but should want them in future. Her drinking should be moderate, and she shouldn't smoke or use marijuana or drugs. It's important the user's match is active and possesses values of kindness, honesty, and hard work. Shared interests in coding, hiking, and reading are also important. Her education level should be at least undergraduate and graduated levels. She can be of a variety of ethnic backgrounds, and should be open to a long-term monogamous relationship. Politically, she should be liberal, moderate or not particularly political. Above all, she must have proficiency in English.",
+    "user_id": "352e79b0-390b-4813-bba3-7ee527c6c876"
+}

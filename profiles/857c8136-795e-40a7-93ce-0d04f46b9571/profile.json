@@ -1,0 +1,105 @@
+{
+    "name": "Antonio Lopez",
+    "age": 34,
+    "height": "6'1\"",
+    "school": "UCLA",
+    "job_industry": "Law Enforcement",
+    "job_title": "Detective",
+    "hometown_location": "El Paso, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Faith"
+    ],
+    "interests": [
+        "Hiking",
+        "Cooking",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 40,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Arts"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Ambition",
+            "Faith"
+        ],
+        "interests": [
+            "Cinema",
+            "Cooking",
+            "Travel"
+        ],
+        "education_level": [
+            "High school",
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 34-year-old man hails from El Paso, Texas, and now resides in Los Angeles, California. He is a 6'1\" Catholic Detective in the Law Enforcement field and a proud graduate of UCLA with a postgraduate education level. He is a straight, Hispanic/Latino man seeking monogamy and a life partner. Apart from English, he also speaks Spanish fluently. Family, Ambition, and Faith are the values he holds dear combined with interests in Hiking, Cooking, and Reading. His political orientation is moderate, and he doesn't smoke or use drugs. He occasionally drinks and leads an active lifestyle which complements his hiking interest. He admits a Virgo with an INTJ personality on the MBTI Scale. He does reckon the importance of religion in his life. Moreover, even though currently has no children, he certainly aspires to become a father in the future. Lastly, he is a proud pet parent as he owns a Dog.",
+    "preferences_summary": "The user's preferred dating partner is a woman between the ages of 28 to 40 years old. She may fall anywhere from a height of 5'4\" to 6'0\". As far as future family plans go, it is important to the user that she doesn't have children, but is open to the desire of wanting them. She should identify as being straight, might take up drinking occasionally, but refrains from smoking, smoking marijuana, and drug usage. Any activity level, from non-exercisers to those who are very active, is acceptable. Aiming for monogamy, this woman seeks to be in a long-term relationship, towards finding a life partner, similar to the user. The user is open to dating women from a broad range of ethnic backgrounds-mainly, Black African Descent, East Asian, Hispanic/Latino, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian, or White Caucasian. She may have liberal, moderate, or conservative political beliefs. Preferably, her job is in the education, healthcare, or arts sector. Knowledge of English must be a must-have. The woman should prioritize family, ambition, and faith values as well. Cinema, cooking, and travel should be on her list of hobbies or leisure activities. Moreover, the user hopes to connect with a woman who would've completed different levels of education ranging from high school to a doctoral degree.",
+    "user_id": "857c8136-795e-40a7-93ce-0d04f46b9571"
+}

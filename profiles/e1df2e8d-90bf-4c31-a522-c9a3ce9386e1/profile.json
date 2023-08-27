@@ -1,0 +1,94 @@
+{
+    "name": "Chen Wei",
+    "age": 28,
+    "height": "5'10\"",
+    "school": "Beijing University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Beijing, China",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Mandarin",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Work ethic",
+        "Education"
+    ],
+    "interests": [
+        "Coding",
+        "Running",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Any"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Family",
+            "Work ethic",
+            "Education"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old man who identifies as straight and practices monogamy, and his pronouns are He/Him/His. With an East Asian ethnicity, he is a Beijing-native and a graduate from Beijing University, currently living in Los Angeles, California and working in the technology industry as a Software Engineer. His interests include coding, running, reading, and traveling. Family, work ethic, and education are fundamental values for this Aries-born INTJ personality. Apart from Mandarin, his native language, he also speaks English fluently. He practices moderate politics and identifies as Agnostic. In terms of lifestyle, he leads an active life, drinks occasionally, but does not smoke or use marijuana or other drugs. Although he doesn't have any children yet, he looks forward to having some in the future. As of now, he doesn't own or care for any pets. His intentions for dating are geared towards a long-term relationship.",
+    "preferences_summary": "The user prefers to date a woman, aged between 24 and 32, with a height between 5'0\" and 6'0\". She should be straight and interested in a long-term, monogamous relationship. Ideally, she does not have children, but wants them in the future. She is allowed to drink, but she should not smoke or use marijuana and drugs. The potential dating partner should maintain an active exercise regime. Ethnicity can range between East Asian, White Caucasian, or any other ethnicity. Her political views should be liberal, moderate, or non-political. Her job industry and languages spoken can range from any field. However, her values need to align with his which are family, work ethic, and education. As for interests, she can have any sort of interests. Lastly, her education level should be at least an undergraduate.",
+    "user_id": "e1df2e8d-90bf-4c31-a522-c9a3ce9386e1"
+}

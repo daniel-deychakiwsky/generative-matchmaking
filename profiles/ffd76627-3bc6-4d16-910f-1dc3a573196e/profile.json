@@ -1,0 +1,98 @@
+{
+    "name": "Sophia Russo",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California, Santa Barbara",
+    "job_industry": "Information Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Italian"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Family",
+        "Independence"
+    ],
+    "interests": [
+        "Technology",
+        "Music",
+        "Travel",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "None"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Finance",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Loyalty",
+            "Family"
+        ],
+        "interests": [
+            "Music",
+            "Technology",
+            "Travel"
+        ],
+        "education_level": [
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old woman who is 5'6\" tall. She is a graduate of the University of California, Santa Barbara, and currently works as a Software Developer in the Information Technology industry. Her hometown is San Francisco, California, but she is currently dating in Los Angeles, California. She speaks three languages: English, Spanish, and Italian. Her core values are honesty, loyalty, family, and independence. Her interests are mainly in technology, music, travel, and cooking. She identifies as Agnostic and is politically liberal. She is interested in a long-term, monogamous relationship. She identifies as straight and uses the pronouns She/Her/Hers. She has no children yet but wishes to have in the future. She has a dog as a pet. Her zodiac sign is Taurus, and her MBTI personality type is INFJ. She drinks sometimes but does not smoke or use marijuana or other drugs. She maintains an active lifestyle.",
+    "preferences_summary": "The user is seeking a male partner aged between 29 and 35, who is active, non-smoker, non-drinker and does not use marijuana or drugs. His potential partner should have no children but should want children in the future, just like the user. Her partner should be straight, just like her, and should be between 5'8\" and 6'2\" in height. She prefers her partner to be a Monogamist seeking a life long relationship. He should share similar political beliefs being liberal. She also prefers her partner to be from one of the following job industries: Healthcare, Education, Finance, or Technology. Her preferred partner should be able to speak English and Spanish, share similar values such as Honesty, Loyalty, and Family, and have interests in Music, Technology, and Travel. The education level should be at least graduate. The ethnicity should be a White Caucasian just like her.",
+    "user_id": "ffd76627-3bc6-4d16-910f-1dc3a573196e"
+}

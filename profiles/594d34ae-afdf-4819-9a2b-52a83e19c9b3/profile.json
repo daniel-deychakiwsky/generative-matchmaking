@@ -1,0 +1,97 @@
+{
+    "name": "Zanele Dube",
+    "age": 32,
+    "height": "5'7\"",
+    "school": "University of Cape Town",
+    "job_industry": "Health Care",
+    "job_title": "Public Health Worker",
+    "hometown_location": "Johannesburg, South Africa",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Zulu",
+        "Xhosa"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Health"
+    ],
+    "interests": [
+        "Traveling",
+        "Photography",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 40,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Moderate"
+        ],
+        "job_industry": [
+            "Health Care",
+            "Education",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career",
+            "Health"
+        ],
+        "interests": [
+            "Traveling",
+            "Photography",
+            "Hiking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old woman whose pronouns are She/Her/Hers. She comes from Johannesburg, South Africa and has a graduate level education from the University of Cape Town. She now works in Los Angeles, California as a Public Health Worker in the health care industry. Fluent in English, Zulu, and Xhosa, she values family, career and health, and enjoys traveling, photography, and hiking. As a Christian with moderate political views, she's looking for a long-term, monogamous relationship. She is straight, of Black African Descent and a Gemini according to her zodiac sign. She identifies her MBTI personality type as ENTJ. She does not have children but desires to in the future. She owns a dog and a cat, exercises regularly and sometimes indulges in drinking but does not partake in smoking, marijuana or other drugs.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 40, who is 5'6\" to 6'3\" in height. The potential partner should be straight, have an active lifestyle, be a non-smoker and have moderate political views. While his drinking habits could be occasionally, use of marijuana and other drugs is a definite no. This man should not have children, but want them in the future. As far as ethnicity goes, he could be of Black African Descent, White Caucasian, or other. He should be aiming for a long-term relationship and be monogamous. His preferred fields of work include healthcare, education or others. English should be one of the languages he speaks, and he should value family, career, and health, like the user. They should share interests in traveling, photography, and hiking. His minimum education level must be undergraduate or graduate.\n",
+    "user_id": "594d34ae-afdf-4819-9a2b-52a83e19c9b3"
+}

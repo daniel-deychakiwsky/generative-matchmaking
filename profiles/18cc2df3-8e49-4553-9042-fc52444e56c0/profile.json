@@ -1,0 +1,97 @@
+{
+    "name": "Jonathan Coleman",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Loyalty"
+    ],
+    "interests": [
+        "Music",
+        "Travel",
+        "Technology"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 37,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term, open to short",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Arts",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Loyalty"
+        ],
+        "interests": [
+            "Music",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 32-year-old man is a Software Engineer in the technology industry. Originally from Austin, Texas, he now lives and dates in Los Angeles, California. Standing at 6'1\", he identifies as a white Caucasian Gemini, uses he/him/his pronouns and says he's straight. Being highly educated with a graduate degree from the University of California, Berkeley, he enjoys value-driven discussions centered around honesty, kindness, and loyalty. He's an atheist and associates more with liberal politics. His interests include music, travel, and technology and he stays active when it comes to exercise. He's a social drinker, does not smoke or use marijuana or other drugs, and he has a pet cat. Speaking both English and Spanish, he does not currently have children but is open to having them in the future. He's an INTJ personality type and his intentions are to be in a long-term monogamous relationship, yet he remains open to short-term potential.",
+    "preferences_summary": "The user is interested in dating a woman aged between 27 to 37, with a height ranging from 5'4\" to 6'0\". His potential partner should be active in terms of exercise and only drink occasionally, while avoiding smoking, marijuana, and other drugs. She should share his intentions of having a long-term relationship, but may also be open to a short-term one, all within a monogamous setting. Preferred ethnicities include White Caucasian, Hispanic/Latino, East Asian or South Asian. He is acceptable with her having liberal or moderate political views. He would prefer someone who works in Healthcare, Education, Arts or Technology industries and must speak English. She should not have children but should want to have them in the future. His ideal partner should value honesty, kindness and loyalty, and have interests in travel and music. Lastly, she should have completed at least undergraduate-level education.",
+    "user_id": "18cc2df3-8e49-4553-9042-fc52444e56c0"
+}

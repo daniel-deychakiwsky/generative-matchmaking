@@ -1,0 +1,96 @@
+{
+    "name": "Nicholas Donnelly",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "Stanford University",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Integrity",
+        "Humor"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Music",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Other"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Integrity",
+            "Loyalty"
+        ],
+        "interests": [
+            "Outdoor Activities",
+            "Music",
+            "Cooking",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 32-year-old man is a software engineer in the tech industry. He stands tall at 6'1\" and hails from Austin, Texas, currently residing in Los Angeles, California. Having graduated from Stanford University, he is well-educated and bilingual, speaking both English and Spanish fluently. His interests include coding, hiking, music, and travel, and he values family, integrity, and humor highly. He identifies as agnostic, holds liberal political views, and is looking for a long-term monogamous relationship. His MBTI personality type is INTP, and he is a Scorpio. He occasionally enjoys a drink but does not smoke or use drugs. With an active lifestyle, he keeps himself fit. He also has a pet dog. He does not have children but is open to having them in the future.",
+    "preferences_summary": "The user is interested in dating women aged between 25 to 35, who are straight and active. They should be from 5'4\" to 6'0\" in height. The potential dating partner should not have children, but should want to have children in the future. She should be okay with occasional drinking but not smoke or use marijuana or drugs. She can be a White/Caucasian, East Asian, Hispanic/Latino, or of other ethnicities. Her political views need to align with liberal beliefs. Her job industry isn't a determining factor. As for languages, she should be able to speak English. Her core values should be Family, Integrity, and Loyalty. Her interests should ideally include Outdoor Activities, Music, Cooking, and Travel. On the education front, she should have at least an Undergraduate degree. The user's partner preference indicates they seek long-term monogamy.",
+    "user_id": "537f4936-69e1-4c29-8908-6fb2679a9e48"
+}

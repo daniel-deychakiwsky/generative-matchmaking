@@ -1,0 +1,96 @@
+{
+    "name": "Khadija Ali",
+    "age": 31,
+    "height": "5'7\"",
+    "school": "University of Michigan",
+    "job_industry": "Non-Profit",
+    "job_title": "Program Coordinator",
+    "hometown_location": "Detroit, Michigan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Arabic"
+    ],
+    "values": [
+        "compassion",
+        "equality",
+        "social justice"
+    ],
+    "interests": [
+        "travel",
+        "yoga",
+        "book club"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 36,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Middle Eastern",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Education",
+            "Non-Profit",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "compassion",
+            "equality",
+            "social justice"
+        ],
+        "interests": [
+            "travel",
+            "cooking",
+            "yoga"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 31-year-old straight woman of Middle Eastern ethnicity who uses the pronouns She/Her/Hers. She stands at 5'7\" tall and holds a graduate degree from University of Michigan. Professionally, she works in the non-profit industry as a Program Coordinator, initially hailing from Detroit, Michigan but now residing in Los Angeles, California. She is fluent in both English and Arabic. Among her key values are compassion, equality, and social justice, all of which reflect in her Liberal political inclination. In her free time, she cherishes travel, yoga, and book club meetings. Spirituality-wise, she is a Muslim while her MBTI Personality registers as INFP and astrologically, she is a Virgo. Despite not having kids presently, she has a proclivity to become a mother in the future and currently does not own any pets. She is monogamous and seeking a long-term relationship. Significantly, she is active exercise-wise, makes choice of indulging in alcohol sometimes while abstaining from tobacco, marijuana, and drugs.",
+    "preferences_summary": "The user's ideal dating partner is a man who is between the ages of 29 to 36 standing within 5'6\" to 6'4\" in height. He should be someone without children but interested in having some in the future. The preferred partner may occasionally drink but should be a non-smoker, refrain from marijuana and drugs, and maintains an active lifestyle. His ethnicity can be Middle Eastern, White Caucasian, or from other groups. Politically, he should lean liberal or moderate. He should work in the fields of education, non-profit, or healthcare. An utterance of English is a foundational requirement. Making a long-term commitment is crucial, and he needs to share user's interest in travel, cooking, and yoga. Importantly, he values compassion, equality, and social justice similarly to the user. Desired educational attainment is either an undergraduate or a graduate level degree.",
+    "user_id": "42318d0c-bf43-497c-88be-9f34969cdcbb"
+}

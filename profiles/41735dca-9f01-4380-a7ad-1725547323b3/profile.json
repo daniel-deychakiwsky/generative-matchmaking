@@ -1,0 +1,108 @@
+{
+    "name": "Diego Nkosi",
+    "age": 32,
+    "height": "6'0\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Durban, South Africa",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Xhosa",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Open-mindedness",
+        "Social Justice"
+    ],
+    "interests": [
+        "Coding",
+        "Surfing",
+        "Travel",
+        "Music"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Finance",
+            "Law",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Open-mindedness",
+            "Social Justice"
+        ],
+        "interests": [
+            "Travel",
+            "Music",
+            "Cooking",
+            "Art",
+            "Outdoor Activities"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old straight man from Durban, South Africa, currently living and dating in Los Angeles, California. He stands 6'0\" tall and identifies with Black African descent. Professionally, he works in the Tech industry as a Software Developer. He is a graduate from the University of California, Berkeley and values Honesty, Open-mindedness, and Social Justice. Aside from English, he also speaks Xhosa and Spanish. His interests include Coding, Surfing, Travel, and Music. He does not have children but would like to in the future. This Gemini and ENTP does drink, but abstains from smoking, marijuana, and other drugs. He has a dog as a pet and stays active through exercise. His religious beliefs lean towards atheism, and he holds liberal political views. He is looking for a monogamous, long-term relationship.",
+    "preferences_summary": "The user is seeking a woman, aged between 24 and 35, who shares his interest in long-term monogamy. His ideal partner would stand between 5'4\" and 6'2\" tall, doesn't currently have children but wants them in the future. Her ethnicity can be any of the following: Black African Descent, East Asian, Hispanic/Latino, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian, or White Caucasian. The user is attracted to non-smokers, who drink alcohol, don't use marijuana or drugs, and lead an active lifestyle, similar to himself. He prefers that his partner is either in Tech, Healthcare, Finance, Law, or Education industries and speaks English. She should embody values of honesty, open-mindedness, and social justice, and hold interests in travel, music, cooking, art, and outdoor activities. The desired education level of his partner should be at least an undergraduate. Light political inclinations towards liberal or moderate views are also mentioned.",
+    "user_id": "41735dca-9f01-4380-a7ad-1725547323b3"
+}

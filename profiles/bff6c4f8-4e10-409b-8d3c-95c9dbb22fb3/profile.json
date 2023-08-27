@@ -1,0 +1,107 @@
+{
+    "name": "Ethan Tremblay",
+    "age": 30,
+    "height": "6'0\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Healthcare",
+    "job_title": "Registered Nurse",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Freedom",
+        "Hard Work"
+    ],
+    "interests": [
+        "Running",
+        "Reading",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Black African Descent",
+            "East Asian",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Art",
+            "Business",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Freedom",
+            "Hard Work"
+        ],
+        "interests": [
+            "Running",
+            "Reading",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old man, who identifies his pronouns as He/Him/His. He stands tall at 6'0\", of Hispanic/Latino ethnicity, born and brought up in San Diego, California, but currently dating in Los Angeles, California. He holds a graduate degree from the University of California, Los Angeles, and works diligently in the Healthcare industry as a Registered Nurse. Apart from English, he also speaks Spanish fluently. Running, reading and cooking are his main hobbies. As a liberal political enthusiast and an Agnostic, he values honesty, freedom, and hard work in life. He is single, has no children, but wants them in the future. As for pets, he has a dog and he's a Leo as per his zodiac sign. In line with his ENFJ mbti personality type, he prefers monogamous relationships with a long-term intention. He lives an active lifestyle, does enjoy a drink occasionally but abstains from smoking, marijuana, and drugs. He identifies his sexuality as straight.",
+    "preferences_summary": "The user is looking for a woman aged between 25 and 35 years old, who is between 5'0\" and 6'0\" tall. She should not currently have children, but should want them in the future. Her sexuality should be straight. It's preferred if she occasionally drinks, but she should not smoke or use marijuana and drugs. An active lifestyle is important to the user. Her intentions for dating should be long-term and she should be interested in monogamy. The user is open to women of various ethnic backgrounds including Hispanic/Latino, White/Caucasian, Black/African Descent, East Asian, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian, and others. Her political beliefs, on the other hand, should either be liberal or moderate. She could work in various job sectors - healthcare, education, art, business, and others. Bilingual women who can converse in English and Spanish would be preferable. Values such as honesty, freedom, and hard work should be important to her. She should also share the user's interest in running, reading, and cooking. The user prefers women whose education level is at least up to the undergraduate level but could be as high as graduate or doctoral level.",
+    "user_id": "bff6c4f8-4e10-409b-8d3c-95c9dbb22fb3"
+}

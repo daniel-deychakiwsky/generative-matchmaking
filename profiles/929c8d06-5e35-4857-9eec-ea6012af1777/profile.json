@@ -1,0 +1,89 @@
+{
+    "name": "Marcus Henderson",
+    "age": 29,
+    "height": "5'10\"",
+    "school": "Georgia State University",
+    "job_industry": "Information Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Atlanta, Georgia",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Russian"
+    ],
+    "values": [
+        "Hard work",
+        "Creativity",
+        "Honesty"
+    ],
+    "interests": [
+        "Music",
+        "Coding",
+        "Hiking",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'11\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Any"
+        ],
+        "politics": [
+            "Any"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Any"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 29-year-old, Black African Descent, straight man from Atlanta, Georgia and is interested in a long-term, monogamous relationship. He stands at 5'10\", and works as a Software Engineer in the Information Technology field. He got his graduate degree from the Georgia State University and speaks both, English and Russian. Key values to him include hard work, creativity, and honesty, and he enjoys music, coding, hiking, and reading. He identifies as agnostic, and holds moderate political views. He doesn\u2019t have any children but intends to have some in the future. He enjoys occasionally drinking, and doesn't smoke or use marijuana or other drugs. He is physically active and has a dog as a pet. He is a Scorpio, his MBTI personality type is an ENTJ, and prefers \"He/Him/His\" pronouns. Currently, he is living in Los Angeles, California.",
+    "preferences_summary": "This user is seeking a woman aged between 24 to 32 years, with a height from 5\u20192\u201d to 5'11\". He prefers someone with an active lifestyle who does not smoke, consume alcohol, or use marijuana or other drugs. His potential partner should have no children but have a positive attitude towards having kids in the future. The person can belong to any ethnicity, possess any political belief, work in any job sector, and speak any language. He is looking for a partner intending to be in a long-term, monogamous relationship. The educational qualification of the potential partner should be at least undergraduate, graduate, or doctoral. Although he's open to any interests and values of the potential partner, there's no specific requirement in these areas.",
+    "user_id": "929c8d06-5e35-4857-9eec-ea6012af1777"
+}

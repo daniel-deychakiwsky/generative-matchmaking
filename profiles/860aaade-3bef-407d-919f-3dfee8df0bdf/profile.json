@@ -1,0 +1,101 @@
+{
+    "name": "Keegan O'Sullivan",
+    "age": 28,
+    "height": "5'9\"",
+    "school": "University of Michigan",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Dublin, Ireland",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Gaelic"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Friendship",
+        "Adventure"
+    ],
+    "interests": [
+        "Rock climbing",
+        "Travelling",
+        "Reading",
+        "Coding",
+        "Football"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 30,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Black African Descent",
+            "Other"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Arts",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Family",
+            "Adventure"
+        ],
+        "interests": [
+            "Travelling",
+            "Reading",
+            "Hiking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight man standing at 5'9\" who resides in Los Angeles, California after hailing from Dublin, Ireland. He is an accomplished Software Engineer in the Technology sector, having acquired his education from the University of Michigan. His language skills are showcased through fluency in English and Gaelic. He values hard work, family, friendship, and adventure in high regards. He enjoys rock climbing, traveling, reading, coding, and playing football. His religious alignment identifies him as an agnostic, leaning toward liberal political beliefs. Regarding future relationship plans, he seeks a long-term commitment, monogamy specifically. He does not currently have children but has expressed a desire to have them in the future. He owns a dog as a pet and enjoys leading an active lifestyle. He may enjoy a drink, but he doesn't smoke, consume marijuana or use drugs. His personality type is INTP, aligning with Scorpio zodiac sign.\n",
+    "preferences_summary": "The user is interested in dating a woman, aged between 25 to 30, who is 5'2\" to 6'0\" in height. She must be single and desire to have children in the future, much like the user himself. The potential partner should share the user's view on sobriety, meaning she can drink but doesn't smoke or use marijuana or other drugs. An active lifestyle is important to the user. She should have the intention of engaging in a long-term, monogamous relationship. Her ethnicity could be White Caucasian, Hispanic/Latino, East Asian, Black African Descent, or Other. Politically, she should lean towards liberalism. The user is hoping for a partner who works in Healthcare, Education, Arts, or Technology sectors. Proficiency in English is sought after in a partner, as well as shared values of hard work, family, and adventure. In terms of her interests, the potential partner should fancy travelling, reading, and hiking. As for education, the user's dating preference includes those who have completed Undergraduate or Graduate levels.",
+    "user_id": "860aaade-3bef-407d-919f-3dfee8df0bdf"
+}

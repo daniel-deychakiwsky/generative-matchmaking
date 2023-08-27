@@ -1,0 +1,111 @@
+{
+    "name": "Delilah Henderson",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Healthcare",
+    "job_title": "Registered Nurse",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard work",
+        "Empathy"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Yoga",
+        "Traveling"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "East Asian",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative",
+            "Not political"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Tech",
+            "Education",
+            "Engineering",
+            "Arts",
+            "Science"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Hard work",
+            "Empathy"
+        ],
+        "interests": [
+            "Reading",
+            "Hiking",
+            "Yoga",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral",
+            "Other"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who identifies with she/her/hers pronouns. She is Hispanic/Latino, straight, and currently lives in Los Angeles, California, but is originally from Austin, Texas. She works in the healthcare industry as a Registered Nurse, and is a graduate of the University of California, Berkeley. She is fluent in English and Spanish, and her values include honesty, hard work, and empathy. Her hobbies consist of reading, hiking, yoga, and traveling. She identifies as agnostic, politically moderate, and on the MBTI she is an ENFJ. Her lifestyle is quite active and she doesn't smoke or use drugs, though occasionally drinks. She doesn't have any children, but would like to in the future, and has a pet cat. She is seeking a long term, monogamous relationship.",
+    "preferences_summary": "The user is looking for a straight man aged between 27 and 35 years. The ideal partner should be between 5'8\" and 6'3\" tall, not have children but intends to have some in the future. He should drink but not indulge in smoking or use marijuana or other drugs. His interest lies in being actively engaged in exercises. He wants a long-term monogamous relationship and can be of any races stated in the user's preferences. His political views can range from liberal to being not political. He should be working in specified sectors among healthcare, tech, education, engineering, arts, or science. The partner needs to value honesty, hard work, and empathy and should be proficient in English. His education level should be at least an undergraduate, and he should share common interests including reading, hiking, yoga, and traveling.",
+    "user_id": "2db04dcd-2497-422d-a8b1-2f6ac568c178"
+}

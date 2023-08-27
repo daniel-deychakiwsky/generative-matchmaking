@@ -1,0 +1,98 @@
+{
+    "name": "Mei Ling",
+    "age": 30,
+    "height": "5'5\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Hard Work",
+        "Educational Achievement",
+        "Work-Life Balance",
+        "Authenticity"
+    ],
+    "interests": [
+        "Playing Piano",
+        "Traveling",
+        "Studying AI Trends",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance",
+            "Entertainment",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard Work",
+            "Educational Achievement"
+        ],
+        "interests": [
+            "Intellectual Conversations",
+            "Traveling",
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old woman who identifies as straight and seeks monogamy. She uses she/her pronouns and is of East Asian ethnicity. She stands 5'5\" tall and does not have children but is open to having them in the future. She works in the tech industry as a Software Engineer, having graduated from the University of California, Berkeley. She resides in San Francisco but plans to date someone in Los Angeles.\n\nShe fluently speaks English and Mandarin and follows liberal politics. She remains nonreligious as an atheist and admires values such as hard work, educational achievement, balance between work and life, and authenticity. Her interests consist of playing the piano, traveling, probing AI trends, and cooking. Her exercise routine is active, while her outlook on smoking, recreational marijuana, and drugs are resolutely against.\n\nHer MBTI personality type is INFJ, and her zodiac sign is Libra. She enjoys occasional drinking and owns a cat. Long term dating intentions make up part of her relationship goal.",
+    "preferences_summary": "The user prefers a dating partner aged between 28 and 35 years with a height range of 5'7\" to 6'2\". Her potential partner should be a man who hasn't any children but desires to have in future. Substance usage is a critical factor; she prefers a partner who ingests alcohol but abstains from smoking, marijuana, and illicit drugs. Being engaged in a physical workout is also preferred. In terms of intentions, she is interested in men seeking a long term monogamous relationship. Ethnic preferences lean towards East Asians, White Caucasians, and others. Comparatively liberal and moderate political views are acceptable, as with various job sectors such as tech, finance, entertainment, and others. Proficiency in the English language is mandatory. In line with her own values, potential partners should value hard work and educational achievement, flexibly interested in intellectual conversations and traveling or having any other interest. Lastly, undergraduate or graduate education levels are preferred by the user.\n",
+    "user_id": "59c9cda0-6c6e-4d45-93f2-7d8e75d6c652"
+}

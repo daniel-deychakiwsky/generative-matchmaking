@@ -1,0 +1,96 @@
+{
+    "name": "Naomi Turner",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "Harvard University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Chicago, Illinois",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hard work",
+        "Optimism",
+        "Creativity"
+    ],
+    "interests": [
+        "Hiking",
+        "Cooking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Engineering"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Family",
+            "Integrity"
+        ],
+        "interests": [
+            "Outdoor activities",
+            "Movies",
+            "Food"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who identifies with she/her/hers pronouns and identifies as straight. She is of Hispanic/Latino ethnicity and is 5'7\" tall. Professionally, she works in the Tech industry as a Software Engineer after graduating from Harvard University. She hails from Chicago, Illinois but is currently dating in Los Angeles, California. Fluent in both English and Spanish, she values hard work, optimism, and creativity while enjoying interests such as hiking, cooking, and coding. As an agnostic and liberal, she exercises actively and practices monogamy with intentions for a long-term relationship. Despite not having children currently, she looks forward to having some. She has pets including a dog and a cat and enjoys drinking occasionally but does not partake in smoking, marijuana, or other drugs. Additionally, she's a Leo and her MBTI personality type is INTP.",
+    "preferences_summary": "The user is seeking a man aged between 28 to 35 years who is straight, from East Asian, White Caucasian or Hispanic/Latino ethnicities, with a height between 5'8\" and 6'2\". The prospective partner should not have children but should be open to having some in the future. The user prefers someone who drinks but doesn't smoke, marijuana, or use drugs, and who is physically active. They should have long term dating intentions and be interested in monogamous relationships. In terms of personality and interests, the user is looking for a partner who values hard work, family, and integrity, enjoys outdoor activities, movies, and food, and speaks English. The preferred partner should work in the tech, healthcare, or engineering industries and should have at least an undergraduate education level, with graduate level also preferred. Their political views should lean towards liberal.",
+    "user_id": "282f2483-0d63-4005-b85d-65d0eba0538e"
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Evelyn Maddox",
+    "age": 30,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Healthcare",
+    "job_title": "Registered Nurse",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hard work",
+        "Honesty",
+        "Kindness"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "ISFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Hard work",
+            "Honesty",
+            "Kindness"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old woman who identifies as straight and uses She/Her/Hers pronouns. She is a White Caucasian, with a height of 5'6\". She works in the healthcare industry as a Registered Nurse and holds a graduate degree from the University of California, Los Angeles. Living in Los Angeles, she originally hails from San Diego, California. She's bilingual, speaking English and Spanish. Values important to her include hard work, honesty, and kindness. Reading, hiking, and travel form her interests. She identifies as Agnostic in terms of religious beliefs and Liberal politically. She's searching for a life partner and open to a monogamous relationship. She does not currently have children but does want them. She owns a dog and a cat. Astrologically, she's a Virgo and her MBTI personality type is ISFJ. Her lifestyle involves active exercise and occasional drinking. She does not smoke, use marijuana, or other drugs.",
+    "preferences_summary": "The ideal partner should be a man between the ages of 30 and 40, with a height ranging from 5'8\" to 6'2\". He should not have children, but must want to have them in the future. His sexual orientation should be straight, and he should be okay with drinking, but must not smoke, use marijuana, or drugs. Maintaining an active lifestyle through regular exercise is also essential. Furthermore, he should be open for a monogamous relationship and have life-long partnership intentions. The man should be of any ethnicity including Black African Descent, East Asian, Hispanic/Latino, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian, or White Caucasian. His political views could be liberal, moderate, or conservative. As for his professional field and the languages he speaks, any will do. The values of hard work, honesty, and kindness should be inherent to his personality. He can have any interests. Lastly, his education level should be at least undergraduate, graduate, or doctoral.",
+    "user_id": "212dfc5a-f13a-4226-920c-0428cd73638f"
+}

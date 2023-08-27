@@ -1,0 +1,95 @@
+{
+    "name": "Darlene Washington",
+    "age": 28,
+    "height": "5'8\"",
+    "school": "Stanford University",
+    "job_industry": "Healthcare",
+    "job_title": "Nurse",
+    "hometown_location": "Chicago, Illinois",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Family",
+        "Kindness",
+        "Honesty"
+    ],
+    "interests": [
+        "Reading",
+        "Travelling",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 33,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Not political"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "IT",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Kindness",
+            "Honesty"
+        ],
+        "interests": [
+            "Reading",
+            "Travelling",
+            "Photography"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman of Black African descent who was raised in Chicago, Illinois but currently lives in Los Angeles, California. She stands 5'8\" tall and identifies as a straight woman, using \"she/her/hers\" pronouns. She's an accomplished nurse in the healthcare industry with a graduate degree from Stanford University. Fluent in both English and French, she cherishes values such as family, kindness, and honesty. Her interests are diverse, ranging from reading and travelling to photography. As a Leo and an extrovert (ENFJ), she prefers monogamous relationships and has long-term dating intentions. She plans to have children one day, but currently her only pet is a cat. Politically, she aligns herself with liberal views and holds Christian beliefs. Her healthy lifestyle includes being active and often drinking, but she does not smoke or use drugs.",
+    "preferences_summary": "The user is looking for a man between the ages of 28 and 33, standing from 5'9\" to 6'2\" tall. He should not have children but should want them in the future and indicate he's straight. As a partner, he should have the intention for a long-term relationship and prefer monogamy. His ethnicity should be either Black African Descent or White Caucasian, and he should either be liberal or not heavily involved in politics. He should work in the industries like Healthcare, IT, or Education. He needs to speak English and values family, kindness, and honesty. As far as interests go, he enjoys reading, traveling, or photography. His level of education should be either undergraduate or graduate. He should also lead an active lifestyle. He can drink, but smoking and using marijuana or other drugs are not welcomed.",
+    "user_id": "f0e35556-8760-41ae-b0f9-4c777c48b170"
+}

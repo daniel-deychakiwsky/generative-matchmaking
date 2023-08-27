@@ -1,0 +1,102 @@
+{
+    "name": "Stefanos Papadopoulos",
+    "age": 32,
+    "height": "6'0\"",
+    "school": "National and Kapodistrian University of Athens",
+    "job_industry": "Information Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Athens, Greece",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Greek"
+    ],
+    "values": [
+        "Hard Work",
+        "Honesty",
+        "Family"
+    ],
+    "interests": [
+        "Sailing",
+        "Reading",
+        "Technology",
+        "Greek History",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Christian",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Arts",
+            "Information Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Family",
+            "Creativity"
+        ],
+        "interests": [
+            "Cooking",
+            "Reading",
+            "Music",
+            "Outdoor Activities"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 32-year-old man located in Los Angeles, California. Originally from Athens, Greece, he's a Christian, identifies as straight and is a Taurus. He proudly stakes his values on hard work, honesty, and family. He is a software engineer in the Information Technology industry, having graduated from the National and Kapodistrian University of Athens. Fluent in both Greek and English, he has a variety of interests including sailing, reading, technology, Greek history, and cooking. Physically, he is 6'0\" and leads an active lifestyle. His drinking, smoking, marijuana, and drugs preferences are all a no and currently, he does not have any pets, but he does want children. His Myers-Briggs personality type is INTJ. He is seeking a monogamous relationship with a life partner.",
+    "preferences_summary": "The user is interested in dating a woman between the ages of 26 and 35, who stands between 5'0\" and 6'0\" in height. His potential partner should not currently have children but should want them in the future. She should not smoke, drink, or use marijuana or other drugs. Whether she exercises or not, is open. A preference goes toward a straight woman who is looking for a long-term relationship and monogamy. She could belong to the ethnicities: East Asian, Hispanic/Latino, Middle Eastern, or White Caucasian. Her political beliefs can range from liberal to conservative. He would prefer her to work in the healthcare, education, arts, or information technology industries and speak English. She should value honesty, family, and creativity and carry interests in reading, cooking, music, and outdoor activities. Her education level should be undergraduate or graduate.",
+    "user_id": "c45551c1-c460-483e-81cd-33550ccb10c2"
+}

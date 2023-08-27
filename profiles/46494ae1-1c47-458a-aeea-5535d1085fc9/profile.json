@@ -1,0 +1,93 @@
+{
+    "name": "Genevieve Hawthorne",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "Harvard University",
+    "job_industry": "Healthcare",
+    "job_title": "Nurse Practitioner",
+    "hometown_location": "Boston, Massachusetts",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Compassion",
+        "Education",
+        "Fitness"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "ISFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 37,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Law",
+            "Education",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Compassion",
+            "Education",
+            "Fitness"
+        ],
+        "interests": [
+            "Traveling",
+            "Exercise"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who identifies as a straight, White Caucasian. She is 5'7\" tall and belongs to the Virgo zodiac sign. She is an ISFJ personality type and uses she/her/hers pronouns. Originally from Boston, Massachusetts, she is now dating in Los Angeles, California. She is a graduate from Harvard University and currently works as a Nurse Practitioner in the Healthcare industry. Besides English, she also speaks Spanish. Her values consist of compassion, education, and fitness. Traveling, cooking, and yoga make up her interests. She exercises actively and occasionally drinks, but does not indulge in smoking, marijuana, or drugs. She is agnostic, politically moderate, and leans towards monogamous relationships. Notably, she does not have children, but intends to have some in the future. She does not have any pets either. Her search is geared towards long-term dating.\n",
+    "preferences_summary": "The user is seeking a man who is between 28 and 37 years old, with a height ranging from 5'8\" to 6'4\". Her preferred partner should not have children but would like to have them in the future. He should be straight, active, and enjoys drinking but does not smoke or partake in marijuana or other drugs. His educational background should be at least an undergraduate, with a preference for those in the healthcare, law, education or finance industries. He should be a moderate in politics and speak English. His values should align with hers, namely compassion, education, and fitness. Some interests he should share are traveling and exercising. The user's partner preference is dedicated to monogamy with an intention for a long-term relationship.",
+    "user_id": "46494ae1-1c47-458a-aeea-5535d1085fc9"
+}

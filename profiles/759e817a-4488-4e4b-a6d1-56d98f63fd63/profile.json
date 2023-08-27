@@ -1,0 +1,101 @@
+{
+    "name": "Isabella Thompson",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Harvard University",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Boston, Massachusetts",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Independence"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Cooking",
+        "Traveling"
+    ],
+    "education_level": "Doctoral",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "East Asian",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Engineering",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Independence"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 28-year-old woman is a software developer in the technology sphere. She has a doctoral level education from Harvard University. Height-wise, she stands at 5'6\". She speaks both English and Spanish. She values honesty, kindness, and independence, and in her free time, she enjoys hiking, reading, cooking, and traveling. She hails from Boston, Massachusetts but is currently located in Los Angeles, California. Her religious beliefs lean towards agnosticism and politically, she considers herself to be liberal. Her long-term dating intention is to find a monogamous partner. She identifies as straight, uses she/her/hers pronouns, and is of the White Caucasian ethnicity. She doesn't have children but wants them in the future and has a pet dog. She is born under the Gemini sign, and her MBTI personality type is ENFJ. In terms of habits, she sometimes drinks but doesn\u2019t smoke, use marijuana or other drugs. She leads an active life with lots of exercise.",
+    "preferences_summary": "The user is seeking a man aged between 30 to 40 years old who is active, does not smoke, and is interested in a long-term, monogamous relationship. Preferred heights are between 5'8\" and 6'2\". Her potential partner should have intentions to have children but does not currently have them. Ideal match should be of White Caucasian, Black African Descent, Hispanic/Latino, East Asian, or Middle Eastern ethnicity. He should be either liberal or moderate in politics and work in the Technology, Healthcare, Engineering or Finance industry. He should be able to speak English and share her values of honesty, kindness, and independence. Interest in hiking, reading, and traveling are preferable. His educational level should be of undergraduate degree or higher.",
+    "user_id": "759e817a-4488-4e4b-a6d1-56d98f63fd63"
+}

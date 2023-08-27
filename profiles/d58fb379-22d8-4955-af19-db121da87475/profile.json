@@ -1,0 +1,95 @@
+{
+    "name": "Elijah Brooks",
+    "age": 27,
+    "height": "6'2''",
+    "school": "University of Denver",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Dallas, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Creativity"
+    ],
+    "interests": [
+        "Music",
+        "Hiking",
+        "Coding"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'4''",
+        "maximum_height": "6'0''",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Health",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Ambition"
+        ],
+        "interests": [
+            "Music",
+            "Hiking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile is of a 27-year-old man who was born and raised in Dallas, Texas, but is currently dating in Los Angeles, California. Standing at 6'2'', he works in the tech industry as a Software Developer, is straight, and operates under the pronouns he/him/his. He holds an undergraduate degree from the University of Denver, identifies as a moderate in politics, and is agnostic in religion. He highly values family, ambition, and creativity, and has a diverse set of interests like music, hiking, and coding. Besides English, he also speaks French. His lifestyle includes maintaining an active level of exercise, drinking occasionally, and not engaging in smoking or drug use. He has a pet dog, with no children at present but wishes to have some in the future. A Pisces by zodiac sign and an INTP by the MBTI personality type, he's looking for a long-term, monogamous relationship.",
+    "preferences_summary": "The user is seeking a woman aged between 24 and 30, who is, on average, 5'4'' to 6'0'' tall. The desired partner should also identify as straight and share the intention for a long term, monogamous relationship. They should have no children but want to have them in the future. Acceptable ethnicities include White Caucasian, Hispanic/Latino, and East Asian. Preferably, the woman does not smoke, consume marijuana, or use drugs, but it is fine if they drink occasionally. It's essential for the potential partner to be sometimes active and work in Tech, Health, or Education sectors. The woman should also speak English and have an education level of Undergraduate or Graduate. She should value family and ambition and have interests in music, hiking, or reading. The political beliefs of the potential partner can be moderate or liberal.",
+    "user_id": "d58fb379-22d8-4955-af19-db121da87475"
+}

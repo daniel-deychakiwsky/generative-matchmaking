@@ -1,0 +1,103 @@
+{
+    "name": "Madeleine Frost",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Harvard University",
+    "job_industry": "Architecture",
+    "job_title": "Architect",
+    "hometown_location": "Boston, Massachusetts",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Honesty",
+        "Creativity",
+        "Ambition"
+    ],
+    "interests": [
+        "Travelling",
+        "Painting",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat",
+        "Dog"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Middle Eastern",
+            "Black African Descent",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Architecture",
+            "Design",
+            "Arts",
+            "Science",
+            "Business"
+        ],
+        "languages_spoken": [
+            "English",
+            "French"
+        ],
+        "values": [
+            "Honesty",
+            "Creativity",
+            "Ambition"
+        ],
+        "interests": [
+            "Travelling",
+            "Arts",
+            "Sports",
+            "Science"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral",
+            "Undergraduate"
+        ]
+    },
+    "profile_summary": "This 28-year-old Aries woman identifies as straight and uses She/Her/Hers pronouns. Originating from Boston, Massachusetts, she is a graduate from Harvard University and currently works as an Architect in the Architecture industry in Los Angeles, California. As an ENTJ type in the MBTI personality spectrum, her values include honesty, creativity, and ambition. She speaks English and French and particularly enjoys travelling, painting, and photography. She identifies as a liberal, agnostic, and intends to find a life partner for a monogamous relationship. Although she has no children, she hopes to have some in the future. She currently lives with her cat and dog. Physically active and of white Caucasian ethnicity, she stands 5'6\" tall. She occasionally enjoys a drink but eschews smoking, marijuana, and drugs.",
+    "preferences_summary": "The user seeks a male life partner aged between 28 and 38, who is straight and prefers monogamous relationships. The ideal partner should be active, occasionally drinks, and doesn't engage in smoking, marijuana, or drugs. He should be of White Caucasian, Middle Eastern, Black African Descent, or Hispanic/Latino ethnicity. Politically, he should be liberal or moderate. The partner should be in an industry related to Architecture, Design, Arts, Science, or Business and should ideally have an academic background ranging from Undergraduate to Doctoral level. He should be fluent in English and French. Key values the partner should possess are honesty, creativity, and ambition. His interests should lie within travelling, arts, sports or science. As regard to future intentions, he should not currently have children but be open to the idea of having them in the future. He should stand between 5'8\" and 6'3\" in height.\n",
+    "user_id": "5973714b-3a85-4196-a42f-3df4d3dbdef9"
+}

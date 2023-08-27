@@ -1,0 +1,92 @@
+{
+    "name": "Sophia Douglas",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "University of Stanford",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Compassion",
+        "Loyalty"
+    ],
+    "interests": [
+        "Tech",
+        "Reading",
+        "Travel",
+        "Cycling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "None"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Honesty",
+            "Compassion",
+            "Loyalty"
+        ],
+        "interests": [
+            "Tech",
+            "Different"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old, straight, Gemini woman with ENFP personality type who goes by the pronouns of she/her/hers. She is a White Caucasian and her physical height is 5'7\". Originally from San Francisco, she currently resides in Los Angeles. She works in the technology industry as a Software Engineer, having graduated from the University of Stanford. She speaks both English and Spanish. Her core values are honesty, compassion, and loyalty. Her interests include tech, reading, travel, and cycling. Despite being an atheist and liberal, she is longing for a long-term, monogamous relationship. She does not have any children but wishes to have in the future. She does not smoke, use marijuana or other drugs, only drinks sometimes and leads an active lifestyle. She does not have any pets at the moment but seems to like dogs.",
+    "preferences_summary": "The user seeks a dating partner who is a man between the ages of 28 and 35, with a height ranging from 5'7\" to 6'4\". She desires someone who does not have children currently, but wants them in the future, and who identifies as straight. She prefers someone who drinks occasionally but doesn't smoke, use marijuana, or any other drugs. The individual should lead an active lifestyle when it comes to exercise. Interestingly, the user is open to any job industry and language proficiency of her potential partner. As for the values, she appreciates honesty, compassion, and loyalty. She enjoys tech-related pursuits and would like to meet someone with different interests. Regarding education, she is open to people who have at least an undergraduate degree. Her preferred ethnicity of her partner is white Caucasian. Last but not least, she wants someone who has the intention for a long-term relationship, believes and practices monogamy, and shares liberal political views.",
+    "user_id": "905e3086-4c03-4fca-a78a-cfe068ed3b4d"
+}

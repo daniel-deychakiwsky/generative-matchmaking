@@ -1,0 +1,99 @@
+{
+    "name": "Carlos Okafor",
+    "age": 28,
+    "height": "5'10\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Jose, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Igbo"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Kindness"
+    ],
+    "interests": [
+        "Coding",
+        "Soccer",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Any"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 28-year-old man is a Software Engineer in the Technology industry, and a graduate from Stanford University. He is 5'10\", of Black African descent and straight. He identifies with the pronouns He/Him/His and is based in Los Angeles, California, having originally come from San Jose. As a tri-lingual, he speaks English, Spanish, and Igbo. His core values are hard work, family and kindness, and he loves coding, soccer, and cooking. He has a dog, identifies as an agnostic and politically leans liberal. He's a Leo, an INTJ personality type, and whilst he doesn't have kids, he would like to in the future. He doesn't smoke, abstains from marijuana and drugs, drinks occasionally, and is active in exercise. He's interested in monogamy, and looking for a long-term relationship.",
+    "preferences_summary": "The user's dating preferences include a woman who is aged between 24 to 30, standing anywhere between 5'4\" and 6'0\" tall. She should not have children but should want them in the future. The woman should be straight and open to drinking but should not indulge in smoking, marijuana, or other drugs. An active lifestyle is desired, in line with the user's own. Furthermore, she should be seeking a long term, monogamous relationship. The user is open to any ethnicity, political outlook (liberal or moderate), job industry, languages spoken, values, and interests in his potential partner. Finally, he would prefer if she has at least an undergraduate level of education.",
+    "user_id": "1a622e80-d879-43d3-a79e-684a9a46766b"
+}

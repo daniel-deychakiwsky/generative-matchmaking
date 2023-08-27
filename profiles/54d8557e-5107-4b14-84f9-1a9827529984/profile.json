@@ -1,0 +1,97 @@
+{
+    "name": "Clara Hoffman",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Data Analyst",
+    "hometown_location": "Manhattan, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Professional Success",
+        "Family & Friends",
+        "Creativity"
+    ],
+    "interests": [
+        "Cooking",
+        "Travel",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Finance",
+            "Consulting"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Professional Success",
+            "Family & Friends"
+        ],
+        "interests": [
+            "Fitness",
+            "Travel",
+            "Books"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 28-year-old woman, who identifies as straight and uses the pronouns \"she/her/hers\". Professionally, she is a data analyst in the technology industry. She studied at the University of California, Berkeley and has graduated at advanced levels. Originally from Manhattan, New York, she is now dating in Los Angeles, California. She speaks both English and Spanish comfortably. Her three core values are her professional success, her family and friends, and maintaining her creativity. She enjoys cooking, travel, and practicing yoga. She does not yet have children but is excited about the prospect in the future. She is an owner of one dog. Born under the Leo zodiac sign, she has the Mutual Personality Type indicating Extraversion, Intuition, Feeling, and Perception (ENFP). Concerning lifestyle choices, she only occasionally enjoys a drink, does not smoke, and is against substance abuse. In terms of fitness, she leads an active lifestyle.",
+    "preferences_summary": "The ideal dating partner for the user should be a man between the ages of 27 and 35 who stands between 5'8\" and 6'3\" in height. He should be single without children but is interested in wanting children in the future. He should be a straight drinker who does not smoke and refrains from using drugs or marijuana. Therefore, he should be active in doing exercise. Ethnicities that may interest her could include Black African Descents, East Asians, Hispanics/Latinos, Middle Easterns, and White Caucasians. Politically, the man should be liberal or moderate and should be a graduate or possess a doctorate degree. He should display an interest in fitness, travel, and books, while equally valuing professional success and family & friends. Moreover, he should be employed in the technology, finance, or consulting industry and only needs to speak English.",
+    "user_id": "54d8557e-5107-4b14-84f9-1a9827529984"
+}

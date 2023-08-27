@@ -1,0 +1,99 @@
+{
+    "name": "Sophia Hartley",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of Southern California",
+    "job_industry": "Healthcare",
+    "job_title": "Registered Nurse",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Sustainability"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Spiritual",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat",
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Technology",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Family",
+            "Ambition",
+            "Sustainability"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 29-year-old woman who identifies as straight and uses She/Her/Hers pronouns. She's a Registered Nurse in the Healthcare industry, with a graduate degree from the University of Southern California. She's originally from Seattle, Washington, but currently navigating the dating scene in Los Angeles, California. She's English and Spanish-speaking, placing high value on family, ambition, and sustainability. Her interests lie in hiking, reading, and travel. As a spiritual and moderate political believer, she's a monogamist focused on long-term intentions. Personally, she doesn't have children but plans on having some. A pet lover, she owns a cat and a dog. She's a physically active Leo, known to her MBTI circle as an ENFJ. She occasionally drinks, however, she doesn't smoke or use marijuana or other drugs.",
+    "preferences_summary": "The user is seeking a man between the ages of 28 and 38, who is at least 5'6\" and does not exceed 6'4\" in height. He is interested in a long-term, monogamous relationship with a man who does not have children but wants them in the future. Her preferred man identifies as straight, only drinks occasionally and does not smoke or use marijuana or other drugs. The man should also be physically active. Ideally, her partner would be of either Black African Descent, East Asian, Hispanic/Latino, or White Caucasian ethnicity and holds moderate to liberal political views. Her preferred partner would work in the healthcare, technology, or education industries and be able to converse in English or Spanish. Her partner should value family, ambition, and sustainability and share her interests in hiking, reading, and travel. Lastly, her preferred partner would have attained at least an undergraduate level of education.",
+    "user_id": "2dc47023-d603-417e-9f60-8a1aa2348e3e"
+}

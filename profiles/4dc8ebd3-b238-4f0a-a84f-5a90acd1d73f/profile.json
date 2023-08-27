@@ -1,0 +1,93 @@
+{
+    "name": "Albert Branson",
+    "age": 36,
+    "height": "6'2\"",
+    "school": "University of Washington",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Portland, Oregon",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English"
+    ],
+    "values": [
+        "Honesty",
+        "Trust"
+    ],
+    "interests": [
+        "Video Games",
+        "Hiking",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 39,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Finance",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Trust"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Movies"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a 36-year-old man who identifies as straight and uses he/him/his pronouns. He stands at 6'2\" and is a white Caucasian. As a software engineer in the tech industry, he is a graduate from the University of Washington. He was born and raised in Portland, Oregon but is currently dating in Los Angeles, California. English is his primary language. He prioritizes honesty and trust and enjoys playing video games, hiking, and cooking. Although agnostic and politically moderate, his goal in dating is to find a life partner for a monogamous relationship. He wants children, but currently does not have any. A wearer of several hats, his active lifestyle also includes being a dog owner. As a sometimes drinker, he does not smoke, use marijuana, or other drugs. His personality type is INTJ per the Myer-Briggs test, is a Libra according to the zodiac, and is actively exercising.",
+    "preferences_summary": "The user is interested in a woman aged between 27 and 39, who is active, does not smoke or use drugs, and may drink occasionally. She must want children as the user is interested in finding a life partner with whom to start a family and believes in monogamous relationships. Her height should range between 5'4'' and 6'0''. She ideally should work in the healthcare, finance, or education industry. She should also be able to speak English and value honesty and trust. Her interests can include hiking, reading, or watching movies. She should have at minimum an undergraduate education level. The user prefers his potential partner to be of White Caucasian, East Asian, or Hispanic/Latino ethnicity and have liberal or moderate political views.",
+    "user_id": "4dc8ebd3-b238-4f0a-a84f-5a90acd1d73f"
+}

@@ -1,0 +1,95 @@
+{
+    "name": "Marcus Gallagher",
+    "age": 30,
+    "height": "6'1\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Health"
+    ],
+    "interests": [
+        "Travel",
+        "Reading",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Family",
+            "Health"
+        ],
+        "interests": [
+            "Travel",
+            "Reading",
+            "Hiking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a 30-year-old software engineer in the tech industry who resides in Los Angeles, California but originally from San Francisco. He stands 6'1\" tall and identifies as a white Caucasian man, using the pronouns He/Him/His. Having graduated from the University of California, Berkeley, he values hard work, family, and health. He is an agnostic and politically identifies as liberal. He enjoys travel, reading, and hiking, and is an active person who exercises regularly. This man is a dog owner, enjoys a drink now and then but abstains from smoking, marijuana, and other drugs. He speaks English and Spanish, is an INTJ personality type according to the MBTI, and his zodiac sign is Aquarius. He does not have children but hopes to in the future. He is seeking a life partner and is a believer in monogamy.",
+    "preferences_summary": "The user is looking for a woman aged between 26 and 35 who is active and does not smoke or take drugs. The potential partner should have a height between 5'4\" and 6'0\", also she should hold an interest in traveling, reading, and hiking, and value hard work, family, and health. Her education level should be either undergraduate or graduate. The ideal partner should be working in the tech, healthcare, or education sector and have an ability to communicate in English. She should be interested in a long-term monogamous relationship and does not have children but wants to have in the future. The user is open to dating a woman who identifies as White Caucasian, East Asian, or Hispanic/Latino. The preferred political alignment for the partner is liberal.",
+    "user_id": "0ad7ff24-0517-4dab-991c-bf260febc477"
+}

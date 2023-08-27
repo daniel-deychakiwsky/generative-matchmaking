@@ -1,0 +1,91 @@
+{
+    "name": "Jean-Pierre Lafitte",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "Sorbonne University",
+    "job_industry": "Photography",
+    "job_title": "Freelance Photographer",
+    "hometown_location": "Paris, France",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "French",
+        "English",
+        "Italian"
+    ],
+    "values": [
+        "Honesty",
+        "Creativity",
+        "Independence"
+    ],
+    "interests": [
+        "Travel",
+        "Photography",
+        "Cooking",
+        "Wine tasting"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Not political"
+        ],
+        "job_industry": [],
+        "languages_spoken": [],
+        "values": [
+            "Honesty",
+            "Creativity"
+        ],
+        "interests": [
+            "Travel",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old freelance photographer working in the photography industry. Living in Los Angeles, he originally hails from Paris, France. He is 6'1\" in height with a background education at Sorbonne University, holding an undergraduate degree. He speaks three languages: French, English, and Italian. He places high value on honesty, creativity, and independence. His interests include travel, photography, cooking, and wine tasting. Spiritually, he identifies as an atheist and politically, as liberal. He is seeking a life partner for a monogamous relationship. A straight man, he uses he/him/his pronouns and identifies his ethnicity as White Caucasian. He does not have children but is open to having them in the future. He has a dog for a pet, is a Gemini and identifies as an ENFP. He drinks, does not smoke, uses no marijuana nor other drugs. He maintains an active lifestyle, engaging in regular exercise.",
+    "preferences_summary": "The user is looking for a woman who is between 25 and 35 years old, with a height ranging from 5'2\" to 6'0\". His desired partner should also be without children but wants to have them in the future. In terms of lifestyle, she should be straight, enjoys drinking, doesn't smoke or use marijuana, doesn't use drugs, and leads an active lifestyle. Her dating intentions should align with his, which is seeking a life partner in a monogamous relationship. The user is open to women of various ethnicities such as East Asian, Hispanic/Latino, White Caucasian, and others. Her political views should be liberal or not political. Important values for her are honesty and creativity, and her interests should include travel and cooking. The user prefers women with an education level of either an undergraduate or graduate degree.",
+    "user_id": "b79ba391-2b2e-4032-968f-ebbafc34fc4d"
+}

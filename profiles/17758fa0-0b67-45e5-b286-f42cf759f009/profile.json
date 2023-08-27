@@ -1,0 +1,93 @@
+{
+    "name": "Laura Littman",
+    "age": 27,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Creativity"
+    ],
+    "interests": [
+        "Hiking",
+        "Photography",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Family",
+            "Creativity"
+        ],
+        "interests": [
+            "Hiking",
+            "Photography",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 27-year-old straight woman who goes by she/her pronouns. She is a White Caucasian and a software engineer in the technology industry. She stands at 5'6\" and is a graduate of the University of California, Berkeley. She calls San Francisco, California, home but is currently dating in Los Angeles, California. English and Spanish are languages she's fluent in. Her core values include honesty, family, and creativity, and she enjoys hobbies like hiking, photography, and reading. She identifies as an agnostic and leans towards liberal politics. She seeks a life partner and prefers monogamous relationships. She doesn't have children but looks forward to having some. She owns a cat, is a Leo by zodiac sign, and her MBTI personality type is INTJ. While she occasionally enjoys a drink, she doesn't smoke or use marijuana or other drugs. Her lifestyle is quite active.",
+    "preferences_summary": "The user prefers a man who intends to find a life partner and believes in monogamy. The potential partner should be between the ages of 27 to 35 and should have a height ranging from 5'6\" to 6'2\". He should have no children but wishes to have some in the future. The partner's sexuality should be straight and should enjoy an active lifestyle. He should be a non-smoker, with occasional to regular drinking habits. The ideal partner should not be into marijuana or other drugs. Ethnicity should be either White Caucasian or Hispanic/Latino and he should hold liberal political beliefs. Occupations in the Technology or Finance industry are preferred. The main language should be English and he should value honesty, family, and creativity. Interests should ideally include hiking, photography, or reading and the minimum educational level should be an undergraduate degree.",
+    "user_id": "17758fa0-0b67-45e5-b286-f42cf759f009"
+}

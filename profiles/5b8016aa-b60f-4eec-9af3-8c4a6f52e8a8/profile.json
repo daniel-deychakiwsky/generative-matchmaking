@@ -1,0 +1,89 @@
+{
+    "name": "Alice Mckenzie",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of Southern California",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Ambition",
+        "Creativity",
+        "Family"
+    ],
+    "interests": [
+        "Music",
+        "Programming",
+        "Hiking"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Ambition",
+            "Creativity"
+        ],
+        "interests": [
+            "Music",
+            "Programming"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 29-year-old woman is an ambitious, creative, and family-oriented software developer in the technology industry. She is a graduate of the University of Southern California, and speaks both English and Spanish. A native of Seattle, Washington, she currently lives in Los Angeles, California. Her interests include music, programming, and hiking. She identifies as a straight, cisgender female, uses she/her pronouns, and follows a monogamous dating style. She's a Libra, an INTP personality type, and doesn't smoke or use drugs while occasionally enjoying a drink. She maintains an active lifestyle. She is an atheist, politically liberal, and wishes to find a life partner with whom she could have kids in the future. Currently, she doesn't have any children but she shares her living space with her cat.",
+    "preferences_summary": "The user is seeking a male partner, aged between 28 and 35 years old and between the heights of 5'8\" and 6'2\". She prefers someone who doesn't have children yet but wants them in the future. Preferred partner should be straight, an active drinker but non-smoker, non-marijuana and drug user, and should maintain an active exercise regime. She is interested in someone who is of White Caucasian ethnicity, liberal in politics, and works in the technology industry. They should be English speakers, value ambition and creativity, and have interests in music and programming. She's open to a potential partner that has completed an undergraduate and/or graduate level of education. Her intention is to find a life partner in a monogamous relationship.",
+    "user_id": "5b8016aa-b60f-4eec-9af3-8c4a6f52e8a8"
+}

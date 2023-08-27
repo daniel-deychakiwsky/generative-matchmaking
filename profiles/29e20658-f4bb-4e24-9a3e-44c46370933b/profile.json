@@ -1,0 +1,103 @@
+{
+    "name": "Michael O'Sullivan",
+    "age": 34,
+    "height": "5'10\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Finance",
+    "job_title": "Financial Analyst",
+    "hometown_location": "Dublin, Ireland",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Gaelic"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Honesty"
+    ],
+    "interests": [
+        "Football",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ESTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Family",
+            "Kindness"
+        ],
+        "interests": [
+            "Reading",
+            "Travel",
+            "Exercise",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 34-year-old Financial Analyst working in the finance industry. He's a devoted Catholic man, stands at 5'10\", and identifies as a white Caucasian, hailing originally from Dublin, Ireland. He has completed his graduate education at the University of California, Berkeley, and speaks both English and Gaelic fluently. His personal values are centered on hard work, family, and honesty. Some of his interests include watching football, reading, and traveling. He resides in Los Angeles, California and he's interested in finding a lifetime partner for a monogamous relationship. He identifies as straight, uses the pronouns he/him/his, has no children yet, but has expressed the desire to have some in the future. He currently owns no pets. This Leo, who has an ESTJ Myers-Briggs personality type, enjoys staying active. He drinks but does not smoke, use marijuana, or other drugs.",
+    "preferences_summary": "The ideal partner for our user is a woman aged between 25 and 35 and whose height ranges from 5'2\" to 5'10\". She would be straight, a non-drinker, a non-smoker, does not use marijuana or drugs, and is physically active. The partner should also be someone who does not already have children but wants them in the future and is seeking a monogamous long-term relationship. Ethnicity is not restricted, with preference ranging from White Caucasian to other ethnic backgrounds. She can be liberal or moderate in her political views and can work in any industry. She should also be able to speak English. In terms of values, the partner should prioritize honesty, family, and kindness. Her interests could be reading, traveling, exercising, or music. As for education level, our user's partner can be an undergraduate, a graduate, or a doctoral degree holder.",
+    "user_id": "29e20658-f4bb-4e24-9a3e-44c46370933b"
+}

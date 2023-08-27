@@ -1,0 +1,104 @@
+{
+    "name": "Alejandro Rodriguez",
+    "age": 34,
+    "height": "5'8\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Kindness"
+    ],
+    "interests": [
+        "Coding",
+        "Football",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Fish"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 36,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Technology",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Kindness"
+        ],
+        "interests": [
+            "Reading",
+            "Traveling",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 34-year-old straight man identifies himself with the pronouns He/Him/His. A graduate from the University of California, Los Angeles and a Software Developer by profession in the tech industry, he has strong liberal political beliefs. As an atheist and English-Spanish bilingual, he appreciates the values of honesty, ambition, and kindness. He enjoys coding, football, and traveling. Originally from San Diego, California, he is now based in Los Angeles, California and is currently in search for a life partner who shares his enthusiasm for monogamy. A health-conscious man, he exercises actively, occasionally drinks, and strictly avoids smoking, marijuana, and other drugs. His dream of having children remains unfulfilled as yet. He is of Hispanic/Latino ethnicity and owns a dog and fish as pets. Being a Taurus and an ENTJ, stability and leadership are integral aspects of his personality.",
+    "preferences_summary": "The user is looking for a woman aged between 25 and 36 who stands anywhere between 5'4\" and 6'0\" tall. She should not have children but would want to have them in the future. Her sexuality should be straight and she should be active. Preferably, she abstains from drinking or drinks only occasionally, and she should not smoke or consume marijuana or other drugs. The desired partner should possess the values of honesty, ambition, and kindness and share interests in reading, traveling, and music. While she should have an undergraduate or graduate degree, her career can span the fields of healthcare, education, technology, or finance. As a bonus, she's bilingual, speaking both English and Spanish. Lastly, she must share the user's liberal political leanings. Ethnicity, while not set, ranges diversely from Black/African descent, East Asian, Hispanic/Latino, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian, to White Caucasian.",
+    "user_id": "9d71507b-342b-464e-94f7-0b61a65a82cf"
+}

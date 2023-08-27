@@ -1,0 +1,99 @@
+{
+    "name": "Arabella Sanderson",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Film Industry",
+    "job_title": "Assistant Director",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Creativity",
+        "Independence"
+    ],
+    "interests": [
+        "Photography",
+        "Hiking",
+        "Reading",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Spiritual",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Film Industry",
+            "Tech Industry",
+            "Finance",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Creativity",
+            "Independence"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Yoga"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 29-year-old woman, who identifies by the pronouns, \"She/Her/Hers\". She is a straight, White Caucasian, and a Leo, of ENFP personality type. She stands at 5'6\", is active and does not smoke, drink or use marijuana regularly. She holds a graduate degree from the University of California, Los Angeles and works in the film industry as an Assistant Director. She's origin is from San Francisco, California, but she's currently dating in Los Angeles. She treasures her values of family, creativity, and independence and enjoys interests like photography, hiking, reading, and yoga. She is proficient in English and Spanish. In terms of personal life, she is spiritual, politically liberal, and values monogamy. Currently, she doesn't have children but wishes to have in the future. She is keen on long-term dating goals. She also owns a cat.",
+    "preferences_summary": "The user is interested in dating a man aged between 28 and 38, who is actively involved in exercising and possesses a height between 5'8\" and 6'4\". The man needs to be straight, aiming for a long-term monogamous relationship, and must not have children but should want them. He should be a white Caucasian, Hispanic/Latino, Black/African descent or East Asian, and should be a non-smoker without marijuana or drug usage. He may be involved in the film, tech, finance, or healthcare industries. Speaking English is requisite, while aligning with values such as family, creativity, and independence is desirable. Shared interests like hiking, reading, and yoga are preferred. His political orientation should be moderately to highly liberal and he must have at least an undergraduate educational level. Drinking is acceptable.",
+    "user_id": "fbcc5b9b-bcd6-49d3-9cc3-c4997df0111c"
+}

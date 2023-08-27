@@ -1,0 +1,97 @@
+{
+    "name": "Phoebe Santiago",
+    "age": 30,
+    "height": "5'7\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Product Manager",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Mandarin"
+    ],
+    "values": [
+        "Ambition",
+        "Family",
+        "Friendship"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 36,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Finance",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Ambition",
+            "Family",
+            "Health"
+        ],
+        "interests": [
+            "Fitness",
+            "Travel",
+            "Music"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 30-year-old woman is a Product Manager in the Technology sector and a graduate from Stanford University. She is 5'7\" tall, of Hispanic/Latino ethnicity, identifies as straight, and uses She/Her/Hers pronouns. A native of San Diego, California, she is currently based in Los Angeles. An accomplished linguist, she speaks English, Spanish, and Mandarin. Independent and ambitious, she values family and friendship above all. Hiking, reading, and cooking are her top interests. She is an Atheist with Liberal leanings. She is open to a long-term passionate, monogamous relationship, wants children, although she doesn't have any yet. Her pets include a dog and a cat. An Aquarius \u2018INTJ,\u2019 she stays active and healthy. She sometimes enjoys drinking but does not smoke or use marijuana or any drugs.",
+    "preferences_summary": "The user is seeking a man aged between 28 to 36 years, who is interested in a long-term monogamous relationship. The partner should have a minimum height of 5'8\" and a maximum of 6'3\". Preference is for those who do not have children but want them in the future. The partner must be straight, sometimes drinks, doesn't smoke, doesn't use marijuana or other drugs, and is active. Preferred ethnicities are White Caucasian, Hispanic/Latino, and Middle Eastern. It's important the partner is liberal politically, and works in industries such as Technology, Finance, or Healthcare. They must speak English and hold values like Ambition, Family and Health. Their interests could include Fitness, Travel, and Music. Lastly, the user prefers a partner with an education level of at least a graduate or doctoral degree.",
+    "user_id": "25466f87-ff7c-49e3-a626-5be42f3fc356"
+}

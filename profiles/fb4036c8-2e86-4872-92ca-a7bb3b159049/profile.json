@@ -1,0 +1,104 @@
+{
+    "name": "Carlos Silva",
+    "age": 32,
+    "height": "5'10\"",
+    "school": "University of Sao Paulo",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sao Paulo, Brazil",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Independence"
+    ],
+    "interests": [
+        "Coding",
+        "Soccer",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'11\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Black African Descent",
+            "Other"
+        ],
+        "politics": [
+            "Moderate",
+            "Other"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Arts",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish",
+            "Other"
+        ],
+        "values": [
+            "Honesty",
+            "Independence",
+            "Adventurousness"
+        ],
+        "interests": [
+            "Movies",
+            "Travel",
+            "Cooking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral",
+            "Other"
+        ]
+    },
+    "profile_summary": "This 32-year-old straight man is a Software Engineer in the Technology industry and is looking for a long-term, monogamous relationship. He stands 5'10\" tall, is of Hispanic/Latino ethnicity, and hails from Sao Paulo, Brazil, where he graduated from the University of Sao Paulo. Currently, he is working and dating in Los Angeles, California. With proficiency in English, Portuguese, and Spanish, he values honesty, ambition, and independence and enjoys coding, soccer, and traveling. Although he doesn't have kids, he desires to have them in the future. An active lifestyle and interest in pets, specifically dogs, complement his personality. He occasionally drinks but doesn't smoke or do drugs. He identifies as an Aquarius and has an INTJ personality type on the Myers\u2013Briggs Type Indicator.\n",
+    "preferences_summary": "The user is interested in a woman, aged between 25 and 35. She should be between 5'2\" and 5'11\" in height, and have no children, although she should want them in the future. The partner should be straight, occasionally consume alcohol but refrain from smoking, marijuana, and drugs. Exercise for her should be a sometimes practice. Important characteristics include honesty, independence, and adventurousness with interests such as movies, travel, cooking, or reading. Her job can be in various industries like education, healthcare, arts, or technology. Proficiency in English, Spanish, and other languages is desired. She can come from various ethnic backgrounds such as Hispanic/Latino, White Caucasian, Black African Descent, or others. Her political views should be moderate or others, and educationally she could be anything from undergraduate, graduate, doctoral or other levels. The user and she should both want a long-term monogamous relationship.",
+    "user_id": "fb4036c8-2e86-4872-92ca-a7bb3b159049"
+}

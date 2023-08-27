@@ -1,0 +1,97 @@
+{
+    "name": "Marcus Hawthorne",
+    "age": 35,
+    "height": "6'2\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "German"
+    ],
+    "values": [
+        "Independence",
+        "Loyalty",
+        "Honesty"
+    ],
+    "interests": [
+        "Hiking",
+        "Cooking",
+        "Music",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 37,
+        "minimum_height": "5'3\"",
+        "maximum_height": "5'11\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Technology",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Independence",
+            "Loyalty",
+            "Honesty"
+        ],
+        "interests": [
+            "Hiking",
+            "Cooking",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 35-year-old man who is a software engineer in the technology industry. Standing at a height of 6'2\", he currently resides in Los Angeles but is originally from Seattle. His academic journey led him to the University of California, Berkeley for his graduate degree. Fluent in English, Spanish, and German, his important values comprise of loyalty, honesty, and independence. When not coding, he enjoys hiking, cooking and listening to music. Defined by his agnosticism, he leans politically liberal. He is serious about dating, oriented towards a long-term relationship, and prefers the dynamics of monogamy. Identifying as straight, he doesn't have children but wants them in the future. He shares his space with a dog and a cat. His ethnicity falls under the White Caucasian category. As a Pisces with an INTJ personality, he doesn't smoke or use drugs, but does drink and is active when it comes to working out.",
+    "preferences_summary": "The user is seeking a woman between the ages of 27 and 37 with a height ranging from 5'3\" to 5'11\". She must not have children but should want to have them in the future. Her sexuality should be straight. She should be a drinker but should abstain from smoking, marijuana, and other drugs, and she must lead an active life. Her ethnicity should be either White Caucasian or Hispanic/Latino. Her dating intentions must be aligned towards a long-term monogamous relationship. Ideally, her political beliefs would be liberal and she would work in the Healthcare, Technology, or Education industry. English fluency is important, and shared values such as Independence, Loyalty, and Honesty are ideal. The user's partner should also have interests similar to his including hiking, cooking, and music. Lastly, the preferred education level of the partner would be either undergraduate or graduate-school level.",
+    "user_id": "905e1675-5046-4e16-95d6-56a70840fbb1"
+}

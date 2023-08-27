@@ -1,0 +1,96 @@
+{
+    "name": "David O'Hara",
+    "age": 30,
+    "height": "6'0\"",
+    "school": "University of Chicago",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "New York City, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard-Work",
+        "Friendship"
+    ],
+    "interests": [
+        "Skydiving",
+        "Gaming",
+        "Music"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 34,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexual": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Not political",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Health & Wellness",
+            "Education",
+            "Tech Industry"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Kindness",
+            "Intelligence",
+            "Honesty"
+        ],
+        "interests": [
+            "Movies",
+            "Travel",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "A 30-year-old man is seeking a life partner in Los Angeles, California. Standing at 6'0\" tall, he identifies as Straight and White Caucasian with 'He/Him/His' pronouns. As an educated graduate from the University of Chicago, he works as a Software Engineer in the tech industry. Based originally from New York City, he is fluent in English and Spanish. He values honesty, hard work, and friendship. When not working, he is fond of skydiving, gaming, and music. Although an agnostic and politically moderate, he is disciplined in maintaining an active exercise regimen. While he is comfortable with drinking, he chooses not to smoke or use marijuana or any other drugs. He has no children but wants to have them in the future. His Zodiac sign is Gemini and his Myers-Briggs personality type is INTJ. Despite his intense job, he doesn't own any pets to deal with his busy lifestyle.",
+    "preferences_summary": "The user is interested in a woman within the age range of 26 to 34 years old. The preferred partner should have a height between 5'2\" and 6'0\". In terms of lifestyle, they prefer someone who does not drink or smoke, and does not use marijuana or drugs. The potential partner must be active in terms of exercise and also ought to be interested in having children. Their preferred relationship type is monogamy, and the user is open to dating women from Caucasian, East Asian, or Hispanic/Latino ethnicities. The user is looking for a potential partner who is not political or has moderate political views. Ideal industries for the partner to be employed in are Health & Wellness, Education, or Tech Industry. They should at least be able to speak English. The user values kindness, intelligence, and honesty in a partner. Shared interests such as movies, travel, or cooking are desirable, and the potential partner should have at a minimum, completed an undergraduate level of education.",
+    "user_id": "a725f076-8eb6-4ec7-b5fa-74a6676bacd8"
+}

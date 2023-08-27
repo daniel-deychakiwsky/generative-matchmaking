@@ -1,0 +1,106 @@
+{
+    "name": "Bradley Vaughn",
+    "age": 32,
+    "height": "5'11\"",
+    "school": "University of Columbia",
+    "job_industry": "IT",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard work",
+        "Independence"
+    ],
+    "interests": [
+        "Technology",
+        "Music",
+        "Hiking",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "East Asian",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Engineering",
+            "IT",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Hard work",
+            "Respect",
+            "Independence"
+        ],
+        "interests": [
+            "Travel",
+            "Cooking",
+            "Hiking",
+            "Movies",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old man who identifies as straight and uses he/him pronouns. He is a 5'11\" White Caucasian and a Taurus. Professionally, he works in the IT industry as a Software Engineer. He graduated from the University of Columbia, is fluent in English and Spanish, and follows a strictly moderate political stance. A resident of Austin, Texas, he resides in Los Angeles, California. His values include honesty, hard work, and independence, and he enjoys technology, music, hiking, and cooking. Although he is agnostic, he enjoys occasional drinks but doesn't smoke or use marijuana or drugs. An active individual, he doesn't have children yet but would like to in the future. He is comfortable with monogamy and is interested in a long-term relationship. His pets include a dog and a cat. His MBTI personality type is INTJ.",
+    "preferences_summary": "The user's ideal partner would be a woman aged between 25-35 years, with a height ranging from 5'0\" to 6'0\". She should be childless but open to the idea of having children in the future. Her sexuality should be straight, should be okay with drinking but abstains from smoking, marijuana, and drugs. Physical fitness is important to our user hence, he desires her to lead an active lifestyle. The woman should belong to any of the following ethnicities: White Caucasian, Black African Descent, Hispanic/Latino, East Asian, or Middle Eastern. Regardless of her political inclination\u2014be it liberal, moderate, or conservative\u2014he's fine with it. Her professional field should be any amongst healthcare, education, engineering, IT, or finance sectors, and she must be able to communicate in English. Core values he expects from her are honesty, hardwork, respect, and independence. Her interests should include travel, cooking, hiking, movies, and music. Lastly, she should at least hold an undergraduate degree.",
+    "user_id": "ee24d5ae-3e17-4fb7-bd4a-96e0225502d2"
+}

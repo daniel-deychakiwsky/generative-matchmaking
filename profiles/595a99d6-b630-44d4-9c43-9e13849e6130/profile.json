@@ -1,0 +1,97 @@
+{
+    "name": "Benjamin Holmes",
+    "age": 30,
+    "height": "6'1\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Hard work"
+    ],
+    "interests": [
+        "Mountain biking",
+        "Writing code",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'1\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Kindness"
+        ],
+        "interests": [
+            "Traveling",
+            "Hiking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30 years old man who identifies as straight and prefers the pronouns He/Him/His. He stands tall at 6'1\" and belongs to the White Caucasian ethnicity. He is a graduate from the University of California, Berkeley, and is currently working as a software engineer in the technology sector. Being a native of San Francisco, California, he is now living and dating in Los Angeles, California. He is fluent in English and Spanish and enjoys mountain biking, writing code, and traveling. Honesty, ambition, and hard work define the core of his values. He identifies as Agnostic and holds moderate political views. He doesn't smoke, maintains an active exercise routine and drinks occasionally. He doesn't use marijuana or drugs either. His goals for dating aim towards a long-term and monogamous relationship. He does not have kids but wishes to have them in future. As a pet owner, he has a dog. His zodiac sign is Cancer, and his MBTI Personality Type is INTJ. His drinking habits are occasional and he is a non-smoker.",
+    "preferences_summary": "The ideal dating partner for this user is a woman aged between 25 and 35 years, with a height range of 5'5\" to 6'1\". She must be non-smoking, does not use marijuana or drugs, drinks and leads an active lifestyle. She should not have children, but must want them in the future and be someone who identifies as straight. Her intentions should align towards a long-term relationship and monogamy. Ethnicity preferences include White Caucasians, Hispanic/Latinos, East Asians, and Black African descent. Politically liberal or moderate views are desirable. The partner should be employed in the technology, healthcare, or education sectors. She should speak English and value honesty, ambition, and kindness. Interests in traveling, hiking, and reading are preferred. Lastly, the partner should have completed at least an undergraduate degree.",
+    "user_id": "595a99d6-b630-44d4-9c43-9e13849e6130"
+}

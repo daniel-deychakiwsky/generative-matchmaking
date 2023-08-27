@@ -1,0 +1,102 @@
+{
+    "name": "Olivia Windsor",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Stanford University",
+    "job_industry": "Tech",
+    "job_title": "UX Designer",
+    "hometown_location": "New York, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Creativity",
+        "Independence",
+        "Adventure"
+    ],
+    "interests": [
+        "Photography",
+        "Cooking",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance",
+            "Health"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Kindness",
+            "Honesty",
+            "Commitment"
+        ],
+        "interests": [
+            "Hiking",
+            "Photography",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a 28 year-old woman standing at 5'6\". She is a UX Designer working in the tech industry and is a graduate of Stanford University. She identifies as straight and is interested in a monogamous, long-term relationship. Originally from New York, New York, she is currently dating in Los Angeles, California. She fluently speaks English and Spanish, and identifies her ethnicity as white caucasian. Her core values are creativity, independence, and adventure. Interests include photography, cooking, and travel. She identifies as agnostic and liberal. Although she doesn't have any children yet, she wants them in the future. She is an active drinker but doesn't smoke, use marijuana, or drugs. When it comes to exercise, she's quite active. She owns a cat and is a Gemini with an ENFP personality type.",
+    "preferences_summary": "The user is looking for a man who is between the ages of 28 and 35 and stands between 5'8\" and 6'2\". He shouldn't have children currently but should want to have them in the future. Ideally, he would be straight, an active individual, and a non-smoker. He's preferred to be someone who has no problems with drinking but doesn't use marijuana or any other drugs. In terms of ethnicity, he can be of any listed ethnicity. Politically, a liberal or moderate man would be suitable. The ideal man would work in either Tech, Finance, or Health sectors, and English should be among his languages. He should value kindness, honesty, and be committed. His interests should include hiking, photography, and travelling. The user prefers someone who has at least an undergraduate level of education.",
+    "user_id": "b4bc36fd-0121-4860-af89-cacfe0c8a787"
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Connor Barnes",
+    "age": 32,
+    "height": "6'2\"",
+    "school": "Stanford University",
+    "job_industry": "Software",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Trust",
+        "Hard Work"
+    ],
+    "interests": [
+        "Movies",
+        "Wine Tasting",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Southeast Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Marketing",
+            "Finance",
+            "Software",
+            "Non-profit"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Trust",
+            "Kindness"
+        ],
+        "interests": [
+            "Movies",
+            "Wine Tasting",
+            "Hiking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile is of a 32-year-old man, standing tall at 6'2\", who works as a Software Engineer in the Software industry. He is an alumnus of Stanford University and has completed his graduate studies. Hailing originally from Austin, Texas, he is currently residing in Los Angeles, California. He is bilingual with fluency in English and Spanish. Honesty, trust, and hard work are the values he prizes highly in life. A fan of movies, wine tasting, and hiking, he also has a fondness for dogs. Agnostic with liberal political views, he envisages a monogamous, long-term relationship within straight sexuality. He is of White Caucasian ethnicity, identifies with the zodiac sign Capricorn and presents as ENTJ on the Myers-Briggs Type Indicator. He does not have children but wishes to have them in the future. He occasionally enjoys a drink but abstains from smoking, marijuana, and other drugs. As for physical activities, he maintains an active lifestyle.",
+    "preferences_summary": "The user prefers to date a straight woman who is between the ages of 28 and 35, with heights from 5'5\" to 6'0\". She should not have children but should want to have them in the future. The user's ideal match might work in Healthcare, Education, Marketing, Finance, Software, or a Non-profit industry. The partner should speak English and be Liberal to Moderate politically. The user desires a partner who values Honesty, Trust, and Kindness. The woman would ideally enjoy Movies, Wine Tasting, Hiking, and Reading. She should be actively physically and maintain an undergraduate or graduate level of education. In terms of habits, she should be a sometimes drinker but doesn't smoke or use marijuana or other drugs.",
+    "user_id": "3a89adaa-d9be-4fea-9c9f-d489a3306d0b"
+}

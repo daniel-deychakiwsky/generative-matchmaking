@@ -1,0 +1,98 @@
+{
+    "name": "Ezequiel Mesa",
+    "age": 34,
+    "height": "6'2\"",
+    "school": "University of Santa Barbara",
+    "job_industry": "IT",
+    "job_title": "Software Developer",
+    "hometown_location": "Los Angeles, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Creativity",
+        "Home_Family",
+        "Honesty"
+    ],
+    "interests": [
+        "Music",
+        "Coding",
+        "Hiking"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "Sometimes",
+    "drugs": "No",
+    "exercise": "Sometimes",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 38,
+        "minimum_height": "5'4\"",
+        "maximum_height": "5'11\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "East Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Not political"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Design",
+            "Art"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Creativity",
+            "Home_Family",
+            "Honesty"
+        ],
+        "interests": [
+            "Cooking",
+            "Reading",
+            "Fitness"
+        ],
+        "education_level": [
+            "Doctoral",
+            "Graduate",
+            "Undergraduate"
+        ]
+    },
+    "profile_summary": "This 34-year-old man, who identified himself as an atheist with liberal political beliefs, is a software developer in the IT industry, and a graduate of the University of Santa Barbara. Standing at 6'2\", he originates from Los Angeles, California, where he is currently dating. His languages of choice are English and Spanish, and he places huge importance on creativity, family, and honesty in everyday life. His hobbies include music, coding, and outdoor adventures such as hiking. Blinking no second for either smoking or drugs, he only drinks and uses marijuana occasionally. While still childless, he aims to have a family someday. A man of Hispanic/Latino heritage, he confesses to his love for dogs. He notably falls under the Cancer Zodiac sign and is denoted as an INTP personality type based on the MBTI personality test.  His vision for a relationship leans towards monogamy and dived-in for the motive of \"Long term\". He also maintains a somewhat fit physique, exercising now and then.",
+    "preferences_summary": "The user is seeking a woman aged 26 to 38 with a height between 5'4\" and 5'11&quot. She should be without prior children but looking to have them in the future. She should be straight and indulge in drinking sometimes, while not being a smoker nor marijuana user. She should exercise sometimes and should preferably be Hispanic/Latino, East Asian, or White Caucasian. Open to long term commitment, she should ideally have interests in cooking, reading, and fitness. For her profession, she preferably works in Education, Healthcare, Design, or Art industries and possesses a doctoral, graduate or undergraduate level of education. This woman must be liberal or apolitical and, significantly, places importance on creativity, being oriented towards home and family, and honesty. Finally, she should be able to communicate effectively in English.",
+    "user_id": "3e84ffd4-7b12-4420-97da-fc07f47cf3b0"
+}

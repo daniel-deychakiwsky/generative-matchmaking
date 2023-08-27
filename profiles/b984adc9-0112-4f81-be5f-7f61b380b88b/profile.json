@@ -1,0 +1,111 @@
+{
+    "name": "Dev Patel",
+    "age": 30,
+    "height": "5'7\"",
+    "school": "Rutgers University",
+    "job_industry": "Information Technology",
+    "job_title": "Data Scientist",
+    "hometown_location": "Edison, New Jersey",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi",
+        "Spanish"
+    ],
+    "values": [
+        "Education",
+        "Creativity",
+        "Authenticity"
+    ],
+    "interests": [
+        "Photography",
+        "Traveling",
+        "Coding",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'9\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Information Technology",
+            "Healthcare",
+            "Finance",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Education",
+            "Kindness",
+            "Creativity",
+            "Ambition",
+            "Humor"
+        ],
+        "interests": [
+            "Reading",
+            "Traveling",
+            "Music",
+            "Outdoor activities",
+            "Food"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This dating profile belongs to a 30-year-old man, who uses he/him/his pronouns, is 5'7\" in height and is an alumnus of Rutgers University. He is straight and identifies ethnically as South Asian. Professionally, he works in the Information Technology industry as a Data Scientist and resides in Los Angeles, California but originally comes from Edison, New Jersey. Apart from English, he can communicate in Hindi and Spanish as well. This instills in him core values like education, creativity, and authenticity, and he is interested in pursuits like photography, traveling, hiking, apart from his job-related coding. Consistent with his identification as an INFJ, which is introverted, intuitive, feeling, judging, he is an agnostic man leaning liberal politics. He often takes part in activities that keep him on his toes indicating active engagement in exercise and does indulge in drinking occasionally, albeit refraining from smoking, marijuana, or substances. Currently, he views relationships as monogamous and is looking to date for long term prospects. Even though he does not have children at the moment, he wants to have them in future while he does not have pets as of now. Lastly, he identifies his zodiac sign as Libra.\n",
+    "preferences_summary": "My ideal dating partner should be a woman between 25 to 35 years, and 5'2\" to 5'9\" in height. She should have no children but desire to have some in the future. Furthermore, she should identify as straight and should appropriately adhere to moderate drinking and active exercise habits without engaging in smoking, marijuana, or other drug use. I admire a woman who also seeks a long-term, monogamous relationship. As for her ethnicity, I am open to any, though English should be one of her spoken languages. Women from the Information Technology, Healthcare, Finance, or other sectors resonate with my professional morality, and education up to the doctoral level is admirable. She needs to appreciate education, kindness, creativity, ambition, and humor while also enjoying reading, traveling, music, outdoor activities, and food. Politics don't play a huge part in my preference; several views between liberalism and moderation could be entertaining.",
+    "user_id": "b984adc9-0112-4f81-be5f-7f61b380b88b"
+}

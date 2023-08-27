@@ -1,0 +1,96 @@
+{
+    "name": "Harrison Irvine",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "Harvard University",
+    "job_industry": "Finance",
+    "job_title": "Investment Banker",
+    "hometown_location": "Houston, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Ambition"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Sports"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Sagittarius",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Arts"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Loyalty"
+        ],
+        "interests": [
+            "Traveling",
+            "Cooking",
+            "Reading"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old man who values honesty, loyalty, and ambition. He is 6'1\" tall and works as an Investment Banker in the finance industry. His educational background is impressive as he is a graduate of Harvard University. Born and raised in Houston, Texas, he's currently located in Los Angeles, California. He is trilingual with proficiency in English, Spanish, and French. Interests include traveling, cooking, and sports. His religious belief is agnostic and he describes his political orientation as moderate. He is interested in long-term dating and prefers monogamous relationships. While he doesn't have children, he would like to have them in the future. He owns a dog and enjoys an active lifestyle. He characterizes himself as a socially moderate drinker, a non-smoker, and someone who abstains from marijuana and drugs. His zodiac sign is Sagittarius and, according to MBTI, he is an ENTJ.",
+    "preferences_summary": "The user is looking for a woman between the ages of 25 and 35 with a height ranging from 5'4\" to 5'10\". She needs to be active and does not already have children, but wants them in the future. In terms of lifestyle habits, she is okay with sometimes drinking, but does not smoke, use marijuana, or drugs. The woman should be sexually straight with long term dating intentions and open to monogamy. She would either be White Caucasian or Hispanic/Latino, and politically, a liberal or moderate. Her occupation is preferred to be in the fields of education, healthcare or the arts. She should at least be a graduate or hold a doctoral degree with spoken English language fluency. Honesty, ambition, and loyalty are values she should hold strong. She is interested in traveling, cooking, and reading.",
+    "user_id": "5964f233-fb6f-4781-a37e-4c983cfcf266"
+}

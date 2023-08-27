@@ -1,0 +1,101 @@
+{
+    "name": "Harrison Davenport",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Mandarin"
+    ],
+    "values": [
+        "Hard work",
+        "Independence",
+        "Creativity"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Technology",
+        "Playing Guitar",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 34,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Independence",
+            "Creativity"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 32-year-old straight man who stands at 6'1\". He identifies as a White Caucasian and uses he/him/his pronouns. His alma mater is the University of California, Berkeley, where he accomplished Graduate level education. He currently works as a Software Engineer in the tech industry while originating from Sacramento but now residing in Los Angeles. This multi-lingual man can converse in English, Spanish, and Mandarin, and is a proud INTJ (MBTI personality type) and a Gemini. He values hard work, independence, and creativity, while his interests lie in hiking, reading, technology, playing the guitar, and cooking. Politically liberal and an atheist, he believes in monogamy and is on the lookout for a life partner. Currently, he does not have children, but looks forward to having them in the future. Among pets, he owns a dog. A non-smoker, he sometimes enjoys a beverage and maintains an active lifestyle.",
+    "preferences_summary": "The user is seeking a female dating partner between the ages of 26 and 34, who is 5\u20194\u201d to 6\u20190\u201d tall, without children, and desires to have children in the future. She should identify as straight, sometimes drinks, and does not smoke or use marijuana or other drugs. An active lifestyle is preferable. Her ethnicity could be White Caucasian, East Asian, Black African Descent, Hispanic/Latino, or Middle Eastern. Politically, she should be liberal, and work within the tech, healthcare, or education industry. The prospective partner should at least speak English and value hard work, independence, and creativity. She should share the user's interests in hiking, reading, and cooking. The user prefers a woman with at least an undergraduate level of education or higher. This woman should also be interested in seeking a life partner and is comfortable with monogamy.",
+    "user_id": "223400ad-d931-4c29-a042-6379d1c22619"
+}

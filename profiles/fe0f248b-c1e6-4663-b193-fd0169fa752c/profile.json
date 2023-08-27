@@ -1,0 +1,103 @@
+{
+    "name": "Michael Peterson",
+    "age": 32,
+    "height": "6'0\"",
+    "school": "UCLA",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Boulder, Colorado",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Respect",
+        "Fitness",
+        "Education",
+        "Friendship"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Dog lover",
+        "Travel",
+        "Food"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Medical",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Respect",
+            "Fitness",
+            "Education"
+        ],
+        "interests": [
+            "Hiking",
+            "Travel",
+            "Food",
+            "Education"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old man, stands 6'0\" tall, straight sexuality, and identifies himself with He/Him/His pronouns. He is a white Caucasian, holds a graduate degree from UCLA, and works as a Software Engineer in the tech industry. Besides English, he also speaks Spanish. Currently settled in Los Angeles, he is originally from Boulder, Colorado. Honesty, respect, fitness, education, and friendship are his core values. His specific interests include hiking, coding, being a dog lover, traveling, and food. As an Atheist and politically liberal, he bears an MBTI Personality type of INTJ and star sign Aries. He owns a dog and does not have children but desires them in the future. He enjoys being active with occasional drinking, but refrains from smoking, marijuana, and other drugs. His intentions in dating are high, seeking long-term monogamous relationship.",
+    "preferences_summary": "The user is seeking a woman aged between 25 to 35, who is 5'0\" to 6'2\" in height. She should lead an active lifestyle and should not have any children but should desire to have kids in the future. In terms of habits, she should drink sometimes, abstain from smoking and drug use altogether. The woman correspondingly needs to have the intention of a long-term relationship and uphold values of honesty, respect, fitness, and education. Moreover, the user desires her to have particular interests including hiking, travel, food, and education. His ideal partner would at least have completed an undergraduate degree. Ethnicity is quite flexible in the range of White Caucasian, Black African Descent, East Asian, or Hispanic/Latino race. She should understand English and falls politically under Moderate or Liberal views. Preferred industries for her to be working in are Tech, Medical, or Education sectors.",
+    "user_id": "fe0f248b-c1e6-4663-b193-fd0169fa752c"
+}

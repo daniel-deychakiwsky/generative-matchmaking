@@ -1,0 +1,88 @@
+{
+    "name": "Elijah Marshall",
+    "age": 29,
+    "height": "5'10\"",
+    "school": "University of Washington",
+    "job_industry": "Information Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Family"
+    ],
+    "interests": [
+        "Hiking",
+        "Writing code",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "ISTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Any"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Any"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile is of an ambitious 29-year-old software developer who graduated from the University of Washington. He is a straight, white Caucasian man with the pronouns He/Him/His. With a height of 5'10\", he hails from Seattle, Washington, and is currently working in IT within Los Angeles, California. His main interests include hiking, coding, and reading, upholding values such as honesty, ambition, and family. Although he doesn't have pets or children right now, he is open to having kids in the future. He drinks occasionally, doesn't smoke, use marijuana, or other drugs, and leans liberal in politics while being agnostic. As a Pisces, and someone who is active and enjoys taking care of his physical health, he is seeking monogamy and a long-term relationship. He identifies as an ISTJ personality type.\n",
+    "preferences_summary": "The user is interested in dating a woman aged between 24 and 32 years. She must not have children but should want to have children in the future. He prefers someone who is active and values physical exercise. Drinking is acceptable but smoking and drug use, including marijuana, are not. The ideal partner for this user should have a straight sexuality and should be interested in a long term, monogamous relationship. She can be of any ethnicity. Her political beliefs could be liberal, moderate, or she could be not political. The woman can work in any job industry, speak any language, hold any values, and have interests in any field. As for her education level, she must have an undergraduate or graduate degree.",
+    "user_id": "d3395a25-2115-4811-a23a-d7679c070a61"
+}

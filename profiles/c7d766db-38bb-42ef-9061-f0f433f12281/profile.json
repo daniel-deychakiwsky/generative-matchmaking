@@ -1,0 +1,97 @@
+{
+    "name": "Mia Nguyen",
+    "age": 28,
+    "height": "5'4\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Medicine",
+    "job_title": "Pediatrician",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Vietnamese"
+    ],
+    "values": [
+        "Honesty",
+        "Compassion",
+        "Hard Work"
+    ],
+    "interests": [
+        "Hiking",
+        "Baking",
+        "Photography"
+    ],
+    "education_level": "Doctoral",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Southeast Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Hispanic/Latino",
+            "South Asian",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Medicine",
+            "Environment",
+            "Engineering",
+            "Art",
+            "Business",
+            "Science",
+            "Healthcare"
+        ],
+        "languages_spoken": [],
+        "values": [
+            "Honesty",
+            "Compassion",
+            "Hard Work"
+        ],
+        "interests": [],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "Our user is a 28-year-old woman who is a Pediatrician in the medical industry. She graduated from the University of California, Los Angeles and currently lives in Los Angeles, California, originally from San Diego; she uses She/Her/Hers pronouns. With Southeast Asian ethnicity, she is 5'4\" tall and falls under Virgo's zodiac sign. She is a straight woman who is looking for a long-term monogamous relationship. She is a hard-working, honest and compassionate Buddhist woman. She likes to go hiking, bake and photography is also part of her interests. She holds a doctoral degree and is politically moderate. She speaks English and Vietnamese. She has a dog as a pet. Although she doesn't currently have any children, she wants to have in the future. She occasionally drinks but doesn't smoke, take marijuana or any drugs. She maintains an active exercise routine. She is an INFJ, according to the MBTI personality type.",
+    "preferences_summary": "The user is looking for a man between the ages of 28 and 35, who is at least 5'5\" tall, but not taller than 6'3\". He should be interested in long-term monogamy and must be single with no children. However, he should express interest in having kids in the future. His preferred sexuality is straight and in terms of lifestyle, the man should be active, drink occasionally, but not smoke or use marijuana or drugs. Preferences for his ethnicity include East Asian, White Caucasian, Hispanic, South Asian, or Black African Descent and he leans politically Liberal or Moderate. In terms of career, he should work in Medicine, Environmental Services, Engineering, Art, Business, Science, or Healthcare industries. Educationally he must at least have an undergraduate degree but could also have graduate or doctoral degrees. Crucial values to the user are Honesty, Compassion, and Hard Work.",
+    "user_id": "c7d766db-38bb-42ef-9061-f0f433f12281"
+}

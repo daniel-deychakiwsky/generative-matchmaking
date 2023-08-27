@@ -1,0 +1,102 @@
+{
+    "name": "Jacob Vincent",
+    "age": 34,
+    "height": "5'9\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hard Work",
+        "Honesty",
+        "Loyalty"
+    ],
+    "interests": [
+        "Technology",
+        "Hiking",
+        "Travel",
+        "Music",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Not political"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Technology",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Hard Work",
+            "Honesty",
+            "Loyalty"
+        ],
+        "interests": [
+            "Travel",
+            "Music",
+            "Cooking",
+            "Reading",
+            "Nature"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 34-year-old man who identifies as straight and uses He/Him/His pronouns. He is a White Caucasian software engineer in the technology industry, standing at 5'9\". He holds a graduate degree from the University of California, Los Angeles. He is originally from San Diego, California, but currently living and dating in Los Angeles. Fluent in English and Spanish, he values hard work, honesty, and loyalty. He enjoys being active through hiking and has interests in technology, travel, music, and cooking. His religious beliefs are agnostic, his political leanings are liberal, he occasionally drinks, but does not smoke, use marijuana, or any other drugs. He is a Cat owner and hasn't had any children yet, but hopes to in the future. As a Capricorn with an INTJ personality type, he is looking for a long-term relationship and believes in monogamy.",
+    "preferences_summary": "The user is seeking a woman aged between 25 and 35 years old, with a height between 5'0\" and 6'0\". She must not have children, but should want them in the future. Her sexuality should be straight. Her drinking habits should align with 'sometimes', and she must not engage in smoking, marijuana, and other drugs. An active individual, with regard to physical exercise, would be preferred. Her intentions should align with long-term dating and she should believe in monogamy. Preferred ethnicities include White Caucasian, Hispanic/Latino, or other. She should be liberal or not political. She should preferably be employed in the healthcare, education, technology sector or others. She should be able to converse in English or Spanish. The user appreciates the values of hard work, honesty, and loyalty. Her interests should include travel, music, cooking, reading, or nature. Her educational qualification should be an undergraduate degree or higher.",
+    "user_id": "f94c754f-1a33-4ba2-ac15-c7801e7fe078"
+}

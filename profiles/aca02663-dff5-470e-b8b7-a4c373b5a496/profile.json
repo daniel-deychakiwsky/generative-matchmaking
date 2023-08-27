@@ -1,0 +1,105 @@
+{
+    "name": "Tayebo Hussain",
+    "age": 32,
+    "height": "5'8\"",
+    "school": "University of Texas",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Arabic"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Loyalty"
+    ],
+    "interests": [
+        "Cooking",
+        "Reading tech news",
+        "Running",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative",
+            "Not political",
+            "Other"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Loyalty"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral",
+            "Other"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 32-year-old Software Engineer in the technology industry from Austin, Texas who is currently based in Los Angeles. He is a University of Texas graduate and identifies as a straight man with pronouns He/Him/His. He has Middle Eastern ethnicity, is a Muslim with moderate political views, and an INTJ personality type. He enjoys cooking, reading tech news, running, and coding. His core values include honesty, kindness, and loyalty. He speaks English and Arabic, does not smoke, drink, or use marijuana or other drugs, and he leads an active lifestyle. He does not have any children but wishes to have in the future. He currently does not have any pets, his zodiac sign is Libra, and he is looking for a long-term monogamous relationship.",
+    "preferences_summary": "The user is seeking a woman, aged between 25 and 35, with a height ranging from 5'0\" to 5'10\". She should not have children but intends to have some in the future. She must be straight and uphold the values of honesty, kindness, and loyalty. Her ethnicity can be diverse, ranging from Black African descent to White Caucasian and others. Her political inclinations can be varied, from liberal, moderate, conservative, non-political, or other. She might work in any job industry. She must speak English, and her level of education can range from undergraduate to doctoral or other. The user prefers his partner not to drink, smoke, or use marijuana or other drugs, and she should lead an active lifestyle. Ultimately, her intentions should align with the user's, which is to have a long-term and monogamous relationship.",
+    "user_id": "aca02663-dff5-470e-b8b7-a4c373b5a496"
+}

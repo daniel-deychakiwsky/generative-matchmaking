@@ -1,0 +1,107 @@
+{
+    "name": "Sanaa Toure",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "University of Michigan",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Detroit, Michigan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French",
+        "Wolof"
+    ],
+    "values": [
+        "Integrity",
+        "Compassion",
+        "Achievement"
+    ],
+    "interests": [
+        "Coding",
+        "Yoga",
+        "Hiking",
+        "Book clubs"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Spiritual",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Tech Industry",
+            "Business",
+            "Healthcare industry"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Integrity",
+            "Compassion",
+            "Achievement"
+        ],
+        "interests": [
+            "Workout",
+            "Reading",
+            "Music",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old Software Engineer in the Tech Industry based in Los Angeles, California, originally from Detroit, Michigan. She is a proud graduate of the University of Michigan and prides herself on her core values of Integrity, Compassion, and Achievement. Fluent in English, French, and Wolof, she is multilingual and of Black African Descent. She's active with interests in coding, yoga, hiking, and book clubs. While being spiritual, she leans towards liberal political views. She hopes to find a long-term monogamous relationship with the aim of having children in the future. She practices sobriety by not indulging in smoking, drug use, and only drinking sometimes. While presently not a pet owner, she enjoys an active lifestyle and is an INTP on the Myers-Briggs personality scale. As a Cancer sign, she uses she/her pronouns and is straight.",
+    "preferences_summary": "The user prefers a straight man between the ages of 28 and 35, with a height ranging from 5'9\" to 6'3\". The potential partner should not have children, but should want to have children in the future. His drinking habits should be occasional, with no smoking, marijuana use, or other drug use. The user prefers a man who is active physically. He should be looking for a long-term relationship and prefer monogamy. His ethnicity could be any, but it is preferable for him to have liberal, moderate, or conservative political views. He should be working in the tech industry, business, or healthcare industry and should be able to speak English. He should value integrity, compassion, and achievement, and his interests should include working out, reading, music, or travel. Lastly, he should have at least an undergraduate level of education.",
+    "user_id": "13695ec5-e9df-40cc-ac49-b2825e68c18a"
+}

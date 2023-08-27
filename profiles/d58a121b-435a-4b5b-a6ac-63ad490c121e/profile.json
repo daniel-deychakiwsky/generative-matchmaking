@@ -1,0 +1,95 @@
+{
+    "name": "Sebastian Ramirez",
+    "age": 28,
+    "height": "6'1\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Software",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Hard work"
+    ],
+    "interests": [
+        "Surfing",
+        "Photography",
+        "Hiking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "ESTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "Sometimes",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'1\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "Yes",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Software",
+            "Education",
+            "Health Care"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Loyalty",
+            "Empathy"
+        ],
+        "interests": [
+            "Outdoors",
+            "Fitness",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 28-year old Software Engineer is a 6'1\" Hispanic/Latino man who hails from San Diego, California but currently resides in Los Angeles. He graduated from the University of California, Los Angeles and is proficient in both English and Spanish. Fiercely dedicated to values including honesty, loyalty, and hard work, he thrives in his chosen field in software. He considers himself straight and strictly believes in monogamy as he looks for a long-term relationship. He practices an active lifestyle which perfectly aligns with his interests such as surfing, photography, hiking, and coding. He enjoys the company of his dog and plans on having children someday. He's quite open about his modest consumption of alcohol and occasional use of marijuana, however, he doesn't smoke or do drugs. As an Aries and an ESTP (MBTI Personality Type), this agnostic man aligns himself liberal politically.",
+    "preferences_summary": "The user is seeking a woman who is aged between 24 and 32. She should have a height that lies anywhere between 5'0\" and 6'1\". While she should not already have children, she should be open to having children in the future. The preferred partner should be straight, physically active, and a non-smoker. While she could take alcohol, she should find marijuana acceptable without being into other types of drugs. The desired ethnic backgrounds of the potential partners are White Caucasian and Hispanic/Latino. The woman should have liberal political views and be involved in either software, education, or healthcare industries. English should be a language she speaks, and her integral values should include honesty, loyalty, and empathy. The woman should also enjoy the outdoors, fitness, and traveling. As per her education, she should be an undergraduate or graduate.",
+    "user_id": "d58a121b-435a-4b5b-a6ac-63ad490c121e"
+}
