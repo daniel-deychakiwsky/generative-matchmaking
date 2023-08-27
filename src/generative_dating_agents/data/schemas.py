@@ -270,28 +270,111 @@ user_profile_function_schema = {
                     "description": "Does the user's preferred partner exercise",
                     "enum": ["Active", "Sometimes", "Almost never"],
                 },
-            },
-            "gender": {
-                "type": "string",
-                "description": "The user's preferred partner's gender",
-                "enum": ["Man", "Woman", "Non binary"],
-            },
-            "dating_intentions": {
-                "type": "string",
-                "description": "The user's preferred partner's dating intentions",
-                "enum": [
-                    "Life partner",
-                    "Long term",
-                    "Long term, open to short",
-                    "Short term, open to long",
-                    "Short term",
-                    "Other",
-                ],
-            },
-            "relationship_type": {
-                "type": "string",
-                "description": "The user's preferred partner's relationship type",
-                "enum": ["Monogamy", "Polyamory", "Other"],
+                "gender": {
+                    "type": "string",
+                    "description": "The user's preferred partner's gender",
+                    "enum": ["Man", "Woman", "Non binary"],
+                },
+                "dating_intentions": {
+                    "type": "string",
+                    "description": "The user's preferred partner's dating intentions",
+                    "enum": [
+                        "Life partner",
+                        "Long term",
+                        "Long term, open to short",
+                        "Short term, open to long",
+                        "Short term",
+                        "Other",
+                    ],
+                },
+                "relationship_type": {
+                    "type": "string",
+                    "description": "The user's preferred partner's relationship type",
+                    "enum": ["Monogamy", "Polyamory", "Other"],
+                },
+                "ethnicities": {
+                    "type": "array",
+                    "description": "The user's preferred partner's ethnicities",
+                    "items": {
+                        "type": "string",
+                        "enum": [
+                            "Black African Descent",
+                            "East Asian",
+                            "Hispanic/Latino",
+                            "Middle Eastern",
+                            "Native American",
+                            "Pacific Islander",
+                            "South Asian",
+                            "Southeast Asian",
+                            "White Caucasian",
+                            "Other",
+                        ],
+                    },
+                    "minItems": 1,
+                    "maxItems": 10,
+                },
+                "politics": {
+                    "type": "array",
+                    "description": "The user's preferred partner's politics",
+                    "items": {
+                        "type": "string",
+                        "enum": [
+                            "Liberal",
+                            "Moderate",
+                            "Conservative",
+                            "Not political",
+                            "Other",
+                        ],
+                    },
+                    "minItems": 1,
+                    "maxItems": 5,
+                },
+                "job_industry": {
+                    "type": "array",
+                    "description": "The user's preferred partner's job industry",
+                    "items": {"type": "string"},
+                    "minItems": 1,
+                    "maxItems": 5,
+                },
+                "languages_spoken": {
+                    "type": "array",
+                    "description": "The user's preferred partner's spoken languages",
+                    "items": {"type": "string"},
+                    "minItems": 1,
+                    "maxItems": 3,
+                },
+                "values": {
+                    "type": "array",
+                    "description": "The user's preferred partner's life values",
+                    "items": {"type": "string"},
+                    "minItems": 5,
+                    "maxItems": 10,
+                },
+                "interests": {
+                    "type": "array",
+                    "description": "The user's preferred partner's interests",
+                    "items": {
+                        "type": "string",
+                    },
+                    "minItems": 5,
+                    "maxItems": 10,
+                },
+                "education_level": {
+                    "type": "array",
+                    "description": "The user's preferred partner's education level",
+                    "items": {
+                        "type": "string",
+                        "enum": [
+                            "High school",
+                            "Undergraduate",
+                            "Graduate",
+                            "Doctoral",
+                            "Other",
+                        ],
+                    },
+                    "minItems": 1,
+                    "maxItems": 5,
+                },
             },
             "required": [
                 "minimum_age",
@@ -309,6 +392,13 @@ user_profile_function_schema = {
                 "marijuana",
                 "drugs",
                 "exercise",
+                "ethnicities",
+                "politics",
+                "job_industry",
+                "languages_spoken",
+                "values",
+                "interests",
+                "education_level",
             ],
         },
     },
@@ -365,6 +455,13 @@ class PartnerPreferences:
     gender: str
     dating_intentions: str
     relationship_type: str
+    ethnicities: List[str]
+    politics: List[str]
+    job_industry: List[str]
+    languages_spoken: List[str]
+    values: List[str]
+    interests: List[str]
+    education_level: List[str]
 
 
 @dataclass
@@ -400,5 +497,6 @@ class UserProfile:
     drugs: str
     exercise: str
     partner_preferences: PartnerPreferences
-    summary: str
+    profile_summary: str
+    preferences_summary: str
     user_id: str

@@ -84,7 +84,7 @@ def load_collection(
     ]
 
     user_ids: List[str] = [p.user_id for p in user_profiles]
-    user_profile_summaries: List[str] = [p.summary for p in user_profiles]
+    user_profile_summaries: List[str] = [p.profile_summary for p in user_profiles]
 
     vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
     vdb.create_collection(name=collection_name, distance=distance)
