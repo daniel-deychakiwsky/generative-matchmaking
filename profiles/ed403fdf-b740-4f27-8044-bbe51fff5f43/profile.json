@@ -1,0 +1,101 @@
+{
+    "name": "Hakim Abdelrahman",
+    "age": 34,
+    "height": "5'10\"",
+    "school": "University of Cairo",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Alexandria, Egypt",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Arabic",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Education",
+        "Travel"
+    ],
+    "interests": [
+        "Programming",
+        "Soccer",
+        "Music"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Middle Eastern",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Native American",
+            "Pacific Islander"
+        ],
+        "politics": [
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Education",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "Arabic",
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Education",
+            "Travel"
+        ],
+        "interests": [
+            "Technology",
+            "Movies",
+            "Music"
+        ],
+        "education_level": [
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 34-year-old man, who is 5'10\" tall. He is a Software Engineer working in the technology industry. Originally from Alexandria, Egypt, he now resides in Los Angeles, California. He graduated from the University of Cairo and speaks both Arabic and English. Important values to him are family, education, and travel. He carries a passion for programming, soccer, and music. He practices Islam, has moderate political beliefs, and is seeking a long-term, monogamous relationship. He identifies as straight and uses the pronouns He/Him/His. He is Middle Eastern, a non-drinker, non-smoker, does not use marijuana or other drugs, and leads an active lifestyle. Although he does not have children, he aspires to have them in the future. He does not own any pets, is a Virgo, and identifies as an INTJ in the Myers-Briggs personality typology.\n",
+    "preferences_summary": "The user is seeking a woman aged between 25-35 who is between 5'0\"-6'0\" in height. The potential partner should not have children, but should want them in the future. They should be straight and not smoke or consume alcohol or drugs, while leading an active exercise routine. The ideal partner is interested in a long-term, monogamous relationship. All ethnicities are acceptable, with a moderate political stance. The preferred job industries are technology, education and healthcare. Proficiency in Arabic and English is preferred. Shared values include family, education and travel, and common interests may include technology, movies and music. The optimal education level for the user's partner is a graduate level.\n",
+    "user_id": "ed403fdf-b740-4f27-8044-bbe51fff5f43"
+}

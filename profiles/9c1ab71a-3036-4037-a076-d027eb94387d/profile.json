@@ -1,0 +1,99 @@
+{
+    "name": "Elijah Brewer",
+    "age": 31,
+    "height": "6'2\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Kindness",
+        "Honesty",
+        "Family"
+    ],
+    "interests": [
+        "Hiking",
+        "Cooking",
+        "Reading"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 36,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Science",
+            "Medical",
+            "Education",
+            "Arts",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Kindness",
+            "Honesty",
+            "Family"
+        ],
+        "interests": [
+            "Hiking",
+            "Cooking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 31-year-old man stands at 6'2\" and works in the Technology industry as a Software Developer. He studied at Stanford University and is of Black African descent. Hailing from Austin, Texas, he currently resides in Los Angeles, California. He communicates in both English and Spanish. His core values include kindness, honesty, and family. Some of his interests are hiking, cooking, and reading. He aligns with liberal politics, labels himself as agnostic, and has the MBTI personality type INTJ. His relationship preference is monogamy for a long-term intention. He identifies his sexuality as straight and is presently childless yet hopes to have children in the future. His pet preference includes dogs. Leo is his zodiac sign. He maintains an active lifestyle, occasionally enjoys a drink, but does not smoke, use marijuana, or other drugs.",
+    "preferences_summary": "The user is seeking a woman, aged between 26 and 36, with a height ranging from 5'2\" to 6'0\". She should also share values such as kindness, honesty, and family, and have interests in hiking, cooking, reading. She should not have children but be open to having them in the future. She should occasionally drink but not smoke, use marijuana, or other drugs. Occasional exercise is preferable. With regards to education, both undergraduate or graduate levels are okay. As for ethnicity, she could be of black African descent, white Caucasian, Hispanic/Latino, or Asian. Preferred job industries include science, medical, education, arts, and finance. She should be politically liberally or moderate. It is a must that she is capable of speaking English. Her intentions should be for a long term, monogamous relationship.",
+    "user_id": "9c1ab71a-3036-4037-a076-d027eb94387d"
+}

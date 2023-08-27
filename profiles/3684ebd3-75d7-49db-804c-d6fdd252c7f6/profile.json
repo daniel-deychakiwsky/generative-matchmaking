@@ -1,0 +1,99 @@
+{
+    "name": "Jacques Leblanc",
+    "age": 34,
+    "height": "6'2\"",
+    "school": "Universit\u00e9 de Montr\u00e9al",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Montr\u00e9al, Quebec",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Independence"
+    ],
+    "interests": [
+        "Skiing",
+        "Programming",
+        "French Literature"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 38,
+        "minimum_height": "5'3\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Education",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish",
+            "French"
+        ],
+        "values": [
+            "Honesty",
+            "Family",
+            "Adventure"
+        ],
+        "interests": [
+            "Travel",
+            "Cooking",
+            "Fitness"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a 34-year-old man who speaks English and French and values honesty, family, and independence. He stands 6'2\" tall and is a Software Developer in the Technology industry. He graduated from the Universit\u00e9 de Montr\u00e9al. Hailing originally from Montr\u00e9al, Quebec, he's now dating in Los Angeles, California. A lover of skiing, programming, and French literature, he is a liberal, atheist, and an INTP per the MBTI personality index. He is white caucasian, identifies as straight and is interested in a long term, monogamous relationship. While he currently doesn't have children, he would like to in the future. He has a pet dog, is a Virgo, and leads an active lifestyle. Drinking only occasionally, he does not smoke or use marijuana or other drugs.",
+    "preferences_summary": "This person is looking for a woman who is between the ages of 25 and 38 and is between 5'3\" and 6'4\" in height. She should not have children, but wanting to have children in the future is a must. She should be straight, occasionally drinks, but never smokes, uses marijuana or other drugs. Staying physically active is important to the potential partner as well. The preferred ethnicities for the potential partner are: White Caucasian, Hispanic/Latino, East Asian, and Black/African descent. They prefer someone who leans towards liberal or moderate politics and who is employed in the technology, education or healthcare industry. English, Spanish, or French fluency is preferred. In terms of values, they are looking for honesty, family orientation, and a zest for adventure. They hope she has interests in travel, cooking and fitness. Their potential partner can have an undergraduate or graduate level education.",
+    "user_id": "3684ebd3-75d7-49db-804c-d6fdd252c7f6"
+}

@@ -1,0 +1,95 @@
+{
+    "name": "Sofia Papadopoulos",
+    "age": 28,
+    "height": "5'8\"",
+    "school": "University of Athens",
+    "job_industry": "Finance",
+    "job_title": "Investment Analyst",
+    "hometown_location": "Thessaloniki, Greece",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Greek"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Balance"
+    ],
+    "interests": [
+        "Traveling",
+        "Reading",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Orthodox",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 38,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Finance",
+            "Tech"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Ambition",
+            "Balance"
+        ],
+        "interests": [
+            "Traveling",
+            "Reading",
+            "Hiking"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight woman, who stands 5'8\" tall and identifies with she/her/hers pronouns. She was born and raised in Thessaloniki, Greece, and is a proud white Caucasian. After graduating from the University of Athens, she currently works in Los Angeles, California as an Investment Analyst in the finance industry. Fluent in both English and Greek, she values family, ambition, and balance. She cherishes interests like traveling, reading, and hiking. Raised in the Orthodox faith, she identifies politically as a moderate. She's looking for a life partner who shares in her monogamous relationship types. Although without kids right now, she hopes to have some in the future. She keeps a pet dog, enjoys a drink occasionally but refrains from smoking, marijuana, and drugs. As an active Capricorn and INTJ personality type, staying fit is important to her.",
+    "preferences_summary": "The user is looking for a man between the ages of 30 and 38, who is at least 5'10\" tall but not taller than 6'4\". He should not have children currently, but having a desire to have children in the future is a must. The potential partner should identify as straight, doesn't smoke, and is okay with having alcoholic drinks. He should also say no to marijuana and drugs but lead an active lifestyle with regular exercise. The man should be interested in a monogamous relationship and be seriously looking for a life partner. He should identify ethnically as either White Caucasian or Hispanic/Latino. His political inclinations can range from Liberal, Moderate, to Conservative. He should be working in either the Finance or Tech industry and at least have a graduate level education. Fluency in English is a requirement, sharing similar values such as family, ambition, and balance, and shared interests such as traveling, reading, and hiking would be ideal.",
+    "user_id": "7cae6107-822f-4094-84cd-6d4597074e87"
+}

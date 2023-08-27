@@ -1,0 +1,98 @@
+{
+    "name": "Dimitri Petrov",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "Moscow State University",
+    "job_industry": "Software Development",
+    "job_title": "Lead Software Engineer",
+    "hometown_location": "Moscow, Russia",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Russian"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Hard Work"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Chess",
+        "Reading",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 35,
+        "minimum_height": "5'3\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "Other"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal",
+            "Other"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Family",
+            "Hard Work"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 32-year-old man is a Lead Software Engineer in the Software Development industry. Originally from Moscow, Russia, he is now residing in Los Angeles, California. Standing 6'1\" tall, he is fluent in both English and Russian. Having graduated from Moscow State University, he is proud to value honesty, hard work, and family. His interests include coding, hiking, chess, reading, and cooking. He is Agnostic, politically moderate, and seeks a long-term monogamous relationship. He identifies as straight, does not have children but wants them in the future. He does not have pets, neither smokes nor uses marijuana or other drugs. He sometimes drinks and stays active through regular exercise. His MBTI personality type is INTJ and his zodiac sign is Libra.",
+    "preferences_summary": "The user is seeking a woman between 24 and 35 years old with a height of 5'3\" to 6'2\". His potential partner should not have children but ideally would want to have children in the future. The woman must be straight and someone who drinks but does not engage in smoking, marijuana use, or other drugs. Physical activity is essential to this user. Although she can be of any ethnicity, she should be politically liberal or moderate. There are no specifications concerning her employment or hobbies, but proficiency in English. Honesty, family, and hard work are values that she should abide by, and her education should be at least undergraduate-level. The user's intention is for a long-term relationship, adhering to monogamy.",
+    "user_id": "3aa71053-9180-477a-9325-9a9f0032bc8d"
+}

@@ -1,0 +1,105 @@
+{
+    "name": "Natasha Fairchild",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "values": [
+        "Honesty",
+        "Empathy",
+        "Kindness",
+        "Equality",
+        "Open-mindedness"
+    ],
+    "interests": [
+        "Coding",
+        "Trekking",
+        "Reading",
+        "Music",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat",
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "Hispanic/Latino",
+            "White Caucasian",
+            "East Asian",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Medical",
+            "Legal",
+            "Creative"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Empathy",
+            "Equality"
+        ],
+        "interests": [
+            "Outdoor Activities",
+            "Reading",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman, standing 5'7\" tall, who describes herself as straight and exhibits liberal political views. She is a Software Engineer in the technology industry and a graduate of Stanford University. She is originally from San Francisco, California but currently dating in Los Angeles, California. Multilingual, she speaks English, Spanish, and French fluently. This bubbly Cancer sign champions values such as honesty, empathy, kindness, equality, and open-mindedness. She pampers herself with interests like coding, trekking, reading, music, and photography. She's agnostic and identifies herself as an INFJ according to the Myers-Briggs Type Indicator. As a person who enjoys an active life, she sometimes drinks but avoids smoking, marijuana, and drugs. She shares her shelter with her cat and dog. Although she doesn't have children, she is open to the idea of having some in the future. Her aim is a long-term monogamous relationship.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 35 years, with a height ranging from 5'8\" to 6'3\". The potential partner should not have children but should ideally want them in the future. The partner's sexual preference should be straight, and their lifestyle should include occasional drinking, no smoking, no marijuana or drug use, and an active exercise habit. They should also have intentions for a long-term relationship and should practice monogamy. Preference goes to those who hail from job industries like Technology, Medical, Legal or Creative, with an educational level of either an Undergraduate or Graduate. They should be nonprejudiced, being either Black African Descent, Hispanic/Latino, White Caucasian, East Asian, or Middle Eastern. The partner should also be fluent in English and Spanish and possess values like honesty, empathy, and equality. Interests in outdoor activities, reading, and music are also desirable. Lastly, they should lean towards liberal politics.\n",
+    "user_id": "a880765b-38a8-4297-86cb-b34d412eea5c"
+}

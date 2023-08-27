@@ -1,0 +1,98 @@
+{
+    "name": "Keisha Williams",
+    "age": 29,
+    "height": "5'8\"",
+    "school": "University of Michigan",
+    "job_industry": "Information Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Detroit, Michigan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Honesty"
+    ],
+    "interests": [
+        "Playing guitar",
+        "Art",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Information Technology",
+            "Engineering",
+            "Science & Research"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career",
+            "Honesty"
+        ],
+        "interests": [
+            "Music",
+            "Outdoor activities",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 29-year-old woman works as a Software Engineer in the Information Technology industry and lives in Los Angeles, California. She is educated to a graduate level, having studied at the University of Michigan. Originating from Detroit, Michigan, she is proud of her Black African heritage and speaks both English and French. As a physically active individual who rarely indulges in alcohol and doesn't smoke or do drugs, she leads a healthy lifestyle. Her core values are Family, Career, and honesty, and in her leisure time, she enjoys playing the guitar, admiring art, and traveling across the world. While she dabbles into philosophical contemplation as an agnostic, she embraces moderate political views. She identifies as a straight woman, expresses herself with She/Her/Hers pronouns, and is seeking a monogamous, long-term relationship. Currently, she doesn't have children but looks forward to having them someday. Though she doesn't own any pets right now, she is a Leo and identifies as an ENFJ individual according to the Mbti personality analysis.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 35 years, standing at a height between 5'10\" and 6'3\", who is also looking for a long-term relationship and comfortable with monogamy. Her potential partner should be straight, without children, but desiring them in the future. He should either rarely or occasionally consume alcohol, but abstain from smoking, marijuana, and other drugs usage. Active physical exercise routine is preferred. Ethnicity can be black African descent, white Caucasian, East Asian, or Hispanic/Latino; job should ideally belong to the information technology, engineering, or science and research industry; and education could be either undergraduate or graduate level. Importantly, he needs to speak English and value Family, Career, and Honesty. Interests in music, outdoor activities, and travel are also preferred. His political views can be liberal, moderate or conservative.",
+    "user_id": "4c1c33f9-5c65-4929-9864-9541604c07fc"
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Heidi Wright",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "University of Washington",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Portland, Oregon",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Fitness"
+    ],
+    "interests": [
+        "Travel",
+        "Cooking",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 38,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Marketing",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career",
+            "Fitness"
+        ],
+        "interests": [
+            "Travel",
+            "Music",
+            "Hiking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "Our user is a 28-year-old woman who identifies with 'She/Her/Hers' pronouns. She is Caucasian and was born under the Scorpio sign. Her education journey took her to the University of Washington, where she completed her postgraduate studies. She now works as a software engineer in the tech industry. She's comfortable speaking both English and Spanish. Her hometown is in Portland, Oregon, though she is currently located in Los Angeles, California. Furthermore, she doesn't smoke, use drugs or marijuana, but enjoys a drink occasionally. Fitness is a crucial aspect of her lifestyle, and she frequently exercises. She doesn't have children yet, but would like to one day. She cohabits with her pet cat. Some of her interests include hiking and travel, and she also enjoys cooking. Her core values revolve around family, her career, and fitness. She is looking for a long-term, monogamous relationship. Her political leanings are liberal, and she identifies as agnostic. She identifies as a straight INTP on the MBTI scale.",
+    "preferences_summary": "The user's ideal dating partner is a man aged between 29 to 38 years, with a height ranging from 5'8\" to 6'3\". He has no children but wants to have some in the future. He identifies as straight and centric to sometimes indulge in drinking. His nonsmoking and drugs-free lifestyle mirror the user's. Exercise and staying active is crucial to him. The user prefers a partner from tech, marketing, or education industries. Must be able to speak English and share similar values on family, career, and fitness. His interests should range from traveling to enjoying music and hiking. He should have an undergraduate or a graduate degree. Preferred ethnicities are White Caucasian, East Asian, and Hispanic/Latino. The chosen partner should have a liberal or moderate political belief. The user is looking for a long-term relationship with a man who values monogamy.",
+    "user_id": "9c2a260e-6d77-473a-a9c3-0202ff06ee30"
+}

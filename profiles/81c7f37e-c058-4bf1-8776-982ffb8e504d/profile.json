@@ -1,0 +1,97 @@
+{
+    "name": "Vanessa Rodriguez",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Los Angeles, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Creativity"
+    ],
+    "interests": [
+        "Trekking",
+        "Reading",
+        "Coding",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 36,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance",
+            "Legal"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Creativity"
+        ],
+        "interests": [
+            "Trekking",
+            "Reading",
+            "Traveling"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old Hispanic/Latino woman who uses She/Her/Hers pronouns and is straight. Standing at a height of 5'6\", she currently works as a Software Engineer in the Tech industry based in Los Angeles, California, her hometown as well. She graduated from the University of California, Los Angeles and has a Graduate level of education. Fluent in both English and Spanish, she values honesty, kindness, and creativity. Her interests include trekking, reading, coding, and traveling. Though agnostic in religious beliefs, she leans towards liberal politics. She is looking for a long-term relationship and practices monogamy. Importantly, she does not have children but wants them in the future. She owns a cat and enjoys an active lifestyle that involves exercising. Her zodiac sign is Cancer and she identifies her MBTI personality type as INTP. She enjoys drinking socially, does not smoke and refrains from marijuana and other drugs.",
+    "preferences_summary": "The user is interested in a long-term, monogamous relationship with a straight man aged between 28 and 36 years old. The potential partner should be between 5'8\" and 6'3\" tall and should not have children; however, enthusiastic at the prospect of having children in the future. He must be non-smoking nor using marijuana or other drugs, yet, drinking is accepted. Active lifestyle (regular exercise) is important. The potential partner's ethnicity preferences include White Caucasian, Hispanic/Latino, or Black African Descent. Both liberal and moderate politicians are acceptable. The men in tech, finance, or legal sector align with her preferences. He should be fluent in English. They must value honesty, kindness, and creativity; should share her interests in trekking, reading, and traveling. Education-wise, a graduate or doctoral degree is preferred.",
+    "user_id": "81c7f37e-c058-4bf1-8776-982ffb8e504d"
+}

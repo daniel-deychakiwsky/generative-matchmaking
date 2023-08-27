@@ -1,0 +1,103 @@
+{
+    "name": "Harper Benson",
+    "age": 28,
+    "height": "5'8\"",
+    "school": "University of Michigan",
+    "job_industry": "Healthcare",
+    "job_title": "Physical Therapist",
+    "hometown_location": "Denver, Colorado",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Professional Growth",
+        "Fitness"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ISFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Engineering"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Kindness"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight woman who uses she/her pronouns. She is a physical therapist in the healthcare industry and has a graduate degree from the University of Michigan. She is originally from Denver, Colorado, but she currently dates in Los Angeles, California. She speaks English and Spanish and upholds values of honesty, professional growth, and fitness. Her interests include hiking, reading, and traveling. She identifies as a White Caucasian, an atheist, and a moderate politically. She does not have any children but wishes to have some in the future. She owns a dog, occasionally drinks alcoholic beverages, and exercises actively. Neither smoking nor drug is involved in her lifestyle. She intends to go into a long-term, monogamous relationship. Her MBTI personality type is ISFJ and she is of the Leo zodiac sign.",
+    "preferences_summary": "The user is seeking a man between the ages of 28 and 35 who is active physically and stands between 5'8\" and 6'3\". Her potential partner should not have children but must want to have them in the future. His ethnicity can span a wide variety, encompassing black African descent, East Asian, Hispanic/Latino, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian, and white Caucasian. Politically, he can be liberal, moderate, or conservative. His occupation ideally falls within the healthcare, education, or engineering sectors. He must speak English and share values such as honesty, ambition, and kindness. The user's potential partner should have completed at least undergraduate-level education and have hobbies such as hiking, reading, and traveling. His dating intentions must be long term, indicating a preference for monogamous relationships. In terms of lifestyle, the partner should drink occasionally, but smoking, marijuana, and other drug use are not preferred.",
+    "user_id": "9e4b6a9f-c973-420d-b4ab-a9f7466b2226"
+}

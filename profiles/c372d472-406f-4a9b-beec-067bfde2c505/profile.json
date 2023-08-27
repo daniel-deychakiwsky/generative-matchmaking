@@ -1,0 +1,93 @@
+{
+    "name": "Sophia Harrison",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "UCLA",
+    "job_industry": "Financial Services",
+    "job_title": "Investment Analyst",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Family-orientation",
+        "Ambition"
+    ],
+    "interests": [
+        "Traveling",
+        "Reading",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Spiritual",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Financial Services",
+            "Tech",
+            "Legal"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Family-orientation",
+            "Ambition"
+        ],
+        "interests": [
+            "Traveling",
+            "Reading",
+            "Fitness"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old woman, identify herself as straight and uses the pronouns she/her/hers. On the professional front, she works as an Investment Analyst in the Financial Services industry, after completing her graduation from UCLA. She originally hails from San Diego but is currently situated in Los Angeles. The user is multilingual with fluency in English and Spanish. There are three values that she holds in high regard - Honesty, Family-orientation, and Ambition. Her interests include traveling, reading, and yoga. Despite being spiritual, she leans towards liberal politics. She has a keen interest in getting into a long-term monogamous relationship and is open to motherhood. She has a cat as a pet. Her birth sign is Cancer and she is an INFJ according to the MBTI personality type. Her lifestyle choices include being active in exercise, occasionally drinking, and refraining from smoking, marijuana, and drugs.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 35 years old, who is physically taller, ranging from 5'8\" to 6'3\". The potential partner should not have children currently but must have the desire to have kids in the future. He should engage in active exercise, occasionally drink but abstain from smoking, marijuana, and drugs. He must be heterosexual and share common values of honesty, family-orientation, and ambition, and also share interests in traveling, reading, and fitness. His occupation should ideally be within the financial services, tech, or legal sector. He should be a man interested in a long-term, monogamous relationship, and must be white Caucasian. He is expected to be liberal in politics, speak English, and have at least an undergraduate level of education.",
+    "user_id": "c372d472-406f-4a9b-beec-067bfde2c505"
+}

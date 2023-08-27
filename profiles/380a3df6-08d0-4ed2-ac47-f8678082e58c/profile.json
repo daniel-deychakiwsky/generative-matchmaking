@@ -1,0 +1,89 @@
+{
+    "name": "Hiroshi Tanaka",
+    "age": 30,
+    "height": "5'8\"",
+    "school": "University of Tokyo",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Tokyo, Japan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Japanese",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Hard work"
+    ],
+    "interests": [
+        "Coding",
+        "Running",
+        "Manga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "gender": "Woman",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Other"
+        ],
+        "politics": [
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Family",
+            "Work ethic",
+            "Ambition"
+        ],
+        "interests": [],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old man who identifies as straight and uses He/Him/His pronouns. Originally from Tokyo, Japan, he's a Software Developer in the technology industry and a graduate from the University of Tokyo. He's fluent in both Japanese and English and practices Buddhism, with moderate political views. His main interests include coding, running, and manga. The user highly values his family, ambition, and hard work. Currently residing in Los Angeles, California, he's actively seeking a monogamous, long-term relationship. He is healthy and active and has no children, but does aspire to have them in the future. He occasionally drinks but doesn't smoke or use drugs. Despite not owning any pets, he is a Capricorn in the zodiac and identifies as an INTJ on the Myers-Briggs scale.",
+    "preferences_summary": "The user is looking for a long-term relationship with a woman who is interested in monogamy. The age of this potential partner should be between 25 and 35 years old and her height should range from 5'2\" to 5'10\". She should be of East Asian descent or of other ethnicities. The potential partner should ideally not have children but must be willing to have them in the future. Drinking occasionally is acceptable, but smoking and drug use are not preferred. The potential partner should actively exercise and share similar values in terms of family, work ethic, and ambition. She can work in any job industry and speak any language. Education should ideally be at the undergraduate or graduate level. Her political views should be moderate or non-political.",
+    "user_id": "380a3df6-08d0-4ed2-ac47-f8678082e58c"
+}

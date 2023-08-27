@@ -1,0 +1,95 @@
+{
+    "name": "Evelyn Rodriguez",
+    "age": 30,
+    "height": "5'5\"",
+    "school": "Stanford University",
+    "job_industry": "Information Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Juan, Puerto Rico",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Integrity",
+        "Ambition"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Coding",
+        "Running"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 40,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Moderate"
+        ],
+        "job_industry": [
+            "Information Technology",
+            "Business",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Integrity",
+            "Ambition"
+        ],
+        "interests": [
+            "Traveling",
+            "Reading",
+            "Sports",
+            "Cooking"
+        ],
+        "education_level": [
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a 30-year-old woman who identifies her pronouns as she/her/hers. She is a straight, Hispanic/Latino Gemini from San Juan, Puerto Rico. She is currently living in Los Angeles, California and working as a Software Developer in the Information Technology industry. She completed her education up to the Graduate level at Stanford University. She is a practicing Catholic and has moderate political views. Her values center around honesty, integrity, and ambition, and her interests include traveling, cooking, coding, and running. She is active and exercises regularly, but does not smoke or use marijuana or other drugs, and drinks only sometimes. She does not currently have children but desires them in the future. She doesn't keep pets. Her MBTI personality type is INTJ. Currently, she is searching for a life partner in a monogamous relationship.",
+    "preferences_summary": "The user is seeking a life partner who is a man aged between 29 and 40 years old, and who stands between 5'7\" and 6'5\" tall. Her potential partner should not currently have children, but should want to have children in the future. He should be straight and engage in active exercise. It is important that he does not smoke, and only drinks occasionally, with no use of marijuana or drugs. The potential partner should be of either White Caucasian or Hispanic/Latino ethnicity and should identify as politically moderate. His job should be within the Information Technology, Business, or Healthcare industries. Besides English, no particular languages are specified. His prime values should encompass honesty, integrity, and ambition. Interests should include traveling, reading, sports, and cooking. Finally, the potential partner should have achieved at least a graduate level education.",
+    "user_id": "79b17c03-5405-4723-8131-7c99f3e903a9"
+}

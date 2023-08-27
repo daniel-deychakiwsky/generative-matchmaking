@@ -1,0 +1,99 @@
+{
+    "name": "Eleanor Thompson",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Publishing",
+    "job_title": "Editor",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Ambition",
+        "Family",
+        "Open-mindedness"
+    ],
+    "interests": [
+        "Outdoor activities",
+        "Reading",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Publishing",
+            "Education",
+            "Science",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Ambition",
+            "Family",
+            "Open-mindedness"
+        ],
+        "interests": [
+            "Outdoor activities",
+            "Reading",
+            "Art"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old straight woman with the pronouns she/her/hers. She is 5'7\" tall, white Caucasian, hails from San Diego, California, and is currently based in Los Angeles. She holds a graduate degree from the University of California, Berkeley, and works in the publishing industry as an editor. She highly values ambition, family, and open-mindedness. In her spare time, she enjoys outdoor activities, reading, and cooking. She's multilingual and speaks English as well as Spanish. She is of Agnostic belief and liberal in political inclinations. She is interested in long-term monogamous dating. She has no children but wants to have them in  the future. She's a cat owner and her lifestyle activities include occasional drinking and staying active but no smoking or drug use. She is a Virgo and identifies as an INFJ personality type.",
+    "preferences_summary": "The user prefers to date a man between the ages of 28 and 35, with a height range of 5'10\" to 6'2\". He should not have children but would want to have them in the future. The potential partner should lead an active lifestyle, doesn't smoke, uses no marijuana, and no drugs, but drinking is acceptable. The man should be straight, looking for a long term relationship, and be comfortable with monogamy. He can be of any ethnicity among Black African Descent, East Asian, Hispanic/Latino, Middle Eastern, and White Caucasian. His political beliefs should be liberal to moderate. The preferred job industries for the potential partner include publishing, education, science, and technology. He must speak English and share common values of ambition, family, and open-mindedness, with interests in outdoor activities, reading, and art. His education level should at least be an undergraduate or graduate.",
+    "user_id": "872611ee-ee7a-4bbb-8eb0-81b336929a9c"
+}

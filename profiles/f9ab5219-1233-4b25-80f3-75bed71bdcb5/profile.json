@@ -1,0 +1,102 @@
+{
+    "name": "Henry Young",
+    "age": 27,
+    "height": "6'1\"",
+    "school": "University of Southern California",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Humour"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 23,
+        "maximum_age": 30,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Middle Eastern",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance",
+            "Education",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Humour"
+        ],
+        "interests": [
+            "Arts",
+            "Cooking",
+            "Hiking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 27-year-old man who identifies as straight. He is 6'1\" tall and White Caucasian by ethnicity. A graduate of the University of Southern California, he works as a Software Engineer in the tech industry. His hometown is Austin, Texas, but he is currently dating in Los Angeles, California. He speaks English, Spanish, and French, values honesty, kindness, and humor, and his interests include coding, hiking, and reading. Despite an agnostic outlook, he leans liberal in his political views. He is interested in long-term monogamous relationships and although he doesn't currently have children, he would want them in the future. He has a pet dog and identifies as a Gemini with an INTP personality type. He sometimes drinks, but does not smoke or use marijuana or drugs, and leads an active lifestyle.",
+    "preferences_summary": "The user is seeking a woman aged between 23 to 30 years, with a minimum height of 5'0\" and a maximum height of 6'0\". She should not have children but should want them in the future. The user's preferred partner would be straight, occasionally drinks but does not smoke or use marijuana or other drugs. An active lifestyle is desired. The partner's ethnicity should be one of White Caucasian, Hispanic/Latino, East Asian, Middle Eastern, or Other. Politically, she should be Liberal, Moderate, or Not political. Industries the user's partner may work in include Tech, Finance, Education, or Healthcare and she should at least speak English. The prospective partner should value honesty, kindness, and humour and possess interests in arts, cooking, hiking, and reading. Lastly, she should have undergone undergraduate or graduate education.",
+    "user_id": "f9ab5219-1233-4b25-80f3-75bed71bdcb5"
+}

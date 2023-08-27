@@ -1,0 +1,97 @@
+{
+    "name": "Aanya Patel",
+    "age": 28,
+    "height": "5'5\"",
+    "school": "University of California",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Hard Work"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Virtual Reality",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Finance",
+            "Healthcare",
+            "Tech"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Hard Work"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Travel",
+            "Yoga"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28 year old straight South Asian woman, of Hindu faith and Liberal politics, who practices monogamy and is interested in a long term relationship with a man. She stands 5'5\" tall and her MBTI personality is INTJ. A native of Sacramento, California, she now lives in Los Angeles, California. She is a graduate from the University of California and works as a Software Engineer in the tech industry. She can communicate in both English and Hindi. Her top three values are honesty, kindness, and hard work. Her interests include hiking, reading, virtual reality, and yoga. Although she currently has no children, she is open to the idea of having them in the future. She has a pet cat and her zodiac sign is a Virgo. While she exercises actively, drinks occasionally, she does not smoke or consume marijuana and other drugs.",
+    "preferences_summary": "The user is seeking a man who is between 27 and 35 years of age, and ranges in height from 5'5\" to 6'2\". The desired partner doesn't have children but wants some in the future, is straight, drinks alcohol, but doesn't smoke, use marijuana or drugs. He should lead an active lifestyle for exercise. Preferences for long term dating intentions and monogamy relationship type are evident. The potential partners could be from East Asian, White Caucasian, or other ethnicities, and are liberal in their politics. Ideal professions are in finance, healthcare, or tech. Furthermore, English should be one of the languages he can speak. He should value honesty, kindness, and hard work and share interests in hiking, reading, travel, and yoga. In terms of education, undergraduate or graduate level is preferred.",
+    "user_id": "78fb26d2-8e9d-483a-a623-426258f8bdc3"
+}

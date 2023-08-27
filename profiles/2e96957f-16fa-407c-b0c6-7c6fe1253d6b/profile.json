@@ -1,0 +1,96 @@
+{
+    "name": "Carlos Rodriguez",
+    "age": 35,
+    "height": "5'10\"",
+    "school": "University of Southern California",
+    "job_industry": "Engineering",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Adventurous",
+        "Goal-oriented"
+    ],
+    "interests": [
+        "Exploring nature",
+        "Cooking",
+        "Basketball"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ESFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 40,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Financial",
+            "Law",
+            "Power & Energy"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Healthy lifestyle",
+            "Continuous learning"
+        ],
+        "interests": [
+            "Cooking",
+            "Traveling",
+            "Yoga"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 35-year-old man is a software engineer in the engineering industry, originally from San Diego, California but currently dating in Los Angeles, California. He is 5'10\" tall, speaks English and Spanish, is of Hispanic/Latino ethnicity, and falls under the Libra zodiac sign. Identified as an ESFP as per the Myers-Briggs Type Indicator, he's religiously Catholic and moderated in the political belief. A graduate from the University of Southern California, he cherishes family, adventur, and being goal-oriented. He's also into exploring nature, cooking, and basketball. He exercises actively and enjoys drinking but steers clear from smoking, drugs, and marijuana. Although he doesn't have kids, he looks forward to having them in the future. He owns a dog and identifies as a monogamist who's in search for a prospective life partner.",
+    "preferences_summary": "The user is seeking a woman aged between 28 to 40 years for monogamy and ultimately, a life partnership. His ideal partner is active, a non-smoker, and who doesn't use marijuana or any other drugs. In terms of drinking habits, he is open to some consumption. She should have a height between 5'0\" and 6'0\" and have an interest in having kids in the future. The kind of professions considered are from healthcare, financial, law and power & energy sectors. The preferred ethnicities are Hispanic/Latino and White Caucasian with medium to liberal political orientation. Fluency in spoken English is expected. The user values family, a healthy lifestyle, and continuous learning in an ideal partner. Her education should at least be an undergraduate degree. Regarding hobbies and interests, he would like her to be into cooking, traveling, and yoga.",
+    "user_id": "2e96957f-16fa-407c-b0c6-7c6fe1253d6b"
+}

@@ -1,0 +1,95 @@
+{
+    "name": "Isabella Flynn",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Humor",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat",
+        "None"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Science"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Humor",
+            "Creativity"
+        ],
+        "interests": [
+            "Nature",
+            "Cooking",
+            "Reading"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 28-year-old graduate educated Software Engineer in the Technology industry. A woman using the pronouns She/Her/Hers, she hails from San Francisco, California and is currently located in Los Angeles, California. Fluent in English and Spanish, she identifies as straight, with an INTP personality type and a Libra zodiac sign. Some of her interests include coding, hiking and cooking. Top values she upholds include honesty, humor, and creativity. While she identifies as Agnostic and leans liberal politically, she does not smoke, use marijuana or drugs but enjoys a drink sometimes. As active as she is, she pursues monogamy and is looking for a long-term relationship. Despite not currently having children, she desires to have them in the future. She owns a cat and enjoys a white Caucasian ethnicity.",
+    "preferences_summary": "The user is seeking a man between the ages of 27 to 35, who is at least 5'8\" and no taller than 6'2\". Her intended partner should not have children but wants children in the future. He should be straight and have a drinking habit (though it's not specified how often), but does not smoke, use marijuana, or other drugs. He should have an active lifestyle in terms of exercise. His ethnicity should be either White Caucasian or Hispanic/Latino. Politically, her ideal partner would be liberal or moderate. She is looking for someone who works in the technology or science industries. The man must speak English and share her values of honesty, humor, and creativity. Her potential partner should have interests in nature, cooking, and reading. She prefers a man with a graduate or doctoral level of education. Lastly, her potential partner's intentions should be for a long-term, monogamous relationship.",
+    "user_id": "adc272a5-e1f9-4843-a094-5eb9748341b2"
+}

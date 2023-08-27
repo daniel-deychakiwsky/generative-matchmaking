@@ -1,0 +1,97 @@
+{
+    "name": "Brendan Thompson",
+    "age": 30,
+    "height": "6'1\"",
+    "school": "University of Texas",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Humor"
+    ],
+    "interests": [
+        "Music",
+        "Hiking",
+        "Coding",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'1\"",
+        "maximum_height": "6'1\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Not political"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Humor"
+        ],
+        "interests": [
+            "Music",
+            "Traveling",
+            "Fitness"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old straight man who identifies with the pronouns He/Him/His. He stands at 6'1\" tall and is of White Caucasian ethnicity. He is a Software Engineer in the Technology industry, holds a graduate degree from the University of Texas. He originally hails from Austin, Texas, but is currently living in Los Angeles, California. He is monolingual, speaking only English and Spanish. His core values are honesty, ambition, and humor, and he is passionate about music, hiking, coding, and traveling. He is agnostic, politically liberal, and is intent on having a long-term monogamous relationship. He doesn't have any children but hopes to in the future. A proud pet parent, he owns a dog. A Gemini, with an INTJ personality type, he occasionally drinks but is a non-smoker, and does not use marijuana or other drugs. He prefers to live an active lifestyle.\n",
+    "preferences_summary": "The user is interested in dating a woman who is between the ages of 25 and 35, with a height ranging from 5'1\" to 6'1\". The potential partner should preferably be a straight woman who does not have children but is open to having them in the future. In terms of habits, the user prefers a partner who exercises, drinks occasionally but does not smoke, consume marijuana, or use drugs. Importantly, the user values honesty, ambition, and humor and would like a partner with similar values. Their interests should ideally align in areas like Music, Traveling, and Fitness. The preferred partner should also be educated to at least the undergraduate level. Ethnicity is not a major concern for the user as they are open to dating women of different ethnic backgrounds, including White Caucasian, East Asian, Hispanic/Latino, Middle Eastern, and Black African Descent. Lastly, the potential partner's political leanings should be either Liberal or Non-political, and it's important that she speaks English. No specific job industry is preferred.",
+    "user_id": "d49a49cf-30bb-4989-bdaa-3d14e72e334b"
+}

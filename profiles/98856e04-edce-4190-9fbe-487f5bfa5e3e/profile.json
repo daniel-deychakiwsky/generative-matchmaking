@@ -1,0 +1,95 @@
+{
+    "name": "Aisha Mohammed",
+    "age": 27,
+    "height": "5'4\"",
+    "school": "Harvard University",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Arabic",
+        "Spanish"
+    ],
+    "values": [
+        "Compassion",
+        "Hard work",
+        "Family"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Traveling",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Middle Eastern",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Business"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Compassion",
+            "Hard work",
+            "Family"
+        ],
+        "interests": [
+            "Sport",
+            "Technology",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 27-year-old woman, standing 5'4\" tall, who identifies as straight. She's from Seattle, Washington but is currently dating in Los Angeles, California. She works in the technology industry as a software developer. She is a Harvard University graduate and an English, Arabic, and Spanish speaker. Her core values include compassion, hard work, and family. When she's not coding, she enjoys hiking, traveling, and photography. She is a Muslim and politically liberal. Interested in a long-term, monogamous relationship, she doesn't have children but wants some in the future. She currently has a cat. She is active, a non-drinker and does not smoke or use marijuana or drugs. She is a Scorpio, her MBTI personality type is INTJ, and her ethnicity is Middle Eastern.",
+    "preferences_summary": "The user is interested in dating a man who is between the age of 26 to 35 years old and stands anywhere from 5'7\" to 6'4\" in height. The man should not have any children but should want to have children in the future. He should be a non-drinker, non-smoker, and should not be using marijuana or other drugs. An active lifestyle and a willingness for long-term monogamous relationship is required. The prospective partner should also be straight and solely of Middle Eastern or White Caucasian ethnicity. He must be liberal in his political views and works in the technology or business industries. Conversational competency in English is a must. The partner should value compassion, hard work, and family. Interests in sports, technology, and reading are also a plus. Lastly, he should have either undergraduate or graduate level education.",
+    "user_id": "98856e04-edce-4190-9fbe-487f5bfa5e3e"
+}

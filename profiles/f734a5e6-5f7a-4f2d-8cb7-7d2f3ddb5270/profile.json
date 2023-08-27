@@ -1,0 +1,94 @@
+{
+    "name": "Charlotte Murphy",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Houston, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Fitness"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Science",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career",
+            "Personal Development"
+        ],
+        "interests": [
+            "Hiking",
+            "Coding",
+            "Reading",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 28-year-old woman, who stands 5'6\" tall and identifies herself with she/her pronouns, is a software developer in the tech industry. She graduated from University of California, Berkeley and is comfortable with both English and Spanish languages. She resides in Los Angeles,  having hailed from Houston, Texas. Being a straight and liberal woman with agnostic beliefs, her relationship expectations include long-term monogamy. She firmly values family, career, and fitness while enjoying interests like hiking, coding, and reading. She's an active non-drinker and non-smoker, and is opposed to marijuana and drug usage. She's a Taurus by zodiac sign and an INTJ by MBTI personality type. She owns a dog and, while currently she doesn't have any kids, she wishes to have some in the future.",
+    "preferences_summary": "The user is a straight woman looking for a straight man between the ages of 28 and 35 who is at least 5'8\" and not more than 6'2\". Her preference is for someone who does not have children but wants them in the future. The prospective partner should have a liberal political orientation and be a non-smoker, non-drinker, does not use marijuana or any drugs, and maintains an active exercise routine. She prefers to date someone with a Caucasian ethnicity. Her ideal partner would be somebody with long-term dating intentions, looking for a monogamous relationship, and works in the technology, science or finance industry. English should be one of the languages that the potential partner speaks. She values a potential partner who takes family, career, and personal development seriously. Shared interests such as hiking, coding, reading and music are preferred. She seeks a potential partner with at least an undergraduate degree, if not a graduate one.",
+    "user_id": "f734a5e6-5f7a-4f2d-8cb7-7d2f3ddb5270"
+}

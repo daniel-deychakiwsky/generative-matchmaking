@@ -1,0 +1,101 @@
+{
+    "name": "Dante Washington",
+    "age": 32,
+    "height": "6'2\"",
+    "school": "University of Michigan",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Detroit, Michigan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard work",
+        "Personal growth",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Basketball",
+        "Traveling",
+        "Lifestyle photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech Industry",
+            "Healthcare",
+            "Education",
+            "Arts"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Hard work",
+            "Personal growth"
+        ],
+        "interests": [
+            "Traveling",
+            "Reading",
+            "Photography",
+            "Fitness"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a 32-year-old man from Detroit, Michigan, currently working as a Software Engineer in the tech industry. He's 6'2\" tall, stays active, and identifies as Black African Descent. He completed his graduate education from the University of Michigan and speaks both English and Spanish. Values like honesty, hard work, personal growth, and creativity guide his life, and he has interests in coding, basketball, traveling, and lifestyle photography. He's based in Los Angeles, intent on a long-term monogamous relationship, and identifies as straight. He's agnostic, a liberal, and doesn't smoke while drinking occasionally. He doesn't have children but plans to in the future, has a dog, and is a Cancer sign with an INTJ personality type. His pronouns are He/Him/His.\n",
+    "preferences_summary": "The user is seeking for a woman who is in the age bracket of 25 to 35 years and standing at the height between 5'0\" and 6'0\". She should be interested in a long-term relationship and prefers monogamy. She should be straight, leading an active lifestyle, and shouldn't be a smoker or into drugs; occasional drinking is okay with the user. She should ideally be from ethnic backgrounds of East Asian, Hispanic/Latino, White Caucasian, or Other. He prefers someone with liberal or moderate political views. Professionally, women from Tech, Healthcare, Education, or Arts industries would combination well with him. Language proficiency should include English at least. The woman should value honesty, hard work, and personal growth, and have interests in traveling, reading, photography, and fitness. In respect to education, both undergraduate and graduate levels are acceptable for the user. The woman should not have children currently, but should want to have children in the future.",
+    "user_id": "46310787-0c6f-48de-afa6-b6946024cc64"
+}

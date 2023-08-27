@@ -1,0 +1,95 @@
+{
+    "name": "Maya Singh",
+    "age": 28,
+    "height": "5'5\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Family",
+        "Career Success",
+        "Fitness"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term, open to short",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Medicine",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career Success",
+            "Fitness"
+        ],
+        "interests": [
+            "Traveling",
+            "Cooking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight woman who identifies by she/her/hers pronouns. She is a Software Engineer in the Technology industry, and holds a Graduate degree from the University of California. Raised in Sacramento, California, she is now dating in Los Angeles. Our user is ethnically South Asian and a Hindu, practicing liberal politics. She is bicurious in languages, speaking both English and Hindi. Core values for her include Family, Career Success, and Fitness, while her interests lie in traveling, cooking, and hiking. Her religious faith is Hinduism, healthwise she's active and definitely likes fitness. Though she relishes in a drink, she doesn't smoke, consume marijuana or other drugs. She is oriented towards monogamy with intentions for a long-term relationship, yet remains open to trying new things in the short term as well. She currently has no children, but would want them in the future. This Libra is an ENFP personality type and also has a pet dog.",
+    "preferences_summary": "The user is interested in a man aged between 28 and 35 years old, with a height from 5'7\" to 6'3\", who doesn't have kids but wants to have them in the future. Ethnically, she is hoping to connect with someone who is East Asian, White Caucasian, or South Asian. The individual should not smoke, and it's okay if they drink and be physically active. She is looking for a heterosexual male who is monogamous and seeking a long-term relationship or open to short when it comes to itemizing over package offerings. Political views do need to skew Liberal. She's interested in the sectors of technology, medicine, and finance for their profession. Additionally, her partner should speak English and recognize the importance of family, career success, and fitness in their lives. They might galvanize by sharing interests in traveling, cooking, and reading, and be willing to court if they have an undergraduate or graduate level degree.",
+    "user_id": "ecf28d6e-3c38-4860-8140-25086f05acb6"
+}

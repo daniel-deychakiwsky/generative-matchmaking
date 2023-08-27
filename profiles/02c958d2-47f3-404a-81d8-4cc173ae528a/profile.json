@@ -1,0 +1,106 @@
+{
+    "name": "Charlotte Harding",
+    "age": 28,
+    "height": "5'4\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Product Manager",
+    "hometown_location": "New York City, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hardworking",
+        "Kindness"
+    ],
+    "interests": [
+        "Cooking",
+        "Hiking",
+        "Painting"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Finance",
+            "Education",
+            "Entertainment"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Respect",
+            "Compassion"
+        ],
+        "interests": [
+            "Cooking",
+            "Hiking",
+            "Photography",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 28-year-old straight woman who's 5'4\" tall. She works as a Product Manager in the tech industry and holds a graduate degree from the University of California, Berkeley. Originally from New York City, but presently dating in Los Angeles. Fluent in English and Spanish, she values honesty, hard-work, and kindness. Among her interests are cooking, hiking, and painting. An agnostic with liberal political views, she follows the INFJ personality type. She's a Virgo and receptive to monogamy in the realm of long-term dating. Single, without children at present, she plans to have children in the future. She owns a cat. Her activities include moderate drinking while she abstains from any tobacco, marijuana, or drug use. Active in physical exercises, she is a Caucasian woman who strongly identifies with her cisgender and pronouns she/her/hers.\n",
+    "preferences_summary": "The user is seeking a man between the ages of 28 to 35, with a height ranging from 5'6\" to 6'2\". He should not have children currently but should desire children in the future, and his sexuality should be straight. He should only drink occasionally and doesn't smoke, use marijuana, or use drugs. Physically, the user's partner should be active in terms of exercise. Desired ethnicity can be varied, ranging from Black African Descent to White Caucasian. His political views should be either liberal or moderate. In terms of occupation, he can be involved in several sectors such as tech, healthcare, finance, education, or entertainment, while his language proficiency should include English. Key values should include honesty, respect, and compassion. Interests may encompass activities like cooking, hiking, photography, and reading. His level of education should be undergraduate, graduate, or doctoral. The user's intention is to have a long term monogamous relationship.\n",
+    "user_id": "02c958d2-47f3-404a-81d8-4cc173ae528a"
+}

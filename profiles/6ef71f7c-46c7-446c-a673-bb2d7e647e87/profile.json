@@ -1,0 +1,96 @@
+{
+    "name": "Jackson Fletcher",
+    "age": 29,
+    "height": "6'1\"",
+    "school": "University of California",
+    "job_industry": "Marketing",
+    "job_title": "Marketing Manager",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Work-Life Balance"
+    ],
+    "interests": [
+        "Hiking",
+        "Photography",
+        "Cooking"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Education",
+            "Marketing",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Family",
+            "Honesty",
+            "Work-Life Balance"
+        ],
+        "interests": [
+            "Cooking",
+            "Hiking",
+            "Fitness"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29 year-old man originally from San Francisco, California, who now resides in Los Angeles, California. Standing at 6'1\", he works as a Marketing Manager in the marketing industry and is an alumnus of the University of California. An agnostic, he holds liberal political views. He's monogamous with long-term dating intentions. He identifies as straight, and his pronouns are He/Him/His. His ethnicity is White Caucasian and he does not have children, though he looks forward to having them in the future. He enjoys hiking, photography, and cooking. Additionally, he speaks English and Spanish and values honesty, family, and work-life balance. He has a pet dog, is a Leo, and has an ENTJ personality type based on MBTI. While he enjoys a beverage every now and then, he refrains from smoking, marijuana, and drugs and keeps an active lifestyle.",
+    "preferences_summary": "The user is seeking a woman aged between 25 to 35 years old, standing from 5'5\" to 6'0\" in height. His partner should be a straight, non-smoker who doesn't do drugs or marijuana. Occasional drinking and sometimes engaging in exercise is acceptable. She should be someone who does not have children, but wants to have them in the future. The woman should be of white Caucasian or Hispanic/Latino descent with liberal to moderate political views. She should work in the Education, Marketing or Healthcare industry, and speak English and Spanish. Her values should align with his, prioritizing family, honesty and work-life balance. Shared interests in cooking, hiking, and fitness are also preferred. The user hopes to meet someone with an Undergraduate or Graduate education level. It's important that his partner also has long term intentions for dating and is interested in monogamy.",
+    "user_id": "6ef71f7c-46c7-446c-a673-bb2d7e647e87"
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Elijah Bennett",
+    "age": 29,
+    "height": "5'10\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Oakland, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Innovation"
+    ],
+    "interests": [
+        "Programming",
+        "Running",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term, open to short",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Tech"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Empathy",
+            "Respect"
+        ],
+        "interests": [
+            "Music",
+            "Traveling",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old software developer in the tech industry. Standing at 5'10\", he identifies as a straight white Caucasian man who uses 'He/Him/His' pronouns. With no children yet, he looks forward to having kids in the future. The user is Spanish-English bilingual, resides in Los Angeles, maintaining roots in his hometown of Oakland, California. As a University of California, Berkeley, graduate, he places high importance on honesty, innovation, and kindness, aligning with his moderate political stance and agnosticism. Dedicating time to keep active and run, he enjoys programming and traveling, while also occasionally partakes in drinking but is firm on not smoking or doing drugs. A Virgo, assigned with an ENFP MBTI type, he potentially imagines a monogamous long term, yet open for short, relationship. He owns a dog and values any activities involving the pet.\n",
+    "preferences_summary": "The user is interested in a woman who is straight and falls within the age range of 24 to 32 years. She should have a height between 5'2\" and 6'0\". The user prefers a partner without children but open to having kids in the future. Regarding lifestyle habits, he wishes his partner to be ok with casual drinking, non-smoker, and not into marijuana or drugs. Exercise is appreciated but not mandatory. In terms of professional and personal backgrounds, she ideally works in Education, Healthcare, or Tech industries and possess either an undergraduate or graduate education level. She must be able to converse in English and shares general values of honesty, empathy, and respect. Common interests of music, traveling, and reading are highly preferable. Her political views align either moderate or liberal, and ethically, she could be East Asian, Hispanic/Latino, or White Caucasian. She should be interested in both short-term and long-term dating setup with the thought of being monogamous.",
+    "user_id": "5132a039-51dd-4845-9dd4-83a88920aa35"
+}

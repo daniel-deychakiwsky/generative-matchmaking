@@ -1,0 +1,108 @@
+{
+    "name": "Ernestine Harper",
+    "age": 32,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Marketing",
+    "job_title": "Marketing Strategist",
+    "hometown_location": "Cincinnati, Ohio",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Honesty",
+        "Empathy",
+        "Family",
+        "Ambition",
+        "Creativity"
+    ],
+    "interests": [
+        "Yoga",
+        "Reading",
+        "Hiking",
+        "Cooking",
+        "Art"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Science",
+            "Engineering",
+            "Law",
+            "Healthcare",
+            "Education",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Empathy",
+            "Family",
+            "Ambition",
+            "Creativity"
+        ],
+        "interests": [
+            "Reading",
+            "Art",
+            "Fitness"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This particular user is a 32-year-old woman who proudly hails from Cincinnati, Ohio. She now lives in Los Angeles, California and works as a Marketing Strategist in the Marketing industry after securing a Graduate-level education from the University of California, Los Angeles. A Libra and an ENFP, she maintains an active lifestyle and occasionally enjoys a drink but does not involve in smoking or drugs. Fluent in both English and French, she manifests her creativity in the loves of her life:  Yoga, Reading, Hiking, Cooking, and Art. This Middle Eastern woman who identifies with she/her pronouns, is straight, extremely ambitious, and aligns herself with the liberal point of view. She acknowledges herself as an Agnostic and, though childless at present, holds a strong desire for children in the future. Currently she is on the lookout for a long-term monogamous relationship. Her firm belief system is built upon Honesty, Empathy, Family values, drive, and creativity. Rounding up her descriptive narrative, she owns a cat and has an explicit distaste for smoking and other recreational substances.\n",
+    "preferences_summary": "The user is seeking a man with a long-term dating intention and interested in a monogamous relationship. They should fall between 30 to 40 years old and be anywhere from 5'6\" to 6'3\". They should not have children but should want to eventually. They ideally should work in either the Tech, Science, Engineering, Law, Healthcare, Education or Finance sectors. Their ethnicity could be East Asian, Hispanic/Latino, White Caucasian, or Middle Eastern. Their politics should either align with liberal or moderate views. They should enjoy fitness, reading, and art amongst other hobbies. They should hold values around honesty, empathy, family, ambition, and creativity. Importantly, they should speak English and possess at least an undergraduate level education. As far as substances are concerned, they can drink, but they are strictly to not smoke nor consume marijuana or other drugs. They should also have an active lifestyle in terms of exercising.",
+    "user_id": "faadf440-1fa3-49ff-973f-025df3e34670"
+}

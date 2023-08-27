@@ -1,0 +1,97 @@
+{
+    "name": "Richard Stanton",
+    "age": 30,
+    "height": "6'3\"",
+    "school": "Harvard University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Kindness"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Traveling",
+        "Guitar"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Kindness"
+        ],
+        "interests": [
+            "Traveling",
+            "Outdoors",
+            "Reading",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old man who identifies as straight, and uses he/him/his pronouns. He is white Caucasian, a Gemini, and his Myers-Briggs personality type is ENTP. He stands tall at 6'3\" and maintains an active lifestyle. Currently working as a Software Engineer in the technology industry, he boasts a graduate degree from Harvard University. He is from Austin, Texas, but is currently dating in Los Angeles. Besides English, he is fluent in Spanish and abides by the values of honesty, ambition, and kindness. His interests range from hiking, coding, and traveling to playing the guitar. Agnostic, primarily liberal politically, he aims for a long-term monogamous relationship. He does not have children but wishes to have them in the future. He is a dog lover and while he drinks occasionally, he is non-smoker who doesn't consume marijuana or other drugs.",
+    "preferences_summary": "The user is seeking a woman who is between the ages of 25 and 35, standing anywhere between 5'0\" and 6'0\". She should not already have children, but should be open to wanting them in the future. Meanwhile, she\u2019s expected to be straight and have an active lifestyle, coupled with occasionally drinking but staying away from smoking and drugs. The preferred woman may be White Caucasian, East Asian, or Hispanic/Latino and she should have liberal or moderate political views. Her job industry is flexible. However, she must be able to converse in English and share values of honesty, ambition, and kindness. Ideally, she should exhibit interests like traveling, outdoors activities, reading, and music. Education-wise, she could be an undergraduate, graduate, or hold a doctoral degree. Notably, she should be inclined towards a long-term monogamous relationship.",
+    "user_id": "a85496f8-6e72-45b8-8f0b-d2a924e1bdd9"
+}

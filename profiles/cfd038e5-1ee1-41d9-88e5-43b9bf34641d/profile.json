@@ -1,0 +1,97 @@
+{
+    "name": "Clara Schmidt",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of Hamburg",
+    "job_industry": "Information Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Hamburg, Germany",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "German"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Healthy Living"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Coding",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "None"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Not political",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Real Estate",
+            "Science",
+            "Business"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Healthy Living"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Travelling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "Our user is a 29-year-old woman, identifying as straight, using She/Her/Hers pronouns. She stands 5'6\" tall hailing originally from Hamburg, Germany but currently looking for companionship in Los Angeles, California. Professionally, she's an Information Technology orientated Software Developer. She boasts about her accomplishment as a graduate from the University of Hamburg. Being bilingual, she can comfortably converse in English and German. Furthermore, honesty, kindness, and healthy living reflect her core values. In leisure, she often enjoys reading, hiking, coding, and has a passion for photography. She follows the Agnostic belief and prefers staying moderate in politics. Her sole intention revolves around a long-term relationship intending towards monogamy. For ancestry, she acknowledges her White Caucasian ethnicity. While the dog is her only non-human companion, she does anticipate having human children in the future. Identifying with the Pisces zodiac sign, her INTJ type hints at her introvert-driven, intuitive, probably thinking, and judging self. Advocating a balanced lifestyle, she is very active physically, but responsibly indulges in alcohol occasionally without leaning towards smoking or substance use.\n",
+    "preferences_summary": "The user is interested in a man between the ages of 28 and 35, who is straight, and stands between 5'8\" and 6'2\". The potential match should also be interested in a long-term monogamous relationship, sharing values of honesty, kindness, and healthy living. This person must have undergraduate or graduate education, and have a job in tech, real estate, science, or the business industry. His interests might include hiking, reading, or travelling. The user's ideal partner does not have children, but wants some in the future, does not smoke or use marijuana or other drugs, but occasionally drinks. He should exercise sometimes and speaks English. He can be moderately political or not political at all, and is of White Caucasian ethnicity.",
+    "user_id": "cfd038e5-1ee1-41d9-88e5-43b9bf34641d"
+}

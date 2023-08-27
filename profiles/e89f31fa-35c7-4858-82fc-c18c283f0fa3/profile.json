@@ -1,0 +1,99 @@
+{
+    "name": "Dylan Mercer",
+    "age": 30,
+    "height": "5'11\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Finance",
+    "job_title": "Data Analyst",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Health"
+    ],
+    "interests": [
+        "Outdoor Activities",
+        "Reading",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Art",
+            "Science"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Health",
+            "Creativity"
+        ],
+        "interests": [
+            "Outdoor Activities",
+            "Art",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "Our user is a 30-year-old straight man standing 5'11\" tall who resides in Los Angeles, California, but hails from Sacramento. He is a Data Analyst in the finance sector and holds a graduate degree from the University of California, Berkeley. Fluent in both English and Spanish, he leads an active lifestyle and values honesty, kindness and health. With interests in outdoor activities, reading and photography, this INFJ (according to the MBTI) identifies as agnostic and politically moderate. Although he might indulge in a drink now and then, he does not smoke or use marijuana or other drugs. He is a dog owner and has no children but is interested in having them in the future. As a Pisces, his dating intentions lean towards long term relationships but he remains open to short ones, always resonating with monogamy. He identifies his ethnicity as Hispanic/Latino.",
+    "preferences_summary": "The user prefers to date a woman who is between 25 and 35 years old, and between 5'5\" and 6'0\" in height. She should not have children, but should be open to having them in the future. With regards to lifestyle, an ideal partner for the user would only drink occasionally, not smoke or do drugs, and lead an active lifestyle. The user is open to dating women of diverse ethnicities including Black/African Descent, East Asian, Hispanic/Latino, or White/Caucasian. Preferences for the woman's political stance are liberal or moderate. In terms of career, the user is interested in women who work in healthcare, education, art, or science. The user would like a partner who speaks English or Spanish. Important shared values include honesty, health, and creativity. Shared interests might be outdoor activities, art, or cooking. Lastly, the ideal partner would be educated to at least undergraduate level.",
+    "user_id": "e89f31fa-35c7-4858-82fc-c18c283f0fa3"
+}

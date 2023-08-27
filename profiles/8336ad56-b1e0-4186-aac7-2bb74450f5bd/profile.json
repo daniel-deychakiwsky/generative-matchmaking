@@ -1,0 +1,103 @@
+{
+    "name": "Kwame Adomako",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "University of Maryland",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Silver Spring, Maryland",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Twi"
+    ],
+    "values": [
+        "Equality",
+        "Creativity",
+        "Education",
+        "Social Justice"
+    ],
+    "interests": [
+        "Coding",
+        "Basketball",
+        "Photography",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Spiritual",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Medicine",
+            "Education",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Equality",
+            "Creativity",
+            "Education",
+            "Social Justice"
+        ],
+        "interests": [
+            "Reading",
+            "Cooking",
+            "Photography",
+            "Other"
+        ],
+        "education_level": [
+            "Graduate",
+            "Undergraduate"
+        ]
+    },
+    "profile_summary": "This profile is for a 32-year-old man who is a Software Engineer in the technology industry. He stands tall at 6'1\", is of Black African Descent, and primarily speaks English and Twi. He was educated at the University of Maryland and has completed his graduate studies. Originally from Silver Spring, Maryland, he is now dating in Los Angeles, California. His values include equality, creativity, education, and social justice and he enjoys coding, playing basketball, cooking, and photography. He's spiritual, politically liberal, and his intentions on the dating scene are geared towards a long-term, monogamous relationship. He is currently without children but wants them in the future. His preferred pronouns are he/him/his and identifies as straight. He does not smoke or use marijuana or drugs, but he does sometimes drink. He is quite active and exercises regularly. He does not have any pets, his zodiac sign is Taurus, and his MBTI personality type is INTJ.",
+    "preferences_summary": "The user is interested in dating women who are between the ages of 25 and 35, and are within a height range from 5'4\" to 5'10\". She should be without children but want to have them in the future. She should be straight, actively fit, and okay with drinking but not comfortable with any form of smoking, marijuana, or other drugs. Relationship-wise, she should be interested in a long-term, monogamous relationship. In terms of ethnicity, she can be of Black African Descent, White Caucasian, Hispanic/Latino, East Asian, or other ethnicity. She must lean towards liberal or moderate in her political views. Her job industry can be in technology, medicine, education, or others. She should be able to speak English and share user's values around equality, creativity, education, and social justice. She may have interests such as reading, cooking, photography, or other activities. She should be at a graduate or undergraduate education level.",
+    "user_id": "8336ad56-b1e0-4186-aac7-2bb74450f5bd"
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Natalie Clayton",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "UI/UX Designer",
+    "hometown_location": "Salt Lake City, Utah",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Adventure"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Travel"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career"
+        ],
+        "interests": [
+            "Reading",
+            "Hiking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman with the pronouns She/Her/Hers. She is a straight White Caucasian, and her height is 5'6\". She completed her graduate degree from the University of California, Berkeley and works in the Tech industry as a UI/UX Designer. Raised in Salt Lake City, Utah, she now finds herself dating in Los Angeles, California. She is fluent in English and Spanish. She aligns her values with Family, Career, and Adventure and enjoys activities such as Reading, Hiking, and Travel. She identifies as an Agnostic and is politically Liberal. Her intention in dating currently is finding a long-term relationship following Monogamy. She has a Libra zodiac sign and an ENFP personality type. She does not have children yet, but she desires to have children in the future. She owns a pet Dog. Her lifestyle is quite active and she drinks sometimes but abstains from smoking, marijuana, and other drugs.",
+    "preferences_summary": "The user is seeking a dating partner who is a man, aged between 27 and 35, with a height ranging from 5'10\" to 6'3\". The preferred partner should not currently have children but should desire to have them in the future. She is open to a partner who drinks occasionally but not someone who smokes, uses marijuana, or other drugs. She prefers a partner who get some exercise. The user is interested in pursuing a long-term, monogamous relationship. Preferred ethnicities for the partner are White Caucasian and Hispanic/Latino. She is inclined towards a partner with a liberal political view. The partner should be working in the tech or finance industry and should speak English. Family and Career should be among his values and he should show interest in reading and hiking. The preferred education level for the partner is either undergraduate or graduate.",
+    "user_id": "66d31c40-ece3-4006-bcd4-4e1191505f2b"
+}

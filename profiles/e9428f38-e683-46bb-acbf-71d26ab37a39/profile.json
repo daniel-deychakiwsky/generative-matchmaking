@@ -1,0 +1,95 @@
+{
+    "name": "Benjamin Sinclair",
+    "age": 28,
+    "height": "6'2\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English"
+    ],
+    "values": [
+        "Independence",
+        "Lifelong learning",
+        "Creativity"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Gaming"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'3\"",
+        "maximum_height": "6'1\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Arts",
+            "Design"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Independence",
+            "Lifelong learning",
+            "Creativity"
+        ],
+        "interests": [
+            "Outdoor Activities",
+            "Reading",
+            "Art"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 28-year-old man is a Software Engineer in the technology industry, currently living in Los Angeles, California, but originally from San Francisco, California. He's a graduate of the University of California, Los Angeles. Language-wise, he only speaks English. Lifelong learning, independence, and creativity are the values he cherishes the most. His interests range from hiking, to reading and gaming. A Capricorn, with an INTJ personality type, categorizes himself as agnostic and liberal in terms of religious beliefs and politics, respectively. He's currently looking for a serious long-term relationship, favoring monogamy. He is a straight white Caucasian who uses he/him/his pronouns. He has no children but is interested in having them in the future. He has a pet cat. He doesn't smoke, nor use marijuana or other drugs, but does drink occasionally. Being active, he exercises regularly.",
+    "preferences_summary": "The user is seeking a woman aged between 24 to 32 years, who is interested in a long-term, monogamous relationship. She should be an active individual, standing within a height range of 5'3\" to 6'1\", who does not have children, but desires them in the future. The potential partner should be a straight non-smoker who enjoys drinking occasionally, and abstains from marijuana and other drugs. The desired woman would belong to any of the following ethnicities: East Asian, White Caucasian, or Hispanic/Latino, and should be working in the Healthcare, Education, Arts, or Design industry. She would speak English and share values of independence, lifelong learning, and creativity. Her interests should include outdoor activities, reading, and art, and she should have completed at least an undergraduate level of education. The woman should also share similar liberal political views.",
+    "user_id": "e9428f38-e683-46bb-acbf-71d26ab37a39"
+}

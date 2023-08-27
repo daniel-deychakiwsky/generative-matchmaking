@@ -1,0 +1,105 @@
+{
+    "name": "Liam O'Sullivan",
+    "age": 32,
+    "height": "6'2\"",
+    "school": "University College Dublin",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Dublin, Ireland",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Gaelic"
+    ],
+    "values": [
+        "Honesty",
+        "Adventure",
+        "Intellectualism"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Guitar"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Black African Descent",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Science",
+            "Arts",
+            "Education",
+            "Law",
+            "Medicine"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish",
+            "French"
+        ],
+        "values": [
+            "Honesty",
+            "Compassion",
+            "Independence"
+        ],
+        "interests": [
+            "Music",
+            "Theatre",
+            "Art",
+            "Nature"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 32-year-old man, who identifies as straight and uses the pronouns he/him/his. He stands tall at 6'2\" and is of White Caucasian ethnicity. On a path of intellectual adventures, he works as a Software Engineer in the Technology sector and prides himself as a Graduate from the University of Dublin College. Raised in Dublin, Ireland, he currently explores the dating scene of Los Angeles, California. He appreciates the complexity of languages, being a fluent speaker of both English and Gaelic. When off work, you'll likely find him hiking, coding, or strumming a guitar, exemplifying his values of honesty, adventure, and intellectualism. While he identifies as agnostic and holds liberal political beliefs, he's a fitness enthusiast who exercises actively but refrains from smoking and using drugs, however, occasionally enjoys a drink. He takes pleasure in having a dog and a cat as pets, dreams of parenthood someday but presently does not have any children. A Gemini by birth, he's an extroverted and innovative ENTP. He's interested in pursuing a monogamous, long-term relationship.",
+    "preferences_summary": "The user is seeking a woman aged between 25 and 35, who is between 5'5\" and 6'0\" high. His desired partner is someone who is active, does not have children but desires to have them in the future. She identifies as heterosexual and is a non-smoker, with a preference towards occasional drinking. The user prefers a woman who is straight and has no marijuana or illegal drug habits. He is open to dating women from diverse ethnic backgrounds including White Caucasian, Hispanic/Latino, East Asian, Black African Descent, and others. His potential partner can work in a variety of fields such as Science, Arts, Education, Law, or Medicine, and should be able to speak English, Spanish, or French. Her values should include honesty, compassion, and independence, and she should have interests like music, theatre, art, and nature. Regarding her educational background, an undergraduate, graduate, or doctoral level of education are all acceptable to the user. She should share the user's intention for a long-term relationship and monogamy.",
+    "user_id": "cacb6b5c-c270-476c-b839-4804f3c1a9d0"
+}

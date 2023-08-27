@@ -1,0 +1,99 @@
+{
+    "name": "Sophie Martinez",
+    "age": 30,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Compassion",
+        "Ambition"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "East Asian",
+            "Middle Eastern",
+            "South Asian",
+            "Southeast Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Business"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Compassion",
+            "Respect"
+        ],
+        "interests": [
+            "Outdoor activities",
+            "Movies",
+            "Sports"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old woman whose pronouns are she/her/hers. She is straight and identifies ethnically as Hispanic/Latino. She's 5'6\" tall, active, and doesn't smoke or use drugs, though she does enjoy drinking occasionally. Born under the Aries zodiac sign and having an ENFP personality type, she's an ambitious software engineer in the technology sector, currently residing in Los Angeles, California. She grew up in San Diego and attended the University of California, Berkeley, for her graduate degree. Fluent in both English and Spanish and interested in activities like reading, hiking, and cooking, she values honesty, compassion and ambition. This straight-leaning woman has no children as of yet and is searching for a long-term, monogamous relationship. She practices Liberal politics, is agnostic, and has a pet dog. Despite being a city girl, she has future aspirations of becoming a mother.",
+    "preferences_summary": "The user is looking for a man aged between 28 to 38 years, having a height range of 5'8\" to 6'5\". The potential partner should be straight and keen on a monogamous and long-term relationship. Ideally, the partner should have no children but wants to have in the future. The partner should engage in some form of active exercise, should sometimes drink but should not smoke, or use marijuana or drugs. Preferred ethnicities include White Caucasian, Black African Descent, Hispanic/Latino, East Asian, Middle Eastern, South Asian, and Southeast Asian. In politics, they should lean towards Liberal or Moderate views. Professionally, they should be in the Technology or Business industry and should be able to speak English. The partner should value Honesty, Compassion, and Respect, and share interests in Outdoor activities, Movies, and Sports. The partner should carry at least an Undergraduate or Graduate level of education.\n",
+    "user_id": "866e1b12-a4c5-4d14-9c37-1cc6c046415f"
+}

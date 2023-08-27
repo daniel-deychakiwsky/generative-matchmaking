@@ -1,0 +1,95 @@
+{
+    "name": "Amelia Wood",
+    "age": 28,
+    "height": "5'8\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Compassion",
+        "Independence"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Playing the guitar"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Middle Eastern",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Education",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Compassion",
+            "Independence"
+        ],
+        "interests": [
+            "Reading",
+            "Hiking",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "Our user is a 28-year-old straight woman of White Caucasian ethnicity, who goes by the pronouns of She/Her/Hers. She stands at a height of 5'8\" and hails from Sacramento, California, but is currently residing in Los Angeles for dating purposes. She works as a Software Engineer in the Technology industry. She has an accomplished academic background, having graduated from the University of California, Los Angeles. Bilingual in English and Spanish, she is a woman of virtue, valuing Honesty, Compassion, and Independence. Her interests lie in Reading, Hiking, and Playing the guitar. Though she identifies as Agnostic, she leans Liberal in her political views. Her intention in dating is to find a life partner within a Monogamous relationship. She does not have any children at the moment, but she does want them in the future. She's a cat lover and marks her zodiac as an Aries. According to the MBTI Personality type, she is an INTJ. She enjoys an active lifestyle, indulges in drinking socially but abstains from smoking, marijuana, and drugs.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 35 years old, with a height between 5'9\\\" and 6'2\\\". Her potential partner should not have any children but should intend to have in future. He should be straight, active, a moderate drinker, and should not smoke or use marijuana or other drugs. His ideal ethnicities include White Caucasian, Middle Eastern, and Hispanic/Latino. He should have a liberal political stance. His career could be in Technology, Education, or Healthcare, and he should at least speak English. The partner should value honesty, compassion, and independence, and have interests in reading, hiking, or music. His educational background should at least be Undergrad or Graduate. The user is seeking a life partner and prefers a monogamous relationship.",
+    "user_id": "2ba84055-d041-4f0a-bc17-37a66764313f"
+}

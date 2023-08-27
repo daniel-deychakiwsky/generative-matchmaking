@@ -1,0 +1,97 @@
+{
+    "name": "Alejandro Rodriguez",
+    "age": 30,
+    "height": "5'8\"",
+    "school": "University of Southern California",
+    "job_industry": "IT",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family-oriented",
+        "Creativity",
+        "Honesty"
+    ],
+    "interests": [
+        "Biking",
+        "Hiking",
+        "Programming"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 35,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "IT"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Family-oriented",
+            "Honesty"
+        ],
+        "interests": [
+            "Reading",
+            "Cooking",
+            "Biking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old man who is a Software Engineer in the IT industry. He completed his education at the University of Southern California and is now based in Los Angeles, California, originally from San Diego. He is a bilingual, speaks English and Spanish, and identifies as Straight. He respects values like Family orientation, Creativity, and Honesty. His hobbies include biking, hiking, and programming. He is a practicing Catholic and politically identifies as Liberal. His long-term dating intention is to find a life partner for a monogamous relationship. He is Hispanic/Latino, doesn't have any children but would like to have some in the future. He owns a dog and follows an active lifestyle. He is an occasional drinker and does not smoke or take marijuana or drugs. His zodiac sign is Virgo and falls under the INTJ personality type according to the MBTI.",
+    "preferences_summary": "The user is interested in a woman who is actively seeking a life partner and shares his preference for monogamy. Age-wise, his potential partner should be between 24 and 35 years old. Her height should ideally range from 5'4\" to 6'0\". The user prefers a partner who does not have children, but would like to have them in the future. He is open to dating someone who drinks, but not to a partner who smokes or uses marijuana or other drugs. He prefers an active partner, implying a shared interest in health and fitness. He's particularly interested in women from Hispanic/Latino, White Caucasian, or Middle Eastern ethnic backgrounds. Politically, his partner could be liberal or moderate. The desired partner could be working in Healthcare, Education, or IT industries. She should be able to communicate in English or Spanish. Desired values in his potential partner include being family-oriented and honest, and interests in activities such as reading, cooking and biking are favored. The user also places importance on her having an educational level of either undergraduate, graduate, or doctoral.\n",
+    "user_id": "e8942221-945c-4b47-a5f5-3d81f50b8640"
+}

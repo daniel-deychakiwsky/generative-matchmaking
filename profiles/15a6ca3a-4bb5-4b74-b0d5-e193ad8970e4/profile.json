@@ -1,0 +1,103 @@
+{
+    "name": "Amara Singh",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Family",
+        "Ambition",
+        "Health and Fitness"
+    ],
+    "interests": [
+        "Travel",
+        "Cooking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Finance",
+            "Medicine"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Ambition",
+            "Health and Fitness"
+        ],
+        "interests": [
+            "Travel",
+            "Sports",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old woman who identifies as straight with a pronoun of She/Her/Hers. She is a graduate from the University of California, Berkeley and currently works as a Software Developer in the technology sector. Her hometown is San Francisco, California but she is open to dating in Los Angeles, California. She is bilingual, speaking English and Hindi and is a devoted Hindu. She is politically liberal and is interested in a long-term monogamous relationship. Her ethnicity is South Asian, and she falls into the Leo category in zodiac signs and is INTJ in the Myers-Briggs personality model. She doesn't smoke or use marijuana or other substances, and only drinks occasionally. She is an active person who values health and fitness, and her interests include travel, cooking, and coding. While she has no pets or children currently, she is open to the idea of having children in the future.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 35, with a height ranging from 5'7\" to 6'2\". Preference is given to men who are active, do not have children but want them, and identify as straight. They should imbibe alcohol sometimes but abstain from smoking and drugs. Politically, they should lean liberal or be moderate in their beliefs. They must be from any ethnic background, with careers in technology, finance, or medicine. Communication should be easy with these candidates as English-speaking is essential. They should share the same values of family, ambition, health and fitness and have interests in travel, sports, and reading. The level of their education must be at a minimum undergraduate degree. Lastly, they're expected to be seeking a long-term monogamous relationship as well.",
+    "user_id": "15a6ca3a-4bb5-4b74-b0d5-e193ad8970e4"
+}

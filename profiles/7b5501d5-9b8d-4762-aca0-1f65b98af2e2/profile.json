@@ -1,0 +1,96 @@
+{
+    "name": "Sophia Andrews",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "University of California",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Sincerity",
+        "Hard work"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Reading",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Sincerity",
+            "Hard work"
+        ],
+        "interests": [
+            "Traveling",
+            "Cooking",
+            "Reading",
+            "Sports"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old woman who identifies as straight and uses she/her/hers pronouns. She is a software engineer in the tech industry and holds a graduate degree from the University of California. Originally from Seattle, Washington, she is currently dating in Los Angeles, California. She is white Caucasian, agnostic, and politically liberal. She does not have children, but would like to in the future. She has a cat and enjoys traveling, cooking, reading, and practicing yoga. She values honesty, hard work, and sincerity, and her MBTI personality type is INFJ. She doesn't smoke or use marijuana or other drugs, and drinks occasionally. She leads an active lifestyle and her zodiac sign is Taurus. She's looking for a long-term, monogamous relationship.",
+    "preferences_summary": "The user is looking for a man aged between 28 to 35 who stands 5'10\" to 6'2\" tall. The ideal partner should not have any children but would want to have them in the future. They should be straight and engage in occasional drinking, but not be involved in smoking, marijuana or drug use. Their ideal match should also actively exercise. In terms of ethnicity, they should be either White Caucasian or Hispanic/Latino. The user would prefer their partner to share the same liberal political views. The desired professions for the potential partner are in the Technology, Healthcare, or Finance industry. Fluency in English is crucial, and they should also value honesty, sincerity, and hard work. The partner is expected to enjoy traveling, cooking, reading, and sports. Finally, an educational level of undergraduate or graduate is considered suitable.",
+    "user_id": "7b5501d5-9b8d-4762-aca0-1f65b98af2e2"
+}

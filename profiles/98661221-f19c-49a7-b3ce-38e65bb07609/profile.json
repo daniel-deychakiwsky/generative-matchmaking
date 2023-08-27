@@ -1,0 +1,94 @@
+{
+    "name": "Keiko Yamamoto",
+    "age": 29,
+    "height": "5'5\"",
+    "school": "Tokyo University",
+    "job_industry": "Technology",
+    "job_title": "Data Scientist",
+    "hometown_location": "Osaka, Japan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Japanese",
+        "English"
+    ],
+    "values": [
+        "Education",
+        "Creativity",
+        "Ambition"
+    ],
+    "interests": [
+        "Cooking",
+        "Hiking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "ISFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "South Asian"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Medicine",
+            "Law"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Education",
+            "Ambition"
+        ],
+        "interests": [
+            "Coding",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This user is a 29-year-old straight woman who hails originally from Osaka, Japan, but is currently dating in Los Angeles, California. Standing 5'5\" tall, our ambitious data scientist works in the technology industry, and she completed her academic education at Tokyo University. This woman identifies as East Asian, and although she currently has a pet cat but no children, she is open to the idea of having kids in the future. She is fluent in both English and Japanese, a Virgo per zodiac sign, and has an ISFP personality type. Being active and healthy is essential to her; she exercises regularly and occasionally enjoys a drink, but refrains from smoking and using marijuana or other drugs. She holds a moderate political view and practices Buddhism. She's interested in long-term monogamy and values education, creativity, and ambition. Her hobbies include cooking, hiking, and coding.",
+    "preferences_summary": "The user prefers a dating partner who is a man aged between 28 and 38 years, has a height between 5'8\" and 6'2\", and identifies as straight. He shouldn't have children but he should want to have children in the future. He may sometimes drink, but he should not smoke or use marijuana and drugs. The potential partner should have an active exercise routine. As for ethnicity, he could be East Asian, White Caucasian, or South Asian. The user prefers a partner who has moderate or liberal political views and works in the technology, medicine, or law industries. The partner should know English and match the user's values of education and ambition. In terms of hobbies, having interests in coding and cooking is desirable. Lastly, he must be interested in a long-term relationship and monogamy. His education level should be at least undergraduate or graduate.",
+    "user_id": "98661221-f19c-49a7-b3ce-38e65bb07609"
+}

@@ -1,0 +1,99 @@
+{
+    "name": "Javier Martinez",
+    "age": 30,
+    "height": "5'11\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family importance",
+        "Hardworking",
+        "Education"
+    ],
+    "interests": [
+        "Tech",
+        "Soccer",
+        "Travelling",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'9\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Art",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Family importance",
+            "Education"
+        ],
+        "interests": [
+            "Travel",
+            "Cooking",
+            "Art",
+            "Education"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 30-year-old man, an Aquarius, hails from San Diego, California but is currently based in Los Angeles, California. He stands 5'11\" tall and identifies as a straight, Hisapnic/Latino software developer in the tech industry. He is a proud graduate of the University of California, Los Angeles. He is proficient in both English and Spanish. His primary interests include tech, soccer, travelling, and cooking, in addition to valuing family importance, hard work, and education. As an Agnostic with moderate political views, he doesn't smoke, drink, or use drugs, but he does keep an active fitness routine. He is a proud dog owner. Despite not having children of his own, he intends to have them in the future. He is looking for a long-term, monogamous relationship, and his MBTI personality type is INTP.\n",
+    "preferences_summary": "The user is seeking a woman between the ages of 26 and 35 years. The desired height is between 5'2\" and 5'9\". The partner should not have children, but should be open to having them in the future. Their preferred partner would identify as straight and would have a lifestyle that includes drinking sometimes but abstains from smoking, marijuana, and drugs. Being somewhat active is preferred. It is important that the partner is looking for a long-term, monogamous relationship. Preferred ethnic backgrounds include Hispanic/Latino, White Caucasian, or other. Politically, the potential partner should be moderate or not political. She should be employed in the healthcare, education, art sectors, or others. Being able to speak English and Spanish is a plus. The partner should value family importance and education. Shared interests in travel, cooking, art, and education would be appreciated. The partner should at least have an undergraduate level of education.\n",
+    "user_id": "86c20201-4420-49b5-9ac1-08083eaf4d30"
+}

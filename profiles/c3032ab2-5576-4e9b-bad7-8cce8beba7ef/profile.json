@@ -1,0 +1,96 @@
+{
+    "name": "Seung-Jin Park",
+    "age": 31,
+    "height": "6'2\"",
+    "school": "Seoul National University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seoul, South Korea",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Korean"
+    ],
+    "values": [
+        "Honesty",
+        "Hard-working",
+        "Understanding"
+    ],
+    "interests": [
+        "Music",
+        "Programming",
+        "Cycling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Tech",
+            "Business"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness"
+        ],
+        "interests": [
+            "Music",
+            "Reading",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 31-year-old, East Asian man standing at 6'2'' high. He's a straight, monogamous, Scorpio with the pronouns He/Him/His. He's originally from Seoul, South Korea where he attended Seoul National University and earned his graduate degree. Now, he works as a software engineer in the tech industry and calls Los Angeles, California his home. His command of languages includes English and Korean. Values he adheres to include honesty, understanding, and he is hard-working. His passions include music, programming, and cycling. He identifies as an atheist and holds liberal political views. As for family, he doesn't have children yet, however, he desires to have them in the future. He doesn't own any pets.  With an INTJ personality type, he practices active fitness habits while his substance usage includes occasional drinking but no smoking, no marijuana, and stays clear from drugs.\n",
+    "preferences_summary": "The user prefers to date a woman between 25 to 35 years old, who is between 5'5\" and 6'0\" height wise. She should ideally not have children, but has a desire to have them in the future. The partner should be straight, and may drink occasionally. While the user prefers his partner not to smoke or indulge in drugs of any sort including marijuana, he expresses that occasional exercise would be ideal. The user wishes to enter a long-term monogamous relationship with potential partners. The user's preferred ethnicities include: East Asian, White Caucasian, Hispanic/Latino, and Other. He appreciates potential partners who share his political views, leaning towards either liberal or moderate politics. The user's interest lies primarily in women from healthcare, tech, or business industries. Responsiveness to English language is a necessity, and values of honesty and kindness are found desirable by this user. If the person is interested in music, reading, or travel, and possesses an Undergraduate or Graduate degree, this would make them a great companion according to the user.",
+    "user_id": "c3032ab2-5576-4e9b-bad7-8cce8beba7ef"
+}

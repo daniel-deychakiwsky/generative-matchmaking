@@ -1,0 +1,93 @@
+{
+    "name": "Ming Li",
+    "age": 29,
+    "height": "5'8\"",
+    "school": "University of Beijing",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Shanghai, China",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Chinese"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Ambition"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Coding",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monoamory",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 23,
+        "maximum_age": 32,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monoamory",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech Industry"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Family",
+            "Ambition"
+        ],
+        "interests": [
+            "Reading",
+            "Hiking",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old East Asian man who was born in Shanghai, China, and now resides in Los Angeles, California. He is 5'8\" height, identifies as straight, and prefers to use he/him/his pronouns. He graduated from the University of Beijing and is currently working as a Software Engineer in the Tech industry. Apart from his mother tongue, Chinese, he is also fluent in English. He holds liberal political views and is an atheist. His core values are honesty, family, and ambition, and his interests include reading, hiking, coding, and traveling. His zodiac is Virgo, and his Myers-Briggs Type Indicator is INTP. He is somewhat active in terms of exercise, drinks occasionally, but doesn't smoke, consume marijuana, or use drugs. He owns no pets and has no children, but he is open to having children in the future. He is seeking a long-term, monoamorous relationship.",
+    "preferences_summary": "The user is interested in a woman who is straight and aged between 23 and 32 with a height ranging between 5'2\" and 6'0\". She should not presently have children, but should desire to have them in the future. The user's ideal dating partner is someone who does not smoke or use marijuana or drugs, and one who is not a drinker. She should lead an active lifestyle, participating in regular exercise. Preferred ethnicities are East Asian and White Caucasian. The user hopes to engage in a long-term relationship and the potential partner should also have this intention. He prefers his partner to have liberal political views and to work in the tech industry. Furthermore, the prospective partner should be able to converse in English and value honesty, family, and ambition. In terms of education level, a preference for a woman with at least an undergraduate degree is indicated. His partner\u2019s interests should ideally include reading, hiking, and traveling.",
+    "user_id": "d84777e6-2846-4ee7-8d27-17264db62f4b"
+}

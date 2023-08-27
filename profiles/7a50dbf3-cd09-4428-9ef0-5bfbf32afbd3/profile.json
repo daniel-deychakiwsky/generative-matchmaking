@@ -1,0 +1,99 @@
+{
+    "name": "Clara Stafford",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "French"
+    ],
+    "values": [
+        "Equality",
+        "Charity",
+        "Zest for Life"
+    ],
+    "interests": [
+        "Cooking",
+        "Hiking",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 37,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "East Asian",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Equality",
+            "Charity",
+            "Zest for Life"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old straight, single woman who identifies herself with pronouns She/Her/Hers. She is a Software Developer in the Technology industry, and a graduate from the University of California, Berkeley. She is originally from San Francisco, California but is currently dating in Los Angeles. Fluent in English and French, she upholds values of Equality, Charity, and has a Zest for Life. She is passionate about Cooking, Hiking and Coding. Agnostic in her religious beliefs and liberal in politics, she's looking for a long-term monogamous relationship. She doesn't have children but wants them in future. As an Aries woman with an INTJ personality type, she has a cat for a pet, drinks occasionally and doesn't smoke or use marijuana or other drugs. She maintains an active exercise routine.",
+    "preferences_summary": "The user's ideal partner is a straight man aged between 29 to 37 years, measuring in height from 5'9\" to 6'3\". He should practice monogamy and have long term dating intentions, and must not have children but should want them in the future. He should be occasionally drinking but no smoking, no marijuana, and no drugs. In terms of exercise, an active lifestyle is preferred. The man can be from a variety of ethnicities including White Caucasian, Black African Descent, Hispanic/Latino, East Asian, Middle Eastern, Native American, Pacific Islander, South Asian, and Southeast Asian. Politically, he should be Liberal or Moderate, and there are no specifications for his job industry. English is the prerequisite spoken language. Shared values should include Equality, Charity, and Zest for Life, and any interests are welcome. His educational background could range from Undergraduate to Doctoral.\n",
+    "user_id": "7a50dbf3-cd09-4428-9ef0-5bfbf32afbd3"
+}

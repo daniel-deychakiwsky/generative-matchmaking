@@ -1,0 +1,104 @@
+{
+    "name": "Antoine Dubois",
+    "age": 32,
+    "height": "5'11\"",
+    "school": "University of Paris",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Paris, France",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "French",
+        "English"
+    ],
+    "values": [
+        "Honesty",
+        "Integrity",
+        "Family"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Reading",
+        "Soccer"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Education",
+            "Arts",
+            "Science",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English",
+            "French",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Integrity",
+            "Family"
+        ],
+        "interests": [
+            "Traveling",
+            "Art",
+            "Music",
+            "Reading",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This is a 32-year-old man, standing at 5'11\" tall, of White Caucasian ethnicity, identifying with the pronouns He/Him/His. Having completed his graduate studies from the University of Paris, he currently works as a Software Engineer in the technology industry. Fluent in both French and English, he was raised in Paris, France, and is currently seeking a long-term, monogamous relationship in Los Angeles, California. This straight man values honesty, integrity, and family. His interests include traveling, cooking, reading, and soccer. Classified as an INTJ on the MBTI personality scale, he is agnostic, politically moderate, a Pisces by zodiac, and does not smoke, use marijuana, or take drugs but drinks occasionally. He leads an active lifestyle, loves cats, and does not have children yet, but wants them in the future.",
+    "preferences_summary": "The user's ideal dating partner should be a woman aged between 24 and 35 and with a height ranging from 5'0\" to 6'0\". The partner should either not have children already but should be open to wanting children in the future. She ought to be straight, with a moderate drinking habit but with no smoking, marijuana, or drug use. Even though the user is active, they would like their partner to exercise sometimes. The partner should be interested in a long term, monogamous relationship. The potential partner's ethnicity could be White Caucasian, Hispanic/Latino, East Asian, or other. Their political views could be liberal, moderate, or conservative. In terms of career, the partner could be in the Education, Arts, or Science sector or any other industry. A woman who can speak English, French, or Spanish would be desirable. Shared values with the user such as honesty, integrity, and family are important. The user's potential partner should enjoy travelling, art, music, reading, and cooking. Lastly, the partner should have at least an undergraduate level of education.",
+    "user_id": "476c24bb-ec66-466a-8d4a-6935964538bb"
+}

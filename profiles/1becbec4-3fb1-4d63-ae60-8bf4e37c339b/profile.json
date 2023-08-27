@@ -1,0 +1,102 @@
+{
+    "name": "Olawale Adesanya",
+    "age": 29,
+    "height": "5'9\"",
+    "school": "University of Lagos",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Lagos, Nigeria",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Yoruba"
+    ],
+    "values": [
+        "Hard work",
+        "Integrity",
+        "Respect"
+    ],
+    "interests": [
+        "Travelling",
+        "Games",
+        "Cooking"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Christian",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ISTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 23,
+        "maximum_age": 32,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": true,
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": [
+            "Life partner",
+            "Long term"
+        ],
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "Southeast Asian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Moderate",
+            "Not political",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Health Care",
+            "Education",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Family",
+            "Ambition"
+        ],
+        "interests": [
+            "Travelling",
+            "Reading",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 29-year-old Software Engineer hails from Lagos, Nigeria, but he's set his roots down in Los Angeles, California. He's a graduate from the University of Lagos and he's heavily involved in the Technology industry. In personal values, our bachelor values hard work, integrity, and respect above all. Engaging in traveling, playing games, and cooking serve as major interests outside his work. Raised in a Christian household, he displays moderate political views. Looking specifically for a life partner, he respects the values of monogamy. This responsive 'He/Him/His' aligns as straight. He identifies his race as Black African descent, has no children yet, but envisions them in his future. With no current pets under his ownership, he also keeps a clean lifestyle: actively exercises, drinks occasionally but declines smoking, marijuana, and other drugs. Our resolute Leo also belongs to the ISTJ Myers-Briggs personality type.",
+    "preferences_summary": "The user's ideal dating partner is a woman between the ages of 23 to 32, with a height ranging from 5'4\" to 6'0\". The potential partner should have no children but should be open to wanting children in the future. She should share his straight sexuality, and should be accepting of drinking but not smoking, marijuana, or other drugs. She should be actively engaged in exercising. With regards to her background, she could be of either Black African Descent, White Caucasian, Southeast Asian, East Asian, or Hispanic/Latino ethnicity. She should have intentions for a long-term relationship or see a potential life partner. Furthermore, she should be inclined towards monogamy. Moderate, non-political, or liberal would fit within user's political preferences. In terms of her career, she could be working in the Health Care, Education, or Technology industry. She should be proficient at least in English language. She similarly values hard work, family, and ambition. Her interest could be in travelling, reading, cooking, and she must have at least an undergraduate level of education.",
+    "user_id": "1becbec4-3fb1-4d63-ae60-8bf4e37c339b"
+}

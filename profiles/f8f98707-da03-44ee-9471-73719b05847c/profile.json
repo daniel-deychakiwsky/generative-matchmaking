@@ -1,0 +1,94 @@
+{
+    "name": "Felicity Porter",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Harvard University",
+    "job_industry": "Healthcare",
+    "job_title": "Registered Nurse",
+    "hometown_location": "Chicago, Illinois",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Integrity",
+        "Family",
+        "Ambition"
+    ],
+    "interests": [
+        "Photography",
+        "Travel",
+        "Fitness"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 37,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Integrity",
+            "Family",
+            "Ambition"
+        ],
+        "interests": [
+            "Travel",
+            "Fitness",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who identifies as straight and prefers the pronouns she/her/hers. She is 5'6\" tall, white Caucasian, and a Cancer by birth. She is an INFJ and does not smoke or use drugs, although she occasionally drinks. She is currently employed in healthcare as a Registered Nurse. She completed her undergraduate studies at Harvard University and is fluent in both English and Spanish. She hails from Chicago, Illinois, but is presently looking to date in Los Angeles, California. Her values are integrity, family, and ambition. She enjoys photography, traveling, and fitness. She identifies as Catholic with moderate political beliefs. She is interested in a long-term, monogamous relationship and although she has no children, she would like to have them in the future. She owns a dog and stays active with regular exercise.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 37, standing between 5'9\" and 6'4\". Her preferred partner is meant to have no children, but should want to have kids in the future. She is only interested in straight, active individuals who drink sometimes, and do not smoke, use marijuana or drugs. In terms of ethnicity, her potential partner should be either White Caucasian or Hispanic/Latino, and share her moderate political views. She gravitates towards men working in the fields of Healthcare, Education, or Technology. It is crucial for her partner to share her core values - integrity, family, and ambition and have interests in travel, fitness, and reading. She prefers men who have at least an undergraduate level of education. Her intentions are for a long term, monogamous relationship.",
+    "user_id": "f8f98707-da03-44ee-9471-73719b05847c"
+}

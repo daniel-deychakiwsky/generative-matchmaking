@@ -1,0 +1,105 @@
+{
+    "name": "Amelia Bradford",
+    "age": 32,
+    "height": "5'7\"",
+    "school": "Stanford University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Atlanta, Georgia",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Creativity"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'10\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Finance",
+            "Education",
+            "Healthcare",
+            "Tech",
+            "Law",
+            "Real Estate"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Creativity"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Cooking"
+        ],
+        "education_level": [
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old woman who identifies as straight. Her pronouns are she/her/hers and she is of Hispanic/Latino ethnicity. At a height of 5'7\", she is seeking long-term, monogamous relationship. Currently employed in the tech industry as a Software Engineer, the user hails originally from Atlanta, Georgia but is interested in dating in Los Angeles, California. She graduated from Stanford University and speaks both English and Spanish fluently. Her belief system leans towards agnostic and liberal politics. She values honesty, kindness, and creativity. Her hobbies include hiking, reading, and cooking. Though she has no children, she expresses the desire to have children in the future. She currently owns a dog. She's a Taurus and identifies her Myers Briggs type as INTP. She drinks on occasions without the use of smoking, marijuana, or other drugs, and she maintains an active lifestyle exercising regularly.",
+    "preferences_summary": "The user is seeking a man aged between 30 and 40, from different racial and ethnic backgrounds such as Black African descent, East Asian, Hispanic/Latino, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian, or White Caucasian. Ideal match size is from 5'10\" to 6'4\". The user needs someone who leads an active lifestyle and enjoys hobbies like hiking, reading, and cooking. She appreciates a man who values honesty, kindness, and creativity. The desired partner must either be liberal or moderate in politics and involved in industries such as finance, education, healthcare, tech, law, or real estate. An ideal partner should have a graduate-level education and speak English and Spanish. The user is strictly against smoking, marijuana or other drugs. Minimal drinking is acceptable. The potential partner should not have children but should desire to have them in the future. The user is looking forward to a monogamous, long-term relationship.",
+    "user_id": "535a2a3f-161d-4524-b1bd-f8726baa00da"
+}

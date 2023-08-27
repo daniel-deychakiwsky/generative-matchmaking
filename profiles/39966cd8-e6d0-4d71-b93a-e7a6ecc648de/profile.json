@@ -1,0 +1,115 @@
+{
+    "name": "Isabelle Richmond",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Authenticity",
+        "Commitment",
+        "Happiness",
+        "Trust",
+        "Independence"
+    ],
+    "interests": [
+        "Traveling",
+        "Coding",
+        "Fitness",
+        "Hiking",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Medical",
+            "Education",
+            "Engineering",
+            "Entertainment",
+            "Publishing"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Authenticity",
+            "Commitment",
+            "Happiness",
+            "Trust",
+            "Independence"
+        ],
+        "interests": [
+            "Traveling",
+            "Coding",
+            "Fitness",
+            "Hiking",
+            "Reading"
+        ],
+        "education_level": [
+            "High school",
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 28-year-old woman who identifies as straight and has a height of 5'6\". She works as a Software Engineer in the tech industry, having graduated from the University of California, Berkeley. Born and raised in Austin, Texas, she now resides in Los Angeles, California and is interested in a long-term monogamous relationship. She aligns with liberal political views and identifies as agnostic. A dog owner who enjoys traveling, coding, fitness, hiking, and reading, she places high importance on authenticity, commitment, happiness, trust, and independence. She is fluent in both English and Spanish, is an active individual who drinks but opts out of smoking or drug use, and is a Gemini with an ENFP personality type. She does not currently have children but expresses the desire to in the future.\n",
+    "preferences_summary": "This user is seeking a male partner between the ages of 27 and 35, who is active, does not have children but wants them in the future, is straight, and has similar intentions for a long-term monogamous relationship. She prefers her potential partner to stand between 5'6\" and 6'3\" in height, and be a non-smoker who occasionally drinks but does not use marijuana or other drugs. Ethnicity is open, but the person must be English-speaking. Politics should lean liberal or moderate, and potential industries of work include tech, medical, education, engineering, entertainment, or publishing. The individual must value authenticity, commitment, happiness, trust, and independence. They should share her interests in traveling, coding, fitness, hiking, and reading. The educational level could be anything from a high school graduate to a doctoral degree holder.",
+    "user_id": "39966cd8-e6d0-4d71-b93a-e7a6ecc648de"
+}

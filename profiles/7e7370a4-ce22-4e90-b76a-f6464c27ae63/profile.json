@@ -1,0 +1,96 @@
+{
+    "name": "Mohamed Alif",
+    "age": 34,
+    "height": "5'10\"",
+    "school": "Cairo University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Cairo, Egypt",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Arabic",
+        "English"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Family"
+    ],
+    "interests": [
+        "Coding",
+        "Travel",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Middle Eastern",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Not political",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Education",
+            "Arts and Entertainment",
+            "Health Care"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Family"
+        ],
+        "interests": [
+            "Travel",
+            "Reading",
+            "Fitness"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 34-year-old man is a software engineer in the technology industry, standing 5'10\" tall. He graduated from Cairo University and he identifies as a Middle Eastern, straight male who uses He/Him/His pronouns. His values are honesty, ambition, and family, and in his spare time, he's interested in coding, travel, and photography. Despite being from Cairo, Egypt, he's currently dating in Los Angeles, California, and is fluent in both Arabic and English. Although he doesn't have children, he would like to in the future. As a moderate in political beliefs, he practices Islam and his zodiac is Aquarius. He identifies as INTJ according to the MBTI personality chart. Uninterested in tobacco, alcohol, marijuana, and other drugs, he's quite health-conscious and actively exercises. He intends to establish a monogamous relationship and is seeking a life partner. He has no pets, and his preferred pronouns are He/Him/His.",
+    "preferences_summary": "The user is looking for a woman aged between 25 to 35, who also is looking for a life partner and is inclined towards monogamy. She should be between 5'0\" to 6'0\" in height and should not have any children. However, she should be open to having children in the future. Ideally, she would be from White Caucasian, Middle Eastern, or Hispanic/Latino backgrounds and not be engaged in any form of drug intake, including marijuana. She should be a non-drinker and non-smoker, maintaining an active exercise routine. The potential partner's career should ideally lie within the education, arts and entertainment, or health care industries. Ability to converse in English is a must, and values such as honesty, ambition, and familial bonds would be highly admired. Interest in travel, reading, or fitness would be a plus. The potential partner should also be at least an undergraduate, if not a graduate. From a political viewpoint, she could either be not political or hold moderate views.",
+    "user_id": "7e7370a4-ce22-4e90-b76a-f6464c27ae63"
+}

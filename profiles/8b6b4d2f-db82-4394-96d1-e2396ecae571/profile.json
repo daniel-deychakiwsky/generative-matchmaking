@@ -1,0 +1,98 @@
+{
+    "name": "Jamal Williams",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Chicago, Illinois",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Integrity",
+        "Accountability"
+    ],
+    "interests": [
+        "Community service",
+        "Hiking",
+        "Gaming"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech Industry",
+            "Healthcare",
+            "Education",
+            "Arts"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Compassion"
+        ],
+        "interests": [
+            "Dance",
+            "Drawing",
+            "Working out"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "A 32-year-old software engineer in the tech industry based in Los Angeles, this individual originally hails from Chicago. They completed their studies at the University of California, Los Angeles, and have higher educational qualifications. English and Spanish are their preferred languages. They value honesty, integrity, and accountability, and their hobbies range from community service and hiking to gaming fascinations. Living with their pet dog, they identify as a heterosexual man of Black African descent and use He/Him/His pronouns. They practice liberal politics and are thoughtful about their moderate exercise and occasional alcohol consumption, choosing not to indulge in smoking, marijuana, or drugs. Destined for monogamy, their dating intent leans towards long-term relationship prospects and they have an inclination for becoming a parent in the future considering they have no children presently. Their Gemini zodiac sign compliments their ENTP personality type. Indeed, they respect the agnostic realm of religious beliefs.\n",
+    "preferences_summary": "The user is interested in a straight woman aged between 25 and 35 who is height between 5'5\" and 6'0\". The potential partner has no children, but wants to have some in the future. Her drinking habits should be occasionally and she must be a nonsmoker, non-drugs user. Active exercise routine is expected. His preference for a partner's ethnicity is Black African Descent, White Caucasian, Hispanic/Latino or East Asian. She can hold liberal or moderate political views. Tending fields of job industry includes tech, healthcare, education, or arts and she should at least be able to speak English. Important values to be held by the significant other are honesty, kindness, and compassion. Interests could involve dance, drawing, or working out. The education level should be undergraduate or graduate level. Her dating intention is expected to be long-term, and, like him, she believes in monogamy.",
+    "user_id": "8b6b4d2f-db82-4394-96d1-e2396ecae571"
+}

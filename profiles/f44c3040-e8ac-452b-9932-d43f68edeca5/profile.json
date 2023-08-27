@@ -1,0 +1,101 @@
+{
+    "name": "Mohammad Patel",
+    "age": 32,
+    "height": "5'10\"",
+    "school": "University of Mumbai",
+    "job_industry": "Information Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Mumbai, India",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi",
+        "Gujarati"
+    ],
+    "values": [
+        "Family",
+        "Honesty",
+        "Respect"
+    ],
+    "interests": [
+        "Coding",
+        "Traveling",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'11\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "South Asian",
+            "Middle Eastern",
+            "East Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Information Technology",
+            "Engineering",
+            "Education",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Honesty",
+            "Respect"
+        ],
+        "interests": [
+            "Traveling",
+            "Cooking",
+            "Reading",
+            "Outdoor activities"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old man who identifies as straight with the pronouns He/Him/His. He is a graduate from the University of Mumbai and currently working as a Software Developer in the Information Technology industry. He is originally from Mumbai, India, but is currently dating in Los Angeles, California. He is a non-smoker and non-drinker, leads an active lifestyle, and does not use marijuana or any other drugs. He doesn't have any pets or children but would like to have children in the future. He can communicate in English, Hindi, and Gujarati and holds religious beliefs as a Muslim. He values family, honesty, and respect and enjoys coding, traveling, and cooking in his free time. He is a South Asian, Libra, and an INTJ according to the MBTI personality type. He dabbles in liberal politics and is looking for a life partner while preferring monogamy in a relationship.",
+    "preferences_summary": "The user is seeking a woman aged between 25 and 35, who is anywhere between 5'2\" and 5'11\" in height. His ideal partner doesn't have children but wants to have them in the future. She must also be straight, a non-drinker, non-smoker, and abstain from marijuana and other drugs, with an active lifestyle. Preferred ethnicities are South Asian, Middle Eastern, East Asian, or White Caucasian, with political leanings towards Liberal or Moderate. She should also work in Information Technology, Engineering, Education, or Healthcare industries while being able to speak English. In terms of values, she should prioritize family, honesty, and respect and have interests in traveling, cooking, reading, and outdoor activities. Her education level should be undergraduate, graduate, or doctoral. The user's ideal partner should also be looking for a life partner and prefer monogamy relationships.",
+    "user_id": "f44c3040-e8ac-452b-9932-d43f68edeca5"
+}

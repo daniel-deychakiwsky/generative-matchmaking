@@ -1,0 +1,108 @@
+{
+    "name": "Hassan Abdullah",
+    "age": 28,
+    "height": "5'10\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Arabic"
+    ],
+    "values": [
+        "Honesty",
+        "Work-life balance"
+    ],
+    "interests": [
+        "Traveling",
+        "Culinary arts",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'4\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative",
+            "Not political"
+        ],
+        "job_industry": [
+            "Art",
+            "Education",
+            "Nonprofit",
+            "Science",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Integrity",
+            "Ambition",
+            "Family",
+            "Independence"
+        ],
+        "interests": [
+            "Cooking",
+            "Outdoors",
+            "Movies",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 28-year-old man is a software engineer in the tech industry, currently based in Los Angeles, California. Originally from San Diego, he attended the University of California, Berkeley and is educated to the graduate level. He is of Middle Eastern ethnicity, religiously identifies as a Muslim and has moderate political views. As an INTJ Aquarius, he values honesty and work-life balance, and enjoys interests such as traveling, culinary arts, and reading. He speaks English and Arabic, doesn\u2019t smoke or drink, and leads an active lifestyle. He's single and straight, with intents towards long term, monogamous relationships. He doesn't have children, but would like to in the future. A cat-owner, his ideal lifestyle is a balance between professional development and his personal life.",
+    "preferences_summary": "The user is seeking a woman between the ages of 24 and 32, who is straight and interested in a long-term, monogamous relationship. She should be active and neither drink, smoke, nor use marijuana or drugs. She should be between 5'4\" and 5'10\" in height, with no children but a desire to have them in the future. Although her ethnicity can range quite widely, she needs to speak English. Professionally, she could be engaged in art, education, nonprofit, science, or technology sectors. Apart from English, no other languages are specified, while her interests can include cooking, outdoor activities, movies, or music. Her core values should include integrity, ambition, family, and independence. Politically, she can be liberal, moderate, conservative, or not political at all. Lastly, her education level could be undergraduate, graduate, or doctoral.",
+    "user_id": "50972721-5eae-4155-a673-9c891a6e1288"
+}

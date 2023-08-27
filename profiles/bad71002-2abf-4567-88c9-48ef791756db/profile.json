@@ -1,0 +1,93 @@
+{
+    "name": "Amara Patel",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "Stanford University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Mumbai, India",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Honesty",
+        "Education"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Reading",
+        "Technology"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "South Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Education"
+        ],
+        "interests": [
+            "Traveling",
+            "Technology"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who is 5'7\" tall. She is a software engineer in the tech industry and resides in Los Angeles, California, but originally hails from Mumbai, India. She is an alumna of Stanford University, with a graduate degree and holds moderate political views. She speaks English, Hindi, and Spanish fluently. The key values in her life are family, honesty, and education. She loves traveling, cooking, reading, and technology. Being Hindu, she identifies as an ENTJ on the Myers Briggs Type Indicator and follows monogamy. Her sexual orientation is straight, she uses she/her/hers pronouns, identifies as a South-Asian ethnicity, and she is a Leo as per the astrological zodiac. She's active, drinks sometimes, and is a non-smoker. She doesn't use marijuana or any other drugs. She has a pet dog and although she doesn't have children currently, she intends to in the future.",
+    "preferences_summary": "The user is looking for a man aged between 28 to 35 years, with a height ranging from 5'9\" to 6'3\". Her potential partner should not have children, but must want to have them in the future. They should also be straight, possibly drink sometimes, but not smoke, use marijuana, or any other drugs. Her partner should be active and also looking for a long term relationship, with interests in both traveling and technology. Preferred ethnicities are South Asian and White Caucasian. He should hold moderate political views, and work in the tech or finance industries. It's important he speaks English and values family and education. His education should be grade level or higher. The potential partner should also be inclined towards monogamy, matching the user's relationship type preference.",
+    "user_id": "bad71002-2abf-4567-88c9-48ef791756db"
+}

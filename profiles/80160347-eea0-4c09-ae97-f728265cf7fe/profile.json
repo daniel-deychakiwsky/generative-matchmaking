@@ -1,0 +1,100 @@
+{
+    "name": "Ethan Donovan",
+    "age": 30,
+    "height": "6'2\"",
+    "school": "University of Southern California",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Denver, Colorado",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Compassion",
+        "Loyalty",
+        "Open-Mind",
+        "Passion"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Travelling",
+        "Photography",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Sagittarius",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Arts",
+            "Education",
+            "Tech"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Loyalty",
+            "Creativity"
+        ],
+        "interests": [
+            "Travelling",
+            "Reading",
+            "Sports"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 30-year-old straight, white Caucasian man is a software engineer. Standing 6'2\" tall, he identifies with He/Him/His pronouns and is currently based in Los Angeles, California, originally from Denver, Colorado. Education holds great importance to him, as evidenced by his graduate degree from the University of Southern California. An ENTP, his interests span over hiking, coding, traveling, photography, and reading. His values lean towards honesty, compassion, loyalty, open-mindedness, and passion. Although he does drink occasionally, he does not engage with smoking, marijuana, or drugs. While physically active, he loves spending time with his dog. In politics, his alignment is moderate and is Agnostic by faith. He is looking for a woman who wants the same long-term relationship type. He might be a Sagittarius, but being child-free at present, he definitely would like to start a family in the future. All conversations can fly with him in English or Spanish.\u201d",
+    "preferences_summary": "The user prefers a straight woman who is active, does not smoke, uses neither marijuana nor drugs, and is open to occasional drinking. The woman's age should range between 25 to 35 years, and her height should be within 5'2\" to 6'0\". It's critical that she does not have children yet but intends to have in the future. The woman should preferably be Caucasian or East Asian. As for politics, she could be a moderate, liberal, or conservative. In terms of work, she could be in arts, education, or tech industry. English should be one of her spoken languages. In terms of values, it's important that she values honesty, loyalty, and creativity and displays interest in traveling, reading, and sports. As far as education is concerned, she should at least have an undergraduate degree or more. She should also be open for a long-term relationship and believes in monogamy.",
+    "user_id": "80160347-eea0-4c09-ae97-f728265cf7fe"
+}

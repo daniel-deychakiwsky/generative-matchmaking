@@ -1,0 +1,106 @@
+{
+    "name": "Harper O'Brian",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Product Manager",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Creativity",
+        "Fitness",
+        "Hard Work",
+        "Education",
+        "Adventure"
+    ],
+    "interests": [
+        "Hiking",
+        "Innovative Technology",
+        "Photography",
+        "Traveling",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Education",
+            "Law"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Creativity",
+            "Fitness",
+            "Hard Work",
+            "Education",
+            "Adventure"
+        ],
+        "interests": [
+            "Hiking",
+            "Innovative Technology",
+            "Photography",
+            "Traveling",
+            "Yoga"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old straight woman who identifies with the pronouns she/her/hers. She is 5'7\" tall, works in the technology industry as a product manager, and is a graduate from the University of California, Los Angeles. Although originally from San Francisco, California, she is currently dating in Los Angeles, California and is interested in long-term monogamy. She speaks English and Spanish and holds values such as creativity, fitness, hard work, education, and adventure. She enjoys interests like hiking, innovative technology, photography, traveling, and yoga. She identifies as an atheist and follows liberal politics. Being a white Caucasian of Virgo zodiac sign, she exercises actively, drinks sometimes, and doesn't smoke or use marijuana or drugs. The user doesn't have children but wishes to have in the future. She owns a dog and is typed as ENTJ in the MBTI personality scale.",
+    "preferences_summary": "The user is seeking a partner between the ages of 27 and 35, with a height range of 5'8\" to 6'2\". This person must not have children but should want them in the future. The prospective match should also be a straight man who identifies as either 'Liberal' or 'Moderate' politically. The user prefers someone who drinks occasionally, and does not smoke or use marijuana or other drugs. A partner who is active in terms of exercise is also desirable. Additionally, the potential match should be from the White Caucasian, Hispanic/Latino, Middle Eastern, or Black African Descent ethnic groups. The user values people working in certain job industries such as Technology, Healthcare, Education, and Law. Shared values are also important, including creativity, fitness, hard work, education, and adventure. In terms of interests, a mutual appreciation for hiking, innovative technology, photography, traveling, and yoga is appreciated. The desired partner should also have an education level that is either undergraduate or graduate, and should have fluency in English.",
+    "user_id": "b2e178c9-d36f-4b59-8eae-0a7fe42f0b78"
+}

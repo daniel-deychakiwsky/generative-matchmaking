@@ -1,0 +1,95 @@
+{
+    "name": "Akio Yamamoto",
+    "age": 30,
+    "height": "5'10\"",
+    "school": "Tokyo University",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Tokyo, Japan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Japanese",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Loyalty",
+        "Respect"
+    ],
+    "interests": [
+        "Traveling",
+        "Coding",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ISTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Technology",
+            "Education"
+        ],
+        "languages_spoken": [
+            "Japanese",
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Loyalty",
+            "Respect"
+        ],
+        "interests": [
+            "Traveling",
+            "Food",
+            "Art"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old man, who stands at 5'10\" and identifies with the pronouns He/Him/His. He is a straight, Libra sign, East Asian ethnicity Software Developer in the Technology industry. Born and raised in Tokyo, Japan, he graduated from Tokyo University and has developed his language skills to become bilingual in Japanese and English. His current dating location is Los Angeles, California. The values he upholds are Family, Loyalty, and Respect and takes interest in Traveling, Coding, and Cooking. He practices Buddhism, holds moderate political views, and is an ISTJ type personality. He occasionally enjoys a drink but refrains from smoking and using recreational drugs, including marijuana. He leads an active lifestyle, doesn't have children but wants them, and has a pet cat. Currently, he is looking for a life partner and prefers a monogamous relationship.",
+    "preferences_summary": "The user is open to a woman between the ages of 25 and 35, who practices monogamy and is looking for a life partner. He prefers his partner to also have no children, but wants children in the future. A partner who is straight, between 5'0\" and 6'0\" tall, and is actively exercising is preferable. He can accept a partner who partakes in drinking occasionally, but he doesn't prefer a partner who smokes or uses marijuana or other drugs. He's interested in potential partners from East Asian or White Caucasian backgrounds and those who are moderates politically. He prefers a woman engaged in the healthcare, technology, or education industries. The ideal match would also be someone who can speak both Japanese and English, values family, loyalty, and respect, and is interested in traveling, food, and art. A woman with either an undergraduate or graduate education level would be most compatible with his preferences.",
+    "user_id": "8e470e67-08fb-46bb-bece-1e9cbde29a27"
+}

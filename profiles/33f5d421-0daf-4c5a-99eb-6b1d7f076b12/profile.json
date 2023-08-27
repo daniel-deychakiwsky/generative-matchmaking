@@ -1,0 +1,104 @@
+{
+    "name": "Abigail Johnson",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Harvard University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Dallas, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Mandarin"
+    ],
+    "values": [
+        "Family",
+        "Career advancement",
+        "Fitness"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Music",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Finance",
+            "Education",
+            "Law"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career advancement",
+            "Education"
+        ],
+        "interests": [
+            "Outdoors",
+            "Reading",
+            "Music",
+            "Sports"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Other"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old, straight, White Caucasian woman with the pronouns she/her/hers who stands at 5'6\". She graduated from Harvard University and is currently employed as a Software Engineer in the tech industry. Being an INTJ Aquarius who hails from Dallas, Texas, she now lives and dates in Los Angeles, California, speaking English, Spanish, and Mandarin fluently. Her values revolve around her family, career advancement, and fitness. Her interests include hiking, reading, listening to music, and coding. Religiously, she identifies as an agnostic liberal politically. Her dating intentions are focused on long-term relationships in the context of monogamy. She does not have any children but wishes to in the future, and she has a cat. Her lifestyle involves sometimes drinking, no smoking or marijuana uses, nor any drugs, and she remains active with regular exercise.",
+    "preferences_summary": "The user is looking to date a man between the ages of 28 to 35, with a height ranging from 5'8\" to 6'3\". He should not have children but desires to have them in the future. His sexuality should be straight and has lifestyle habits that include occasional drinking, non-smoking, no marijuana or drug use, and he should be active. His ethnicity could fall into any of the following categories: White Caucasian, East Asian, Hispanic/Latino, Black African Descent, or Other. His political views should be liberal or moderate. The man should work in the tech, healthcare, finance, education, or law industries and be able to speak English. His core values must include family, career advancement, and education, and he should have interests in outdoor activities, reading, music, and sports. His level of education should either be undergraduate, graduate, or other. The user intends to have a long-term monogamous relationship.",
+    "user_id": "33f5d421-0daf-4c5a-99eb-6b1d7f076b12"
+}

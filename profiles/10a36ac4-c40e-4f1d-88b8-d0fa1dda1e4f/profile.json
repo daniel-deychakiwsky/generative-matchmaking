@@ -1,0 +1,95 @@
+{
+    "name": "Vanessa Smith",
+    "age": 30,
+    "height": "5'8\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Healthcare",
+    "job_title": "Nurse Practitioner",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Health & Fitness",
+        "Family",
+        "Career"
+    ],
+    "interests": [
+        "Cooking",
+        "Traveling",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Tech",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Health & Fitness",
+            "Family",
+            "Career"
+        ],
+        "interests": [
+            "Cooking",
+            "Traveling",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 30-year-old woman is a nurse practitioner in the healthcare industry who hails from San Francisco, California but is currently dating in Los Angeles, California. She is 5'8\" tall, hails from the University of California, Berkeley, and identifies as a White Caucasian. As an Agnostic and a liberal, she puts a high premium on health & fitness, family, and career. Fluently bilingual, she speaks both English and Spanish. She has a range of hobbies, including cooking, traveling, and reading. Currently single, she's looking for a long-term, monogamous relationship. While she currently doesn't have children, it is something she desires in the future. Her pets include a dog and she identifies as a Libra and an ENFJ personality type. For habits, she is physically active, drinks sometimes but doesn't smoke or use marijuana or other drugs. She identifies as straight and uses she/her/hers pronouns.",
+    "preferences_summary": "The user's preferred dating partner is a man, aged between 28 and 35 years, with a height ranging from 5'8\" to 6'2\". The partner must have no children, but wants to have them in the future. He must be straight, a sometimes drinker, and doesn't indulge in smoking, marijuana or drugs. An active exercise routine is also preferred. He's open to partners from White Caucasian, Hispanic/Latino, and Black African Descent ethnicities with liberal political beliefs. He's looking for men in the Healthcare, Tech, or Education industries, whose interests include cooking, traveling, and reading. The preferred partner should also value Health & Fitness, Family, and Career. Education level must be an Undergraduate or Graduate degree. The partner must also be able to communicate in English and be looking for a long-term, monogamous relationship.",
+    "user_id": "10a36ac4-c40e-4f1d-88b8-d0fa1dda1e4f"
+}

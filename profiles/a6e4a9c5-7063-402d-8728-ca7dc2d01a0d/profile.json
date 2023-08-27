@@ -1,0 +1,98 @@
+{
+    "name": "Amelia Burnham",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "University of Washington",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Empathy",
+        "Work-life balance",
+        "Diversity"
+    ],
+    "interests": [
+        "Travelling",
+        "Cooking",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "East Asian",
+            "Native American",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Empathy",
+            "Honesty",
+            "Work-life balance"
+        ],
+        "interests": [
+            "Travelling",
+            "Cooking",
+            "Reading"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old white Caucasian woman who identifies as straight and goes by she/her/hers pronouns. She's a software engineer in the tech industry, currently residing in Los Angeles, California, but originally from Seattle, Washington. A graduate from the University of Washington, she speaks English and Mandarin and identifies as an INTJ Leo and agnostic. Her values include empathy, work-life balance, and diversity, and she enjoys traveling, cooking, and hiking. She doesn't smoke or use marijuana or drugs, and only drinks occasionally. She maintains an active lifestyle. She doesn't have children currently but does hope to have them in the future. Also, she is a loving cat owner. In terms of relationships, she's interested in a long-term, monogamous relationship. She does not smoke, consume marijuana, or use drugs, and drinks only occasionally. Her allergies? None--she's a proud cat owner.",
+    "preferences_summary": "The user is interested in a man aged between 28 and 35, who is 5'7\" to 6'2\" tall. She prefers someone who desires a long-term monogamous relationship, identifies as straight, and does not have children but wants them in the future. Her preference for her partner includes being active, a non-smoker, and only drinks occasionally, and does not use marijuana or drugs. She is open to dating partners from various ethnic backgrounds including White Caucasian, Hispanic/Latino, Black African Descent, East Asian, Native American, and South Asian. Politically, she prefers her partner to be liberal. In terms of industry, she would like her partner to be in Tech, Healthcare, or Education sectors. Her partner should speak English and value empathy, honesty, and work-life balance. Shared interests in travelling, cooking, and reading are also important to her. Finally, she prefers someone who has at least a graduate level of education.",
+    "user_id": "a6e4a9c5-7063-402d-8728-ca7dc2d01a0d"
+}

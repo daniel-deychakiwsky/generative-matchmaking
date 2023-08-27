@@ -1,0 +1,101 @@
+{
+    "name": "Wei Zhang",
+    "age": 30,
+    "height": "5'8\"",
+    "school": "Tsinghua University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Beijing, China",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Honesty",
+        "Determination",
+        "Kindness"
+    ],
+    "interests": [
+        "Traveling",
+        "Programming",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Not political",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'1\"",
+        "maximum_height": "5'8\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Southeast Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political",
+            "Other"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Education",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Respect",
+            "Independence"
+        ],
+        "interests": [
+            "Traveling",
+            "Reading",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 30-year-old, straight man who uses He/Him/His pronouns. Professionally, he is a software engineer in the technology industry. He is East Asian, 5'8\" in height, and holds a graduate degree from Tsinghua University. From Beijing, China originally, he is now settled in Los Angeles, California. He is bilingual, fluent in both English and Mandarin. This man highly values honesty, determination, and kindness, and he enjoys diverse interests such as traveling, programming, and cooking. He is a Buddhist and claims to not be political. When it comes to relationships, he is looking for long-term engagement based on monogamy. Currently childless, he plans to have children in the future. He has an active lifestyle but does not smoke, use marijuana, or other drugs, though he does enjoy a drink on occasion. He gets along best with others who share his zodiac sign, Aries, and his MBTI personality type, INTJ. He doesn't currently have any pets.",
+    "preferences_summary": "The user is interested in a woman who is between 25 and 35 years old, with a height range from 5'1\" to 5'8\". She shouldn't have children currently but should want them in the future. She should be straight, sometimes partakes in drinking but doesn't smoke, use marijuana or drugs, and maintains an active exercise regimen. The desired partner can be of East Asian, White Caucasian, Southeast Asian or other ethnicities. Her political preference could be liberal, moderate, not political or other. Interestingly, she should work in the technology, healthcare, education sectors or others. It's important for her to be able to speak English and shares interests in traveling, reading and cooking. Values they share should include honesty, respect, and independence. Her level of education can range from undergraduate to doctoral degrees. The woman should be interested in a long-term, monogamous relationship just like the user.",
+    "user_id": "cb11fca5-82ac-46d9-b965-97cdeb987c08"
+}

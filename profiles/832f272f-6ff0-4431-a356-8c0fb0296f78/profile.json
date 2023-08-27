@@ -1,0 +1,111 @@
+{
+    "name": "Kyle Hamilton",
+    "age": 35,
+    "height": "6'2\"",
+    "school": "The University of California, Los Angeles",
+    "job_industry": "Information Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Nashville, Tennessee",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Health and Fitness"
+    ],
+    "interests": [
+        "Technology",
+        "Cooking",
+        "Outdoor Activities"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 40,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "East Asian",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative",
+            "Not political",
+            "Other"
+        ],
+        "job_industry": [
+            "Information Technology",
+            "Education",
+            "Medicine",
+            "Arts",
+            "Marketing",
+            "Sciences"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Hard work",
+            "Family",
+            "Health and Fitness"
+        ],
+        "interests": [
+            "Technology",
+            "Cooking",
+            "Outdoor Activities"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This 35-year-old software engineer from Nashville, Tennessee, is currently based in Los Angeles, California. With a graduate education from The University of California, Los Angeles, he values hard work, family, and health & fitness, and is deeply interested in technology, cooking, and outdoor activities. Being a man who goes by the pronouns He/Him/His, he is straight, a white Caucasian, and follows liberal politics. Though he's agnostic, he's a Leo and an INTJ by MBTI personality type. Despite his active lifestyle, he likes to take a drink occasionally, but he's a firm no-smoker and doesn't fancy drugs or marijuana either. He officially states that he doesn't have any children yet but is open to having them in the future. The furry friend he has is a dog. His dating intentions revolve around a long term, monogamous relationship.\n",
+    "preferences_summary": "The user is seeking a woman aged between 25 and 40 years, who is ideally between 5'4\" and 6'0\" in height. She should not have children presently, but be in favor of having them in the future. His partner's sexuality should be straight, and her intake of alcohol is acceptable, although consumption of tobacco and marijuana is not favorable to him. Despite her disposition toward physical exercise, whether she engages in it sometimes or not, matters less to him. His preferred partner is interested in a long-term, monogamous relationship. Although open to dating most ethnic groups, she should not use drugs. Her political views can vary between liberal, moderate, conservative or not political at all, and she is more ideal if coming from job industries such as Information Technology, Education, Medicine, Arts, Marketing, or Sciences. The user values hard work, family values, and a penchant for health and fitness in his partner, and an interest in technology, cooking and outdoor activities would mirror his own. English and Spanish speaking is optimal, and she should hold an educational level ranging from undergraduate to doctoral.",
+    "user_id": "832f272f-6ff0-4431-a356-8c0fb0296f78"
+}

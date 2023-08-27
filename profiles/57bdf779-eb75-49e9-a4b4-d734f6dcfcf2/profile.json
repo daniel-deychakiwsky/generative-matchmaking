@@ -1,0 +1,98 @@
+{
+    "name": "Victoria Sullivan",
+    "age": 30,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Healthcare",
+    "job_title": "Registered Nurse",
+    "hometown_location": "Portland, Oregon",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Health",
+        "Education",
+        "Adventures"
+    ],
+    "interests": [
+        "Traveling",
+        "Yoga",
+        "Photography",
+        "Reading"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Health",
+            "Adventures"
+        ],
+        "interests": [
+            "Traveling",
+            "Sports",
+            "Gastronomy",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 30-year-old woman is a Registered Nurse in the Healthcare sector and a graduate from the University of California, Berkeley. She stands 5'6\" tall and has a fit lifestyle. She resides in Los Angeles, California, after hailing originally from Portland, Oregon. She's bilingual, speaking both English and Spanish. This Aries woman values family, health, education, and adventures. Her hobbies are traveling, yoga, photography, and reading. She is agnostic, politically liberal, and is looking for a long-term, monogamous relationship. She is straight with no children but plans to have children in the future. She is the proud owner of a dog and does not smoke, use marijuana, or other drugs. She occasionally drinks and stays regularly active.",
+    "preferences_summary": "The user is seeking a straight man, preferably between the ages of 30 and 35, and the height ranging from 5'8'' to 6'2''. He should not have any children but should want some in the future. The preferred partner should engage in regular exercise and consume alcohol but refrain from smoking, marijuana, and drugs. Ideally, he should be interested in a long-term monogamous relationship. The potential partner's ethnicity may be Caucasian, Latino/Hispanic, or of Black African descent with liberal political views. He should be proficient in English with a job in Healthcare, Education, or Finance. He should value family, health, and adventures and have an interest in traveling, sports, gastronomy, and reading. The partner should have a minimum of an undergraduate education level.",
+    "user_id": "57bdf779-eb75-49e9-a4b4-d734f6dcfcf2"
+}

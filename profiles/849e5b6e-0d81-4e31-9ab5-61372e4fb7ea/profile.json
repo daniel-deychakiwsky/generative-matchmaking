@@ -1,0 +1,108 @@
+{
+    "name": "Victor Hartley",
+    "age": 35,
+    "height": "5'10\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Independence",
+        "Diversity"
+    ],
+    "interests": [
+        "Hiking",
+        "Music",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Other",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 40,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Not political",
+            "Other"
+        ],
+        "job_industry": [
+            "Tech",
+            "Education",
+            "Government",
+            "Health care",
+            "Arts",
+            "Self-Employed"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Kindness",
+            "Creativity",
+            "Ambition"
+        ],
+        "interests": [
+            "Art",
+            "Hiking",
+            "Music",
+            "Dancing"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 35 year old man who uses he/him/his pronouns and identifies as a Hispanic/Latino. Based in Los Angeles, California, he hails from Austin, Texas and works as a Software Engineer in the tech industry post graduating from the University of California, Berkeley. His main passions are hiking, music, and traveling and he sets great store by values like honesty, independence, and diversity. Fluent in both English and Spanish, he aspires to a long-term monogamous relationship. He's politically liberal and aligns with 'other' in terms of his religious beliefs. \u2018Active\u2019 would be the perfect descriptor for his recreational habits and, though he doesn\u2019t currently have children, he\u2019d like to in future. The finishing touches to his identity include being a dog owner, a Libra, an INTJ personality type, being a non-user of drugs or marijuana, a occasional drinker, and a non-smoker.",
+    "preferences_summary": "The user is ideally looking for a woman aged between 27 and 40, with a height in the range of 5'0\" to 6'0\". Partner longevity and future plans align, seeking a straight woman who desires a long-term monogamous relationship and wants to have children in the future. The candidate should not smoke, drink optionally, abstain from any marijuana and drug usage and maintain an active exercise routine. Job industries may vary, although preferred ones include tech, education, government, healthcare and the arts. The partner preferred height parameters are from 5\u20190\u2019\u2019 to 6\u20190\u2019\u2019, she could be from an assorted mix of ethnicities. She should be proficient in English and her possible education levels can be undergraduate, graduate or doctoral. Shared values should encompass kindness, creativity, and ambition with interests specifically in the arts, hiking, music, and dancing. Preconsidered political views include being liberal, not political, or other.",
+    "user_id": "849e5b6e-0d81-4e31-9ab5-61372e4fb7ea"
+}

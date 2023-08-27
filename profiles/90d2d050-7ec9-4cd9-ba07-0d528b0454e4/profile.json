@@ -1,0 +1,104 @@
+{
+    "name": "Franklin McKenzie",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "University of Washington",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "Seattle, WA",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Work-life balance"
+    ],
+    "interests": [
+        "Programming",
+        "Hiking",
+        "Photography",
+        "Reading",
+        "Music"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Tech",
+            "Arts",
+            "Finance",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Loyalty",
+            "Work-life balance"
+        ],
+        "interests": [
+            "Hiking",
+            "Travel",
+            "Arts",
+            "Music",
+            "Other"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old straight man who stands 6'1\" tall, hails from Seattle, WA, and currently works as a Software Developer in the tech industry in Los Angeles, CA. He's a graduate of the University of Washington, with a firm belief in honesty, loyalty, and work-life balance. He enjoys programming, hiking, photography, reading, and music. Fluent in both English and Spanish, he identifies as Agnostic, politically liberal, and has an INTJ personality type. His relationship goal is long-term in a monogamous setting with a future plan of having kids, although he doesn't have any currently. A dog lover who is physically active, he occasionally drinks, but abstains from smoking, marijuana, and other drugs.",
+    "preferences_summary": "The user is seeking a woman, aged between 25 and 35, with a height ranging from 5'2\" to 6'0\". The woman doesn't have children currently but hopes to have in the future. She should have an active lifestyle, not smoke, and may drink occasionally but uses neither marijuana nor other drugs. Ethnicities preferred include White Caucasian, Hispanic/Latino, Black African Descent, and other. Political alignment is preferably Liberal or Moderate. The preferred partner works in Education, Healthcare, Tech, Arts, Finance, or other fields. English at least must be one of the languages she can converse in. The woman should resonate with values like honesty, loyalty, and work-life balance, and her interests should include hiking, travel, arts, music, and others. She should have an education level of undergraduate studies or higher. The intended relationship type is monogamy and dating intention should be for the long term.",
+    "user_id": "90d2d050-7ec9-4cd9-ba07-0d528b0454e4"
+}

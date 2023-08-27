@@ -1,0 +1,115 @@
+{
+    "name": "Sanjit Patel",
+    "age": 31,
+    "height": "5'10\"",
+    "school": "The University of Texas at Austin",
+    "job_industry": "Information Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Dallas, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi",
+        "Spanish",
+        "JavaScript"
+    ],
+    "values": [
+        "Kindness ",
+        "Open-mindedness",
+        "Learning"
+    ],
+    "interests": [
+        "Coding",
+        "Making music",
+        "Different cultures",
+        "Gym"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Nonprofit",
+            "Science",
+            "Engineering",
+            "Arts",
+            "Finance",
+            "Government"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Kindness",
+            "Open-mindedness",
+            "Learning"
+        ],
+        "interests": [
+            "Arts",
+            "Fitness",
+            "Learning",
+            "Music",
+            "Outdoors",
+            "Technology"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 31-year-old man who identifies as straight and uses He/Him/His pronouns. He is a Software Engineer in the Information Technology industry and holds a graduate degree from The University of Texas at Austin. Originally from Dallas, Texas, he is currently staying in Los Angeles, California. His ethnic background is South Asian and his zodiac sign is Cancer while his MBTI personality type is INTJ. He is a Hindu and politically liberal. Currently, he is looking for a long-term relationship and prefers Monogamy. He doesn't have children but would love to have them in the future. His interests include Coding, Making music, Exploring different cultures and frequenting the Gym. He speaks English, Hindi, Spanish, and JavaScript, and values Kindness, Open-mindedness, and Learning. He has no pets. Although he drinks occasionally, he doesn't smoke or use marijuana or any other drugs. His lifestyle includes regular exercise activities.",
+    "preferences_summary": "The user seeks a woman for long\u2011term dating who is in the age range of 25 to 35 and is 5'0\" to 6'0\" tall. The woman does not have children but desires them in the future. She's of straight sexuality like the user and might occasionally drink but does not smoke or use marijuana or other drugs. She should engage in occasional physical exercise. She can come from various ethnic backgrounds like Black African Descent, East Asian, Hispanic/Latino, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian or White Caucasian. She is expected to be Liberal to Moderate on the political spectrum or not political at all. The potential match works in one of numerous industries including art, education, finance, government, healthcare, science, or the nonprofit sector and speaks English. She shares core values such as kindness, open-mindedness, and learning as well as interests which may involve the arts, learning, fitness, music, outdoors, or technology. She should at least have, or be working towards say an undergraduate, graduate, or doctoral level of education.",
+    "user_id": "68140853-a377-45c5-b500-07867901e10e"
+}

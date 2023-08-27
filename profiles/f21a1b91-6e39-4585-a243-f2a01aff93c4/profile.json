@@ -1,0 +1,99 @@
+{
+    "name": "Benjamin Kavanaugh",
+    "age": 31,
+    "height": "6'1\"",
+    "school": "MIT",
+    "job_industry": "Information Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Boston, Massachusetts",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Mandarin"
+    ],
+    "values": [
+        "Hard work",
+        "Family",
+        "Adventure"
+    ],
+    "interests": [
+        "Tech",
+        "Reading",
+        "Music"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative",
+            "Not political"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Adventure"
+        ],
+        "interests": [
+            "Reading",
+            "Tech",
+            "Music"
+        ],
+        "education_level": [
+            "High school",
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 31-year-old man who identifies as Straight and uses He/His pronouns. Standing at 6'1\", he is a White Caucasian of noted Piscean identity and the INTJ personality type. He works as a Software Developer in the field of Information Technology, having graduated from MIT. Born and raised in Boston, Massachusetts, he presently seeks to date in Los Angeles, California. He impressively communicates in English, Spanish, and Mandarin. The man lives an active lifestyle, admits to drinking sometimes but strictly says no to smoking, marijuana, or drugs. His ideological standpoint leans towards being agnostic in terms of religion whereas politically moderate. Holding esteemed values such as hard work, family, and adventure, he has great interest in tech, reading, and music. He currently has no children but certainly wants them in the future and has a pet Dog. His quest is to establish a monogamous, long-term relationship.\n",
+    "preferences_summary": "The client is interested in dating a woman between the ages of 25 and 35 who has an active lifestyle. Her height should be between 5'5\" and 6'0\". She must be single, with no children, but wants children in the future and is straight. She should sometimes engage in drinking, but neither smokes nor uses marijuana or drugs. The desired ethnic backgrounds include White Caucasian, East Asian, Hispanic or Latino, Middle Eastern, or South Asian. Her political beliefs can range from liberal to conservative, including moderate and non-political. She can be employed in any industry, and must be able to speak English. She should value hard work and adventure, and share interests in reading, tech, and music. Her level of education can range from high school to graduate level. The man is interested in a long-term relationship and prefers monogamy.",
+    "user_id": "f21a1b91-6e39-4585-a243-f2a01aff93c4"
+}

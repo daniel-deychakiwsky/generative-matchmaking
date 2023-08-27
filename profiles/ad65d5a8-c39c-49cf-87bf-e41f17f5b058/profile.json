@@ -1,0 +1,98 @@
+{
+    "name": "Jacob Fletcher",
+    "age": 28,
+    "height": "6'1\"",
+    "school": "University of Washington",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Japanese"
+    ],
+    "values": [
+        "Hard Working",
+        "Compassionate",
+        "Honesty",
+        "Open-Mindedness"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Traveling",
+        "Reading",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'3\"",
+        "maximum_height": "5'10\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Education",
+            "Science",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Compassionate",
+            "Honesty",
+            "Open-Mindedness"
+        ],
+        "interests": [
+            "Traveling",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile belongs to a straight, 28-year-old man who uses he/him/his pronouns and identifies as White Caucasian. He stands at 6'1\" tall and works as a Software Engineer in the Technology industry. He hails originally from Seattle, but is dating in Los Angeles. He's a graduate from the University of Washington and speaks English, Spanish, and Japanese. His interests range from coding and hiking to traveling, reading, and photography. He identifies as an Agnostic and is politically liberal. Despite being an INTJ on the MBTI Personality Type and a Leo, he values hard work, compassion, honesty, and open-mindedness. While he has no children currently, he's open to having some in the future. He owns a dog, and occasionally drinks but doesn't engage in smoking, marijuana, or other drugs. He's an active individual aligned towards long-term, monogamous relationships.",
+    "preferences_summary": "The user's ideal dating partner should be a woman between the ages of 24 to 30 and should stand between 5'3\" to 5'10\" in height. The partner should not already have children but should want them in the future and be straight. Only occasional drinking is preferred and no smoking, marijuana, or drug use is acceptable. The partner should have an active exercise lifestyle. The user prefers a potential mate to be of an East Asian, Hispanic/Latino, or White Caucasian ethnicity, and have liberal political views. The preferred job industries are education, science, or technology, and language spoken should include English. Common values should include compassion, honesty, and open-mindedness, and interests in traveling and reading are desired. As for the level of education, it's either the undergraduate or graduate level. The user is looking for a long-term monogamous relationship.",
+    "user_id": "ad65d5a8-c39c-49cf-87bf-e41f17f5b058"
+}

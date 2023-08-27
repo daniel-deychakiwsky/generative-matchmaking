@@ -1,0 +1,100 @@
+{
+    "name": "Sofia Santos",
+    "age": 30,
+    "height": "5'6\"",
+    "school": "University of Miami",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Miami, Florida",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Portuguese"
+    ],
+    "values": [
+        "Family",
+        "Work-life balance",
+        "Fitness"
+    ],
+    "interests": [
+        "Mountain biking",
+        "Yoga",
+        "Coding",
+        "Latin dancing",
+        "Investing"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 40,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'7\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Others"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Other"
+        ],
+        "job_industry": [
+            "Technology",
+            "Consulting",
+            "Financial"
+        ],
+        "values": [
+            "Family",
+            "Work-life balance",
+            "Fitness"
+        ],
+        "interests": [
+            "Cycling",
+            "Hiking",
+            "Science fiction",
+            "Video games",
+            "Pets"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old graduate from the University of Miami, currently working in the technology industry as a software developer. She stands 5'6\" tall and resides in Los Angeles, California, originally from Miami, Florida. She speaks three languages which include English, Spanish, and Portuguese. She highly regards family, work-life balance, and fitness, with preferences for mountain biking, yoga, coding, latin dancing, and investing as ways to spend her time. Hailing from a Hispanic/Latino background, she identifies herself as a straight woman, leaning towards Catholic beliefs and a moderate political standpoint. She's keen on finding a life partner who aligns with her core values, wants children (although doesn't have any of her own at present), and believes in monogamy. She also engages herself in Elliptic Windows training on a regular basis to maintain her fitness. On the Myers\u2013Briggs Type Indicator, she is an ENFJ, a typically expressed style. She does enjoy a drink from time to time but doesn't use cigarettes, marijuana, or drugs. Amusingly, she loves her pet dog and launched her life under the star sign, Gemini. As compared to a life partner, she is very specific about what she's looking for.\n",
+    "preferences_summary": "The user is seeking a man, ranging from 29 to 40 years old, who has an active lifestyle and is interested in pursuing a monogamous relationship intended for life partnership. The preferred height of her partner is between 5'5\" and 6'7\". Her potential partner should prefer not to have children yet but is open to wanting some in the future. He should be straight in sexuality and comfortable with drinking occasionally, but does not indulge in smoking, marijuana, or drugs. She is open to anyone from Hispanic/Latino, White Caucasian, and other ethnicities. Her preferred mate should have political leanings towards being liberal, moderate, or others; working in the technology, consulting, or financial industry. The educational background ranges from undergraduate to doctoral. The ideal partner shares the values of family, work-life balance, and fitness, with interests in cycling, hiking, science fiction, video games, or pets.",
+    "user_id": "d2e2b94e-b10e-4769-ba88-10e2dbe3fa5a"
+}

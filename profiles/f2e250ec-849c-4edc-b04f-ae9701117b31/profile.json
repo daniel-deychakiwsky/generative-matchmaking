@@ -1,0 +1,99 @@
+{
+    "name": "Aamina Hussein",
+    "age": 32,
+    "height": "5'7\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Arabic"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Travel",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Sagittarius",
+    "mbti_personality_type": "INTP",
+    "drinking": "No",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "Native American",
+            "South Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career",
+            "Creativity"
+        ],
+        "interests": [
+            "Travel",
+            "Sports",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 32-year-old woman is a Software Engineer in the technology industry, originally from Austin, Texas and now dating in Los Angeles, California. She stands 5'7\" tall and is a proud graduate of University of California, Berkeley. An Inquiring Thinker (INTP), Sagittarius, and a non-smoker, she lives a clean lifestyle and keeps active. As a Middle Eastern Muslim, who speaks English and Arabic, she values her family, career, and creativity. Her interests cover coding, travel, and photography, but she\u2019s always ready to come home to her cat. On the matter of children, she doesn\u2019t have any but is looking forward to having some in the future. Her search is for a life partner with her sights set on a monogamous relationship.",
+    "preferences_summary": "The user prefers a life partner who is a straight man between the ages of 30 and 40, and has a height ranging from 5'7\" to 6'5\". He doesn't have children but wishes to in the future. He leads an active lifestyle, doesn't consume alcohol, smoke, use marijuana or any drugs. He shares the values of family, career, and creativity, and has interests in travel, sports, and reading. His ethnicity could be East Asian, Hispanic/Latino, Native American, South Asian, or White Caucasian. Any political leaning is acceptable albeit it ranges from Liberal, Moderate, to Conservative. His job industry could be either in Technology, Healthcare or Finance and he should have attained at least an undergraduate level of education. An essential requirement is that he speaks English.",
+    "user_id": "f2e250ec-849c-4edc-b04f-ae9701117b31"
+}

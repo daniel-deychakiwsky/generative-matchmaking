@@ -1,0 +1,97 @@
+{
+    "name": "Amina Hassan",
+    "age": 27,
+    "height": "5'5\"",
+    "school": "University of Michigan",
+    "job_industry": "Tech",
+    "job_title": "Data Analyst",
+    "hometown_location": "Boston, Massachusetts",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Arabic"
+    ],
+    "values": [
+        "Honesty",
+        "Independence",
+        "Productivity",
+        "Spirituality"
+    ],
+    "interests": [
+        "Traveling",
+        "Reading",
+        "Hiking",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Muslim",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "Middle Eastern",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Middle Eastern",
+            "White Caucasian",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Independence",
+            "Productivity"
+        ],
+        "interests": [
+            "Traveling",
+            "Hiking",
+            "Yoga"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 27-year-old, straight, Middle Eastern woman who stands at 5'5\". She is a graduate from the University of Michigan and currently based in the tech industry as a Data Analyst in Los Angeles, California. Originating from Boston, Massachusetts, she speaks both English and Arabic. She values honesty, independence, productivity, and spirituality. Her interests involve traveling, reading, hiking, and yoga. She identifies as a Muslim with liberal political beliefs and is looking for a life partner in a monogamous relationship. She's an Aquarius, an INFJ personality type and doesn't smoke or use drugs, but drinks occasionally. She leads an active lifestyle and has a pet cat. Although she doesn't have children, she hopes to in the future.",
+    "preferences_summary": "The user prefers a dating partner who is a straight man aged between 27 and 35. He should be active and non-smoker, with occasional drinking being acceptable but no marijuana or other drugs. The ideal height range is between 5'7\" and 6'2\". The partner should not have any children, but should want them in the future. In terms of ethnicity, the choices are Middle Eastern, White Caucasian, and East Asian. The partner should have political views aligning with liberalism. Industries of interest for the partner's job include Tech, Healthcare, and Finance. Proficiency in English is necessary. The value system should comprise honesty, independence, and productivity. Shared interests should include traveling, hiking, and yoga. It is expected that the partner should at least be an undergraduate or a graduate. The user is exclusively interested in a life partner and a monogamous relationship.",
+    "user_id": "33af1e4f-f787-4273-aa95-554dba56ee15"
+}

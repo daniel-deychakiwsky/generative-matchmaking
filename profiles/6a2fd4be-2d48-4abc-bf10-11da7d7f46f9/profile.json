@@ -1,0 +1,95 @@
+{
+    "name": "Dmitri Ivanov",
+    "age": 28,
+    "height": "6'2\"",
+    "school": "Moscow State University",
+    "job_industry": "Information Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Moscow, Russia",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Russian",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Honesty",
+        "Hard Work"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Traveling",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Not political",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Southeast Asian",
+            "Other"
+        ],
+        "politics": [
+            "Not political"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Honesty",
+            "Hard Work"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight man who uses he/him/his pronouns. He hails from Moscow, Russia and works as a Software Engineer in the Information Technology industry. An alumnus of Moscow State University, he holds a graduate education level. His interests include coding, hiking, traveling, and photography. He is 6'2\" tall, fluent in English and Russian, and identifies as a white Caucasian. He values family, honesty, and hard work. Although originally from Moscow, he is currently residing in Los Angeles, California. Despite being an Atheist and not political, he is interested in a long-term, monogamous relationship. He doesn\u2019t have children but wishes to have some in the future. Health-wise, he actively exercises, drinks sometimes, but doesn't smoke or use marijuana or drugs. He doesn\u2019t have any pets. He belongs to the Aries Zodiac sign and has an INTJ personality type as per the Myers-Briggs Type Indicator.\n",
+    "preferences_summary": "The user's perfect partner would be a woman between the ages of 24 and 30, with a height range of 5'4\" to 6'0\". She is expected to be active, not have any children but want them in the future, and have a straight sexuality like the user. The perfect partner might only drink occasionally, but not smoke, use marijuana, or do drugs. Her ethnicity could either be White Caucasian, East Asian, Hispanic/Latino, Southeast Asian or others, and she doesn't need to be political. Job industry isn't a concern, but she should be able to speak English. The partner is preferred to have completed at least an undergraduate level of education and her values should align with respect to Family, Honesty, and Hard Work. As for interests, the user is open to any. The user seeks a long-term monogamous relationship.",
+    "user_id": "6a2fd4be-2d48-4abc-bf10-11da7d7f46f9"
+}

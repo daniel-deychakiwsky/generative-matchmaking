@@ -1,0 +1,93 @@
+{
+    "name": "Harrison Turner",
+    "age": 31,
+    "height": "5'9\"",
+    "school": "University of Michigan",
+    "job_industry": "Technology",
+    "job_title": "Product Manager",
+    "hometown_location": "Detroit, Michigan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Ambition",
+        "Honesty",
+        "Humor"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "East Asian",
+            "Middle Eastern",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Any"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 31-year-old man is a product manager in the technology industry. He stands at 5'9\", originally from Detroit, Michigan, but is currently located in Los Angeles, California for dating prospects. He is a graduate from the University of Michigan and values ambition, honesty, and humor. Fluent in both English and Spanish, his interests include hiking, reading, and photography. His views lean towards liberal politics and he identifies as agnostic. He is seeking a life partner and prefers a monogamous relationship. He identifies as straight and uses He/Him/His pronouns. He is a White Caucasian with an ENTJ personality type, represented by the Libra zodiac sign. He enjoys drinks occasionally, does not smoke or use marijuana or any other drugs. He leads an active lifestyle and is a dog owner. This person doesn't have children but wishes to become a parent in the future.",
+    "preferences_summary": "The user seeks a life partner who is a woman, straight, active and a non-smoker. She should be between the ages of 26 to 35, stand anywhere from 5'2\" to 6'0\" tall, and interested in monogamy. She should not have children, but should be open to the idea of having children in the future. Her drinking habits should be occasional at most, with a strict prohibition on marijuana and drug use. Political values can range from liberal to moderate. The user doesn't have a preferred job industry, and is open to her speaking any language, as well as any values and interests. Her ethnicity can be White Caucasian, Hispanic/Latino, Black African Descent, East Asian, Middle Eastern, or South Asian. She should have achieved at least an undergraduate level of education.",
+    "user_id": "1e90f21c-89d9-4793-b2d8-ad5243f0e22b"
+}

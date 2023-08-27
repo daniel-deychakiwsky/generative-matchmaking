@@ -1,0 +1,103 @@
+{
+    "name": "Sophia Chen",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "Harvard University",
+    "job_industry": "Tech Startup",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Family",
+        "Education",
+        "Hard work"
+    ],
+    "interests": [
+        "Traveling",
+        "Cooking",
+        "Programming"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat",
+        "Fish"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Black African Descent",
+            "East Asian",
+            "South Asian",
+            "Middle Eastern",
+            "Pacific Islander"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech Startup",
+            "Banking",
+            "Consulting",
+            "Media",
+            "Health"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Education",
+            "Family",
+            "Hard work"
+        ],
+        "interests": [
+            "Music",
+            "Coding",
+            "Travel",
+            "Sports"
+        ],
+        "education_level": [
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 28-year-old woman is a Software Engineer in the Tech Startup industry who currently resides in Los Angeles, California. She stands at a height of 5'6\". A Harvard University graduate, she is well-educated, fluent in English and Mandarin, and identifies as a straight, East Asian, INTJ Virgo. Her core values include Family, Education, and Hard work, and she loves traveling, cooking, and programming. She is liberal in her political views, an atheist, and has a balanced lifestyle with active exercise, occasional drinking, and does not smoke or use drugs. She is interested in a monogamous relationship and is seeking a life partner. She does not have any children yet, but desires to have some in the future. She shares her home with her pet cat and fish.",
+    "preferences_summary": "The user is looking for a life partner who is a male and identifies as straight, expecting monogamy in the relationship. Her potential partner should be active and between the ages of 27 and 35, with a height ranging from 5'8\" to 6'3\". He should not have children, but should want to have children in the future. He can be multi-ethnic but must speak English. He should be professionally associated with fields like tech startups, banking, consulting, media, or health. The potential partner should mirror the user's values of education, family, and hard work, and possess interests including music, coding, travel, or sports. The desired person should not smoke, use marijuana or drugs, but social drinking is acceptable. Politically he should either be liberal or moderate. He should at least have a graduate level education.",
+    "user_id": "1b278a0e-1374-4bdc-a936-7dfb8bd5c518"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "Asha Patel",
+    "age": 28,
+    "height": "5'5\"",
+    "school": "Harvard University",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Boston, Massachusetts",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Gujarati"
+    ],
+    "values": [
+        "Education",
+        "Ambition",
+        "Kindness"
+    ],
+    "interests": [
+        "Reading",
+        "Cooking",
+        "Hiking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Any"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Education",
+            "Ambition",
+            "Kindness"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who identifies as straight and uses She/Her/Hers pronouns. She is South Asian, stands 5'5\" tall, and is an active Hindu, with Virgo as her zodiac sign and identifies herself as an INTJ personality type. Professionally, she works as a software engineer in the tech industry after graduating from Harvard University. She's currently based in Los Angeles, California, although her roots are in Boston, Massachusetts. In terms of languages, she's bilingual, speaking English and Gujarati. She values education, ambition, and kindness, and her interests include reading, cooking, and hiking. Politically, she leans liberal. She doesn't smoke or use marijuana or drugs, but she does drink at times. As an animal lover, she owns a cat. Her future plans include having kids but currently, she doesn't have any. Lastly, she's looking for a long-term, monogamous relationship.\n",
+    "preferences_summary": "The user is seeking a straight man between the ages of 28 and 35, with a height ranging from 5'7\" to 6'2\". He should not have children but should want them in the future. The potential partner should be someone who drinks, but does not smoke, use marijuana, or use drugs. Additionally, he should lead an active lifestyle in terms of exercise. The user is interested in long-term dating leading to monogamy. The potential partner could belong to any ethnicity, must have liberal political beliefs, and his job industry or spoken languages are open-ended. In terms of education, the potential partner should have an undergraduate or graduate degree. The user values education, ambition, and kindness in her potential partner and is open to any interests he may have.",
+    "user_id": "827ce5b9-5c27-4c44-851b-7bfb9901caf8"
+}

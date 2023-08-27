@@ -1,0 +1,106 @@
+{
+    "name": "Jackson Lawrence",
+    "age": 26,
+    "height": "6'2\"",
+    "school": "University of California, Los Angeles (UCLA)",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Empathy"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 23,
+        "maximum_age": 30,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Not political"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Science",
+            "Education",
+            "Finance",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Loyalty",
+            "Empathy"
+        ],
+        "interests": [
+            "Traveling",
+            "Outdoor Activities",
+            "Art"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The client is a 26-year-old man who identifies as straight and practices monogamy. He stands 6'2\" tall, of white Caucasian ethnicity, and uses \"He/Him/His\" pronouns. This technology professional is a Software Engineer, and he's a graduate from the University of California, Los Angeles (UCLA). He currently resides in Los Angeles, California but he's originally from Austin, Texas. His spoken languages are English and Spanish. His core values consist of honesty, loyalty, and empathy. He has an array of interests including coding, hiking, and traveling. The client identifies as agnostic and politically liberal. He intends to find a long-term relationship. He has no children but wants to have them in the future. He's the owner of a dog and leads an active lifestyle. He sees himself as an INTJ personality type, under the zodiac sign Capricorn. He drinks occasionally, but firmly claims that he does not smoke cigarettes, use marijuana, or take other drugs.",
+    "preferences_summary": "The user is seeking a woman between the ages of 23 and 30, who is anywhere between 5'4\" and 6'0\" tall. The woman needs to be straight, should not have children but should desire to have children in the future. Active in exercise, she should occasionally drink but should not smoke, or use marijuana or drugs. The potential partner must be interested in long term dating and monogamy. Her ethnicity can vary, while her political beliefs should lean towards liberal, moderate, or not be politically inclined at all. Career-wise, she can be working within the industries of healthcare, science, education, finance, or technology. As for languages, English is a must. She should value honesty, loyalty, and empathy and have interests in traveling, outdoor activities, and art. Lastly, her level of education should be either undergraduate or graduate.",
+    "user_id": "d8d6effc-62fa-407e-84a5-18f12b862238"
+}

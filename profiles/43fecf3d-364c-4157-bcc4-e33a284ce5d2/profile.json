@@ -1,0 +1,95 @@
+{
+    "name": "Aliyah Patel",
+    "age": 30,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Data Analyst",
+    "hometown_location": "San Jose, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Honesty",
+        "Ambition",
+        "Family"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Meditation",
+        "Yoga",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Ambition",
+            "Family"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Meditation",
+            "Yoga",
+            "Cooking"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 30-year-old woman who identifies as She/Her/Hers and is straight. She is a 5'6\" South Asian from San Jose, California, and she currently lives and is dating in Los Angeles, California. She is ambitious and values honesty and family. Currently working in the technology industry as a Data Analyst, she has a Graduate level education from the University of California, Berkeley. Hindi and English are the languages she is fluent in. She follows Hinduism, has a Liberal political view, and aligns with the Leo zodiac sign and INFJ personality type. She is active and occasionally drinks but does not smoke or use marijuana or other drugs. She is interested in hiking, reading, yoga, meditation, and cooking. She is currently seeking a long-term, monogamous relationship and doesn't have any children but plans to in the future. She has a pet cat.",
+    "preferences_summary": "The user is seeking a man between the ages of 28 to 35 with a height ranging from 5'8\" to 6'3\". He should ideally be of South Asian ethnicity, straight, and shares interests in hiking, reading, meditation, yoga, and cooking. It is also important to the user that he is planning for a long-term relationship and monogamy. The prospective partner should not have children but wants to have them in the future. He should be physically active, following a liberal political ideology, and working in the technology industry. His education level should be graduate or doctoral. His values should align with honesty, ambition, and family. In regard to lifestyle choices, he should preferably drink sometimes and refrain from smoking, marijuana, and drugs. English must be one of the languages he speaks.",
+    "user_id": "43fecf3d-364c-4157-bcc4-e33a284ce5d2"
+}

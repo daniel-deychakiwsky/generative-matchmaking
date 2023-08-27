@@ -1,0 +1,95 @@
+{
+    "name": "Eliseo Rodriguez",
+    "age": 34,
+    "height": "5'10\"",
+    "school": "University of Texas",
+    "job_industry": "Medical",
+    "job_title": "Physician",
+    "hometown_location": "San Antonio, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Professional growth",
+        "Wellness"
+    ],
+    "interests": [
+        "Cooking",
+        "Outdoor activities",
+        "Movies"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "ISTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 40,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Family",
+            "Wellness",
+            "Professional growth"
+        ],
+        "interests": [
+            "Cooking",
+            "Outdoor activities",
+            "Movies"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 34-year-old man is a Physician in the medical field, fluent in both English and Spanish. An Aries and an ISTJ, he is straight, and uses He/Him/His pronouns. He studied at the University of Texas and has reached a graduate level of education. He identifies as Catholic and is politically moderate. Originally from San Antonio, Texas, he now resides in Los Angeles, California. His top values are family, professional growth, and wellness. His hobbies include cooking, enjoying the outdoors, and movies. He occasionally drinks, doesn't smoke, or use marijuana or other drugs and is quite active in terms of exercise. He does not have children but aspires to in the future, and is a dog-owner. He is searching for a long-term, monogamous relationship.",
+    "preferences_summary": "The user is interested in dating a woman aged between 28 and 40. The woman's height should range between 5'2\" and 6'0\", and she should not have children but should aim to have some in the future. She should be straight, does drink, does not smoke, use marijuana, or other drugs, and exercises at least occasionally. Her intentions should align with long term dating and she should believe in monogamy. He is open to her being Hispanic/Latino, White Caucasian or of other ethnicity. Politically, she should align with being either liberal or moderate. While he is open to any job industry for his partner, he welcomes partners who can speak English and/or Spanish. Shared values should include family, wellness, and professional growth, and shared interests should be cooking, outdoor activities, and movies. As for education, he respects both undergraduate and graduate levels.",
+    "user_id": "f7a9308d-fe26-4dff-a0fc-a6507b71d041"
+}

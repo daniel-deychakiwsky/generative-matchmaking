@@ -1,0 +1,96 @@
+{
+    "name": "Harrison Franklin",
+    "age": 35,
+    "height": "6'0\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Portland, Oregon",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Japanese"
+    ],
+    "values": [
+        "Honesty",
+        "Empathy",
+        "Work-Life Balance"
+    ],
+    "interests": [
+        "Coding",
+        "Music",
+        "Dancing",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 40,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Compassion",
+            "Humor"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 35-year-old straight man of Black African descent who stands at 6'0\". He is a software engineer in the technology industry and hails from Portland, Oregon. However, he is currently dating in Los Angeles, California. He went to the University of California, Berkeley, and has reached an educational level of graduate. He is multilingual, fluent in English, Spanish, and Japanese. He is an Agnostic and maintains a liberal political stance. He prioritizes values such as honesty, empathy, and work-life balance. His interests range from coding and music, to dancing and cooking. The user identifies with the Zodiac sign Gemini and the MBTI personality type ENTJ. He is sometimes okay with drinking, but smokes neither cigarettes nor marijuana and doesn't do drugs. He has an active lifestyle and wants children in the future, but currently does not have any. He owns a dog and is prone to monogamy. His intentions for dating are long-term.",
+    "preferences_summary": "The user is seeking a straight woman aged between 25 to 40 years. She should be active, a non-smoker, and non-user of drugs or marijuana. However, occasional drinking is fine. She should ideally be between 5'2\" and 6'2\" in height and not have any children currently, but like him, should want to have children in the future. Her political outlook can be liberal or moderate. She can belong to any ethnicity listed, including Black African Descent, White Caucasian, Hispanic/Latino, East Asian, or Other. The woman should possess values of honesty, compassion, and humor. She can have any job and should be able to speak English. Any interests are acceptable, and her education level should be undergraduate or graduate. The user wants a long-term monogamous relationship.",
+    "user_id": "6a0e8c5e-1b0e-474b-aeaa-7c91d6396129"
+}

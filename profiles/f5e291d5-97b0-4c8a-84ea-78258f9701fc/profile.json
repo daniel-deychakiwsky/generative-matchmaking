@@ -1,0 +1,96 @@
+{
+    "name": "Daniel Rigby",
+    "age": 29,
+    "height": "5'9\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Equality",
+        "Responsibility"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Music"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Equality",
+            "Responsibility"
+        ],
+        "interests": [
+            "Reading",
+            "Hiking",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old man who identifies as straight. His ethnicity is Hispanic/Latino, he uses he/him/his pronouns, and he currently resides in Los Angeles, California, having originally hailed from San Diego. He is in the technology industry, specifically working as a Software Engineer. He is a graduate from the University of California, Los Angeles and is fluent in English and Spanish. He values honesty, equality, and responsibility. He prefers to be active, often indulging in reading, hiking, and music in his downtime. He drinks, doesn't smoke, and doesn't use marijuana or other drugs. The user is a proud Virgo, an INTJ by the Myers-Briggs Type Indicator, is agnostic and aligns politically as a moderate. He is looking for a long-term, monogamy-centered relationship and desires to have children in the future (he currently hasn't got any). He owns a pet dog.",
+    "preferences_summary": "The user is looking for a woman aged between 24 and 32, and a height between 5'2\" and 6'0\". In terms of lifestyle habits, she doesn't have children but wants them in the future, is an active person who doesn't smoke but drinks, and abstains from both marijuana and drugs. The potential partner should have long-term dating intentions, prefer monogamy, and should be of Black African Descent, Hispanic/Latino, or White Caucasian ethnicity. Her political views should be liberal or moderate. The user prefers women who work in the Healthcare, Education, or Technology industry and can speak English. Values such as honesty, equality, and responsibility are crucial to him, and the potential partner should share the same. In terms of interests, reading, hiking, and music are desired. The user would prefer his partner to have an undergraduate or graduate level of education.",
+    "user_id": "f5e291d5-97b0-4c8a-84ea-78258f9701fc"
+}

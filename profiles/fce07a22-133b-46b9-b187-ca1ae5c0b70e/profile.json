@@ -1,0 +1,101 @@
+{
+    "name": "Mia Wong",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Responsibility",
+        "Family",
+        "Ambition"
+    ],
+    "interests": [
+        "Cooking",
+        "Hiking",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Sagittarius",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'6\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term, open to short",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Not political"
+        ],
+        "job_industry": [
+            "Technology",
+            "Finance",
+            "Consulting"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Responsibility",
+            "Family",
+            "Ambition"
+        ],
+        "interests": [
+            "Cooking",
+            "Hiking",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old woman who identifies as straight. She uses she/her pronouns and is of East Asian ethnicity. She graduated from the University of California, Berkeley and now works as a Software Engineer in the technology industry. Originally from San Francisco, California, she is now looking to date in Los Angeles, California. She is an atheistic liberal who values responsibility, family, and ambition. She enjoys cooking, hiking, and traveling. Despite her busy schedule, she maintains an active lifestyle. She speaks both English and Mandarin fluently. She owns a cat and wishes to have children although she doesn't have any yet. She is a Sagittarius with an INTJ Myers\u2013Briggs Type Indicator. An occasional drinker, she doesn't smoke or use marijuana or other drugs. Her intention is to be in a monogamous relationship, open to both long term commitments and causal dating.",
+    "preferences_summary": "The user is a woman who is interested in dating a man who is between the ages of 28 and 35, and between 5'6\" and 6'2\" in height. Her preferred partner would be someone who does not have children but is open to having some in the futures. The partner should be straight, drinks occasionally, doesn't smoke or involve in marijuana or drugs. She prefers a man who is active and practices monogamy. Ethnicity- wise, her interests include a range of ethnic groups, from Black African Descent, East Asian, Middle Eastern, Native American, Pacific Islander, South Asian, Southeast Asian to White Caucasian. She prefers partners who identify as Liberal or are not political. The ideal match for her would work in the Technology, Finance, or Consulting industries. The primary language should be English. In terms of values, she looks for Responsibility, Family, Ambition, and shares interests in cooking, hiking and traveling. Potential partners should have at least an undergraduate level of education.",
+    "user_id": "fce07a22-133b-46b9-b187-ca1ae5c0b70e"
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Olivia Brighton",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "values": [
+        "Hard work",
+        "Kindness",
+        "Open Communication"
+    ],
+    "interests": [
+        "Music",
+        "Biking",
+        "Movies",
+        "Skiing"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 38,
+        "minimum_height": "5'7\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Kindness",
+            "Open Communication"
+        ],
+        "interests": [
+            "Music",
+            "Sports",
+            "Movies"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who identifies as straight and uses she/her pronouns. She is white Caucasian, 5'6'' tall, and an active individual who does not smoke or use drugs, but drinks occasionally. She is a Gemini and her MBTI personality type is ENFP. Her highest level of education is a graduate degree from the University of California, Berkeley. She works in the tech industry as a software engineer, based in San Francisco, California, but is open to dating in Los Angeles, California. The user speaks English, Spanish, and French, has no children but wants them in the future. She owns a dog and is agnostic and politically liberal. Her core values are hard work, kindness, and open communication and she enjoys music, biking, movies, and skiing. She is looking for a monogamous relationship and her intention is to have a long-term partnership.",
+    "preferences_summary": "This user is seeking a man aged between 28 and 38, with a height ranging from 5'7\" to 6'3\". Potential partners should not already have children but want to have them in the future. The match should be straight, someone who drinks occasionally but does not engage in smoking or marijuana use, or uses any drugs. Exercise should be a part of his routine. When it comes to relationship intentions, the user is looking for someone who also desires a long-term relationship and monogamy. Preferred ethnicities include White Caucasian, Black African Descent, Hispanic/Latino, and East Asian men. This user is seeking a liberal partner who works in the tech or finance industry and speaks English. Values important to the user are hard work, kindness, and open communication. Shared interests could include music, sports, and movies. The ideal partner should have at least an undergraduate degree.",
+    "user_id": "4b30b678-4853-4f45-b696-e9f0dc103e35"
+}

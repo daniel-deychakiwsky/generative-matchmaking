@@ -1,0 +1,100 @@
+{
+    "name": "Oliver Randall",
+    "age": 28,
+    "height": "6'1\"",
+    "school": "University of California",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Hard work",
+        "Creativity",
+        "Adventure",
+        "Fitness",
+        "Family"
+    ],
+    "interests": [
+        "Hiking",
+        "Gaming",
+        "Cooking",
+        "Reading",
+        "Technology"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'3\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Education",
+            "Art"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Adventure",
+            "Fitness",
+            "Family"
+        ],
+        "interests": [
+            "Cooking",
+            "Reading",
+            "Adventure"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old man who goes by \"He/Him/His\" and hails from Seattle, Washington but currently living in Los Angeles, California. He is a 6'1 tall, straight, White Caucasian with Virgo as his zodiac sign and an INTJ personality type considered to be an \"architect\" or \"strategist\". He graduated from the University of California and works in the tech industry as a Software Engineer. Despite being Agnostic and politically liberal, his core values are hard work, creativity, adventure, fitness, and family. He enjoys several hobbies: hiking, gaming, cooking, reading, and technology. Spanish and English are the two languages he speaks fluently. He has a cat, avoids smoking, drugs and marijuana, but drinks occasionally. While he doesn't have children, he hopes to in the future. His relationship intentions are long-term and monogamous.",
+    "preferences_summary": "The user is looking for a woman, aged between 24 and 32 years, with a height ranging from 5'3\" to 6'2\". She should not have children but wants to have them in the future. Her sexuality should be straight. He expects his partner to drink occasionally but refrain from smoking, the use of marijuana, or drugs. She should be physically active. Her intentions should align with his in seeking a long-term monogamous relationship. Ethnicity preference includes White Caucasian, East Asian, and Hispanic/ Latino. Politically, she should be Liberal. His ideal partner works in the tech, healthcare, education, or art industry and speaks English. Her values should resonate with adventure, fitness, and family-oriented. His partner should have interests in cooking, reading, and adventure. Her education level should be at least Undergraduate or Graduate level.",
+    "user_id": "071e87fb-f024-40ec-8801-bfdc5b45cee6"
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Felicity Simmons",
+    "age": 30,
+    "height": "5'7\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Software",
+    "job_title": "Software Engineer",
+    "hometown_location": "Oakland, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Equality",
+        "Kindness"
+    ],
+    "interests": [
+        "Reading",
+        "Hiking",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 29,
+        "maximum_age": 39,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'5\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Software"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Equality",
+            "Kindness"
+        ],
+        "interests": [
+            "Reading",
+            "Hiking",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30-year-old straight woman who uses she/her/hers pronouns. She is a software engineer in the tech industry who holds a graduate degree from the University of California, Berkeley. She grew up in Oakland, California, but is currently dating in Los Angeles. Fluent in both English and Spanish, she identifies as being white and a Virgo. As a liberal atheist INFJ (Introversion, Intuition, Feeling, Judging), she cherishes values such as honesty, equality, and kindness. In her leisure time, she enjoys reading, hiking, and traveling. Although she doesn't currently have children, she desires to be a mother in the future. She's also a cat person and follows an active workout regime. She refers to herself as a social drinker but doesn't smoke or indulge in drug or marijuana use. This strong independent woman is looking for a wholesome monogamous relationship, seeking the company of her life partner.",
+    "preferences_summary": "The user is interested in a potential dating partner who is a straight, active man aged between 29 and 39, standing between 5'8'' and 6'5'' in height. He seeks someone who aims to have a life partner with a monogamous relationship type, just like her. The prospective partner should value honesty, equality, and kindness and have mutual interests in reading, hiking, and traveling. Educationally, the partner should possess a minimum educational level of undergraduate or graduate. Additionally, he should be a non-smoker who occasionally drinks but doesn't use marijuana or any kind of drugs. Comfortable in the arena of software like her and politically liberal, this person should communicate well in English and belong to the White Caucasian ethnicity, disinterested in already having children but desiring them in the future.\n",
+    "user_id": "537f7968-88da-44cc-af0c-dd49fc946ce5"
+}

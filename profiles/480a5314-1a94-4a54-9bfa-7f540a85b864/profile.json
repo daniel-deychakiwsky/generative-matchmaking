@@ -1,0 +1,94 @@
+{
+    "name": "Deepika Narayan",
+    "age": 30,
+    "height": "5'7\"",
+    "school": "University of Delhi",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Delhi, India",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Ambition"
+    ],
+    "interests": [
+        "Cooking",
+        "Traveling",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "South Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Ambition"
+        ],
+        "interests": [
+            "Cooking",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "A 30-year-old woman, who identifies with the pronouns She/Her/Hers, is seeking a long-term, monogamous relationship. She is a straight, South Asian individual hailing from Delhi, India, fluent in English and Hindi and now dates in Los Angeles, California. Professionally, she works in the Technology industry as a Software Engineer after graduating from the University of Delhi. Standing 5'7\" tall, she is active, occasionally enjoys a drink, and is a non-smoker. As a Hindu with moderate political beliefs, she holds values like honesty, kindness, and ambition close to her heart. Reading, traveling, and cooking are some of her main interests. She is a childless Libra intending to have kids someday. Her MBTI personality type is INTJ. She does not smoke marijuana, use drugs, or have any pets.",
+    "preferences_summary": "The user prefers dating a man between 28 and 35 years of age, who is straight and interested in a long-term, monogamous relationship. The partner's height should be between 5'8\" and 6'2\". The user prefers only men who do not have children but want them in the future. Her partner should be a non-smoker and could be a occasional drinker, but should not use marijuana or drugs. The potential partner should exercise occasionally. She prefers men from South Asian, Caucasian, or other ethnicities, and who are Moderates or Liberals politically. Her preferred partner should work in the Technology or Finance industry and should at least speak English. The partner should value Honesty, Kindness, and Ambition. Interested in either cooking or traveling would be a bonus. Their education level should be at least undergraduate or graduate.",
+    "user_id": "480a5314-1a94-4a54-9bfa-7f540a85b864"
+}

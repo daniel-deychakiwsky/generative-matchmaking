@@ -1,0 +1,99 @@
+{
+    "name": "Emily Peters",
+    "age": 28,
+    "height": "5'7\"",
+    "school": "Harvard University",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Denver, Colorado",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Independence"
+    ],
+    "interests": [
+        "Hiking",
+        "Art",
+        "Coding",
+        "Cooking"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness",
+            "Intelligence"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Science",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 28-year-old woman identifies as a straight, White Caucasian. She is an educated INTJ, having studied at Harvard University up till the Undergraduate level. Leading a successful career as a Software Developer in the Technology industry, she resides in Los Angeles, California, although she originally hails from Denver, Colorado. She's fluent in English and Spanish and she leads an active lifestyle. As an art enthusiast who loves hiking, coding, and cooking, she occasionally enjoys a drink but doesn't smoke or partake in marijuana or drugs. Her key values include honesty, kindess, and independence. She is politically Liberal and Agnostic. Although she does not currently have children, she aspires to be a mother one day. Being a proud owner of a cat, and bearing the zodiac sign Libra, she's seeking a long-term, monogamous relationship.",
+    "preferences_summary": "The user is interested in dating a man between the ages of 28 and 35 who is 5'8'' to 6'3'' in height. He should not have children but should want children in the future. The preferred partner should be straight, active in exercise, and non-smoker. Drinking is acceptable but he should not use marijuana or drugs. The partner should be interested in a long-term, monogamous relationship. Preferred ethnicities include White Caucasian, Hispanic/Latino, East Asian, or Black African Descent. His political views should be liberal or moderate, and he should work in the technology, healthcare, or education industries. English should be one of the languages he speaks. His values should include honesty, kindness, and intelligence and his interests should align with hiking, reading, science, and cooking. In terms of education, an undergraduate degree or higher is preferred.",
+    "user_id": "6e6f8d35-717f-45ab-8823-8a0ae50e9c60"
+}

@@ -1,0 +1,116 @@
+{
+    "name": "Qiang Li",
+    "age": 28,
+    "height": "6'0\"",
+    "school": "Long Beach University Western",
+    "job_industry": "Software Development",
+    "job_title": "Software Engineer",
+    "hometown_location": "Chicago, Illinois",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin"
+    ],
+    "values": [
+        "Family",
+        "Innovation",
+        "Respect",
+        "Hard work"
+    ],
+    "interests": [
+        "Hiking",
+        "Video games",
+        "Reading",
+        "Martial arts",
+        "Cooking"
+    ],
+    "education_level": "Doctoral",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 22,
+        "maximum_age": 30,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Sometimes",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Conservative",
+            "Moderate",
+            "Liberal",
+            "Not political",
+            "Other"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Legal",
+            "Science and Technology",
+            "Arts and Entertainment",
+            "Architecture and Construction"
+        ],
+        "languages_spoken": [
+            "English",
+            "Mandarin"
+        ],
+        "values": [
+            "Honesty",
+            "Faithfulness",
+            "Lovers of Nature",
+            "Adventurous"
+        ],
+        "interests": [
+            "Outdoor activities",
+            "Traveling",
+            "Writing",
+            "Films",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 28-year-old man who currently works as a Software Engineer in the software development industry. He stands tall at 6'0\" and identifies with the pronouns he/him/his. Originally from Chicago, Illinois, he is now based in Los Angeles, California. A multilingual, he's fluent in both English and Mandarin. As a value-oriented individual with deep respect for family, innovation, and hard work, he pursues numerous interests including hiking, playing video games, reading, engaging in martial arts, and cooking. Having completed his doctoral studies, this intellectual Aries hails from an East Asian ethnicity and epitomizes the moderate INTJ personality type within the MBTI. He identifies as a Buddhist and is politically moderate. As for commitment, routing towards monogamy, he's open to both short term and long-term relationships and is oriented toward having children in the future. Physically active and spontaneous, he occasionally enjoys a drink but doesn\u2019t partake in smoking or drugs. Apparently, he does not own any pets as of now. His preferred gender for a partner is a woman.",
+    "preferences_summary": "The user desires a woman aged between 22 and 30 years old, with a height standing anywhere from 5'0\" to 6'0\". She must be straight, have no children but desires to have some in the future. Drinking habits are allowed, but no smoking or use of marijuana and drugs, with a preference for physical activity at times. She should be ready for a monogamous, long-term dating arrangement. All ethnicities are welcome. Her political views could be conservative, moderate, liberal, not political or other. Professionally, she could be employed in the healthcare, legal, science & technology, arts & entertainment or architecture & construction industries. She would be fluent in both English and Mandarin. Her core values should include honesty, faithfulness, nature loving and being adventurous. Interests in outdoor activities, traveling, writing, films and cooking are desirable. Lastly, her educational background should be at least at an undergraduate level or possibly higher.",
+    "user_id": "4434d0bd-beac-47db-a259-bfff71d5b23f"
+}

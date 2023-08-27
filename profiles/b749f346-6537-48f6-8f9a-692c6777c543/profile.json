@@ -1,0 +1,98 @@
+{
+    "name": "Aleksandr Sokolov",
+    "age": 32,
+    "height": "6'2\"",
+    "school": "University of Moscow",
+    "job_industry": "IT",
+    "job_title": "Software Engineer",
+    "hometown_location": "Moscow, Russia",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "Russian",
+        "English"
+    ],
+    "values": [
+        "Family",
+        "Honesty",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Chess",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Orthodox",
+    "politics": "Moderate",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 36,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "IT",
+            "Healthcare",
+            "Education",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Honesty"
+        ],
+        "interests": [
+            "Cooking",
+            "Reading",
+            "Traveling",
+            "Other"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile belongs to a 32-year-old Software Engineer in the IT industry who identifies as a straight man and uses he/him/his pronouns. Standing 6'2\", he hails from Moscow, Russia, but is currently noticed dating in Los Angeles, California. He is trilingual, fluent in English and Russian, and a graduate from the University of Moscow. He holds Orthodox religious beliefs and has moderate political views. His interests include coding, chess and cooking. As an individual who values family, honesty and creativity, he is looking for a life partner and favors monogamy. He's a Pisces with an INTJ personality type. An active person, he occasionally drinks but neither smokes nor uses any drugs. He doesn't have any children but would like to have them in the future. He's of white Caucasian ethnicity and has no pets.",
+    "preferences_summary": "The user is looking for a woman, aged between 26 and 36 years old, with a height between 5'0\" and 6'0\". She should be a straight, active, non-smoker, who doesn't take marijuana or drugs but drinks occasionally. Her desire should be to have children and be in a monogamous relationship. She must be looking for a life partner too. Ideally, she's from a variety of ethnic backgrounds: White Caucasian, East Asian, Hispanic/Latino, or select others. Politically, she should align somewhere between liberal and moderate. She can work in various job industries, including IT, Healthcare, Education, or be in some other field. The woman must speak English and hold family and honesty as her core values. As for interests, she should like cooking, reading, traveling, or have some other unique hobbies. Her educational attainment should be at least at an undergraduate level.",
+    "user_id": "b749f346-6537-48f6-8f9a-692c6777c543"
+}

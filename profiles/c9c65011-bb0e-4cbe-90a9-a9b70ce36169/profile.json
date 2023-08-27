@@ -1,0 +1,99 @@
+{
+    "name": "George Nelson",
+    "age": 32,
+    "height": "6'2\"",
+    "school": "Harvard University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Boston, Massachusetts",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Balance in life",
+        "Kindness",
+        "Adventure"
+    ],
+    "interests": [
+        "Traveling",
+        "Hiking",
+        "Reading",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Technology",
+            "Arts, Entertainment, and Recreation"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Balance in life",
+            "Kindness"
+        ],
+        "interests": [
+            "Traveling",
+            "Hiking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 32-year old man is a Software Engineer in the Technology industry and an alumnus of Harvard University. Standing tall at 6'2\", he hails from Boston, Massachusetts but is currently looking for long-term dating opportunities in Los Angeles, California. Despite being a proficient speaker of English and Spanish, he cherishes the simplicity and honesty in his communication. His life is largely governed by values like honesty, balance, kindness, and adventure. His interests span from traveling and hiking to reading and coding. A graduate-educated Agnostic and a liberal, he prefers a monogamous relationship. Identifying as Straight and White Caucasian, he refers to himself with 'He/Him/His' pronouns. He doesn't currently have any kids but wants to have some in the future. The man owns a dog, enjoys workout sessions being an active person, and occasionally drinks but absolutely refrains from smoking, marijuana, and drugs. He's a Leo under the zodiac, possesses an ENTJ type personality according to the MBTI scale.",
+    "preferences_summary": "The user is seeking a woman within the age range of 25 to 35 years, with a height between 5'5\" and 6'0\". They should not have children but must desire to have in the future. In terms of lifestyle, they should be active, drinks but does not use tobacco or marijuana, and should not use drugs. Ethnicity preference is White Caucasian, East Asian, or Hispanic/Latino. As for politics, a Liberal inclination is preferred. Industries that a potential partner should be working in include Education, Healthcare, Technology, or Arts, Entertainment, and Recreation. They should be able to at least speak English and Spanish and have obtained an Undergraduate or Graduate level of education. The user's potential partner's key values should encompass Honesty, Balance in life, and Kindness, with interests lying in Traveling, Hiking, and Reading. Lastly, she should be interested in a long term, monogamous relationship.",
+    "user_id": "c9c65011-bb0e-4cbe-90a9-a9b70ce36169"
+}

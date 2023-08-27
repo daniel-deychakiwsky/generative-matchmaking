@@ -1,0 +1,96 @@
+{
+    "name": "Emily Watson",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Sacramento, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Respect",
+        "Inclusivity"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Painting",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Libra",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech Industry",
+            "Design",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Inclusivity",
+            "Respect"
+        ],
+        "interests": [
+            "Tech",
+            "Hiking",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight woman who identifies as a White Caucasian and goes by she/her/hers pronouns. She's 5'6\" tall and works as a Software Engineer in the tech industry. Educationally, she holds a graduate level degree from the University of California, Berkeley. She's a native of Sacramento, California but currently dating in Los Angeles, California. English and Spanish are her spoken languages. She values honesty, respect, and inclusivity. Her hobbies include coding, hiking, painting, and cooking. She's an atheist and politically leans towards liberalism. She's interested in long-term monogamous relationships and wishes to have children in the future. She's a proud cat parent. Her zodiac sign is Libra and she identifies as an INTJ according to the MBTI personality type. She drinks occasionally but doesn't smoke or use marijuana or other drugs. She is active when it comes to exercise.\n",
+    "preferences_summary": "The ideal match for the user is a man aged between 28 and 35, who is between 5'8'' and 6'2'' in height. The potential partner shouldn't have any children but wants them in the future, and practices healthy habits such as not smoking or using drugs and sometimes drinking. Activity and frequent exercise are preferred. The individual must be straight, aiming for a long-term, monogamous arrangement. Preferred ethnicities include White Caucasian, East Asian, and Black African Descent. Politically, the person should be liberal. The possible partner should also work in the tech industry, design, or healthcare. Effective communication in English is mandatory. Values should consist of honesty, inclusivity, and respect. Tech, hiking, and cooking should be among their interests. The potential partner should have at least an undergraduate-level education.",
+    "user_id": "097aa1f8-1fb3-423d-9e44-180e1b5c82e8"
+}

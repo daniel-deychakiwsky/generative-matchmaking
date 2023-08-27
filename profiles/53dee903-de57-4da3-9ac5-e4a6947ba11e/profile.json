@@ -1,0 +1,104 @@
+{
+    "name": "Alejandro Martinez",
+    "age": 34,
+    "height": "5'10\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Gilroy, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Education",
+        "Career growth"
+    ],
+    "interests": [
+        "Hiking",
+        "Cooking",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Sagittarius",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 36,
+        "minimum_height": "5'3\"",
+        "maximum_height": "5'9\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "No",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian",
+            "East Asian",
+            "Black African Descent",
+            "South Asian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate",
+            "Conservative"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Education",
+            "Business",
+            "Other"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Family",
+            "Education",
+            "Career growth"
+        ],
+        "interests": [
+            "Hiking",
+            "Cooking",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 34-year-old man who uses He/Him/His pronouns and identifies as straight. He's of Hispanic/Latino ethnicity and a practicing Catholic with moderate political views. He strongly values family, education, and career growth. Originally from Gilroy, California, he now resides in Los Angeles. As a software engineer in the tech industry, he's well-educated with a graduate degree from the University of California, Berkeley. He's a monogamist looking for a long-term relationship and wants children someday, though he doesn't have any currently. In terms of lifestyle, he's an active individual who doesn't engage in smoking, marijuana, or drug use but enjoys drinking occasionally. He speaks English and Spanish, and enjoys hiking, cooking, and traveling in his leisure time. His zodiac sign is Sagittarius and his MBTI personality type is ENFP. He's a dog lover but isn't a fan of smoking or drugs, and he's looking for someone who shares similar preferences.",
+    "preferences_summary": "The user is interested in a woman who is between the ages of 28 and 36, stands between 5'3\" and 5'9\", and doesn't have children but wants them in the future. His preference is someone straight, actively exercises, and doesn't indulge in drinking, smoking, nor uses marijuana or other drugs. He is open to dating women of various ethnicities including Hispanic/Latino, White Caucasian, East Asian, Black African Descent, South Asian, and others. She should lean politically towards the Liberal, Moderate or Conservative side and could be working in Tech, Healthcare, Education, Business, or other industries. The woman should be proficient in English and Spanish, places importance on family, education, and career growth, and enjoys hiking, cooking and traveling. Lastly, she should have at an undergraduate, graduate, or doctoral level of education.",
+    "user_id": "53dee903-de57-4da3-9ac5-e4a6947ba11e"
+}

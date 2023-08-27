@@ -1,0 +1,97 @@
+{
+    "name": "Mei Wu",
+    "age": 28,
+    "height": "5'4\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin",
+        "Cantonese"
+    ],
+    "values": [
+        "Hard work",
+        "Honesty",
+        "Compassion"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Finance",
+            "Healthcare"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Honesty",
+            "Compassion"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Traveling"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight woman who identifies as East Asian and goes by she/her/hers pronouns. Professionally, she works as a Software Engineer in the Technology industry, graduating from the University of California, Berkeley. Having grown up in San Francisco, CA, she has hopes to form a long-term, monogamous relationship in Los Angeles, CA. Fluent in English, Mandarin, and Cantonese, she values hard work, honesty, as well as compassion. Her interests include hiking, reading, and traveling. As a Buddhist with moderate political views, and categorized as an INTJ personality type under the MBTI, she sometimes indulges in drinking, but doesn't smoke or use marijuana or other drugs. She leads an active lifestyle and while she doesn't currently have any children or pets, she would like to have children in the future. Her zodiac sign is Cancer.\n",
+    "preferences_summary": "The user prefers to date a man aged between 28 to 35, and of height between 5'5\" to 6'2\". He should come from East Asian, White Caucasian, or Hispanic/Latino ethnic backgrounds, have \"no\" children, and should want children in the future. The partner should be active, be a straight individual intending to have a long term relationship, and practice monogamy. The partner's industry should be either Technology, Finance, or Healthcare. Drinking in moderation is acceptable while smoking, marijuana and drug use is not preferred. He should have at least a Graduate or Doctoral level of education, speak English, and share the values of hard work, honesty, and compassion. Interests in hiking, reading, and traveling are appreciated, and leaning towards moderate or liberal political views is favored.",
+    "user_id": "d9a47bdd-5b7c-435d-9bfc-70e790e83d07"
+}

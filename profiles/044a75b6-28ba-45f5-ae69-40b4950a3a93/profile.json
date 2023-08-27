@@ -1,0 +1,94 @@
+{
+    "name": "Charlotte Ruell",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Independence",
+        "Creativity"
+    ],
+    "interests": [
+        "Travel",
+        "Photography",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Equality",
+            "Adventure"
+        ],
+        "interests": [
+            "Travel",
+            "Sports",
+            "Reading"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 28-year-old woman, standing 5'6\" tall, who identifies herself as White Caucasian with a focused demeanor reflective of her job as a Software Engineer in the Tech industry. She's cultivated her mind at the University of California, Berkeley up to the Graduate level. Born and raised in San Francisco, California, she's now looking to date in Los Angeles, California. As an Agnostic, straight and liberal individual, she communicates fluently in English and Spanish. She carries values of Honesty, Independence, and Creativity and enjoys the thrills of Travel, Photography, and Cooking. Her MBTI personality type is INFJ and her zodiac sign is a Cancer. She doesn't smoke, use marijuana, or drugs, but she does indulge in a drink sometimes. She leads an active lifestyle regardless of already being in good shape. Surprisingly she has a cat, doesn't have children but desires to have some one day. She practices monogamy and is searching for a long-term relationship.",
+    "preferences_summary": "The user is interested in dating a man who is between the ages of 28 and 35 and has a height between 5'8\" and 6'2\". Her preferred partner should be straight and not have children, but wants to have children in the future. She prefers someone who drinks sometimes but doesn't smoke, use marijuana or other drugs, and is active in exercise. She prefers a partner with a liberal political leaning and is interested in men who are in the tech, finance, or education industry. Her preferred partner should be able to speak English and hold values of honesty, equality, and adventure. In terms of interests, the partner should enjoy travel, sports, and reading. Lastly, she prefers someone who has completed graduate studies or holds a doctoral degree. She is open to dating men who are white Caucasian or Hispanic/Latino.",
+    "user_id": "044a75b6-28ba-45f5-ae69-40b4950a3a93"
+}

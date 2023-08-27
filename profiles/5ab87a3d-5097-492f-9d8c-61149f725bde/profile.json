@@ -1,0 +1,96 @@
+{
+    "name": "Sophia Chen",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "Harvard University",
+    "job_industry": "Healthcare",
+    "job_title": "Pediatric Nurse",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Mandarin Chinese"
+    ],
+    "values": [
+        "Family",
+        "Hard Work",
+        "Health"
+    ],
+    "interests": [
+        "Hiking",
+        "Cooking",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Buddhist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Science"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Hard Work",
+            "Health"
+        ],
+        "interests": [
+            "Hiking",
+            "Cooking",
+            "Traveling"
+        ],
+        "education_level": [
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This user is a 29-year-old, East Asian straight woman who uses She/Her/Hers pronouns. She measures 5'6\" in height and is of the Aquarius zodiac sign with the ENFJ personality type. She is currently residing in Los Angeles, while originally hailing from San Francisco, California. Professionally, she works as a Pediatric Nurse in the Healthcare field, having graduated from Harvard University. She is well-versed in both English and Mandarin Chinese. In her free time, she enjoys activities such as hiking, cooking, and traveling. Family, hard work, and health are the cornerstone of her values. Being a Buddhist, she leans liberal politically. She's interested in a long-term, monogamous relationship. She is not a smoker, doesn't consume marijuana, enjoys a drink occasionally, and exercises actively. Currently, she has no children but would like to have in the future, and lives with her pet cat.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 35 years old, who is 5'8\" to 6'2\" in height. He shouldn't have children currently, but should desire to have them in the future. The man must be straight, an active drinker, and does not smoke. He should be non-drug user and against marijuana usage while maintaining an active lifestyle. His qualifications should range from graduate to doctoral level with a preference for men working in the healthcare, education or science sectors. He should speak English and align with liberal to moderate political views. The user prefers men of East Asian, Hispanic/Latino, or White Caucasian ethnicities, who value family, hard work, and health. Also, he should share her interests in hiking, cooking, and traveling. The user's partner should be interested in monogamy and have long-term dating intentions.",
+    "user_id": "5ab87a3d-5097-492f-9d8c-61149f725bde"
+}

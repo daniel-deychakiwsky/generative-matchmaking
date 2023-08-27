@@ -1,0 +1,98 @@
+{
+    "name": "Dexter Roberts",
+    "age": 32,
+    "height": "5'10\"",
+    "school": "University of Pennsylvania",
+    "job_industry": "IT",
+    "job_title": "Software Engineer",
+    "hometown_location": "Denver, Colorado",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Diversity",
+        "Family"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Basketball"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Black African Descent",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'0''",
+        "maximum_height": "6'0''",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Not political"
+        ],
+        "job_industry": [
+            "Arts",
+            "Education",
+            "IT",
+            "Management",
+            "Science"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Family",
+            "Honesty"
+        ],
+        "interests": [
+            "Hiking",
+            "Reading",
+            "Music"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old straight man who uses he/him/his pronouns and is of Black African descent. He stands at 5'10\" and works as a software engineer in the IT industry. Education-wise, he has a graduate degree from the University of Pennsylvania. He's originally from Denver, Colorado, but is currently living in Los Angeles, California. He's fluent in both English and Spanish and values diversity and family. His interests include hiking, coding, and basketball. As an agnostic liberal with an ENTP personality type, he is clear about his lifestyle choices: sometimes drinks, doesn't smoke or use drugs (including marijuana), is active in exercising, and has a pet dog. He identifies himself as being in monogamous relationships, aiming for long-term dating, and doesn't have children currently but wants to have them in the future. His zodiac sign is Leo.",
+    "preferences_summary": "The user is interested in dating women aged between 25 and 35, with a height ranging from 5'0'' to 6'0''. His potential partners should not have children but should be interested in having children in the future. The user's preference is for straight, non-smoking women who don't use marijuana or other drugs. An active lifestyle, including regular exercise, is also essential. The woman should have long-term dating intentions and be interested in a monogamous relationship. Preferred ethnic backgrounds include Black African Descent, White Caucasian, Hispanic/Latino, and East Asian. In terms of political views, either liberal or non-political women match the user's preference. Potential partners should work in the Arts, Education, IT, Management, or Science sectors. Fluency in English and Spanish is preferred. The values that are most important to the user are family and honesty, and favorite hobbies should include hiking, reading, and music. The woman should have at least an undergraduate level of educational attainment.\n",
+    "user_id": "6f1aa392-4d83-41ba-a62f-5d4b1b40593b"
+}

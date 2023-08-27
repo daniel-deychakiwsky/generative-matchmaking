@@ -1,0 +1,99 @@
+{
+    "name": "Sienna Carter",
+    "age": 27,
+    "height": "5'6\"",
+    "school": "Stanford University",
+    "job_industry": "Tech industry",
+    "job_title": "Software Engineer",
+    "hometown_location": "Palo Alto, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard work",
+        "Creativity"
+    ],
+    "interests": [
+        "Cooking",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INFP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "East Asian",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech industry",
+            "Creative industry",
+            "Education industry"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Hard work",
+            "Creativity"
+        ],
+        "interests": [
+            "Cooking",
+            "Reading",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 27-year-old woman is a Software Engineer in the tech industry. Recently resident in Los Angeles, California, though originally from Palo Alto, California, she's an Stanford University undergraduate looking for a life partner similarly committed to a monogamous relationship. Fluent in English and Spanish, this physically active, cat-loving straight woman values honesty, hard work, and creativity and invests her time in cooking, reading, and travelling. In terms of beliefs and lifestyle, she is agnostic, liberal, a sometimes drinker, and strictly no to smoking, marijuana, and drugs. She has no children currently but aspires to have some in the future. Her ethnicity is White Caucasian, with Virgo as her Zodiac sign and INFP as her Myers-Briggs Type Indicator personality.",
+    "preferences_summary": "The user is interested in an active man who is a non-smoker and doesn't indulge in marijuana or drugs, but who sometimes drinks. He should be age 27 to 35, and be between 5'8\" and 6'3\" in height. Ideally, he doesn't already have children but does want them in the future, shares a monogamous relationship goal, and identifies as straight. The user prefers the partner to be from White Caucasian, Hispanic/Latino, Middle Eastern, East Asian, or South Asian ethnicity. Politically, he should be liberal or moderate. The partner should be involved in either tech industry, creative industry, or education industry. Required language skills include English and Spanish. Some values that he should possess include honesty, hard work, and creativity. Shared interests such as cooking, reading, and traveling are preferred. Education-wise, he should have at least an undergraduate or graduate level degree.",
+    "user_id": "4054400b-b420-412f-b0f6-ed4c8a11496e"
+}

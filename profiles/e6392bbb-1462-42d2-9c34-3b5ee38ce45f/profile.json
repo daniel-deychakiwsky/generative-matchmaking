@@ -1,0 +1,95 @@
+{
+    "name": "Vivienne Sutherland",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Creativity",
+        "Adventure",
+        "Yoga"
+    ],
+    "interests": [
+        "Traveling",
+        "Hiking",
+        "Cooking Italian Cuisine",
+        "Watching Movies"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Life partner",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 36,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Media"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Creativity"
+        ],
+        "interests": [
+            "Traveling",
+            "Hiking",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old woman, standing 5'6\" tall, who defines her pronouns as she/her/hers. She identifies as a straight, white Caucasian from San Francisco, California, and currently works as a Software Engineer in the technology industry. As a graduate of the University of California, Berkeley, she speaks English and Spanish, and identifies herself as an Agnostic with liberal political views. Her hobbies include traveling, hiking, cooking Italian cuisine, and watching movies. She is an extentrovert, identified by her Myers-Briggs personality type as ENFP (Extroverted, Intuitive, Feeling, Perceiving). Being a dog lover and fitness enthusiast, she values honesty, creativity, adventures, and yoga. The Gemini-born Her current relationship goal is to find a life partner in a monogamous relationship with intentions to have children in the future. She is a social drinker and ensures to lead an active lifestyle, however, she doesn't smoke or use marijuana or other drugs.",
+    "preferences_summary": "The user is interested in finding a life partner, specifying they are looking for a man aged between 28 and 36 of a height ranging from 5'8\" to 6'3\". The potential partner should not have children, but be open to having them in the future and lead an active lifestyle. This user prefers a partner who drinks but does not smoke or use marijuana or other drugs. They are open to a partner who is either White Caucasian or Hispanic/Latino and has liberal political views. The desired partner should work in either the Technology or Media industries, and be proficient in English and Spanish. They should also value honesty and creativity, with interests in traveling, hiking, and cooking. The potential partner's education level should be an undergraduate or graduate.",
+    "user_id": "e6392bbb-1462-42d2-9c34-3b5ee38ce45f"
+}

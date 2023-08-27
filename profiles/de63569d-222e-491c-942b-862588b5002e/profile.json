@@ -1,0 +1,95 @@
+{
+    "name": "Sophia Russo",
+    "age": 28,
+    "height": "5'5\"",
+    "school": "Columbia University",
+    "job_industry": "Tech",
+    "job_title": "Software Developer",
+    "hometown_location": "New York City, New York",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Italian"
+    ],
+    "values": [
+        "Equality",
+        "Education",
+        "Altruism"
+    ],
+    "interests": [
+        "Art",
+        "Hiking",
+        "Coding",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech",
+            "Finance",
+            "Consulting"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Equality",
+            "Education",
+            "Altruism"
+        ],
+        "interests": [
+            "Art",
+            "Hiking",
+            "Traveling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who goes by \"she/her\" pronouns. She is straight, has no children but wants them in the future. She hails from New York City and currently lives in Los Angeles, California. As a graduate of Columbia University, she now works as a Software Developer in the tech industry. She speaks English and Italian and values equality, education, and altruism. Her interests include art, hiking, coding, and traveling. Being agnostic, a liberal, and a Gemini, she practices monogamy with a desire for a long-term relationship. She maintains an active lifestyle, sometimes drinks but does not smoke or use marijuana or other drugs. She is also a dog owner.",
+    "preferences_summary": "The user is seeking a man aged between 28 and 35, who is at least 5'8\" and maximum 6'3\" in height. He should not have children but would like to in the future. His sexual orientation should be straight. It's preferred that he only drinks sometimes and doesn't smoke, use marijuana, or any other drugs. He should lead an active lifestyle. As for his ethnicity, he should be White Caucasian or Hispanic/Latino, and his political views should be Liberal. Moreover, the user would like a partner who works in either Tech, Finance, or Consulting field. He should at least be able to communicate in English and should value Equality, Education, and Altruism. His interests should include Art, Hiking, and Traveling, and at least an undergraduate level of education is expected. The user desires a long-term monogamous relationship with the potential partner.",
+    "user_id": "de63569d-222e-491c-942b-862588b5002e"
+}

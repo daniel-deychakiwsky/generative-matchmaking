@@ -1,0 +1,106 @@
+{
+    "name": "Heidi Schwartz",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "German"
+    ],
+    "values": [
+        "Hard work",
+        "Education",
+        "Ambition",
+        "Respect"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Reading",
+        "Cooking",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Middle Eastern",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Tech",
+            "Healthcare",
+            "Education",
+            "Law"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Hard work",
+            "Education",
+            "Ambition",
+            "Respect"
+        ],
+        "interests": [
+            "Reading",
+            "Sports",
+            "Art",
+            "Cooking",
+            "Travel"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman (she/her/hers) who is a white Caucasian and a software engineer in the tech industry, based in Los Angeles, California. She stands 5'6\" tall and is passionate about coding, hiking, reading, cooking, and photography. She is a graduate of the University of California, Los Angeles and values hard work, education, ambition, and respect. She speaks English and German and considers herself an agnostic. Politically she leans to liberal side. Open for long-term dating and monogamy, she does not have children but would like to in the future. She owns a cat as a pet, occasionally drinks but does not smoke, use marijuana, or drugs. She is actively exercising, her zodiac sign is Virgo and she is an INTJ.",
+    "preferences_summary": "The user is seeking a man aged between 27 and 35, with a height ranging from 5'8\" to 6'3\". He should not have children, but should want them in the future. He should be heterosexual, a drinker, but non-smoker and does not use marijuana or other drugs. He should also be active. In terms of his values, he should value hard work, education, ambition, and respect. The potential partner should show interest in reading, sports, art, cooking, and travel. His education level should be at least having an undergraduate degree, and his work industry should be in tech, healthcare, education, or law. He must be able to speak English, and it would be a plus if he is a White Caucasian, Middle Eastern, Black African Descent, Hispanic/Latino, or East Asian. His political views should be either liberal or moderate. The user is seeking a long-term partner who is also monogamous by nature.",
+    "user_id": "e53ec12d-eeaf-41ce-b339-52430a8b074e"
+}

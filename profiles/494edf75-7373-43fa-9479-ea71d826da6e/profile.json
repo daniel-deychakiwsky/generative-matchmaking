@@ -1,0 +1,90 @@
+{
+    "name": "Fiona Montgomery",
+    "age": 29,
+    "height": "5'7\"",
+    "school": "Columbia University",
+    "job_industry": "Finance",
+    "job_title": "Financial Analyst",
+    "hometown_location": "Austin, Texas",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "hard work",
+        "honesty",
+        "kindness"
+    ],
+    "interests": [
+        "Cooking",
+        "Hiking",
+        "Jazz"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Leo",
+    "mbti_personality_type": "ENFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 40,
+        "minimum_height": "5'9\"",
+        "maximum_height": "6'4\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Finance",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "honesty",
+            "kindness"
+        ],
+        "interests": [
+            "Cooking",
+            "Hiking",
+            "Music"
+        ],
+        "education_level": [
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This profile is of a 29-year-old woman who goes by she/her/hers pronouns. Ethnicity wise, she identifies as White Caucasian. Originally from Austin, Texas, she completed her graduate studies at Columbia University and is currently working in the finance industry as a Financial Analyst in Los Angeles, California. She speaks two languages, English and Spanish. Those who know her well describe her as hardworking, honest, and kind. A big fan of cooking and hiking, she has a keen interest in jazz music. Although she is agnostic and politically liberal, she plans for a monogamous, long-term relationship. She wants to have children someday but doesn't have any at the moment. She does have a cat, though. Identified as an ENFJ as per MBTI, she was born under the zodiac sign, Leo. She exercises actively, drinks sometimes and doesn't smoke, use marijuana, or other drugs. Her relationship goal is very clear; she is looking for a long-term relationship.",
+    "preferences_summary": "The user is interested in dating a man between the ages of 30 and 40, who is between 5'9\" and 6'4\" in height. This man should not have children, but should also want children in the future. He should identify as straight, and occasionally drink, but not smoke, use marijuana, or drugs. The user prefers a partner who is physically active. She seeks a monogamous and long term relationship with a Right Caucasian man who is politically liberal. Professionally, she prefers her partner to be in either the finance or technology industry. He should speak English and also share common values of honesty and kindness. Sharing interests in cooking, hiking, and music would be appreciated. The woman's ideal partner should have attained at least a graduate education level.",
+    "user_id": "494edf75-7373-43fa-9479-ea71d826da6e"
+}

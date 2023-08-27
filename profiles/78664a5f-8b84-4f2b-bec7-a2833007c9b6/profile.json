@@ -1,0 +1,91 @@
+{
+    "name": "David O'Reilly",
+    "age": 28,
+    "height": "5'9\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "Dublin, Ireland",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Hard work",
+        "Creativity"
+    ],
+    "interests": [
+        "Hiking",
+        "Reading Sci-Fi Novels",
+        "Programming"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "INTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "East Asian",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Honesty",
+            "Hard work",
+            "Creativity"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old man who identifies as straight. He uses he/him/his pronouns and is white Caucasian in ethnicity. Originally from Dublin, Ireland, he now works as a software engineer in the tech industry in Los Angeles, California. He is an alumnus of the University of California, Berkeley, with a graduate degree. He speaks English and Spanish and follows liberal political viewpoints. Being an atheist, he values honesty, hard work, and creativity, and his interests lie in hiking, reading sci-fi novels, and programming. An active individual, he is fond of exercising and owns a dog. He also has an interest in drinking but refrains from smoking or using marijuana or drugs. He hopes for a long-term, monogamous relationship and is willing to have children in the future. According to zodiac, he is an Aquarius and displays an INTP personality type as per MBTI.",
+    "preferences_summary": "The user is interested in dating a woman between the ages of 24 to 30, who is 5'0\" to 6'0\" in height. His potential partner would preferably not have children but would like to have some in the future. She should be straight, physically active, and a non-smoker who doesn't use marijuana or other drugs. She can drink alcohol. In terms of ethnicity, he is mainly attracted to White, East Asian, or South Asian women who have a liberal political leaning. Her job industry can be anything. The user is not particular about the languages his partner speaks. He values honesty, hard work, and creativity in a partner. There isn't a specific preference for interests. His ideal partner would have an undergraduate or graduate education. He is looking for a monogamous, long-term relationship.",
+    "user_id": "78664a5f-8b84-4f2b-bec7-a2833007c9b6"
+}

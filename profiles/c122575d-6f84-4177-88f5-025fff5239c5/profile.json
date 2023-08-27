@@ -1,0 +1,95 @@
+{
+    "name": "Olivia Woodcuff",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of Southern California",
+    "job_industry": "Information Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Denver, Colorado",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "values": [
+        "Honesty",
+        "Compassion",
+        "Resilience"
+    ],
+    "interests": [
+        "Cooking",
+        "Traveling",
+        "Programming"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Aries",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian",
+            "Middle Eastern"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Information Technology",
+            "Engineering",
+            "Finance"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Compassion"
+        ],
+        "interests": [
+            "Traveling",
+            "Watching sports"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old woman of White Caucasian ethnicity who identifies as straight and uses She/Her/Hers pronouns. She is 5'6\" tall and currently lives in Los Angeles, California, although she originally hails from Denver, Colorado. Professionally, she works in the Information Technology industry as a Software Developer. The user is a graduate from the University of Southern California. She is multilingual, fluent in English, Spanish, and French. Her core values comprise Honesty, Compassion, and Resilience, and she enjoys cooking, traveling, and programming. As an Atheist, she holds moderate political views. Her relationship intentions are long term, and she believes in monogamy. She doesn't have children but wants them in the future. She is a cat owner who is physically active and periodically enjoys a drink but does not smoke or consume marijuana or other drugs. She is an Aries under the star sign, identifies as ENTJ in the MBTI personality grouping, and is open to potential matches being drinkers but not smokers or drug users.\n",
+    "preferences_summary": "The user is searching for a straight man between the ages 28 to 35, and 5'8\" to 6'2\" height. The prospective partner should not have children but potentially want some in the future. They would favour a man who drinks but does not smoke or engage in drug use, and who is actively involved in fitness. The perfect match would have long-term dating intentions and be focused on monogamy. The user is open to dating men who are White Caucasian, Hispanic/Latino, East Asian or Middle Eastern and aligning politically as either Liberal or Moderate. She would prefer a partner who works in Information Technology, Engineering, or Finance, and English ought to be one of his language competencies. The significant shared values and interests would be compassion and traveling, and they should have at least an undergraduate or graduate level of education.",
+    "user_id": "c122575d-6f84-4177-88f5-025fff5239c5"
+}

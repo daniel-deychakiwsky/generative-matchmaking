@@ -1,0 +1,96 @@
+{
+    "name": "Amir Patel",
+    "age": 28,
+    "height": "5'11\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech Industry",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Gujarati"
+    ],
+    "values": [
+        "Honesty",
+        "Creativity",
+        "Curiosity"
+    ],
+    "interests": [
+        "Programming",
+        "Traveling",
+        "Cooking"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INFJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 30,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'1\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "South Asian",
+            "East Asian",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech Industry",
+            "Health Care",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Humour",
+            "Kindness"
+        ],
+        "interests": [
+            "Traveling",
+            "Food",
+            "Tech"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old man with his pronouns listed as He/Him/His, originating from San Francisco, California but currently dating from Los Angeles, California. He stands 5'11\" tall. He graduated from the University of California, Berkeley and works as a Software Developer in the Tech Industry. Fluent in English and Gujarati, he follows a Hindu faith and moderate politics. \n\nIn relationships, he's interested in monogamy and is looking for a long-term commitment. He does not currently have children but wants them in the future. He's an active lifestyle enthusiast who enjoys programming, travelling, and cooking. His values that hold significance to him are honesty, creativity, and curiosity. \n\nAlthough he takes alcoholic drinks sometimes, he does not smoke, consume marijuana, or do drugs. Additionally, he doesn't seem to have any pets. Sor_Magnar is a straight South Asian man, born under the Virgo astrological sign and identifies with the INFJ personality type, according to the MBTI classification.",
+    "preferences_summary": "The user is seeking a woman aged between 24 and 30 who stands between 5'5'' and 6'1'' in height. She should share the user's desire for having children and should refrain from smoking as well as using marijuana and drugs. Being active and sometimes drinking is acceptable. For a relationship to foster, potential partners should be looking for a long-term, monogamous connection. Preferred ethnicities include South Asian, East Asian and White Caucasian. The woman should be politically moderate to liberal and have a career in tech, health care or education industries. The ideal partner should speak English and resonate with values of honesty, humour, and kindness. Shared interests such as traveling, foodies, and tech enthusiasts would be appreciated. Lastly, regarding education, she should ideally have a completed undergraduate degree at minimum, although potential partners can also be in graduate level.",
+    "user_id": "d0720dca-1eb8-4827-901e-8a13fbd88895"
+}

@@ -1,0 +1,100 @@
+{
+    "name": "Diego Ramirez",
+    "age": 32,
+    "height": "5'7\"",
+    "school": "University of California",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Monterey, CA",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Family",
+        "Honesty",
+        "Hard working"
+    ],
+    "interests": [
+        "Traveling",
+        "Photography",
+        "Cycling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Catholic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Aquarius",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 27,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "5'9\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian",
+            "East Asian",
+            "Black African Descent",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Healthcare",
+            "Aeronautics",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Honesty",
+            "Family",
+            "Adventurous"
+        ],
+        "interests": [
+            "Traveling",
+            "Cooking",
+            "Reading"
+        ],
+        "education_level": [
+            "Graduate",
+            "Undergraduate"
+        ]
+    },
+    "profile_summary": "This user is a 32-year-old man, who uses He/Him/His pronouns and identifies as straight. He stands at a height of 5'7\". He is a proud graduate from the University of California and works as a Software Engineer in the Technology industry. Originating from Monterey, CA, he now resides in Los Angeles, California. Proficient in both English and Spanish, he identifies as a Hispanic/Latino. Valuing family, honesty, and hard work, his main interests include traveling, photography, and cycling. Being a Catholic with liberal political beliefs, he is looking for a long-term monogamous relationship. Even though he doesn't have children, he is open to the idea in the future. He has a pet dog, enjoys a drink but doesn't smoke or use marijuana or other drugs. Keeping up with an active lifestyle, his zodiac sign is Aquarius and his Myers\u2013Briggs Type Indicator (MBTI) is ENTJ.",
+    "preferences_summary": "The user is interested in dating a woman who is between the ages of 27 and 35 and stands between 5'2\" and 5'9\" in height. The partner should have no children but should want to have children in the future. Also, she should be straight, exercises actively, doesn't smoke or indulge in drugs, and moderate drinking is acceptable. Preference would be given to those who are involved in the job sectors of technology, healthcare, education, and aeronautics. The preferred partner should also be fluent in both English and Spanish. As for values, honesty, family, and adventurousness are the main ones that are wanted. Traveling, cooking, and reading are among preferable hobbies. Lastly, the partner should be interested in a long-term monogamous dating arrangement and should have completed at least an undergraduate degree. The preferred ethnicities include Hispanic/Latino, White Caucasian, East Asian, Black African Descent, and others. She should have liberal or moderate political views.",
+    "user_id": "a9a58341-679d-4000-8f9d-b24622a5d4a9"
+}

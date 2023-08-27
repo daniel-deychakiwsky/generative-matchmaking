@@ -1,0 +1,99 @@
+{
+    "name": "Alejandro Gomez",
+    "age": 30,
+    "height": "5'11\"",
+    "school": "UC Berkeley",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Adventure",
+        "Community",
+        "Knowledge"
+    ],
+    "interests": [
+        "Hiking",
+        "Music",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'1\"",
+        "maximum_height": "5'9\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Asian",
+            "Black African Descent"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Arts",
+            "Education",
+            "Science & Engineering",
+            "Technical"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Adventure",
+            "Community",
+            "Knowledge"
+        ],
+        "interests": [
+            "Traveling",
+            "Music",
+            "Photography"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 30-year old Straight Man who stands 5'11\" tall and identifies himself with the pronouns, He/Him/His. He is of Hispanic/Latino ethnicity, originally from San Diego, California. He is an Astrophysics Graduate from UC Berkeley and currently works as a Software Engineer in the Tech industry. Being an Agnostic with Liberal political views, he values Adventure, Community, and Knowledge. He speaks English and Spanish and takes delight in Hiking, Music, and Coding. Though he does not have children, he wants them in the future. He owns a dog and leads an Active lifestyle. He is open to drinking but is thoroughly against smoking, marijuana and other drugs. His Zodiac sign is Cancer and he has an INTP personality type. As a person dating in Los Angeles, California, he anticipates a long-term monogamous relationship.",
+    "preferences_summary": "The user is interested in women who are between the ages of 25 and 35 with a height between 5'1\" and 5'9\". His potential dating partner should not have children but should want them in the future. She should be straight, monogamous, and looking for long-term dating. She tolerates drinking but does not smoke or use drugs, including marijuana. An active individual is preferable. As for the ethnicity, she can be White Caucasian, Asian, Hispanic/Latino, or of Black African descent. Politically, they should either be liberal or moderate. Job industries such as Healthcare, Arts, Education, Science & Engineering, and Technical are the preferred ones. Their potential partner only needs to speak English and shares values like Adventure, Community, and Knowledge along with interests in Traveling, Music, and Photography. An Undergraduate or Graduate educational level is desirable.",
+    "user_id": "bf804380-c28b-42eb-9898-53d5b5324a74"
+}

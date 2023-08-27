@@ -1,0 +1,94 @@
+{
+    "name": "Samuel Brown",
+    "age": 28,
+    "height": "6'1\"",
+    "school": "University of Virginia",
+    "job_industry": "Consulting",
+    "job_title": "Consultant",
+    "hometown_location": "Richmond, Virginia",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Kindness",
+        "Hard worker"
+    ],
+    "interests": [
+        "Cooking",
+        "Traveling",
+        "Running",
+        "Reading"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Scorpio",
+    "mbti_personality_type": "ENTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 30,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Consulting"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Kindness"
+        ],
+        "interests": [
+            "Traveling",
+            "Cooking",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "This 28-year-old man is a consultant in the Consulting industry, having graduated from the University of Virginia. Standing at 6'1\", he hails from Richmond, Virginia and he currently dates in Los Angeles, California. He speaks English and Spanish fluently. He holds his core values in honesty, kindness and hard work. His main interests include cooking, traveling, running, and reading. As an agnostic, he leans liberal in politics. His intention in dating is to find long-term monogamous relationships. He identifies as a straight, white Caucasian man with Scorpio as his zodiac sign and ENTJ as his MBTI personality type. Although he currently has no children, he intends to have children in the future. He owns a dog, does not smoke, abstains from marijuana and drugs, but drinks occasionally. He stays active through exercise.",
+    "preferences_summary": "The user is seeking a Woman aged between 25 to 30 years old, with a height ranging from 5'4\" to 6'0\". She should be Straight, hold Liberal political beliefs, and seeking a long term, monogamous relationship like him. He prefers a partner who is White Caucasian or Hispanic/Latino, who does not have children but wants them in the future. She should be non-smoker, non-user of marijuana and other drugs, yet open to drinking. A physically active candidate from industries such as Education, Healthcare, and Consulting is expected. The ability to communicate in English is critical, and she should value honesty and kindness, and share common interests such as traveling, cooking and reading. In terms of education, he seeks someone who holds an undergraduate or graduate degree.",
+    "user_id": "a1bec9ee-3ea0-441a-97f1-8d39c1f4643a"
+}

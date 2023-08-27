@@ -1,0 +1,96 @@
+{
+    "name": "Audrey Mitchell",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Marketing",
+    "job_title": "Marketing Manager",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Openness",
+        "Dependability"
+    ],
+    "interests": [
+        "Cooking",
+        "Reading",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog",
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "ENFP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Life partner",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Technology",
+            "Finance",
+            "Medical",
+            "Engineering"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Openness",
+            "Dependability"
+        ],
+        "interests": [
+            "Cooking",
+            "Reading",
+            "Traveling",
+            "Outdoors",
+            "Sports"
+        ],
+        "education_level": [
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old straight white Caucasian woman who goes by She/Her/Hers pronouns. She is 5'6\" tall, and currently working as a Marketing Manager in the marketing industry. She pursued her graduation from the University of California, located in Los Angeles and has also lived in San Francisco, California. English and Spanish are the languages she is fluent in. She leads an active lifestyle and is a liberal in terms of politics. She declares her religious beliefs as an Atheist and falls under the Gemini zodiac sign with an ENFP personality type in MBTI. Her core values are honesty, openness, and dependability. Cooking, reading, and traveling are some of her interests. Drinking is her choice but she undertakes no smoking, marijuana, or drugs. She detains both a cat and a dog in her home. She doesn't have children but would like to have some one day. Her intention in dating is to seek a long-term relationship, preferring monogamy.",
+    "preferences_summary": "The user is looking for a man aged between 28 and 35, tending towards the active side in terms of exercise habits. His height should be between 5'8'' and 6'2''. The partner should be straight and a non-user of drugs or marijuana, although occasional drinking is permitted. The partner should ideally be within professions related to Technology, Finance, Medical or Engineering sectors. The user prefers someone with values akin to their own - honesty, dependability and openness. The partner should be interested in cooking, reading, traveling, oudoor activities and sports. The chosen partner must be a graduate. Additionally, the individual should not have children but should desire to have children in the future. The partner must have monogamous inclinations and dating intentions should range towards finding a life partner. The desired partner should also speak English, be politically liberal, of White Caucasian descent, and not smoke.",
+    "user_id": "ad625492-8316-4d41-99a4-b43f536a6257"
+}

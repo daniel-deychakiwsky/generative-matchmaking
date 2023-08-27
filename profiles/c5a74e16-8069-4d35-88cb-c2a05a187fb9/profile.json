@@ -1,0 +1,98 @@
+{
+    "name": "Reina Mizushima",
+    "age": 28,
+    "height": "5'6\"",
+    "school": "University of Southern California",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Japanese"
+    ],
+    "values": [
+        "Family",
+        "Career",
+        "Fitness"
+    ],
+    "interests": [
+        "Traveling",
+        "Coding",
+        "Yoga"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "East Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Cancer",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 28,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Technology",
+            "Entertainment",
+            "Healthcare",
+            "Education"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Family",
+            "Career",
+            "Fitness"
+        ],
+        "interests": [
+            "Traveling",
+            "Coding",
+            "Yoga"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 28-year-old woman who hails from San Diego, California. She identifies as straight and goes by she/her/hers pronouns. Currently living in Los Angeles and working in the technology industry as a software developer, she is a graduate of the University of Southern California. She exercises actively and is interested in traveling, coding, and practicing yoga. She values family, her career, and fitness highly. She is a speaker of English and Japanese and identifies as East Asian. While she doesn't have children, she is open to the idea of having them in the future. She has a pet cat, sometimes drinks, but doesn't smoke, use marijuana, or other drugs. Politically liberal and agnostic, her intention in dating is to find a long-term, monogamous relationship. She is a Cancer and her Myers-Briggs personality type is INTJ.\n",
+    "preferences_summary": "The user is looking for a straight man, aged between 28 to 35, who stands between 5'8\" to 6'2\" in height. Her potential partner's ethnicity could be White Caucasian, Hispanic/Latino, Middle Eastern, or South Asian. She prefers a non-smoker, who occasionally drinks and doesn't engage in marijuana use or drugs. An active lifestyle is significant, and he should not already have children, though wanting children in the future is a must. Political beliefs should lean towards Liberal or Moderate. She is open to men working in various industries like Technology, Entertainment, Healthcare, and Education. English language fluicency is essential. Shared values include Family, Career, and Fitness, and common interests look towards Traveling, Coding, and Yoga. As for education, her partner should have at least an Undergraduate degree. She is seeking a long-term, monogamous relationship.",
+    "user_id": "c5a74e16-8069-4d35-88cb-c2a05a187fb9"
+}

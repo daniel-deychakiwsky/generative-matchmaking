@@ -1,0 +1,93 @@
+{
+    "name": "Aiden Reynolds",
+    "age": 32,
+    "height": "6'1\"",
+    "school": "California State University",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Adventure",
+        "Fitness"
+    ],
+    "interests": [
+        "Travelling",
+        "Exercising",
+        "Reading Sci-fi novels"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term, open to short",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Capricorn",
+    "mbti_personality_type": "ENTP",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 35,
+        "minimum_height": "5'5\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Adventure"
+        ],
+        "interests": [
+            "Travelling",
+            "Exercising",
+            "Reading"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Other"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old man whose pronouns are he/him/his and identifies his sexuality as straight. Physically, he stands tall at 6'1\" and ethnically, he is White Caucasian. Professionally, he works as a Software Developer in the technology industry after finishing his graduate studies at California State University. He is fluent in both English and Spanish and operates out of Los Angeles, though he hails originally from San Francisco, California. In his spare time, he enjoys travelling, exercising, and reading sci-fi novels, aligning with his values of honesty, adventure, and fitness. He is a non-smoker, but he does indulge in drinking. Drugs or marijuana do not interest him. An active lifestyle is important for him as he's often exercising. His religious beliefs lean towards agnosticism while politically, he is a liberal. He has a preference for monogamy and his intentions in dating are long term, but he's also open to short term relationships. While he doesn't have children, he wants them in the future. A dog lover, his zodiac sign is Capricorn and he's an ENTP according to the MBTI personality scale.",
+    "preferences_summary": "The user is interested in dating a woman who is active, between the ages of 26 and 35, and between the heights of 5'5\" and 6'3\". She should have no children but should want them in the future. Her sexuality should be straight, and she should be okay with drinking but not indulge in smoking, marijuana, or drugs. He prefers a long-term monogamous relationship with a woman of either Hispanic/Latino or White Caucasian ethnicity. Politically, she can be liberal or moderate. The potential partner's job industry can be anything, while she should be able to speak English fluently. The user cherishes honesty and adventure as values and prefers someone who enjoys traveling, exercising, and reading. She should possess an education level that's at least an undergraduate or postgraduate degree or any other kind of technical specialization.",
+    "user_id": "34dc9208-c96d-4ea3-b812-493784b6c06c"
+}

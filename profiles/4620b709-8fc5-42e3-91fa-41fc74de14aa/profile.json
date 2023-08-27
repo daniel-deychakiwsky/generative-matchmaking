@@ -1,0 +1,91 @@
+{
+    "name": "Ravi Patel",
+    "age": 29,
+    "height": "5'11\"",
+    "school": "University of Michigan",
+    "job_industry": "Information technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "Ann Arbor, Michigan",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Hindi"
+    ],
+    "values": [
+        "Honesty",
+        "Family",
+        "Career Growth"
+    ],
+    "interests": [
+        "Technology",
+        "Hiking",
+        "Traveling",
+        "Reading"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Hindu",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "South Asian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Pisces",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 33,
+        "minimum_height": "5'0\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Any"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Any"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Family"
+        ],
+        "interests": [
+            "Any"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old straight man who goes by He/Him/His pronouns. He is an educated graduate of the University of Michigan who currently works as a Software Engineer in the information technology industry. Standing at 5'11\", he is an INTJ Pisces of South Asian descent as per his MBTI personality type and zodiac sign. Hailing from Ann Arbor, Michigan, he now finds himself dating in Los Angeles, California. Culturally rich, he speaks English and Hindi fluently, subscribes to Hindu religious beliefs, and identifies with liberal politics. Core to his values are honesty, family, and career growth and his interests extend to technology, hiking, traveling, and reading. Because exercise is important to him, he leads an active lifestyle. Despite occasional drinking, he doesn't smoke or use marijuana or other drugs. He doesn't currently have children but hopes to one day. Despite a lack of pets at present, his lifestyle could definitely accommodate them. He's looking for a long-term, monogamous relationship.",
+    "preferences_summary": "The user is looking for a long-term, monogamous relationship with a straight woman aged between 25 and 33 years. The preferred height for a partner ranges from 5'0\" to 6'0\". In terms of lifestyle choices, she should be active in exercise, consuming alcohol is acceptable but mustn't smoke, use marijuana or any additional drugs. Speaking English is a must for communication with any job industry background. Conversations around politics should be liberal to moderate. The lady should not have children currently but be open to the idea in the future. She should value honesty and family, although she can have any set of interests. Her level of education should be at least undergraduate, extending up to doctoral. The ethnicity of his dating partner is inclusive of all, highlighting a broad and open perspective towards diversity.\n",
+    "user_id": "4620b709-8fc5-42e3-91fa-41fc74de14aa"
+}

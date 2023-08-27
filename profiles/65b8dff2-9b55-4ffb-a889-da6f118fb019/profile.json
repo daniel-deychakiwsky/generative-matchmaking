@@ -1,0 +1,97 @@
+{
+    "name": "Dominic Howe",
+    "age": 32,
+    "height": "6'0\"",
+    "school": "University of California, Los Angeles",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Ambition",
+        "Family",
+        "Independence"
+    ],
+    "interests": [
+        "Hiking",
+        "Coding",
+        "Photography"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian",
+            "Hispanic/Latino",
+            "East Asian"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Education",
+            "Technology"
+        ],
+        "languages_spoken": [
+            "English",
+            "Spanish"
+        ],
+        "values": [
+            "Kindness",
+            "Creativity",
+            "Balance"
+        ],
+        "interests": [
+            "Travel",
+            "Writing",
+            "Photography"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old ambitious Software Developer working in the Technology industry. He stands at 6'0\" and graduated from the University of California, Los Angeles. Originally from San Francisco, California, he is currently looking to date in Los Angeles. A multi-language speaker of English and Spanish, he places importance in values such as ambition, family, and independence. He enjoys hiking, coding, and photography, and is characterized by an INTJ MBTI personality type. Politically liberal and agnostic by religious beliefs, he aims for a long-term monogamous relationship. Being a man, he identifies himself with \"He/Him/His\" pronouns, is straight, and of White Caucasian ethnicity. He doesn't have children currently but wishes to have some in the future. A dog-lover with a Gemini star sign, he exercises actively, often drinks but neither smokes nor uses drugs or marijuana.\n",
+    "preferences_summary": "This user is seeking a woman aged between 25 and 35, standing between 5'2\" and 6'0\". Ideally, his partner shares his intention for a long-term, monogamous relationship, is a non-smoker and does not consume marijuana or drugs. However, the potential partner may drink occasionally. The partner should also lead an active lifestyle, not currently have children but wish to have some in the future, and be straight. The range of ethnicities considered includes White Caucasian, Hispanic/Latino, and East Asian. The woman should have liberal or moderate political beliefs and work in healthcare, education, or the technology industry. A woman who speaks English and Spanish and values kindness, creativity, and balance is preferred. The partner is expected to have interests such as travel, writing, and photography and an education level of undergraduate degree or above.",
+    "user_id": "65b8dff2-9b55-4ffb-a889-da6f118fb019"
+}

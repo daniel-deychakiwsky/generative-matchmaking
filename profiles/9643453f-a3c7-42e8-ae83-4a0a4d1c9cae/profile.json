@@ -1,0 +1,89 @@
+{
+    "name": "Sophie Thornton",
+    "age": 29,
+    "height": "5'6\"",
+    "school": "University of California, Berkeley",
+    "job_industry": "Tech",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Diego, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Intellectualism",
+        "Ambition",
+        "Creativity"
+    ],
+    "interests": [
+        "Travelling",
+        "Photography",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Atheist",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Woman",
+    "pronouns": "She/Her/Hers",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 30,
+        "maximum_age": 35,
+        "minimum_height": "5'8\"",
+        "maximum_height": "6'2\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Yes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Man",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "White Caucasian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Tech"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Intellectualism",
+            "Ambition"
+        ],
+        "interests": [
+            "Travelling",
+            "Coding"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old, straight woman who identifies by she/her/hers pronouns. She is originally from San Diego, California but is currently living in Los Angeles, working as a Software Engineer in the tech industry. She graduated from the University of California, Berkeley. Fluent in both English and Spanish, she holds values of intellectualism, ambition, and creativity close to her heart. This Taurus woman is an INTJ personality type, with interests in traveling, photography, and coding. She is an active individual who appreciates a good drink on occasion, but stays away from smoking, marijuana, or drugs. She is atheistic, leans liberal in politics, and is a white caucasian who prefers monogamy. Feeling ready for a long-term relationship, she wants to have children in the future, and she currently has a pet cat. She holds no religious beliefs.",
+    "preferences_summary": "The user is seeking a man aged between 30 and 35 years old with a height range from 5'8\" to 6'2\". Preferred partner should not have children but should desire to have them in the future. The potential partner should be straight, occasionally drinks but does not smoke or use marijuana or other drugs. An active lifestyle is also a plus. The user is hoping for a long-term, monogamous relationship with a white/caucasian man. Politically, the partner should be liberal, and work in tech industry. English language proficiency is necessary. They should value intellectualism and ambition, and share interests in travel and coding. The preferred educational level is undergraduate or graduate.",
+    "user_id": "9643453f-a3c7-42e8-ae83-4a0a4d1c9cae"
+}

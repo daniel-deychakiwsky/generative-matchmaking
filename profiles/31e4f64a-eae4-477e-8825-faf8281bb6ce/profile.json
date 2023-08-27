@@ -1,0 +1,98 @@
+{
+    "name": "Dominc Pierce",
+    "age": 29,
+    "height": "5'10\"",
+    "school": "University of San Francisco",
+    "job_industry": "Technology",
+    "job_title": "Software Developer",
+    "hometown_location": "Seattle, Washington",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Loyalty",
+        "Creativity"
+    ],
+    "interests": [
+        "Coding",
+        "Hiking",
+        "Guitar",
+        "Football"
+    ],
+    "education_level": "Undergraduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Moderate",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Cat"
+    ],
+    "zodiac_sign": "Gemini",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Yes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 24,
+        "maximum_age": 32,
+        "minimum_height": "5'4\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "Hispanic/Latino",
+            "White Caucasian"
+        ],
+        "politics": [
+            "Not political",
+            "Moderate",
+            "Liberal"
+        ],
+        "job_industry": [
+            "Finance",
+            "Entertainment",
+            "Marketing"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Trust",
+            "Passion",
+            "Inspiration"
+        ],
+        "interests": [
+            "Music",
+            "Traveling",
+            "Active Lifestyle"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 29-year-old man who stands at 5'10\". He identifies as straight and uses HE/HIM/HIS pronouns. He is a White Caucasian and currently lives in Los Angeles, although his hometown is Seattle, Washington. Professionally, he works as a software developer in the Technology industry. He completed his Undergraduate education at the University of San Francisco. His fluency spans across English and Spanish languages. He places great importance on Honesty, Loyalty, and Creativity and engages in Coding, Hiking, Playing Guitar, and Football in his free time. He identifies as Agnostic and politically Moderate. His intention in dating is to find a Long-term monogamous relationship. He does not have any children but desires to in the future. He is an owner of a pet cat and is physically active. His zodiac sign is Gemini and his Myers-Briggs personality type is listed as INTJ. When lifestyle preferences are considered, he drinks, but he makes it clear that he does not smoke or use marijuana or other drugs.\n",
+    "preferences_summary": "The user is seeking a woman aged between 24 and 32 years old, who is between 5'4\" and 6'0\" tall. She should be without children but wanting to have them, drinks socially, does not smoke, abstains from marijuana and drugs, and lives an active lifestyle. Her ethnicity may be either East Asian, Hispanic/Latino, or White Caucasian. Politically, she could be anywhere from not political to moderate or liberal. In her job, she could be in Finance, Entertainment, or Marketing industries. Mastering English language is a prerequisite. She should value Trust, Passion, and Inspiration, having interests in music, traveling, or an active lifestyle. The desired education levels for the potential partner include being an undergraduate or a graduate. She is anticipated to be straight, interested in long-term dating intentions, adheres to monogamy practices, and the scope of her interests include music, traveling and active lifestyle.",
+    "user_id": "31e4f64a-eae4-477e-8825-faf8281bb6ce"
+}

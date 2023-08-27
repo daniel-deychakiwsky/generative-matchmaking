@@ -1,0 +1,111 @@
+{
+    "name": "Benjamin Priestly",
+    "age": 30,
+    "height": "6'1\"",
+    "school": "Stanford University",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish",
+        "Japanese"
+    ],
+    "values": [
+        "Environmentalism",
+        "Education",
+        "Creativity"
+    ],
+    "interests": [
+        "Travelling",
+        "Reading",
+        "Music",
+        "Photography",
+        "Coding"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "White Caucasian",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "None"
+    ],
+    "zodiac_sign": "Taurus",
+    "mbti_personality_type": "INTP",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 26,
+        "maximum_age": 34,
+        "minimum_height": "5'1\"",
+        "maximum_height": "6'3\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "Black African Descent",
+            "East Asian",
+            "Hispanic/Latino",
+            "Middle Eastern",
+            "Native American",
+            "Pacific Islander",
+            "South Asian",
+            "Southeast Asian",
+            "White Caucasian",
+            "Other"
+        ],
+        "politics": [
+            "Liberal",
+            "Moderate"
+        ],
+        "job_industry": [
+            "Healthcare",
+            "Technology",
+            "Education",
+            "Arts & Entertainment",
+            "Science"
+        ],
+        "languages_spoken": [
+            "Any"
+        ],
+        "values": [
+            "Creativity",
+            "Education",
+            "Environmentalism"
+        ],
+        "interests": [
+            "Art & Design",
+            "Exercise",
+            "Music",
+            "Reading",
+            "Travelling"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate",
+            "Doctoral"
+        ]
+    },
+    "profile_summary": "This is a profile of a 30-year-old straight man who stands at 6'1\". He's a white Caucasian with Taurus as his Zodiac sign and identifies himself as an INTP in the MBTI personality test. Professionally, he's a software engineer working in the technology sector and a graduate from Stanford University. His languages of conversations include English, Spanish, and Japanese. Born and brought up in San Francisco, California, he's now looking for a date in Los Angeles, California. He values environmentalism, education, and creativity, and is interested in travelling, reading, music, photography, and coding. He's Agnostic with liberal political beliefs. He's open to long-term dating and prefers monogamy. Yet to start a family, he does have plans for children in the future. He doesn't have any pets and doesn't engage in smoking or drug usage, though occasionally enjoys a drink. He's notably active, keeping himself fit with regular exercise.",
+    "preferences_summary": "The user is looking for a woman aged between 26 and 34, who stands between 5'1\" and 6'3\" in height. She should not have any children but may want them in the future. Her sexuality needs to be straight and she should not smoke or use marijuana or drugs, while being OK with occasionally drinking. The preferred partner should also be active. She can be of any ethnicity and her political leanings should be either liberal or moderate. This individual is open to a partner working in the healthcare, technology, education, arts & entertainment, or science industry. Language is not an issue, as long as the partner is educated to at least undergraduate level. Shared values should include creativity, education, and environmentalism. Interests should be in one or more of the following areas: art & design, exercise, music, reading, or travelling. The relationship intention should be long-term, with a monogamous relationship type.",
+    "user_id": "7d76bfea-bafa-4ebf-ba7b-9fcfc5c34732"
+}
