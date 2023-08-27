@@ -1,0 +1,100 @@
+{
+    "name": "Franklin Tate",
+    "age": 32,
+    "height": "6'2\"",
+    "school": "University of California",
+    "job_industry": "Technology",
+    "job_title": "Software Engineer",
+    "hometown_location": "San Francisco, California",
+    "dating_location": "Los Angeles, California",
+    "languages_spoken": [
+        "English",
+        "Spanish"
+    ],
+    "values": [
+        "Honesty",
+        "Respect",
+        "Family"
+    ],
+    "interests": [
+        "Programming",
+        "Basketball",
+        "Traveling"
+    ],
+    "education_level": "Graduate",
+    "religious_beliefs": "Agnostic",
+    "politics": "Liberal",
+    "dating_intentions": "Long term",
+    "relationship_type": "Monogamy",
+    "gender": "Man",
+    "pronouns": "He/Him/His",
+    "sexuality": "Straight",
+    "ethnicity": "Hispanic/Latino",
+    "has_children": false,
+    "want_children": true,
+    "pets": [
+        "Dog"
+    ],
+    "zodiac_sign": "Virgo",
+    "mbti_personality_type": "INTJ",
+    "drinking": "Sometimes",
+    "smoking": "No",
+    "marijuana": "No",
+    "drugs": "No",
+    "exercise": "Active",
+    "partner_preferences": {
+        "minimum_age": 25,
+        "maximum_age": 35,
+        "minimum_height": "5'2\"",
+        "maximum_height": "6'0\"",
+        "has_children": false,
+        "want_children": true,
+        "sexuality": "Straight",
+        "drinking": "Sometimes",
+        "smoking": "No",
+        "marijuana": "No",
+        "drugs": "No",
+        "exercise": "Active",
+        "gender": "Woman",
+        "dating_intentions": "Long term",
+        "relationship_type": "Monogamy",
+        "ethnicities": [
+            "East Asian",
+            "White Caucasian",
+            "Black African Descent",
+            "Hispanic/Latino",
+            "South Asian"
+        ],
+        "politics": [
+            "Liberal"
+        ],
+        "job_industry": [
+            "Education",
+            "Healthcare",
+            "Technology",
+            "Art",
+            "Business"
+        ],
+        "languages_spoken": [
+            "English"
+        ],
+        "values": [
+            "Honesty",
+            "Respect",
+            "Family"
+        ],
+        "interests": [
+            "Reading",
+            "Movies",
+            "Traveling",
+            "Cooking"
+        ],
+        "education_level": [
+            "Undergraduate",
+            "Graduate"
+        ]
+    },
+    "profile_summary": "The user is a 32-year-old Software Engineer from San Francisco, California who now bases in Los Angeles. He's 6'2\" tall with Hispanic/Latino ethnicity. He obtained his education at the University of California, majoring in Technology. He identifies as a man and uses He/Him/His pronouns. As a native English speaker, he is also fluent in Spanish. \n\nHis MBTI personality type is INTJ. His core values are honesty, respect, and family. His main interests include programming, basketball, and travel. He is politically liberal and Agnostic. The user is interested in a long-term relationship and is a believer in monogamy. Even though he doesn't have children yet, he wants to have them in the future. He's a dog owner with a penchant for Virgo as his Zodiac sign.\n\nHe is physically active and sometimes enjoys drinking, but he does not smoke, use marijuana, or other drugs. The user is straight and is interested in dating women.",
+    "preferences_summary": "Franklin is seeking a woman who is somewhere between the ages of 25 and 35. She should be between 5'2\" and 6'0\" in height. She should not have children currently, but she must want to have children in the future. Her sexual orientation should be straight. She might drink occasionally but doesn't smoke, use marijuana or other drugs. She should lead an active lifestyle, exercise-wise. \n\nShe should have long term dating intentions and should believe in monogamy. Her ethnicity could be East Asian, White Caucasian, Black African Descent, Hispanic/Latino, or South Asian. Her political views should align with liberalism. The woman's job could fall under industries like Education, Healthcare, Technology, Art, or Business. English should be among the languages she speaks. She should value honesty, respect, and family, and her interests could include reading, movies, traveling, or cooking. Her educational background should be either an undergraduate or graduate degree.",
+    "user_id": "1fdabcd7-4143-4db7-bd59-64281481e603"
+}

@@ -27,7 +27,8 @@ def generate_profiles(
     gen_dating_prompt: str = (
         "Choose a name randomly and generate a dating profile for them."
     )
-    sum_dating_prompt: str = "Summarize the user's dating profile."
+    sum_dating_prompt: str = "Summarize the user's dating profile.\nInclude all fields other than their partner_preferences.\nDo not output the user's name."
+    sum_partner_preferences_prompt: str = "Summarize only the user's dating partner_preferences.\nInclude all of the partner_preferences fields.\nDo not output the user's name."
     stochastic_diversity_suffix: str = "Ensure balanced diversity."
     text_to_image_prompt: str = (
         "Dating profile picture of a "
@@ -93,12 +94,15 @@ def generate_profiles(
 
         user_profile_json: JSON = json.loads(user_dating_profile_json_str)
 
-        conversation.add_assistant_message(message=user_dating_profile_json_str)
-        conversation.add_user_message(message=sum_dating_prompt)
+        conversation_two: Conversation = Conversation()
+        conversation_two.add_system_message(message=sys_prompt)
+        conversation_two.add_user_message(
+            message=user_dating_profile_json_str + "\n\n" + sum_dating_prompt
+        )
 
         messages_instruct_summarize_dating_profile: List[
             Dict[str, str]
-        ] = conversation.get_messages()
+        ] = conversation_two.get_messages()
 
         user_profile_summary: str = chat_completion(
             model=model,
@@ -109,7 +113,29 @@ def generate_profiles(
             function_call=None,
         )
 
-        user_profile_json["summary"] = user_profile_summary
+        conversation_three: Conversation = Conversation()
+        conversation_three.add_system_message(message=sys_prompt)
+        conversation_three.add_user_message(
+            message=user_dating_profile_json_str
+            + "\n\n"
+            + sum_partner_preferences_prompt
+        )
+
+        messages_instruct_summarize_partner_preferences: List[
+            Dict[str, str]
+        ] = conversation_three.get_messages()
+
+        user_partner_preferences_summary: str = chat_completion(
+            model=model,
+            messages=messages_instruct_summarize_partner_preferences,
+            max_tokens=max_tokens,
+            temperature=temperature,
+            functions=None,
+            function_call=None,
+        )
+
+        user_profile_json["profile_summary"] = user_profile_summary
+        user_profile_json["preferences_summary"] = user_partner_preferences_summary
         user_profile_json["user_id"] = str(uuid.uuid4())
 
         return UserProfile(**user_profile_json)  # type: ignore[arg-type]
