@@ -20,16 +20,25 @@
 
 [**Project Pitch Document**](https://docs.google.com/document/d/1Kpphmy4kd4oYcwwQcB1siQmqY4DT5f1P6Vu5Du9Mxj4/edit#heading=h.qfapgtxugnfr)
 
-## Dependencies
+## Bootstrapping / Development
 
-Requires [Poetry](https://python-poetry.org/).
-Install project dependencies.
+* Clone this repository
+* Requirements:
+  * [Poetry](https://python-poetry.org/)
+  * Python 3.7+
+* Create a virtual environment and install the dependencies
 
-```shell
+```sh
 poetry install
 ```
 
-## Running Locally via CLI
+* Activate the virtual environment
+
+```sh
+poetry shell
+```
+
+## Running Locally CLI
 
 Current working directory should be repository root.
 Explore CLI commands.
@@ -63,6 +72,7 @@ Requires Docker.
 Ensure your docker daemon is running.
 Clone chroma repository as a sibling to this repository.
 Run chroma locally in client-server mode via docker compose.
+Assumes repository root is current working directory.
 
 ```shell
 cd .. &&
@@ -105,28 +115,10 @@ Delete collection with defaults.
 python3 -m src.generative_dating_agents.cli delete-collection
 ```
 
-## Installation as package
+## Installation as Package
 
 ```sh
 pip install generative-dating-agents
-```
-
-## Development
-
-* Clone this repository
-* Requirements:
-  * [Poetry](https://python-poetry.org/)
-  * Python 3.7+
-* Create a virtual environment and install the dependencies
-
-```sh
-poetry install
-```
-
-* Activate the virtual environment
-
-```sh
-poetry shell
 ```
 
 ### Testing
@@ -151,7 +143,7 @@ Find the draft release from the
  a release is published, it'll trigger [release](https://github.com/deychak/generative-dating-agents/blob/master/.github/workflows/release.yml) workflow which creates PyPI
  release and deploys updated documentation.
 
-### Pre-commit
+### Pre Commit
 
 Pre-commit hooks run all the auto-formatters (e.g. `black`, `isort`), linters (e.g. `mypy`, `flake8`), and other quality
  checks to make sure the changeset is in good shape before a commit/push happens.
