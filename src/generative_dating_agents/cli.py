@@ -106,7 +106,7 @@ def load_collection(
 )
 def query_collection(collection_name: str, query_text: str, n_results: int) -> None:
     click.echo("Querying database collection")
-    result = _query_collection(
+    _query_collection(
         collection_name=collection_name,
         query_texts=[query_text],
         n_results=n_results,
@@ -114,7 +114,6 @@ def query_collection(collection_name: str, query_text: str, n_results: int) -> N
         where_document=None,
     )
     click.echo("Successfully queried database collection")
-    click.echo(result)
 
 
 @click.command()

@@ -18,46 +18,94 @@
 
 Generative Dating Agents
 
-## Running
+[**Project Pitch Document**](https://docs.google.com/document/d/1Kpphmy4kd4oYcwwQcB1siQmqY4DT5f1P6Vu5Du9Mxj4/edit#heading=h.qfapgtxugnfr)
+
+## Dependencies
+
+Requires [Poetry](https://python-poetry.org/).
+Install project dependencies.
 
 ```shell
 poetry install
 ```
 
+## Running Locally via CLI
+
+Current working directory should be repository root.
+Explore CLI commands.
+
+```shell
+ python3 -m src.generative_dating_agents.cli
+```
+
 ### Generate User Profiles
+
+OpenAI balance must be funded.
 
 ```sh
 export OPENAI_API_KEY={{YOUR OPEN AI KEY}}
 ```
 
+Generate dating user profiles and profile images with defaults.
+Invokes OpenAI LLM and text-to-image.
+
 ```sh
 python3 -m src.generative_dating_agents.cli generate-profiles
 ```
 
-### Initialize Chroma Vector DB
+### Loading and Querying Vector DB
 
-Ensure the docker daemon is running.
+#### Spin-Up Chroma
+
+[Chroma](https://docs.trychroma.com/usage-guide) is a simple open source vector database.
+
+Requires Docker.
+Ensure your docker daemon is running.
 Clone chroma repository as a sibling to this repository.
+Run chroma locally in client-server mode via docker compose.
 
 ```shell
+cd .. &&
 git clone https://github.com/chroma-core/chroma.git &&
 cd chroma &&
 docker-compose up -d --build
 ```
 
+Load collection with defaults.
+
 ```shell
 python3 -m src.generative_dating_agents.cli load-collection
 ```
 
+Query collection with defaults.
+
 ```shell
-python3 -m src.generative_dating_agents.cli query-collection --query-text "A multilingual straight male athlete"
+python3 -m src.generative_dating_agents.cli query-collection --n-results 5 --query-text \
+"The user is seeking a man between the ages of 30 and 40,
+who is at least 5'8\" and no taller than 6'3\". He should
+have no children but wish to have them in the future. His
+sexual orientation should be straight and he should be
+someone who drinks sometimes, but does not smoke, use
+marijuana, or other drugs. He should live an active
+lifestyle. His ethnicity could be White Caucasian, East
+Asian, or Hispanic/Latino and he should have liberal or
+moderate political beliefs. Ideal occupations would be
+within the Technology, Science, or Education industries.
+He must speak English and have similar values, specifically
+Honesty, Family, Responsibility, Respect, and Fairness.
+His interests could include Technology, Outdoors, Cinema,
+Reading, and Sports. The prospective partner should have
+at least an undergraduate level education, with intentions
+for long-term dating and a preference for monogamy."
 ```
+
+Delete collection with defaults.
 
 ```shell
 python3 -m src.generative_dating_agents.cli delete-collection
 ```
 
-## Installation
+## Installation as package
 
 ```sh
 pip install generative-dating-agents
