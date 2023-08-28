@@ -16,7 +16,7 @@
 
 ---
 
-Generative Dating Agents
+## Project Pitch
 
 [**Project Pitch Document**](https://docs.google.com/document/d/1Kpphmy4kd4oYcwwQcB1siQmqY4DT5f1P6Vu5Du9Mxj4/edit#heading=h.qfapgtxugnfr)
 
