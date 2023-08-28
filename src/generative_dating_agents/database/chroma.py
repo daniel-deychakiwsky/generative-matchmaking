@@ -57,12 +57,40 @@ class ChromaVectorDatabaseClient:
         where: Optional[Where] = None,
         where_document: Optional[WhereDocument] = None,
     ) -> QueryResult:
-        return self.client.get_collection(name=name).query(
+        query_result: QueryResult = self.client.get_collection(name=name).query(
             query_texts=query_texts,
             n_results=n_results,
             where=where,
             where_document=where_document,
         )
+
+        print("-" * 50)
+        print("query:", query_texts)
+        print("-" * 50)
+
+        ids_list = query_result.get("ids")
+        distances_list = query_result.get("distances")
+        documents_list = query_result.get("documents")
+
+        if (
+            ids_list is not None
+            and distances_list is not None
+            and documents_list is not None
+        ):
+            ids_inner_list = ids_list[0] if len(ids_list) > 0 else []
+            distances_inner_list = distances_list[0] if len(distances_list) > 0 else []
+            documents_inner_list = documents_list[0] if len(documents_list) > 0 else []
+
+            for i in range(len(ids_inner_list)):
+                print("index:", i)
+                print("id:", ids_inner_list[i])
+                print("distance:", distances_inner_list[i])
+                print("document:", documents_inner_list[i])
+                print("-" * 50)
+        else:
+            print("No valid data in query_result.")
+
+        return query_result
 
     def delete_collection(
         self,
