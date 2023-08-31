@@ -52,7 +52,7 @@ def write_user_profile_matches(
     directory: str = os.path.dirname(file_path)
     os.makedirs(directory, exist_ok=True)
     with open(file_path, "w") as json_file:
-        json.dump(asdict(user_profile), json_file, indent=4)
+        json.dump(matches, json_file, indent=4)
 
 
 def write_user_profile_image(user_id: str, image_bytes: bytes) -> None:
