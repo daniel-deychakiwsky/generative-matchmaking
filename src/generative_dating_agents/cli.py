@@ -1,9 +1,17 @@
+from typing import List
+
 import click
 
 from .data.users import generate_profiles as _generate_profiles
-from .database.chroma import delete_collection as _delete_collection
-from .database.chroma import load_collection as _load_collection
-from .database.chroma import query_collection as _query_collection
+from .database.chroma import (
+    delete_user_profile_collection as _delete_user_profile_collection,
+)
+from .database.chroma import (
+    load_user_profile_collection as _load_user_profile_collection,
+)
+from .database.chroma import (
+    query_user_profile_collection as _query_user_profile_collection,
+)
 
 
 @click.command()
@@ -33,7 +41,7 @@ from .database.chroma import query_collection as _query_collection
     default="profile.png",
     help="Output user profile file name",
 )
-def generate_profiles(
+def generate_user_profiles(
     num_profiles: int,
     model: str,
     max_tokens: int,
@@ -80,15 +88,16 @@ def generate_profiles(
     default="cosine",
     help="Chroma collection distance function.",
 )
-def load_collection(
+def load_user_profile_collection(
     input_directory: str, input_file_name: str, collection_name: str, distance: str
 ) -> None:
     click.echo("Loading database collection")
-    _load_collection(
+    _load_user_profile_collection(
         input_directory=input_directory,
         input_file_name=input_file_name,
         collection_name=collection_name,
         distance=distance,
+        verbose=True,
     )
     click.echo("Successfully loaded database collection")
 
@@ -100,18 +109,21 @@ def load_collection(
     default="user_profiles",
     help="Chroma collection name.",
 )
-@click.option("--query-text", type=str, help="Chroma query text.")
+@click.option("--query-text", type=str, multiple=True, help="Chroma query texts.")
 @click.option(
     "--n-results", type=int, default=2, help="Chroma number of query results."
 )
-def query_collection(collection_name: str, query_text: str, n_results: int) -> None:
+def query_user_profile_collection(
+    collection_name: str, query_text: List[str], n_results: int
+) -> None:
     click.echo("Querying database collection")
-    _query_collection(
+    _query_user_profile_collection(
         collection_name=collection_name,
-        query_texts=[query_text],
+        query_texts=query_text,
         n_results=n_results,
         where=None,
         where_document=None,
+        verbose=True,
     )
     click.echo("Successfully queried database collection")
 
@@ -123,9 +135,9 @@ def query_collection(collection_name: str, query_text: str, n_results: int) -> N
     default="user_profiles",
     help="Chroma collection name.",
 )
-def delete_collection(collection_name: str) -> None:
+def delete_user_profile_collection(collection_name: str) -> None:
     click.echo("Deleting database collection")
-    _delete_collection(
+    _delete_user_profile_collection(
         collection_name=collection_name,
     )
     click.echo("Successfully deleted database collection")
@@ -136,10 +148,10 @@ def cli() -> None:
     pass
 
 
-cli.add_command(generate_profiles)
-cli.add_command(load_collection)
-cli.add_command(query_collection)
-cli.add_command(delete_collection)
+cli.add_command(generate_user_profiles)
+cli.add_command(load_user_profile_collection)
+cli.add_command(query_user_profile_collection)
+cli.add_command(delete_user_profile_collection)
 
 if __name__ == "__main__":
     cli()

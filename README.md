@@ -59,7 +59,7 @@ Generate dating user profiles and profile images with defaults.
 Invokes OpenAI LLM and text-to-image.
 
 ```sh
-python3 -m src.generative_dating_agents.cli generate-profiles
+python3 -m src.generative_dating_agents.cli generate-user-profiles
 ```
 
 ### Loading and Querying Vector DB
@@ -84,13 +84,13 @@ docker-compose up -d --build
 Load collection with defaults.
 
 ```shell
-python3 -m src.generative_dating_agents.cli load-collection
+python3 -m src.generative_dating_agents.cli load-user-profile-collection
 ```
 
 Query collection with defaults.
 
 ```shell
-python3 -m src.generative_dating_agents.cli query-collection --n-results 5 --query-text \
+python3 -m src.generative_dating_agents.cli query-user-profile-collection --n-results 5 --query-text \
 "The user is seeking a man between the ages of 30 and 40,
 who is at least 5'8\" and no taller than 6'3\". He should
 have no children but wish to have them in the future. His
@@ -112,7 +112,7 @@ for long-term dating and a preference for monogamy."
 Delete collection with defaults.
 
 ```shell
-python3 -m src.generative_dating_agents.cli delete-collection
+python3 -m src.generative_dating_agents.cli delete-user-profile-collection
 ```
 
 ## Installation as Package
