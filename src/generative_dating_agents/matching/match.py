@@ -4,7 +4,7 @@ from typing import Collection, Dict, List
 from ..data.schemas import UserProfile
 from ..database.chroma import QueryResult, query_user_profile_collection
 from ..llm.oai import Conversation, chat_completion
-from ..utils.io import read_user_profile
+from ..utils.io import read_user_profile, write_user_profile_matches
 from .schemas import most_compatible_user_id_schema
 
 
@@ -132,20 +132,33 @@ def find_matches(
     )
 
     if verbose:
+        print()
+        print("--" * 50)
+        print("Query user")
+        print("--" * 50)
+        print()
+        print(query_user_profile)
+        print()
+        print("--" * 50)
         print("Retrieved candidates")
+        print("--" * 50)
+        print()
         for retrieved_user_profile in retrieved_candidate_user_profiles:
             print(retrieved_user_profile)
             print()
+        print("--" * 50)
         print("Ranked candidates")
+        print("--" * 50)
+        print()
         for ranked_user_profile in ranked_candidate_user_profiles:
             print(ranked_user_profile)
             print()
 
-    return {
-        "retrieved_candidate_user_ids": [
-            p.user_id for p in retrieved_candidate_user_profiles
-        ],
-        "ranked_candidate_user_ids": [
-            p.user_id for p in ranked_candidate_user_profiles
-        ],
+    matches: Dict[str, List[str]] = {
+        "retrieved": [p.user_id for p in retrieved_candidate_user_profiles],
+        "ranked": [p.user_id for p in ranked_candidate_user_profiles],
     }
+
+    write_user_profile_matches(user_profile=query_user_profile, matches=matches)
+
+    return matches
