@@ -1,16 +1,15 @@
 import copy
 import json
-import os
 import random
 import uuid
 from typing import Collection, Dict, List, Tuple
 
 from ..llm.oai import Conversation, chat_completion, text_to_image
-from ..utils.io import write_user_profile_as_json, write_user_profile_image_bytes
+from ..utils.io import write_user_profile, write_user_profile_image
 from ..utils.types import JSON
 from .schemas import UserProfile, user_profile_function_schema
 
-SYSTEM_PROMPT: str = "You are a helpful assistant."
+DEFAULT_SYSTEM_PROMPT: str = "You are a helpful assistant."
 
 
 def _generate_user_profile(
@@ -25,7 +24,7 @@ def _generate_user_profile(
         prompt_one += " " + prompt_sfx
 
     conversation: Conversation = Conversation()
-    conversation.add_system_message(message=SYSTEM_PROMPT)
+    conversation.add_system_message(message=DEFAULT_SYSTEM_PROMPT)
     conversation.add_user_message(message=prompt_one)
 
     messages_instruct_generate_user_names: List[
@@ -83,7 +82,7 @@ def _generate_user_summary(
     user_profile_json_copy_str: str = json.dumps(user_profile_json_copy, indent=4)
 
     conversation: Conversation = Conversation()
-    conversation.add_system_message(message=SYSTEM_PROMPT)
+    conversation.add_system_message(message=DEFAULT_SYSTEM_PROMPT)
     conversation.add_user_message(message=user_profile_json_copy_str + "\n\n" + prompt)
 
     messages_instruct_summarize: List[Dict[str, str]] = conversation.get_messages()
@@ -148,9 +147,6 @@ def generate_profiles(
     model: str,
     max_tokens: int,
     temperature: float,
-    output_directory: str,
-    output_file_name: str,
-    output_image_file_name: str,
 ) -> None:
     for _ in range(0, num_profiles):
         user_profile_json: JSON = _generate_user_profile(
@@ -173,21 +169,5 @@ def generate_profiles(
 
         image_bytes: bytes = _generate_user_profile_image(user_profile=user_profile)
 
-        output_directory_path: str = os.path.join(
-            os.getcwd(),
-            output_directory,
-            user_profile.user_id,
-        )
-        output_user_profile_file_path = os.path.join(
-            output_directory_path, output_file_name
-        )
-        output_user_profile_image_file_path = os.path.join(
-            output_directory_path, output_image_file_name
-        )
-
-        write_user_profile_as_json(
-            user_profile=user_profile, file_path=output_user_profile_file_path
-        )
-        write_user_profile_image_bytes(
-            image_bytes=image_bytes, file_path=output_user_profile_image_file_path
-        )
+        write_user_profile(user_profile=user_profile)
+        write_user_profile_image(user_id=user_profile.user_id, image_bytes=image_bytes)

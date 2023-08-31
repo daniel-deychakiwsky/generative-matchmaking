@@ -1,4 +1,3 @@
-import os
 from typing import List, Optional
 
 import chromadb
@@ -16,7 +15,7 @@ from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
 from ..data.schemas import UserProfile
-from ..utils.io import read_user_profile_from_json
+from ..utils.io import read_all_user_profiles
 
 DEFAULT_USER_PROFILES_COLLECTION_NAME: str = "user_profiles"
 DEFAULT_DISTANCE: str = "cos"
@@ -75,31 +74,18 @@ class ChromaVectorDatabaseClient:
     ) -> None:
         self.client.delete_collection(name=name)
 
-    def count_collection(self, collection_name: str) -> int:
-        return self.client.get_collection(name=collection_name).count()
+    def count_collection(self, name: str) -> int:
+        return self.client.get_collection(name=name).count()
 
 
 def load_user_profile_collection(
-    input_directory: str,
-    input_file_name: str,
     collection_name: str = DEFAULT_USER_PROFILES_COLLECTION_NAME,
     distance: str = DEFAULT_DISTANCE,
     verbose: bool = False,
 ) -> None:
-    input_directory_path: str = os.path.join(os.getcwd(), input_directory)
-    user_profiles: List[UserProfile] = [
-        read_user_profile_from_json(
-            file_path=os.path.join(input_directory_path, d, input_file_name)
-        )
-        for d in os.listdir(input_directory_path)
-        if os.path.isdir(os.path.join(input_directory_path, d))
-    ]
-
+    user_profiles: List[UserProfile] = read_all_user_profiles()
     user_ids: List[str] = [p.user_id for p in user_profiles]
     user_profile_summaries: List[str] = [p.profile_summary for p in user_profiles]
-    user_profile_preferences_summaries: Optional[OneOrMany[Metadata]] = [
-        {"preferences_summary": p.preferences_summary} for p in user_profiles
-    ]
 
     vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
     vdb.create_collection(name=collection_name, distance=distance)
@@ -107,13 +93,12 @@ def load_user_profile_collection(
         name=collection_name,
         ids=user_ids,
         documents=user_profile_summaries,
-        meta_datas=user_profile_preferences_summaries,
     )
 
     if verbose:
         print(
-            "Collection item count:",
-            vdb.count_collection(collection_name=collection_name),
+            "Collection count:",
+            vdb.count_collection(name=collection_name),
         )
 
 

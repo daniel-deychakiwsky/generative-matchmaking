@@ -23,32 +23,11 @@ from .database.chroma import (
 @click.option(
     "--temperature", type=float, default=1.05, help="OpenAI model temperature."
 )
-@click.option(
-    "--output-directory",
-    type=str,
-    default="profiles",
-    help="Output user profile directory",
-)
-@click.option(
-    "--output-file-name",
-    type=str,
-    default="profile.json",
-    help="Output user profile file name",
-)
-@click.option(
-    "--output-image-file-name",
-    type=str,
-    default="profile.png",
-    help="Output user profile file name",
-)
 def generate_user_profiles(
     num_profiles: int,
     model: str,
     max_tokens: int,
     temperature: float,
-    output_directory: str,
-    output_file_name: str,
-    output_image_file_name: str,
 ) -> None:
     click.echo("Generating user profiles")
     _generate_profiles(
@@ -56,46 +35,20 @@ def generate_user_profiles(
         model=model,
         max_tokens=max_tokens,
         temperature=temperature,
-        output_directory=output_directory,
-        output_file_name=output_file_name,
-        output_image_file_name=output_image_file_name,
     )
     click.echo("Successfully generated user profiles")
 
 
 @click.command()
 @click.option(
-    "--input-directory",
-    type=str,
-    default="profiles",
-    help="Input user profiles directory",
-)
-@click.option(
-    "--input-file-name",
-    type=str,
-    default="profile.json",
-    help="Input user profiles file name",
-)
-@click.option(
-    "--collection-name",
-    type=str,
-    default="user_profiles",
-    help="Chroma collection name.",
-)
-@click.option(
     "--distance",
     type=click.Choice(choices=["cosine", "l2", "ip"], case_sensitive=True),
     default="cosine",
     help="Chroma collection distance function.",
 )
-def load_user_profile_collection(
-    input_directory: str, input_file_name: str, collection_name: str, distance: str
-) -> None:
+def load_user_profile_collection(distance: str) -> None:
     click.echo("Loading database collection")
     _load_user_profile_collection(
-        input_directory=input_directory,
-        input_file_name=input_file_name,
-        collection_name=collection_name,
         distance=distance,
         verbose=True,
     )
@@ -103,22 +56,13 @@ def load_user_profile_collection(
 
 
 @click.command()
-@click.option(
-    "--collection-name",
-    type=str,
-    default="user_profiles",
-    help="Chroma collection name.",
-)
 @click.option("--query-text", type=str, multiple=True, help="Chroma query texts.")
 @click.option(
     "--n-results", type=int, default=2, help="Chroma number of query results."
 )
-def query_user_profile_collection(
-    collection_name: str, query_text: List[str], n_results: int
-) -> None:
+def query_user_profile_collection(query_text: List[str], n_results: int) -> None:
     click.echo("Querying database collection")
     _query_user_profile_collection(
-        collection_name=collection_name,
         query_texts=query_text,
         n_results=n_results,
         where=None,
@@ -129,17 +73,9 @@ def query_user_profile_collection(
 
 
 @click.command()
-@click.option(
-    "--collection-name",
-    type=str,
-    default="user_profiles",
-    help="Chroma collection name.",
-)
-def delete_user_profile_collection(collection_name: str) -> None:
+def delete_user_profile_collection() -> None:
     click.echo("Deleting database collection")
-    _delete_user_profile_collection(
-        collection_name=collection_name,
-    )
+    _delete_user_profile_collection()
     click.echo("Successfully deleted database collection")
 
 

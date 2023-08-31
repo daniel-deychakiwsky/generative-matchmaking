@@ -11,7 +11,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class ConversationError(Exception):
     def __init__(self, message: str) -> None:
-        super().__init__(f"Conversation: {message}")
+        super().__init__(f"ConversationError: {message}")
 
 
 class Conversation:
