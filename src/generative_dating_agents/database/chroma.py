@@ -1,4 +1,3 @@
-import os
 from typing import List, Optional
 
 import chromadb
@@ -16,7 +15,10 @@ from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
 from ..data.schemas import UserProfile
-from ..utils.io import read_user_profile_from_json
+from ..utils.io import read_all_user_profiles
+
+DEFAULT_USER_PROFILES_COLLECTION_NAME: str = "user_profiles"
+DEFAULT_DISTANCE: str = "cos"
 
 
 class ChromaVectorDatabaseClient:
@@ -25,7 +27,7 @@ class ChromaVectorDatabaseClient:
             host="localhost", port="8000", settings=Settings(anonymized_telemetry=False)
         )
 
-    def create_collection(self, name: str, distance: str = "cosine") -> None:
+    def create_collection(self, name: str, distance: str = DEFAULT_DISTANCE) -> None:
         embedding_function: Optional[
             EmbeddingFunction
         ] = embedding_functions.DefaultEmbeddingFunction()
@@ -64,32 +66,6 @@ class ChromaVectorDatabaseClient:
             where_document=where_document,
         )
 
-        print("-" * 50)
-        print("query:", query_texts)
-        print("-" * 50)
-
-        ids_list = query_result.get("ids")
-        distances_list = query_result.get("distances")
-        documents_list = query_result.get("documents")
-
-        if (
-            ids_list is not None
-            and distances_list is not None
-            and documents_list is not None
-        ):
-            ids_inner_list = ids_list[0] if len(ids_list) > 0 else []
-            distances_inner_list = distances_list[0] if len(distances_list) > 0 else []
-            documents_inner_list = documents_list[0] if len(documents_list) > 0 else []
-
-            for i in range(len(ids_inner_list)):
-                print("index:", i)
-                print("id:", ids_inner_list[i])
-                print("distance:", distances_inner_list[i])
-                print("document:", documents_inner_list[i])
-                print("-" * 50)
-        else:
-            print("No valid data in query_result.")
-
         return query_result
 
     def delete_collection(
@@ -98,19 +74,16 @@ class ChromaVectorDatabaseClient:
     ) -> None:
         self.client.delete_collection(name=name)
 
+    def count_collection(self, name: str) -> int:
+        return self.client.get_collection(name=name).count()
 
-def load_collection(
-    input_directory: str, input_file_name: str, collection_name: str, distance: str
+
+def load_user_profile_collection(
+    collection_name: str = DEFAULT_USER_PROFILES_COLLECTION_NAME,
+    distance: str = DEFAULT_DISTANCE,
+    verbose: bool = False,
 ) -> None:
-    input_directory_path: str = os.path.join(os.getcwd(), input_directory)
-    user_profiles: List[UserProfile] = [
-        read_user_profile_from_json(
-            file_path=os.path.join(input_directory_path, d, input_file_name)
-        )
-        for d in os.listdir(input_directory_path)
-        if os.path.isdir(os.path.join(input_directory_path, d))
-    ]
-
+    user_profiles: List[UserProfile] = read_all_user_profiles()
     user_ids: List[str] = [p.user_id for p in user_profiles]
     user_profile_summaries: List[str] = [p.profile_summary for p in user_profiles]
 
@@ -122,16 +95,24 @@ def load_collection(
         documents=user_profile_summaries,
     )
 
+    if verbose:
+        print(
+            "Collection count:",
+            vdb.count_collection(name=collection_name),
+        )
 
-def query_collection(
-    collection_name: str,
+
+def query_user_profile_collection(
     query_texts: Optional[OneOrMany[Document]],
     n_results: int,
+    collection_name: str = DEFAULT_USER_PROFILES_COLLECTION_NAME,
     where: Optional[Where] = None,
     where_document: Optional[WhereDocument] = None,
+    verbose: bool = False,
 ) -> QueryResult:
     vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
-    return vdb.query_collection(
+
+    query_result: QueryResult = vdb.query_collection(
         name=collection_name,
         query_texts=query_texts,
         n_results=n_results,
@@ -139,7 +120,14 @@ def query_collection(
         where_document=where_document,
     )
 
+    if verbose:
+        print(query_result)
 
-def delete_collection(collection_name: str) -> None:
+    return query_result
+
+
+def delete_user_profile_collection(
+    collection_name: str = DEFAULT_USER_PROFILES_COLLECTION_NAME,
+) -> None:
     vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
     vdb.delete_collection(name=collection_name)

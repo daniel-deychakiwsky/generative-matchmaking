@@ -438,6 +438,7 @@ user_profile_function_schema = {
 }
 
 
+# TODO: clean inputs, e.g., .strip()
 @dataclass
 class PartnerPreferences:
     minimum_age: int
@@ -464,6 +465,7 @@ class PartnerPreferences:
     education_level: List[str]
 
 
+# TODO: clean inputs, e.g., .strip()
 @dataclass
 class UserProfile:
     name: str

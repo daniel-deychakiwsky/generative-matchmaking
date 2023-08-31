@@ -1,133 +1,123 @@
+from typing import List
+
 import click
 
 from .data.users import generate_profiles as _generate_profiles
-from .database.chroma import delete_collection as _delete_collection
-from .database.chroma import load_collection as _load_collection
-from .database.chroma import query_collection as _query_collection
+from .database.chroma import (
+    delete_user_profile_collection as _delete_user_profile_collection,
+)
+from .database.chroma import (
+    load_user_profile_collection as _load_user_profile_collection,
+)
+from .database.chroma import (
+    query_user_profile_collection as _query_user_profile_collection,
+)
+from .matching.match import find_matches as _find_matches
 
 
 @click.command()
 @click.option(
-    "--num-profiles", type=int, default=10, help="Number of user profiles to generate."
+    "--n-profiles", type=int, default=10, help="Number of user profiles to generate."
 )
 @click.option("--model", type=str, default="gpt-4-0613", help="OpenAI model name.")
 @click.option("--max-tokens", type=int, default=5000, help="OpenAI model max tokens.")
 @click.option(
     "--temperature", type=float, default=1.05, help="OpenAI model temperature."
 )
-@click.option(
-    "--output-directory",
-    type=str,
-    default="profiles",
-    help="Output user profile directory",
-)
-@click.option(
-    "--output-file-name",
-    type=str,
-    default="profile.json",
-    help="Output user profile file name",
-)
-@click.option(
-    "--output-image-file-name",
-    type=str,
-    default="profile.png",
-    help="Output user profile file name",
-)
-def generate_profiles(
-    num_profiles: int,
+def generate_user_profiles(
+    n_profiles: int,
     model: str,
     max_tokens: int,
     temperature: float,
-    output_directory: str,
-    output_file_name: str,
-    output_image_file_name: str,
 ) -> None:
     click.echo("Generating user profiles")
     _generate_profiles(
-        num_profiles=num_profiles,
+        n_profiles=n_profiles,
         model=model,
         max_tokens=max_tokens,
         temperature=temperature,
-        output_directory=output_directory,
-        output_file_name=output_file_name,
-        output_image_file_name=output_image_file_name,
     )
     click.echo("Successfully generated user profiles")
 
 
 @click.command()
 @click.option(
-    "--input-directory",
-    type=str,
-    default="profiles",
-    help="Input user profiles directory",
-)
-@click.option(
-    "--input-file-name",
-    type=str,
-    default="profile.json",
-    help="Input user profiles file name",
-)
-@click.option(
-    "--collection-name",
-    type=str,
-    default="user_profiles",
-    help="Chroma collection name.",
-)
-@click.option(
     "--distance",
     type=click.Choice(choices=["cosine", "l2", "ip"], case_sensitive=True),
     default="cosine",
     help="Chroma collection distance function.",
 )
-def load_collection(
-    input_directory: str, input_file_name: str, collection_name: str, distance: str
-) -> None:
+def load_user_profile_collection(distance: str) -> None:
     click.echo("Loading database collection")
-    _load_collection(
-        input_directory=input_directory,
-        input_file_name=input_file_name,
-        collection_name=collection_name,
+    _load_user_profile_collection(
         distance=distance,
+        verbose=True,
     )
     click.echo("Successfully loaded database collection")
 
 
 @click.command()
-@click.option(
-    "--collection-name",
-    type=str,
-    default="user_profiles",
-    help="Chroma collection name.",
-)
-@click.option("--query-text", type=str, help="Chroma query text.")
+@click.option("--query-text", type=str, multiple=True, help="Chroma query texts.")
 @click.option(
     "--n-results", type=int, default=2, help="Chroma number of query results."
 )
-def query_collection(collection_name: str, query_text: str, n_results: int) -> None:
+def query_user_profile_collection(query_text: List[str], n_results: int) -> None:
     click.echo("Querying database collection")
-    _query_collection(
-        collection_name=collection_name,
-        query_texts=[query_text],
+    _query_user_profile_collection(
+        query_texts=query_text,
         n_results=n_results,
         where=None,
         where_document=None,
+        verbose=True,
     )
     click.echo("Successfully queried database collection")
 
 
 @click.command()
 @click.option(
-    "--collection-name",
+    "--user-id",
     type=str,
-    default="user_profiles",
-    help="Chroma collection name.",
+    default="f0e35556-8760-41ae-b0f9-4c777c48b170",
+    help="Query matching user id.",
 )
-def delete_collection(collection_name: str) -> None:
-    click.echo("Deleting database collection")
-    _delete_collection(
-        collection_name=collection_name,
+@click.option(
+    "--n-retrievals", type=int, default=20, help="Number of retrieved user profiles."
+)
+@click.option(
+    "--n-matches", type=int, default=5, help="Number of ranked user profiles."
+)
+@click.option(
+    "--model", type=str, default="gpt-3.5-turbo-16k-0613", help="OpenAI model name."
+)
+@click.option("--max-tokens", type=int, default=5000, help="OpenAI model max tokens.")
+@click.option(
+    "--temperature", type=float, default=0.0, help="OpenAI model temperature."
+)
+def find_matches(
+    user_id: str,
+    n_retrievals: int,
+    n_matches: int,
+    model: str,
+    temperature: float,
+    max_tokens: int,
+) -> None:
+    click.echo("Finding candidate user matches")
+    _find_matches(
+        user_id=user_id,
+        n_retrievals=n_retrievals,
+        n_matches=n_matches,
+        model=model,
+        temperature=temperature,
+        max_tokens=max_tokens,
+        verbose=True,
     )
+    click.echo("Successfully found candidate user matches")
+
+
+@click.command()
+def delete_user_profile_collection() -> None:
+    click.echo("Deleting database collection")
+    _delete_user_profile_collection()
     click.echo("Successfully deleted database collection")
 
 
@@ -136,10 +126,11 @@ def cli() -> None:
     pass
 
 
-cli.add_command(generate_profiles)
-cli.add_command(load_collection)
-cli.add_command(query_collection)
-cli.add_command(delete_collection)
+cli.add_command(generate_user_profiles)
+cli.add_command(load_user_profile_collection)
+cli.add_command(query_user_profile_collection)
+cli.add_command(delete_user_profile_collection)
+cli.add_command(find_matches)
 
 if __name__ == "__main__":
     cli()
