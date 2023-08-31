@@ -14,11 +14,11 @@ class MatchingError(Exception):
 
 
 def _retrieve_candidate_user_profiles(
-    query_user_profile: UserProfile, num_retrievals: int
+    query_user_profile: UserProfile, n_retrievals: int
 ) -> List[UserProfile]:
     query_result: QueryResult = query_user_profile_collection(
         query_texts=query_user_profile.preferences_summary,
-        n_results=num_retrievals,
+        n_results=n_retrievals,
     )
 
     return [
@@ -52,7 +52,10 @@ def _build_ranking_prompt(candidate_user_descriptions: Dict[str, str]) -> str:
 def _rank_candidate_user_profiles(
     query_user_profile: UserProfile,
     candidate_user_profiles: List[UserProfile],
-    num_matches: int,
+    n_matches: int,
+    model: str,
+    temperature: float,
+    max_tokens: int,
 ) -> List[UserProfile]:
     ranked_candidate_user_ids: List[str] = []
 
@@ -67,7 +70,7 @@ def _rank_candidate_user_profiles(
         for candidate_user_profile in candidate_user_profiles
     }
 
-    for _ in range(num_matches):
+    for _ in range(n_matches):
         ranking_prompt: str = _build_ranking_prompt(
             candidate_user_descriptions=candidate_user_descriptions
         )
@@ -84,10 +87,10 @@ def _rank_candidate_user_profiles(
         messages: List[Dict[str, str]] = conversation.get_messages()
 
         most_compatible_user_id_json_str: str = chat_completion(
-            model="gpt-3.5-turbo-16k-0613",
+            model=model,
             messages=messages,
-            temperature=0.0,
-            max_tokens=5000,
+            temperature=temperature,
+            max_tokens=max_tokens,
             functions=functions,
             function_call=function_call,
         )
@@ -102,29 +105,47 @@ def _rank_candidate_user_profiles(
 
 
 def find_matches(
-    user_id: str, num_retrievals: int, num_matches: int
-) -> List[UserProfile]:
-    if num_matches > num_retrievals:
+    user_id: str,
+    n_retrievals: int,
+    n_matches: int,
+    model: str,
+    temperature: float,
+    max_tokens: int,
+    verbose: bool,
+) -> Dict[str, List[str]]:
+    if n_matches > n_retrievals:
         raise MatchingError("invalid")
 
     query_user_profile: UserProfile = read_user_profile(user_id=user_id)
-
-    candidate_user_profiles: List[UserProfile] = _retrieve_candidate_user_profiles(
-        query_user_profile=query_user_profile, num_retrievals=num_retrievals
+    retrieved_candidate_user_profiles: List[
+        UserProfile
+    ] = _retrieve_candidate_user_profiles(
+        query_user_profile=query_user_profile, n_retrievals=n_retrievals
     )
-
-    adjusted_num_matches: int = min(num_matches, len(candidate_user_profiles))
     ranked_candidate_user_profiles: List[UserProfile] = _rank_candidate_user_profiles(
         query_user_profile=query_user_profile,
-        candidate_user_profiles=candidate_user_profiles,
-        num_matches=adjusted_num_matches,
+        candidate_user_profiles=retrieved_candidate_user_profiles,
+        n_matches=min(n_matches, len(retrieved_candidate_user_profiles)),
+        model=model,
+        temperature=temperature,
+        max_tokens=max_tokens,
     )
 
-    print(ranked_candidate_user_profiles)
+    if verbose:
+        print("Retrieved candidates")
+        for retrieved_user_profile in retrieved_candidate_user_profiles:
+            print(retrieved_user_profile)
+            print()
+        print("Ranked candidates")
+        for ranked_user_profile in ranked_candidate_user_profiles:
+            print(ranked_user_profile)
+            print()
 
-    return ranked_candidate_user_profiles
-
-
-find_matches(
-    user_id="f0e35556-8760-41ae-b0f9-4c777c48b170", num_retrievals=20, num_matches=5
-)
+    return {
+        "retrieved_candidate_user_ids": [
+            p.user_id for p in retrieved_candidate_user_profiles
+        ],
+        "ranked_candidate_user_ids": [
+            p.user_id for p in ranked_candidate_user_profiles
+        ],
+    }

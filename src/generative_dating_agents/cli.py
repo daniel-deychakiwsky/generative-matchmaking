@@ -12,11 +12,12 @@ from .database.chroma import (
 from .database.chroma import (
     query_user_profile_collection as _query_user_profile_collection,
 )
+from .matching.match import find_matches as _find_matches
 
 
 @click.command()
 @click.option(
-    "--num-profiles", type=int, default=10, help="Number of user profiles to generate."
+    "--n-profiles", type=int, default=10, help="Number of user profiles to generate."
 )
 @click.option("--model", type=str, default="gpt-4-0613", help="OpenAI model name.")
 @click.option("--max-tokens", type=int, default=5000, help="OpenAI model max tokens.")
@@ -24,14 +25,14 @@ from .database.chroma import (
     "--temperature", type=float, default=1.05, help="OpenAI model temperature."
 )
 def generate_user_profiles(
-    num_profiles: int,
+    n_profiles: int,
     model: str,
     max_tokens: int,
     temperature: float,
 ) -> None:
     click.echo("Generating user profiles")
     _generate_profiles(
-        num_profiles=num_profiles,
+        n_profiles=n_profiles,
         model=model,
         max_tokens=max_tokens,
         temperature=temperature,
@@ -73,6 +74,47 @@ def query_user_profile_collection(query_text: List[str], n_results: int) -> None
 
 
 @click.command()
+@click.option(
+    "--user-id",
+    type=str,
+    default="f0e35556-8760-41ae-b0f9-4c777c48b170",
+    help="Query matching user id.",
+)
+@click.option(
+    "--n-retrievals", type=int, default=20, help="Number of retrieved user profiles."
+)
+@click.option(
+    "--n-matches", type=int, default=5, help="Number of ranked user profiles."
+)
+@click.option(
+    "--model", type=str, default="gpt-3.5-turbo-16k-0613", help="OpenAI model name."
+)
+@click.option("--max-tokens", type=int, default=5000, help="OpenAI model max tokens.")
+@click.option(
+    "--temperature", type=float, default=0.0, help="OpenAI model temperature."
+)
+def find_matches(
+    user_id: str,
+    n_retrievals: int,
+    n_matches: int,
+    model: str,
+    temperature: float,
+    max_tokens: int,
+) -> None:
+    click.echo("Finding candidate user matches")
+    _find_matches(
+        user_id=user_id,
+        n_retrievals=n_retrievals,
+        n_matches=n_matches,
+        model=model,
+        temperature=temperature,
+        max_tokens=max_tokens,
+        verbose=True,
+    )
+    click.echo("Successfully found candidate user matches")
+
+
+@click.command()
 def delete_user_profile_collection() -> None:
     click.echo("Deleting database collection")
     _delete_user_profile_collection()
@@ -88,6 +130,7 @@ cli.add_command(generate_user_profiles)
 cli.add_command(load_user_profile_collection)
 cli.add_command(query_user_profile_collection)
 cli.add_command(delete_user_profile_collection)
+cli.add_command(find_matches)
 
 if __name__ == "__main__":
     cli()

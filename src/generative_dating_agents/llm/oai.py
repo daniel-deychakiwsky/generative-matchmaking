@@ -112,7 +112,7 @@ def chat_completion(
 def text_to_image(
     prompt: str,
     response_format: str = "b64_json",
-    num_images: int = 1,
+    n_images: int = 1,
     size: str = "256x256",
 ) -> bytes:
     truncated_prompt: str = prompt[:397] + "..." if len(prompt) > 400 else prompt
@@ -120,7 +120,7 @@ def text_to_image(
     response: Image = Image.create(
         prompt=truncated_prompt,
         response_format=response_format,
-        n=num_images,
+        n=n_images,
         size=size,
     )
 

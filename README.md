@@ -115,6 +115,15 @@ Delete collection with defaults.
 python3 -m src.generative_dating_agents.cli delete-user-profile-collection
 ```
 
+## Matchmaking
+
+Run matchmaking retrieval / ranking algorithm for given user id.
+Requires steps from above: OpenAI token set, generated users, and loaded vector database.
+
+```shell
+python3 -m src.generative_dating_agents.cli find-matches --user-id "f0e35556-8760-41ae-b0f9-4c777c48b170"
+```
+
 ## Installation as Package
 
 ```sh

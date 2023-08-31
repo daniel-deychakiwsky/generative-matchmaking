@@ -143,12 +143,12 @@ def _generate_user_profile_image(user_profile: UserProfile) -> bytes:
 
 
 def generate_profiles(
-    num_profiles: int,
+    n_profiles: int,
     model: str,
     max_tokens: int,
     temperature: float,
 ) -> None:
-    for _ in range(0, num_profiles):
+    for _ in range(0, n_profiles):
         user_profile_json: JSON = _generate_user_profile(
             model=model, max_tokens=max_tokens, temperature=temperature
         )
