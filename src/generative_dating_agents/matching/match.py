@@ -45,14 +45,16 @@ def _extract_user_description(user_profile: UserProfile) -> str:
 
 def _build_ranking_system_prompt(query_user_profile: UserProfile) -> str:
     return (
-        "You are an expert dating matchmaker.\n\nAssume the identity of the following user and think like they would.\n\n"
+        "You are an expert dating matchmaker.\n\n"
+        "Assume the identity of the following user and think like they would.\n\n"
         + _extract_user_description(user_profile=query_user_profile)
     )
 
 
 def _build_ranking_prompt(candidate_user_descriptions: Dict[str, str]) -> str:
     return (
-        "Pick one user that you think is most compatible with you. Think step-by-step and explain why. Output the corresponding user id.\n\n"
+        "Pick one user that you think is most compatible with you. "
+        "Think step-by-step and explain why. Output the corresponding user id.\n\n"
         + "\n\n".join([k + ": " + v for k, v in candidate_user_descriptions.items()])
     )
 
