@@ -45,9 +45,9 @@ export OPENAI_API_KEY="{{YOUR OPEN AI KEY}}"
 ```
 
 This command will generate synthetic dating
-user profiles images invoking OpenAI chat-completion
-and text-to-image models. It runs serially. See default
-arguments.
+user profiles invoking OpenAI chat-completion
+and text-to-image models.
+It runs serially to avoid rate limiting failure modes.
 
 ```sh
 python3 -m src.generative_dating_agents.cli \
