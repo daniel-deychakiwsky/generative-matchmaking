@@ -103,8 +103,16 @@ def _generate_user_profile_summaries(
     max_tokens: int,
     temperature: float,
 ) -> Tuple[str, str]:
-    prompt_sum_profile: str = "Summarize the user's dating profile.\nInclude all fields other than partner_preferences.\nOutput a concise paragraph."
-    prompt_sum_preferences: str = "Summarize the user's dating partner_preferences.\nInclude partner_preferences fields only and nothing else.\nOutput a concise paragraph."
+    prompt_sum_profile: str = (
+        "Summarize the user's dating profile.\n"
+        "Include all fields other than partner_preferences.\n"
+        "Output a concise paragraph."
+    )
+    prompt_sum_preferences: str = (
+        "Summarize the user's dating partner_preferences.\n"
+        "Include partner_preferences fields only and nothing "
+        "else.\nOutput a concise paragraph."
+    )
 
     user_profile_summary: str = _generate_user_summary(
         user_profile_json=user_profile_json,
