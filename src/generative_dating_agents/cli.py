@@ -123,12 +123,6 @@ def find_matches(
 
 @click.command()
 @click.option(
-    "--user-id",
-    type=str,
-    default="f0e35556-8760-41ae-b0f9-4c777c48b170",
-    help="Query matching user id.",
-)
-@click.option(
     "--n-retrievals", type=int, default=20, help="Number of retrieved user profiles."
 )
 @click.option(
@@ -143,7 +137,6 @@ def find_matches(
 )
 @click.option("--verbose", type=bool, default=False, help="Verbosity.")
 def find_matches_for_all(
-    user_id: str,
     n_retrievals: int,
     n_matches: int,
     model: str,
