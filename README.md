@@ -1,16 +1,17 @@
-# generative-dating-agents
+# Generative Dating Agents
 
-## Project Pitch
+## Overview
 
-[**Project Pitch Document**](https://docs.google.com/document/d/1Kpphmy4kd4oYcwwQcB1siQmqY4DT5f1P6Vu5Du9Mxj4/edit#heading=h.qfapgtxugnfr)
+TODO
 
-## Setup
+## Running Locally
 
-This project uses
-python poetry for dependency management.
-Follow instructions [here](https://python-poetry.org/docs/#installing-with-the-official-installer)
-for installation. Clone this repository and run the following
-command to install project dependencies in the project's
+### Setup
+
+This project uses poetry for python dependency management.
+Follow the instructions [here](https://python-poetry.org/docs/#installing-with-the-official-installer)
+for installation. Once, you've done that, clone this repository and run the following
+command to install the project's dependencies within the poetry-created
 virtual environment.
 
 ```sh
@@ -24,8 +25,6 @@ project's python virtual environment.
 poetry shell
 ```
 
-## Running Locally CLI
-
 The current working directory should be repository root.
 Explore CLI commands.
 
@@ -33,12 +32,14 @@ Explore CLI commands.
  python3 -m src.generative_dating_agents.cli
 ```
 
-### Generate User Profiles
+### CLI Commands
 
-These are already generated but if you'd
+#### Generate User Profiles
+
+These are **already generated** but if you'd
 like to generate more you can run these commands.
 
-* Set your OpenAI API key environment variable
+You'll need to set your OpenAI API key environment variable.
 
 ```sh
 export OPENAI_API_KEY="{{YOUR OPEN AI KEY}}"
@@ -58,11 +59,11 @@ generate-user-profiles \
 --temperature 1.05
 ```
 
-### Spin-up Vector DB
+#### Vectorizing User Profiles
 
 This command will loop over all synthetically generated users
 and load them into a simple open source
-persistent local vector database.
+locally persistent vector database.
 See [Chroma](https://docs.trychroma.com/usage-guide).
 
 ```sh
@@ -104,11 +105,19 @@ python3 -m src.generative_dating_agents.cli \
 delete-user-profile-collection
 ```
 
-## Matchmaking
+#### Matchmaking
 
-Run matchmaking retrieval / ranking algorithm for a given user id.
-Your OpenAI token must be set and the vector database must be loaded.
-This command will attempt to find matches for the provided user id.
+These are **already generated** but if you'd
+like to generate more you can run these commands.
+
+You'll need to set your OpenAI API key environment variable.
+
+```sh
+export OPENAI_API_KEY="{{YOUR OPEN AI KEY}}"
+```
+
+This command will run the matchmaking
+retrieval and ranking algorithms for a given user id.
 
 ```shell
 python3 -m src.generative_dating_agents.cli \
@@ -122,10 +131,11 @@ find-matches \
 --verbose False
 ```
 
-This command will attempt to find matches for all user ids.
-It takes a while as it loops over the function above
-for all users sleeping in between users to prevent
+This command will do the same but for all user ids sequentially.
+It takes a while as it sleeps in between users to prevent
 rate limiting failure modes.
+It will only run for users that don't already have matches generated
+by default.
 
 ```shell
 python3 -m src.generative_dating_agents.cli \
