@@ -41,7 +41,7 @@ like to generate more you can run these commands.
 * Set your OpenAI API key environment variable
 
 ```sh
-export OPENAI_API_KEY={{YOUR OPEN AI KEY}}
+export OPENAI_API_KEY="{{YOUR OPEN AI KEY}}"
 ```
 
 This command will generate synthetic dating
