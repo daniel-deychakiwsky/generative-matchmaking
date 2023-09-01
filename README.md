@@ -50,13 +50,15 @@ Explore CLI commands.
 ### Generate User Profiles
 
 OpenAI balance must be funded.
+Set your OpenAI API key env var.
 
 ```sh
 export OPENAI_API_KEY={{YOUR OPEN AI KEY}}
 ```
 
 Generate dating user profiles and profile images with defaults.
-Invokes OpenAI LLM and text-to-image.
+Invokes OpenAI LLM and text-to-image. Haven't had issues with
+rate limiting running this.
 
 ```sh
 python3 -m src.generative_dating_agents.cli generate-user-profiles
@@ -64,24 +66,9 @@ python3 -m src.generative_dating_agents.cli generate-user-profiles
 
 ### Loading and Querying Vector DB
 
-#### Spin-Up Chroma
-
-[Chroma](https://docs.trychroma.com/usage-guide) is a simple open source vector database.
-
-Requires Docker.
-Ensure your docker daemon is running.
-Clone chroma repository as a sibling to this repository.
-Run chroma locally in client-server mode via docker compose.
-Assumes repository root is current working directory.
-
-```shell
-cd .. &&
-git clone https://github.com/chroma-core/chroma.git &&
-cd chroma &&
-docker-compose up -d --build
-```
-
-Load collection with defaults.
+[Chroma](https://docs.trychroma.com/usage-guide)
+is a simple open source vector database
+that will use a local persistent directory.
 
 ```shell
 python3 -m src.generative_dating_agents.cli load-user-profile-collection
@@ -117,11 +104,23 @@ python3 -m src.generative_dating_agents.cli delete-user-profile-collection
 
 ## Matchmaking
 
+OpenAI balance must be funded.
+
 Run matchmaking retrieval / ranking algorithm for given user id.
 Requires steps from above: OpenAI token set, generated users, and loaded vector database.
 
+Find matches for one user id with defaults.
+
 ```shell
 python3 -m src.generative_dating_agents.cli find-matches --user-id "f0e35556-8760-41ae-b0f9-4c777c48b170"
+```
+
+Find matches for all user ids with defaults.
+This takes a while as it loops over the function above
+for all users sleeping in between users to prevent rate limiting failure modes.
+
+```shell
+python3 -m src.generative_dating_agents.cli find-matches-for-all
 ```
 
 ## Installation as Package
@@ -138,24 +137,30 @@ pytest
 
 ### Documentation
 
-The documentation is automatically generated from the content of the [docs directory](./docs) and from the docstrings
- of the public signatures of the source code. The documentation is updated and published as a [Github project page
+The documentation is automatically generated from the
+content of the [docs directory](./docs) and from the docstrings
+of the public signatures of the source code.
+The documentation is updated and published as a [Github project page
  ](https://pages.github.com/) automatically as part each release.
 
 ### Releasing
 
 Trigger the [Draft release workflow](https://github.com/deychak/generative-dating-agents/actions/workflows/draft_release.yml)
-(press _Run workflow_). This will update the changelog & version and create a GitHub release which is in _Draft_ state.
+(press _Run workflow_).
+This will update the changelog & version and create a GitHub
+release which is in _Draft_ state.
 
 Find the draft release from the
-[GitHub releases](https://github.com/deychak/generative-dating-agents/releases) and publish it. When
- a release is published, it'll trigger [release](https://github.com/deychak/generative-dating-agents/blob/master/.github/workflows/release.yml) workflow which creates PyPI
- release and deploys updated documentation.
+[GitHub releases](https://github.com/deychak/generative-dating-agents/releases)
+and publish it. When a release is published, it'll trigger
+[release](https://github.com/deychak/generative-dating-agents/blob/master/.github/workflows/release.yml)
+workflow which creates PyPI release and deploys updated documentation.
 
-### Pre Commit
+### Pre-commit
 
-Pre-commit hooks run all the auto-formatters (e.g. `black`, `isort`), linters (e.g. `mypy`, `flake8`), and other quality
- checks to make sure the changeset is in good shape before a commit/push happens.
+Pre-commit hooks run all the auto-formatters (e.g. `black`, `isort`),
+linters (e.g. `mypy`, `flake8`), and other quality
+checks to make sure the changeset is in good shape before a commit/push happens.
 
 You can install the hooks with (runs for each commit):
 

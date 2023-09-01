@@ -17,14 +17,16 @@ from chromadb.utils import embedding_functions
 from ..data.schemas import UserProfile
 from ..utils.io import read_all_user_profiles
 
+DEFAULT_CHROMA_PERSISTENT_PATH: str = ".chroma"
 DEFAULT_USER_PROFILES_COLLECTION_NAME: str = "user_profiles"
 DEFAULT_DISTANCE: str = "cos"
 
 
 class ChromaVectorDatabaseClient:
     def __init__(self) -> None:
-        self.client = chromadb.HttpClient(
-            host="localhost", port="8000", settings=Settings(anonymized_telemetry=False)
+        self.client = chromadb.PersistentClient(
+            path=DEFAULT_CHROMA_PERSISTENT_PATH,
+            settings=Settings(anonymized_telemetry=False),
         )
 
     def create_collection(self, name: str, distance: str = DEFAULT_DISTANCE) -> None:

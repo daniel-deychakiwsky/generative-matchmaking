@@ -11,11 +11,36 @@ DEFAULT_USER_PROFILE_MATCHES_FILE_NAME: str = "matches.json"
 DEFAULT_USER_PROFILE_IMAGE_FILE_NAME: str = "profile.png"
 
 
-def read_all_user_profiles() -> List[UserProfile]:
+def _user_profile_files_exists(user_id: str, file: str) -> bool:
+    return os.path.isfile(
+        os.path.join(DEFAULT_USER_PROFILE_SUB_DIRECTORY, user_id, file)
+    )
+
+
+def read_all_user_profiles(
+    with_missing_profile: bool = False,
+    with_missing_image: bool = False,
+    with_missing_matches: bool = False,
+) -> List[UserProfile]:
+    missing_files: List[str] = []
+
+    if with_missing_profile:
+        missing_files.append(DEFAULT_USER_PROFILE_FILE_NAME)
+
+    if with_missing_image:
+        missing_files.append(DEFAULT_USER_PROFILE_IMAGE_FILE_NAME)
+
+    if with_missing_matches:
+        missing_files.append(DEFAULT_USER_PROFILE_MATCHES_FILE_NAME)
+
     return [
         read_user_profile(user_id=user_id)
         for user_id in os.listdir(DEFAULT_USER_PROFILE_SUB_DIRECTORY)
         if os.path.isdir(os.path.join(DEFAULT_USER_PROFILE_SUB_DIRECTORY, user_id))
+        and not any(
+            _user_profile_files_exists(user_id=user_id, file=file)
+            for file in missing_files
+        )
     ]
 
 

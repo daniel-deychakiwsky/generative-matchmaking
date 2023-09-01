@@ -78,3 +78,6 @@ venv.bak/
 # IDEs
 .idea/
 .DS_Store
+
+# chroma databse persistent path
+.chroma/

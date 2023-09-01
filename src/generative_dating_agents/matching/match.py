@@ -1,11 +1,19 @@
 import json
+import time
 from typing import Collection, Dict, List
 
 from ..data.schemas import UserProfile
 from ..database.chroma import QueryResult, query_user_profile_collection
 from ..llm.oai import Conversation, chat_completion
-from ..utils.io import read_user_profile, write_user_profile_matches
+from ..utils.io import (
+    read_all_user_profiles,
+    read_user_profile,
+    write_user_profile_matches,
+)
+from ..utils.types import JSON
 from .schemas import most_compatible_user_id_schema
+
+DEFAULT_OPENAI_RATE_LIMIT_SLEEP_SECONDS: int = 10
 
 
 class MatchingError(Exception):
@@ -95,11 +103,26 @@ def _rank_candidate_user_profiles(
             function_call=function_call,
         )
 
-        most_compatible_user_id: str = json.loads(most_compatible_user_id_json_str)[
-            "user_id"
-        ]
-        candidate_user_descriptions.pop(most_compatible_user_id)
-        ranked_candidate_user_ids.append(most_compatible_user_id)
+        most_compatible_user_id_json: JSON = json.loads(
+            most_compatible_user_id_json_str
+        )
+
+        if "user_id" in most_compatible_user_id_json:
+            most_compatible_user_id: str = most_compatible_user_id_json["user_id"]  # type: ignore
+
+            if most_compatible_user_id in candidate_user_descriptions:
+                candidate_user_descriptions.pop(most_compatible_user_id)
+                ranked_candidate_user_ids.append(most_compatible_user_id)
+            else:
+                print(
+                    "Hallucinated candidate user_id key for user:",
+                    query_user_profile.user_id,
+                )
+        else:
+            print(
+                "Missing candidate user_id JSON key for user:",
+                query_user_profile.user_id,
+            )
 
     return [read_user_profile(user_id=user_id) for user_id in ranked_candidate_user_ids]
 
@@ -162,3 +185,29 @@ def find_matches(
     write_user_profile_matches(user_profile=query_user_profile, matches=matches)
 
     return matches
+
+
+def find_matches_for_all(
+    n_retrievals: int,
+    n_matches: int,
+    model: str,
+    temperature: float,
+    max_tokens: int,
+    verbose: bool,
+) -> None:
+    # run for user profiles without matches to not overwrite existing
+    with_missing_matches: bool = True
+    user_profiles: List[UserProfile] = read_all_user_profiles(
+        with_missing_matches=with_missing_matches
+    )
+    for user_profile in user_profiles:
+        find_matches(
+            user_id=user_profile.user_id,
+            n_retrievals=n_retrievals,
+            n_matches=n_matches,
+            model=model,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            verbose=verbose,
+        )
+        time.sleep(DEFAULT_OPENAI_RATE_LIMIT_SLEEP_SECONDS)

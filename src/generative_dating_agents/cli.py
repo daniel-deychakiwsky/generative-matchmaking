@@ -13,6 +13,7 @@ from .database.chroma import (
     query_user_profile_collection as _query_user_profile_collection,
 )
 from .matching.match import find_matches as _find_matches
+from .matching.match import find_matches_for_all as _find_matches_for_all
 
 
 @click.command()
@@ -47,11 +48,12 @@ def generate_user_profiles(
     default="cosine",
     help="Chroma collection distance function.",
 )
-def load_user_profile_collection(distance: str) -> None:
+@click.option("--verbose", type=bool, default=True, help="Verbosity.")
+def load_user_profile_collection(distance: str, verbose: bool) -> None:
     click.echo("Loading database collection")
     _load_user_profile_collection(
         distance=distance,
-        verbose=True,
+        verbose=verbose,
     )
     click.echo("Successfully loaded database collection")
 
@@ -61,14 +63,17 @@ def load_user_profile_collection(distance: str) -> None:
 @click.option(
     "--n-results", type=int, default=2, help="Chroma number of query results."
 )
-def query_user_profile_collection(query_text: List[str], n_results: int) -> None:
+@click.option("--verbose", type=bool, default=True, help="Verbosity.")
+def query_user_profile_collection(
+    query_text: List[str], n_results: int, verbose: bool
+) -> None:
     click.echo("Querying database collection")
     _query_user_profile_collection(
         query_texts=query_text,
         n_results=n_results,
         where=None,
         where_document=None,
-        verbose=True,
+        verbose=verbose,
     )
     click.echo("Successfully queried database collection")
 
@@ -93,6 +98,7 @@ def query_user_profile_collection(query_text: List[str], n_results: int) -> None
 @click.option(
     "--temperature", type=float, default=0.0, help="OpenAI model temperature."
 )
+@click.option("--verbose", type=bool, default=True, help="Verbosity.")
 def find_matches(
     user_id: str,
     n_retrievals: int,
@@ -100,6 +106,7 @@ def find_matches(
     model: str,
     temperature: float,
     max_tokens: int,
+    verbose: bool,
 ) -> None:
     click.echo("Finding candidate user matches")
     _find_matches(
@@ -109,9 +116,51 @@ def find_matches(
         model=model,
         temperature=temperature,
         max_tokens=max_tokens,
-        verbose=True,
+        verbose=verbose,
     )
     click.echo("Successfully found candidate user matches")
+
+
+@click.command()
+@click.option(
+    "--user-id",
+    type=str,
+    default="f0e35556-8760-41ae-b0f9-4c777c48b170",
+    help="Query matching user id.",
+)
+@click.option(
+    "--n-retrievals", type=int, default=20, help="Number of retrieved user profiles."
+)
+@click.option(
+    "--n-matches", type=int, default=5, help="Number of ranked user profiles."
+)
+@click.option(
+    "--model", type=str, default="gpt-3.5-turbo-16k-0613", help="OpenAI model name."
+)
+@click.option("--max-tokens", type=int, default=5000, help="OpenAI model max tokens.")
+@click.option(
+    "--temperature", type=float, default=0.0, help="OpenAI model temperature."
+)
+@click.option("--verbose", type=bool, default=False, help="Verbosity.")
+def find_matches_for_all(
+    user_id: str,
+    n_retrievals: int,
+    n_matches: int,
+    model: str,
+    temperature: float,
+    max_tokens: int,
+    verbose: bool,
+) -> None:
+    click.echo("Finding candidate user matches for all users")
+    _find_matches_for_all(
+        n_retrievals=n_retrievals,
+        n_matches=n_matches,
+        model=model,
+        temperature=temperature,
+        max_tokens=max_tokens,
+        verbose=verbose,
+    )
+    click.echo("Successfully found candidate user matches for all users")
 
 
 @click.command()
@@ -131,6 +180,7 @@ cli.add_command(load_user_profile_collection)
 cli.add_command(query_user_profile_collection)
 cli.add_command(delete_user_profile_collection)
 cli.add_command(find_matches)
+cli.add_command(find_matches_for_all)
 
 if __name__ == "__main__":
     cli()
