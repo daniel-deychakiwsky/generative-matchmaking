@@ -2,18 +2,20 @@ import json
 import time
 from typing import Collection, Dict, List
 
-from ..data.schemas import UserProfile
 from ..database.chroma import QueryResult, query_user_profile_collection
 from ..llm.oai import Conversation, chat_completion
+from ..utils.constants import (
+    OPENAI_RATE_LIMIT_SLEEP_SECONDS,
+    USER_MATCH_RANKED_KEY,
+    USER_MATCH_RETRIEVED_KEY,
+)
 from ..utils.io import (
     read_all_user_profiles,
     read_user_profile,
     write_user_profile_matches,
 )
-from ..utils.types import JSON
+from ..utils.types import JSON, UserProfile
 from .schemas import most_compatible_user_id_schema
-
-DEFAULT_OPENAI_RATE_LIMIT_SLEEP_SECONDS: int = 10
 
 
 class MatchingError(Exception):
@@ -180,8 +182,10 @@ def find_matches(
             print()
 
     matches: Dict[str, List[str]] = {
-        "retrieved": [p.user_id for p in retrieved_candidate_user_profiles],
-        "ranked": [p.user_id for p in ranked_candidate_user_profiles],
+        USER_MATCH_RETRIEVED_KEY: [
+            p.user_id for p in retrieved_candidate_user_profiles
+        ],
+        USER_MATCH_RANKED_KEY: [p.user_id for p in ranked_candidate_user_profiles],
     }
 
     write_user_profile_matches(user_profile=query_user_profile, matches=matches)
@@ -212,4 +216,4 @@ def find_matches_for_all(
             max_tokens=max_tokens,
             verbose=verbose,
         )
-        time.sleep(DEFAULT_OPENAI_RATE_LIMIT_SLEEP_SECONDS)
+        time.sleep(OPENAI_RATE_LIMIT_SLEEP_SECONDS)

@@ -148,6 +148,15 @@ find-matches-for-all \
 --verbose False
 ```
 
+This command reads user matches for a given user id.
+
+```shell
+python3 -m src.generative_dating_agents.cli \
+read-user-matches \
+--user-id "c372d472-406f-4a9b-beec-067bfde2c505" \
+--verbose True
+```
+
 ---
 
 This project was generated using the [wolt-python-package-cookiecutter](https://github.com/woltapp/wolt-python-package-cookiecutter) template.
