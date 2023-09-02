@@ -2,7 +2,6 @@ import json
 import time
 from typing import Collection, Dict, List
 
-from ..data.models import UserProfile
 from ..database.chroma import QueryResult, query_user_profile_collection
 from ..llm.oai import Conversation, chat_completion
 from ..utils.constants import (
@@ -15,7 +14,7 @@ from ..utils.io import (
     read_user_profile,
     write_user_profile_matches,
 )
-from ..utils.types import JSON
+from ..utils.types import JSON, UserProfile
 from .schemas import most_compatible_user_id_schema
 
 

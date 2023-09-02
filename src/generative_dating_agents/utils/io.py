@@ -4,7 +4,7 @@ import typing
 from dataclasses import asdict
 from typing import Dict, List, Tuple
 
-from ..data.models import UserProfile, user_profile_from_json
+from ..utils.types import UserProfile, user_profile_from_json
 from .constants import (
     USER_MATCH_RANKED_KEY,
     USER_MATCH_RETRIEVED_KEY,

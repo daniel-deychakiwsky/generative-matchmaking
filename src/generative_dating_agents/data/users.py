@@ -12,8 +12,7 @@ from ..utils.constants import (
     USER_PROFILE_USER_ID_KEY,
 )
 from ..utils.io import write_user_profile, write_user_profile_image
-from ..utils.types import JSON
-from .models import UserProfile, user_profile_from_json
+from ..utils.types import JSON, UserProfile, user_profile_from_json
 from .schemas import user_profile_function_schema
 
 
