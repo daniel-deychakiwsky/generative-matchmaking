@@ -14,7 +14,7 @@ from .database.chroma import (
 )
 from .matching.match import find_matches as _find_matches
 from .matching.match import find_matches_for_all as _find_matches_for_all
-from .utils.io import read_user_matches as _read_user_matches
+from .utils.io import print_user_matches as _print_user_matches
 
 
 @click.command()
@@ -87,89 +87,30 @@ def query_user_profile_collection(
     help="Query matching user id.",
 )
 @click.option(
-    "--n-retrievals", type=int, default=20, help="Number of retrieved user profiles."
+    "--n-matches", type=int, default=5, help="Max number of candidate matches."
 )
-@click.option(
-    "--n-matches", type=int, default=5, help="Number of ranked user profiles."
-)
-@click.option(
-    "--model", type=str, default="gpt-3.5-turbo-16k-0613", help="OpenAI model name."
-)
-@click.option("--max-tokens", type=int, default=5000, help="OpenAI model max tokens.")
-@click.option(
-    "--temperature", type=float, default=0.0, help="OpenAI model temperature."
-)
-@click.option("--verbose", type=bool, default=True, help="Verbosity.")
-def find_matches(
-    user_id: str,
-    n_retrievals: int,
-    n_matches: int,
-    model: str,
-    temperature: float,
-    max_tokens: int,
-    verbose: bool,
-) -> None:
+def find_matches(user_id: str, n_matches: int) -> None:
     click.echo("Finding candidate user matches")
-    _find_matches(
-        user_id=user_id,
-        n_retrievals=n_retrievals,
-        n_matches=n_matches,
-        model=model,
-        temperature=temperature,
-        max_tokens=max_tokens,
-        verbose=verbose,
-    )
+    _find_matches(user_id=user_id, n_matches=n_matches)
     click.echo("Successfully found candidate user matches")
 
 
 @click.command()
 @click.option(
-    "--n-retrievals", type=int, default=20, help="Number of retrieved user profiles."
+    "--n-matches", type=int, default=20, help="Max number of candidate matches."
 )
-@click.option(
-    "--n-matches", type=int, default=5, help="Number of ranked user profiles."
-)
-@click.option(
-    "--model", type=str, default="gpt-3.5-turbo-16k-0613", help="OpenAI model name."
-)
-@click.option("--max-tokens", type=int, default=5000, help="OpenAI model max tokens.")
-@click.option(
-    "--temperature", type=float, default=0.0, help="OpenAI model temperature."
-)
-@click.option("--verbose", type=bool, default=False, help="Verbosity.")
-def find_matches_for_all(
-    n_retrievals: int,
-    n_matches: int,
-    model: str,
-    temperature: float,
-    max_tokens: int,
-    verbose: bool,
-) -> None:
+def find_matches_for_all(n_matches: int) -> None:
     click.echo("Finding candidate user matches for all users")
-    _find_matches_for_all(
-        n_retrievals=n_retrievals,
-        n_matches=n_matches,
-        model=model,
-        temperature=temperature,
-        max_tokens=max_tokens,
-        verbose=verbose,
-    )
+    _find_matches_for_all(n_matches=n_matches)
     click.echo("Successfully found candidate user matches for all users")
 
 
 @click.command()
 @click.option("--user-id", type=str, help="Matches for User id.")
-@click.option("--verbose", type=bool, default=True, help="Verbosity.")
-def read_user_matches(
-    user_id: str,
-    verbose: bool,
-) -> None:
-    click.echo("Reading user matches")
-    _read_user_matches(
-        user_id=user_id,
-        verbose=verbose,
-    )
-    click.echo("Successfully read user matches")
+def print_user_matches(user_id: str) -> None:
+    click.echo("Printing user matches")
+    _print_user_matches(user_id=user_id)
+    click.echo("Successfully printed user matches")
 
 
 @click.command()
@@ -190,7 +131,7 @@ cli.add_command(query_user_profile_collection)
 cli.add_command(delete_user_profile_collection)
 cli.add_command(find_matches)
 cli.add_command(find_matches_for_all)
-cli.add_command(read_user_matches)
+cli.add_command(print_user_matches)
 
 if __name__ == "__main__":
     cli()

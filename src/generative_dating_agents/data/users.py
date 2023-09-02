@@ -4,7 +4,10 @@ import random
 import uuid
 from typing import Collection, Dict, List, Tuple
 
+from ..data.types import JSON
+from ..data.user_profile import UserProfile, user_profile_from_json
 from ..llm.oai import Conversation, chat_completion, text_to_image
+from ..llm.oai_function_schemas import user_profile_function_schema
 from ..utils.constants import (
     DEFAULT_SYSTEM_PROMPT,
     USER_PROFILE_PREFERENCES_SUMMARY_KEY,
@@ -12,8 +15,6 @@ from ..utils.constants import (
     USER_PROFILE_USER_ID_KEY,
 )
 from ..utils.io import write_user_profile, write_user_profile_image
-from ..utils.types import JSON, UserProfile, user_profile_from_json
-from .schemas import user_profile_function_schema
 
 
 def _generate_user_profile(
