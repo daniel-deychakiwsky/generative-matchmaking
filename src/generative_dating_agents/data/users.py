@@ -5,11 +5,16 @@ import uuid
 from typing import Collection, Dict, List, Tuple
 
 from ..llm.oai import Conversation, chat_completion, text_to_image
+from ..utils.constants import (
+    DEFAULT_SYSTEM_PROMPT,
+    USER_PROFILE_PREFERENCES_SUMMARY_KEY,
+    USER_PROFILE_SUMMARY_KEY,
+    USER_PROFILE_USER_ID_KEY,
+)
 from ..utils.io import write_user_profile, write_user_profile_image
 from ..utils.types import JSON
-from .schemas import UserProfile, user_profile_function_schema
-
-DEFAULT_SYSTEM_PROMPT: str = "You are a helpful assistant."
+from .models import UserProfile, user_profile_from_json
+from .schemas import user_profile_function_schema
 
 
 def _generate_user_profile(
@@ -170,10 +175,14 @@ def generate_profiles(
             temperature=temperature,
         )
 
-        user_profile_json["profile_summary"] = user_profile_summary
-        user_profile_json["preferences_summary"] = user_preferences_summary
-        user_profile_json["user_id"] = str(uuid.uuid4())
-        user_profile: UserProfile = UserProfile(**user_profile_json)  # type: ignore[arg-type]
+        user_profile_json[USER_PROFILE_SUMMARY_KEY] = user_profile_summary
+        user_profile_json[
+            USER_PROFILE_PREFERENCES_SUMMARY_KEY
+        ] = user_preferences_summary
+        user_profile_json[USER_PROFILE_USER_ID_KEY] = str(uuid.uuid4())
+        user_profile: UserProfile = user_profile_from_json(
+            user_profile_json=user_profile_json
+        )
 
         image_bytes: bytes = _generate_user_profile_image(user_profile=user_profile)
 

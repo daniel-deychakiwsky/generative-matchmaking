@@ -14,6 +14,7 @@ from .database.chroma import (
 )
 from .matching.match import find_matches as _find_matches
 from .matching.match import find_matches_for_all as _find_matches_for_all
+from .utils.io import read_user_matches as _read_user_matches
 
 
 @click.command()
@@ -157,6 +158,21 @@ def find_matches_for_all(
 
 
 @click.command()
+@click.option("--user-id", type=str, help="Matches for User id.")
+@click.option("--verbose", type=bool, default=True, help="Verbosity.")
+def read_user_matches(
+    user_id: str,
+    verbose: bool,
+) -> None:
+    click.echo("Reading user matches")
+    _read_user_matches(
+        user_id=user_id,
+        verbose=verbose,
+    )
+    click.echo("Successfully read user matches")
+
+
+@click.command()
 def delete_user_profile_collection() -> None:
     click.echo("Deleting database collection")
     _delete_user_profile_collection()
@@ -174,6 +190,7 @@ cli.add_command(query_user_profile_collection)
 cli.add_command(delete_user_profile_collection)
 cli.add_command(find_matches)
 cli.add_command(find_matches_for_all)
+cli.add_command(read_user_matches)
 
 if __name__ == "__main__":
     cli()

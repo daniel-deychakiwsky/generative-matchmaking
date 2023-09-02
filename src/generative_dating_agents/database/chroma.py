@@ -14,22 +14,24 @@ from chromadb.api.models.Collection import (
 from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
-from ..data.schemas import UserProfile
+from ..data.models import UserProfile
+from ..utils.constants import (
+    CHROMA_DISTANCE,
+    CHROMA_DISTANCE_KEY,
+    CHROMA_PERSISTENT_PATH,
+    CHROMA_USER_PROFILES_COLLECTION_NAME,
+)
 from ..utils.io import read_all_user_profiles
-
-DEFAULT_CHROMA_PERSISTENT_PATH: str = ".chroma"
-DEFAULT_USER_PROFILES_COLLECTION_NAME: str = "user_profiles"
-DEFAULT_DISTANCE: str = "cos"
 
 
 class ChromaVectorDatabaseClient:
     def __init__(self) -> None:
         self.client = chromadb.PersistentClient(
-            path=DEFAULT_CHROMA_PERSISTENT_PATH,
+            path=CHROMA_PERSISTENT_PATH,
             settings=Settings(anonymized_telemetry=False),
         )
 
-    def create_collection(self, name: str, distance: str = DEFAULT_DISTANCE) -> None:
+    def create_collection(self, name: str, distance: str = CHROMA_DISTANCE) -> None:
         embedding_function: Optional[
             EmbeddingFunction
         ] = embedding_functions.DefaultEmbeddingFunction()
@@ -37,7 +39,7 @@ class ChromaVectorDatabaseClient:
             name,
             get_or_create=True,
             embedding_function=embedding_function,
-            metadata={"hnsw:space": distance},
+            metadata={CHROMA_DISTANCE_KEY: distance},
         )
 
     def add_to_collection(
@@ -81,8 +83,8 @@ class ChromaVectorDatabaseClient:
 
 
 def load_user_profile_collection(
-    collection_name: str = DEFAULT_USER_PROFILES_COLLECTION_NAME,
-    distance: str = DEFAULT_DISTANCE,
+    collection_name: str = CHROMA_USER_PROFILES_COLLECTION_NAME,
+    distance: str = CHROMA_DISTANCE,
     verbose: bool = False,
 ) -> None:
     user_profiles: List[UserProfile] = read_all_user_profiles()
@@ -107,7 +109,7 @@ def load_user_profile_collection(
 def query_user_profile_collection(
     query_texts: Optional[OneOrMany[Document]],
     n_results: int,
-    collection_name: str = DEFAULT_USER_PROFILES_COLLECTION_NAME,
+    collection_name: str = CHROMA_USER_PROFILES_COLLECTION_NAME,
     where: Optional[Where] = None,
     where_document: Optional[WhereDocument] = None,
     verbose: bool = False,
@@ -129,7 +131,7 @@ def query_user_profile_collection(
 
 
 def delete_user_profile_collection(
-    collection_name: str = DEFAULT_USER_PROFILES_COLLECTION_NAME,
+    collection_name: str = CHROMA_USER_PROFILES_COLLECTION_NAME,
 ) -> None:
     vdb: ChromaVectorDatabaseClient = ChromaVectorDatabaseClient()
     vdb.delete_collection(name=collection_name)
