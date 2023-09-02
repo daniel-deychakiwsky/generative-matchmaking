@@ -2,48 +2,28 @@ import json
 import os
 import typing
 from dataclasses import asdict
-from typing import Dict, List, Tuple
+from typing import Dict, List
 
-from ..utils.types import UserProfile, user_profile_from_json
+from ..data.types import JSON
+from ..data.user_profile import UserProfile, user_profile_from_json
 from .constants import (
-    USER_MATCH_RANKED_KEY,
-    USER_MATCH_RETRIEVED_KEY,
+    MATCHES_KEY,
     USER_PROFILE_FILE_NAME,
     USER_PROFILE_IMAGE_FILE_NAME,
     USER_PROFILE_MATCHES_FILE_NAME,
     USER_PROFILE_SUB_DIRECTORY,
 )
-from .types import JSON
 
 
 def _user_profile_files_exists(user_id: str, file: str) -> bool:
     return os.path.isfile(os.path.join(USER_PROFILE_SUB_DIRECTORY, user_id, file))
 
 
-def read_all_user_profiles(
-    with_missing_profile: bool = False,
-    with_missing_image: bool = False,
-    with_missing_matches: bool = False,
-) -> List[UserProfile]:
-    missing_files: List[str] = []
-
-    if with_missing_profile:
-        missing_files.append(USER_PROFILE_FILE_NAME)
-
-    if with_missing_image:
-        missing_files.append(USER_PROFILE_IMAGE_FILE_NAME)
-
-    if with_missing_matches:
-        missing_files.append(USER_PROFILE_MATCHES_FILE_NAME)
-
+def read_all_user_profiles() -> List[UserProfile]:
     return [
         read_user_profile(user_id=user_id)
         for user_id in os.listdir(USER_PROFILE_SUB_DIRECTORY)
         if os.path.isdir(os.path.join(USER_PROFILE_SUB_DIRECTORY, user_id))
-        and not any(
-            _user_profile_files_exists(user_id=user_id, file=file)
-            for file in missing_files
-        )
     ]
 
 
@@ -100,45 +80,31 @@ def read_json(file_path: str) -> JSON:
 
 
 @typing.no_type_check
-def read_user_matches(
-    user_id: str, verbose: bool = True
-) -> Tuple[UserProfile, List[UserProfile], List[UserProfile]]:
+def print_user_matches(user_id: str) -> None:
     user_matches_file_path: str = os.path.join(
         USER_PROFILE_SUB_DIRECTORY,
         user_id,
         USER_PROFILE_MATCHES_FILE_NAME,
     )
     query_user_profile: UserProfile = read_user_profile(user_id=user_id)
-    user_id_matches_json: JSON = read_json(file_path=user_matches_file_path)
-    user_profile_matches_retrievals: List[UserProfile] = []
-    user_profile_matches_rankings: List[UserProfile] = []
+    candidate_user_profiles_json: JSON = read_json(file_path=user_matches_file_path)
+    candidate_user_profiles: List[UserProfile] = []
 
-    if USER_MATCH_RETRIEVED_KEY in user_id_matches_json:
-        for user_id in user_id_matches_json[USER_MATCH_RETRIEVED_KEY]:
-            user_profile_matches_retrievals.append(read_user_profile(user_id=user_id))
+    if MATCHES_KEY in candidate_user_profiles_json:
+        for candidate_user_id in candidate_user_profiles_json[MATCHES_KEY]:
+            candidate_user_profiles.append(read_user_profile(user_id=candidate_user_id))
 
-    if USER_MATCH_RANKED_KEY in user_id_matches_json:
-        for user_id in user_id_matches_json[USER_MATCH_RANKED_KEY]:
-            user_profile_matches_rankings.append(read_user_profile(user_id=user_id))
-
-    if verbose:
+    print()
+    print("--" * 50)
+    print("Query user")
+    print("--" * 50)
+    print()
+    print(query_user_profile)
+    print()
+    print("--" * 50)
+    print("Candidate users")
+    print("--" * 50)
+    print()
+    for candidate_user_profile in candidate_user_profiles:
+        print(candidate_user_profile)
         print()
-        print("--" * 50)
-        print("Query user")
-        print("--" * 50)
-        print()
-        print(query_user_profile)
-        print()
-        print("--" * 50)
-        print("Ranked user profiles")
-        print("--" * 50)
-        print()
-        for ranked_user_profile in user_profile_matches_rankings:
-            print(ranked_user_profile)
-            print()
-
-    return (
-        query_user_profile,
-        user_profile_matches_retrievals,
-        user_profile_matches_rankings,
-    )

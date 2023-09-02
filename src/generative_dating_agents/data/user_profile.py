@@ -1,19 +1,8 @@
 import typing
 from dataclasses import dataclass
-from typing import Dict, List, Union
+from typing import List
 
-JSON = Dict[
-    str,
-    Union[
-        str,
-        int,
-        float,
-        bool,
-        None,
-        "JSON",
-        List[Union[str, int, float, bool, None, "JSON"]],
-    ],
-]
+from .types import JSON
 
 
 # TODO: clean inputs, e.g., .strip()

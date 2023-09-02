@@ -14,6 +14,7 @@ from chromadb.api.models.Collection import (
 from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
+from ..data.user_profile import UserProfile
 from ..utils.constants import (
     CHROMA_DISTANCE,
     CHROMA_DISTANCE_KEY,
@@ -21,7 +22,6 @@ from ..utils.constants import (
     CHROMA_USER_PROFILES_COLLECTION_NAME,
 )
 from ..utils.io import read_all_user_profiles
-from ..utils.types import UserProfile
 
 
 class ChromaVectorDatabaseClient:
