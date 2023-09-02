@@ -1,39 +1,49 @@
 import './App.css';
-import { useMemo } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import axios from 'axios';
+import { profiles as allProfiles } from './all_profiles'
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
-const parseProfile = (profile) => {
-  const { name, age, bio, distance_mi, photos } = profile;
-  const image = photos[0].url;
-  return { name, age, bio, distance_mi, image };
+const profiles = Object.entries(allProfiles).map(([key, value]) => ({ profileKey: key, profileData: value }));
+
+const base64ToImage = (base64String) => {
+  return `data:image/png;base64,${base64String}`
 }
 
+const getProfile = (profileId) => {
+  return profiles.find(({ profileKey }) => profileKey === profileId)
+}
 function App() {
-  // Load all data from /profiles into an object
-
-  const profileNamesAndImages = useMemo(async () => {
-    const data = await axios.get('http://localhost:8003')
-
-    console.log({ data })
-    // return Object.keys(profiles).slice(0, 10).map((id) => {
-    //   // the images are in base64 format, convert them to work as an img src
-    //   const image = `data:image/png;base64,${profiles[id].image}`;
-    //   const matches = profiles[id].matches;
-    //   return { name: profiles[id].profile.name, image }
-    // }
-    // );
-  }, []);
-
   return (
-    <div className="App">
-      {profileNamesAndImages.map((profile) => (
-        <header className="App-header">
-          <img src={profile.image} alt="logo" />
-          <p>
-            {profile.name}
-          </p>
-        </header>
-      ))}
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '300px' }}>
+      {profiles.map(({ profileKey, profileData }) => {
+
+        const matches = profileData.matches.ranked.map((matchProfileId) => getProfile(matchProfileId));
+
+        return (
+          <div key={profileKey} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+            <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+              <img src={base64ToImage(profileData.image)} alt="logo" />
+              <p>
+                <b>{profileData.profile.name}</b>
+              </p>
+            </div>
+
+            <div style={{ display: 'flex', flexDirection: 'row' }}>
+              {matches.map(({ profileKey, profileData }) => (
+                <div key={profileKey + 'match'} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                  <img src={base64ToImage(profileData.image)} alt="logo" />
+                  <p>
+                    {profileData.profile.name}
+                  </p>
+                  {/* Add content for each matched profile here */}
+                </div>
+              ))}
+            </div>
+          </div>
+        );
+      })}
     </div>
   );
 }
