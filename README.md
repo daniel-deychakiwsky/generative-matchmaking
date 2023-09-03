@@ -4,7 +4,7 @@
 
 TODO
 
-## Running Locally
+## Running
 
 ### Setup
 
@@ -25,35 +25,34 @@ project's python virtual environment.
 poetry shell
 ```
 
-The current working directory should be repository root.
-Explore CLI commands.
+### Command Line Interface (CLI)
+
+CLI commands assume repo root as current working directory.
+
+The following command will list available CLI commands.
 
 ```shell
  python3 -m src.generative_dating_agents.cli
 ```
 
-### CLI Commands
-
 #### Generate User Profiles
 
-These are **already generated** but if you'd
-like to generate more you can run these commands.
+This step can be skipped since these
+are **already generated**.
 
-You'll need to set your OpenAI API key environment variable.
+If you'd like to generate more on your own,
+run the following commands to set your OpenAI
+API key environment variable and
+generate synthetic dating user profiles.
 
 ```sh
 export OPENAI_API_KEY="{{YOUR OPEN AI KEY}}"
 ```
 
-This command will generate synthetic dating
-user profiles invoking OpenAI chat-completion
-and text-to-image models.
-It runs serially to avoid rate limiting failure modes.
-
 ```sh
 python3 -m src.generative_dating_agents.cli \
 generate-user-profiles \
---n-profiles 10 \
+--n-profiles 5 \
 --model "gpt-4-0613" \
 --max-tokens 5000 \
 --temperature 1.05
