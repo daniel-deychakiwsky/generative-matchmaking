@@ -18,7 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "dev": "python3 ./generate_ui_data.py && react-scripts start"
   },
   "eslintConfig": {
     "extends": [
