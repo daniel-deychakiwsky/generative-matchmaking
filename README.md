@@ -4,7 +4,7 @@
 
 TODO
 
-## Running Locally
+## Running
 
 ### Setup
 
@@ -25,35 +25,34 @@ project's python virtual environment.
 poetry shell
 ```
 
-The current working directory should be repository root.
-Explore CLI commands.
+### Command Line Interface (CLI)
+
+CLI commands assume repo root as current working directory.
+
+The following command will list available CLI commands.
 
 ```shell
  python3 -m src.generative_dating_agents.cli
 ```
 
-### CLI Commands
-
 #### Generate User Profiles
 
-These are **already generated** but if you'd
-like to generate more you can run these commands.
+This step can be skipped since these
+are **already generated**.
 
-You'll need to set your OpenAI API key environment variable.
+If you'd like to generate more on your own,
+run the following commands to set your OpenAI
+API key environment variable and
+generate synthetic dating user profiles.
 
 ```sh
 export OPENAI_API_KEY="{{YOUR OPEN AI KEY}}"
 ```
 
-This command will generate synthetic dating
-user profiles invoking OpenAI chat-completion
-and text-to-image models.
-It runs serially to avoid rate limiting failure modes.
-
 ```sh
 python3 -m src.generative_dating_agents.cli \
 generate-user-profiles \
---n-profiles 10 \
+--n-profiles 5 \
 --model "gpt-4-0613" \
 --max-tokens 5000 \
 --temperature 1.05
@@ -108,53 +107,32 @@ delete-user-profile-collection
 #### Matchmaking
 
 These are **already generated** but if you'd
-like to generate more you can run these commands.
-
-You'll need to set your OpenAI API key environment variable.
-
-```sh
-export OPENAI_API_KEY="{{YOUR OPEN AI KEY}}"
-```
+like to regenerate or generate more you can run these commands.
 
 This command will run the matchmaking
-retrieval and ranking algorithms for a given user id.
+algorithm for a given user id.
 
 ```shell
 python3 -m src.generative_dating_agents.cli \
 find-matches \
 --user-id "f0e35556-8760-41ae-b0f9-4c777c48b170" \
---n-retrievals 20 \
---n-matches 5 \
---model "gpt-3.5-turbo-16k-0613" \
---max-tokens 5000 \
---temperature 0.0 \
---verbose False
+--n-matches 5
 ```
 
 This command will do the same but for all user ids sequentially.
-It takes a while as it sleeps in between users to prevent
-rate limiting failure modes.
-It will only run for users that don't already have matches generated
-by default.
 
 ```shell
 python3 -m src.generative_dating_agents.cli \
 find-matches-for-all \
---n-retrievals 20 \
---n-matches 5 \
---model "gpt-3.5-turbo-16k-0613" \
---max-tokens 5000 \
---temperature 0.0 \
---verbose False
+--n-matches 5
 ```
 
-This command reads user matches for a given user id.
+This command prints user matches for a given user id.
 
 ```shell
 python3 -m src.generative_dating_agents.cli \
-read-user-matches \
---user-id "c372d472-406f-4a9b-beec-067bfde2c505" \
---verbose True
+print-user-matches \
+--user-id "c372d472-406f-4a9b-beec-067bfde2c505"
 ```
 
 ---

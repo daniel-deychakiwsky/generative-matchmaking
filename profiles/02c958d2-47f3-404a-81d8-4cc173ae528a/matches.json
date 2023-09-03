@@ -1,5 +1,5 @@
 {
-    "retrieved": [
+    "candidate_user_ids": [
         "68140853-a377-45c5-b500-07867901e10e",
         "f21a1b91-6e39-4585-a243-f2a01aff93c4",
         "ee24d5ae-3e17-4fb7-bd4a-96e0225502d2",
@@ -20,12 +20,5 @@
         "b79ba391-2b2e-4032-968f-ebbafc34fc4d",
         "d49a49cf-30bb-4989-bdaa-3d14e72e334b",
         "595a99d6-b630-44d4-9c43-9e13849e6130"
-    ],
-    "ranked": [
-        "5421b77e-2d3f-4ae4-bd2f-c4cfcdd3dd71",
-        "f21a1b91-6e39-4585-a243-f2a01aff93c4",
-        "595a99d6-b630-44d4-9c43-9e13849e6130",
-        "4620b709-8fc5-42e3-91fa-41fc74de14aa",
-        "071e87fb-f024-40ec-8801-bfdc5b45cee6"
     ]
 }
