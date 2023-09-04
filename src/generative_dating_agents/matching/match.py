@@ -1,7 +1,7 @@
 from typing import Dict, List
 
 from ..data.user_profile import UserProfile
-from ..database.chroma import QueryResult, query_user_profile_collection
+from ..database.ops import QueryResult, query_user_profile_collection
 from ..utils.constants import MATCHES_KEY
 from ..utils.io import (
     read_all_user_profiles,
@@ -16,6 +16,16 @@ def _retrieve_candidate_user_profiles(
     query_result: QueryResult = query_user_profile_collection(
         query_texts=query_user_profile.preferences_summary,
         n_results=n_retrievals,
+        where={
+            "$and": [
+                {"gender": {"$eq": query_user_profile.partner_preferences.gender}},
+                {
+                    "sexuality": {
+                        "$eq": query_user_profile.partner_preferences.sexuality
+                    }
+                },
+            ]
+        },
     )
 
     return [

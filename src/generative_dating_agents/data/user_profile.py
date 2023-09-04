@@ -73,4 +73,10 @@ class UserProfile:
 
 @typing.no_type_check
 def user_profile_from_json(user_profile_json: JSON) -> UserProfile:
-    return UserProfile(**user_profile_json)
+    partner_preferences: PartnerPreferences = PartnerPreferences(
+        **user_profile_json.pop("partner_preferences")
+    )
+    user_profile: UserProfile = UserProfile(
+        partner_preferences=partner_preferences, **user_profile_json
+    )
+    return user_profile
