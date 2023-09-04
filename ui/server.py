@@ -1,13 +1,15 @@
-import os
-import json
+#  type: ignore
+
 import http.server
+import json
+import os
 import socketserver
 
 
 def list_files(startpath):
     file_structure = {}
 
-    for root, dirs, files in os.walk(startpath)[:10]:
+    for root, _, files in os.walk(startpath)[:10]:
         path_parts = root.split(os.sep)[1:]  # Cut off the '.' part
         d = file_structure
         for part in path_parts:
@@ -15,7 +17,7 @@ def list_files(startpath):
 
         for file_name in files:
             file_path = os.path.join(root, file_name)
-            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+            with open(file_path, encoding="utf-8", errors="ignore") as f:
                 content = f.read()
             d[file_name] = content
 
@@ -30,15 +32,15 @@ class CorsHandler(http.server.SimpleHTTPRequestHandler):
         self.send_header("Content-Type", "application/json")
         super().end_headers()
 
-    def do_GET(self):
+    def do_get(self):
         self.send_response(200)
         self.end_headers()
 
         # Directly specifying the profiles directory
-        directory_structure = list_files('./profiles')
+        directory_structure = list_files("./profiles")
         json_structure = json.dumps(directory_structure)
 
-        self.wfile.write(json_structure.encode('utf-8'))
+        self.wfile.write(json_structure.encode("utf-8"))
 
 
 # Specify the server port
