@@ -1,4 +1,4 @@
-from typing import Dict, List
+from typing import Dict, List, Set
 
 from ..data.user_profile import UserProfile
 from ..database.ops import QueryResult, query_user_profile_collection
@@ -36,10 +36,27 @@ def _retrieve_candidate_user_profiles(
 
 def find_matches(user_id: str, n_matches: int) -> Dict[str, List[str]]:
     query_user_profile: UserProfile = read_user_profile(user_id=user_id)
+
     candidate_user_profiles: List[UserProfile] = _retrieve_candidate_user_profiles(
         query_user_profile=query_user_profile, n_retrievals=n_matches
     )
-    candidate_user_ids: List[str] = [p.user_id for p in candidate_user_profiles]
+
+    candidates_candidate_user_profiles: Dict[str, Set[str]] = {
+        candidate_user_profile.user_id: {
+            c.user_id
+            for c in _retrieve_candidate_user_profiles(
+                query_user_profile=candidate_user_profile, n_retrievals=n_matches
+            )
+        }
+        for candidate_user_profile in candidate_user_profiles
+    }
+
+    candidate_user_ids: List[str] = [
+        c.user_id
+        for c in candidate_user_profiles
+        if query_user_profile.user_id in candidates_candidate_user_profiles[c.user_id]
+    ]
+
     matches: Dict[str, List[str]] = {MATCHES_KEY: candidate_user_ids}
     write_user_profile_matches(user_profile=query_user_profile, matches=matches)
 
