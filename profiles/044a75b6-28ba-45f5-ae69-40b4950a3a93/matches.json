@@ -1,24 +1,3 @@
 {
-    "candidate_user_ids": [
-        "8e470e67-08fb-46bb-bece-1e9cbde29a27",
-        "107aa631-bb3a-49e2-9df2-a871ec54df89",
-        "80160347-eea0-4c09-ae97-f728265cf7fe",
-        "68140853-a377-45c5-b500-07867901e10e",
-        "ed490895-f103-4e08-83e3-63d8f00861be",
-        "b749f346-6537-48f6-8f9a-692c6777c543",
-        "cb11fca5-82ac-46d9-b965-97cdeb987c08",
-        "f94c754f-1a33-4ba2-ac15-c7801e7fe078",
-        "a85496f8-6e72-45b8-8f0b-d2a924e1bdd9",
-        "f44c3040-e8ac-452b-9932-d43f68edeca5",
-        "e8942221-945c-4b47-a5f5-3d81f50b8640",
-        "1a622e80-d879-43d3-a79e-684a9a46766b",
-        "f21a1b91-6e39-4585-a243-f2a01aff93c4",
-        "df3dcb78-60be-4188-977d-d8cb0cc8c894",
-        "8336ad56-b1e0-4186-aac7-2bb74450f5bd",
-        "ee24d5ae-3e17-4fb7-bd4a-96e0225502d2",
-        "6a0e8c5e-1b0e-474b-aeaa-7c91d6396129",
-        "e89f31fa-35c7-4858-82fc-c18c283f0fa3",
-        "d49a49cf-30bb-4989-bdaa-3d14e72e334b",
-        "73677d2b-6f04-4159-a25b-ddaa2be11f3e"
-    ]
+    "candidate_user_ids": []
 }
