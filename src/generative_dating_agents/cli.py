@@ -3,13 +3,11 @@ from typing import List
 import click
 
 from .data.users import generate_profiles as _generate_profiles
-from .database.chroma import (
+from .database.ops import (
     delete_user_profile_collection as _delete_user_profile_collection,
 )
-from .database.chroma import (
-    load_user_profile_collection as _load_user_profile_collection,
-)
-from .database.chroma import (
+from .database.ops import load_user_profile_collection as _load_user_profile_collection
+from .database.ops import (
     query_user_profile_collection as _query_user_profile_collection,
 )
 from .matching.match import find_matches as _find_matches
