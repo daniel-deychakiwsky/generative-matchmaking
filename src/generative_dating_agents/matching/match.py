@@ -2,7 +2,7 @@ from typing import Dict, List, Set
 
 from ..data.user_profile import UserProfile
 from ..database.ops import QueryResult, query_user_profile_collection
-from ..utils.constants import MATCHES_KEY
+from ..utils.constants import BIDIRECTIONAL_MATCH, UNIDIRECTIONAL_MATCH
 from ..utils.io import (
     read_all_user_profiles,
     read_user_profile,
@@ -51,13 +51,22 @@ def find_matches(user_id: str, n_matches: int) -> Dict[str, List[str]]:
         for candidate_user_profile in candidate_user_profiles
     }
 
-    candidate_user_ids: List[str] = [
+    bidirectional_candidate_user_ids: List[str] = [
         c.user_id
         for c in candidate_user_profiles
         if query_user_profile.user_id in candidates_candidate_user_profiles[c.user_id]
     ]
 
-    matches: Dict[str, List[str]] = {MATCHES_KEY: candidate_user_ids}
+    unidirectional_candidate_user_ids: List[str] = [
+        c.user_id
+        for c in candidate_user_profiles
+        if c.user_id not in bidirectional_candidate_user_ids
+    ]
+
+    matches: Dict[str, List[str]] = {
+        UNIDIRECTIONAL_MATCH: unidirectional_candidate_user_ids,
+        BIDIRECTIONAL_MATCH: bidirectional_candidate_user_ids,
+    }
     write_user_profile_matches(user_profile=query_user_profile, matches=matches)
 
     return matches

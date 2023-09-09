@@ -12,7 +12,6 @@ from .database.ops import (
 )
 from .matching.match import find_matches as _find_matches
 from .matching.match import find_matches_for_all as _find_matches_for_all
-from .utils.io import print_user_matches as _print_user_matches
 
 
 @click.command()
@@ -104,14 +103,6 @@ def find_matches_for_all(n_matches: int) -> None:
 
 
 @click.command()
-@click.option("--user-id", type=str, help="Matches for User id.")
-def print_user_matches(user_id: str) -> None:
-    click.echo("Printing user matches")
-    _print_user_matches(user_id=user_id)
-    click.echo("Successfully printed user matches")
-
-
-@click.command()
 def delete_user_profile_collection() -> None:
     click.echo("Deleting database collection")
     _delete_user_profile_collection()
@@ -129,7 +120,6 @@ cli.add_command(query_user_profile_collection)
 cli.add_command(delete_user_profile_collection)
 cli.add_command(find_matches)
 cli.add_command(find_matches_for_all)
-cli.add_command(print_user_matches)
 
 if __name__ == "__main__":
     cli()
