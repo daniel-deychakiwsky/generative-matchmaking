@@ -124,15 +124,7 @@ This command will do the same but for all user ids sequentially.
 ```shell
 python3 -m src.generative_dating_agents.cli \
 find-matches-for-all \
---n-matches 5
-```
-
-This command prints user matches for a given user id.
-
-```shell
-python3 -m src.generative_dating_agents.cli \
-print-user-matches \
---user-id "c372d472-406f-4a9b-beec-067bfde2c505"
+--n-matches 25
 ```
 
 ---

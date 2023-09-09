@@ -7,7 +7,6 @@ from typing import Dict, List
 from ..data.types import JSON
 from ..data.user_profile import UserProfile, user_profile_from_json
 from .constants import (
-    MATCHES_KEY,
     USER_PROFILE_FILE_NAME,
     USER_PROFILE_IMAGE_FILE_NAME,
     USER_PROFILE_MATCHES_FILE_NAME,
@@ -77,34 +76,3 @@ def write_user_profile_image(user_id: str, image_bytes: bytes) -> None:
 def read_json(file_path: str) -> JSON:
     with open(file_path) as json_file:
         return json.load(json_file)
-
-
-@typing.no_type_check
-def print_user_matches(user_id: str) -> None:
-    user_matches_file_path: str = os.path.join(
-        USER_PROFILE_SUB_DIRECTORY,
-        user_id,
-        USER_PROFILE_MATCHES_FILE_NAME,
-    )
-    query_user_profile: UserProfile = read_user_profile(user_id=user_id)
-    candidate_user_profiles_json: JSON = read_json(file_path=user_matches_file_path)
-    candidate_user_profiles: List[UserProfile] = []
-
-    if MATCHES_KEY in candidate_user_profiles_json:
-        for candidate_user_id in candidate_user_profiles_json[MATCHES_KEY]:
-            candidate_user_profiles.append(read_user_profile(user_id=candidate_user_id))
-
-    print()
-    print("--" * 50)
-    print("Query user")
-    print("--" * 50)
-    print()
-    print(query_user_profile)
-    print()
-    print("--" * 50)
-    print("Candidate users")
-    print("--" * 50)
-    print()
-    for candidate_user_profile in candidate_user_profiles:
-        print(candidate_user_profile)
-        print()

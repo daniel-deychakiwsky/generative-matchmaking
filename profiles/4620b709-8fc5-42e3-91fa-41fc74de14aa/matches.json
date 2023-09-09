@@ -1,5 +1,6 @@
 {
-    "candidate_user_ids": [
+    "unidirectional_candidate_user_ids": [],
+    "bidirectional_candidate_user_ids": [
         "4b30b678-4853-4f45-b696-e9f0dc103e35",
         "674f3708-f89a-4351-9113-f8122cacc406",
         "dabe0a9c-15ae-4621-bbf6-469bcc82c50f",
@@ -19,6 +20,11 @@
         "872611ee-ee7a-4bbb-8eb0-81b336929a9c",
         "c5a74e16-8069-4d35-88cb-c2a05a187fb9",
         "98661221-f19c-49a7-b3ce-38e65bb07609",
-        "17758fa0-0b67-45e5-b286-f42cf759f009"
+        "17758fa0-0b67-45e5-b286-f42cf759f009",
+        "57675dcf-51a7-4d87-a238-35f2b83ef703",
+        "9e3069d7-2ece-4fe9-8430-e46a18e003a2",
+        "b4bc36fd-0121-4860-af89-cacfe0c8a787",
+        "4f22154f-8fc7-41b6-999d-261fa6015473",
+        "8ba438f2-e760-47a4-a365-7c22934aad30"
     ]
 }
