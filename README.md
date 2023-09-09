@@ -127,6 +127,36 @@ find-matches-for-all \
 --n-matches 25
 ```
 
+## User Interface
+
+To visualize the matchmaking we hacked together
+a user interface that will show a random selection
+of 10 user profiles and their matches.
+To run the user interface run the following commands.
+
+This command will install node package manager (npm).
+
+```shell
+brew install npm
+```
+
+This command will change the current working directory
+to the ui directory.
+
+```shell
+cd ui
+```
+
+This command will install dependencies and run the
+local dev server which will open your default browser
+with the user interface. Everything this command is run
+a set of 10 random users will be selected and loaded.
+Feel free to run multiple times it to see different users.
+
+```shell
+npm install && npm run dev
+```
+
 ---
 
 This project was generated using the [wolt-python-package-cookiecutter](https://github.com/woltapp/wolt-python-package-cookiecutter) template.
