@@ -86,7 +86,7 @@ def query_user_profile_collection(
 @click.option(
     "--n-matches", type=int, default=5, help="Max number of candidate matches."
 )
-def find_matches(user_id: str, n_matches: int) -> None:
+def find_matches(user_id: str, n_matches) -> None:
     click.echo("Finding candidate user matches")
     _find_matches(user_id=user_id, n_matches=n_matches)
     click.echo("Successfully found candidate user matches")
