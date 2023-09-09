@@ -1,5 +1,5 @@
-site_name: "generative-dating-agents"
-repo_url: https://github.com/deychak/generative-dating-agents
+site_name: "generative-matchmaking"
+repo_url: https://github.com/deychak/generative-matchmaking
 
 theme:
   name: material
@@ -33,4 +33,4 @@ plugins:
             show_source: true
             show_submodules: true
       watch:
-        - src/generative_dating_agents
+        - src/generative_matchmaking

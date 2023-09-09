@@ -1,16 +1,16 @@
 [tool.poetry]
-name = "generative-dating-agents"
+name = "generative-matchmaking"
 version = "0.0.1"
-description = "Generative Dating Agents"
+description = "Generative Matchmaking"
 authors = [
     "Daniel Deychakiwsky <Your email address (eq. you@example.com)>",
 ]
 license = "MIT"
 readme = "README.md"
 
-documentation = "https://deychak.github.io/generative-dating-agents"
-homepage = "https://deychak.github.io/generative-dating-agents"
-repository = "https://github.com/deychak/generative-dating-agents"
+documentation = "https://deychak.github.io/generative-matchmaking"
+homepage = "https://deychak.github.io/generative-matchmaking"
+repository = "https://github.com/deychak/generative-matchmaking"
 
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -26,7 +26,7 @@ classifiers = [
 ]
 
 packages = [
-    { include = "generative_dating_agents", from = "src" }
+    { include = "generative_matchmaking", from = "src" }
 ]
 
 [tool.poetry.dependencies]
@@ -75,7 +75,7 @@ include = '\.pyi?$'
 
 [tool.pytest.ini_options]
 addopts = """\
-    --cov generative_dating_agents \
+    --cov generative_matchmaking \
     --cov tests \
     --cov-report term-missing \
     --no-cov-on-fail \
