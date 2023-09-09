@@ -1,6 +1,5 @@
 import "./App.css";
-import { useMemo, useState, useEffect } from "react";
-import axios from "axios";
+import { useState } from "react";
 import { profiles as allProfiles } from "./all_profiles";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -82,13 +81,18 @@ const ProfileAvatar = ({ src, name, selected, onSelect }) => (
 );
 
 const ProfileSection = ({ profileData }) => {
-  const matches = profileData.matches.candidate_user_ids.map((matchProfileId) =>
+  const combinedCandidateIds = [
+    ...profileData.matches.bidirectional_candidate_user_ids,
+    ...profileData.matches.unidirectional_candidate_user_ids,
+  ];
+
+  const matches = combinedCandidateIds.map((matchProfileId) =>
     profiles.find(({ profileKey }) => profileKey === matchProfileId)
   );
   const [selectedMatch, setSelectedMatch] = useState(null);
   const selectedMatchProfile = selectedMatch
     ? profiles.find((profile) => profile.profileKey === selectedMatch)
-      .profileData.profile
+        .profileData.profile
     : {};
 
   const profileRows = flattenObjectToRows(profileData.profile);
@@ -141,7 +145,13 @@ const ProfileSection = ({ profileData }) => {
             <ProfileAvatar
               key={match.profileKey}
               src={base64ToImage(match.profileData.image)}
-              name={match.profileData.profile.name}
+              name={`${match.profileData.profile.name}${
+                profileData.matches.bidirectional_candidate_user_ids.includes(
+                  match.profileKey
+                )
+                  ? "*"
+                  : ""
+              }`}
               selected={selectedMatch === match.profileKey}
               onSelect={() => setSelectedMatch(match.profileKey)}
             />
