@@ -7,10 +7,10 @@
       "author_name": "Daniel Deychakiwsky",
       "author_email": "Your email address (eq. you@example.com)",
       "github_username": "deychak",
-      "project_name": "generative-dating-agents",
-      "project_slug": "generative-dating-agents",
-      "package_name": "generative_dating_agents",
-      "project_short_description": "Generative Dating Agents",
+      "project_name": "generative-matchmaking",
+      "project_slug": "generative-matchmaking",
+      "package_name": "generative_matchmaking",
+      "project_short_description": "Generative Matchmaking",
       "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
     }
   },

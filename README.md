@@ -1,4 +1,4 @@
-# Generative Dating Agents
+# Generative Matchmaking
 
 ## Overview
 
@@ -32,7 +32,7 @@ CLI commands assume repo root as current working directory.
 The following command will list available CLI commands.
 
 ```shell
- python3 -m src.generative_dating_agents.cli
+ python3 -m src.generative_matchmaking.cli
 ```
 
 #### Generate User Profiles
@@ -50,7 +50,7 @@ export OPENAI_API_KEY="{{YOUR OPEN AI KEY}}"
 ```
 
 ```sh
-python3 -m src.generative_dating_agents.cli \
+python3 -m src.generative_matchmaking.cli \
 generate-user-profiles \
 --n-profiles 5 \
 --model "gpt-4-0613" \
@@ -66,7 +66,7 @@ locally persistent vector database.
 See [Chroma](https://docs.trychroma.com/usage-guide).
 
 ```sh
-python3 -m src.generative_dating_agents.cli \
+python3 -m src.generative_matchmaking.cli \
 load-user-profile-collection \
 --distance cosine
 ```
@@ -74,7 +74,7 @@ load-user-profile-collection \
 This command will query the vector database.
 
 ```shell
-python3 -m src.generative_dating_agents.cli \
+python3 -m src.generative_matchmaking.cli \
 query-user-profile-collection \
 --n-results 5 \
 --verbose True \
@@ -100,7 +100,7 @@ for long-term dating and a preference for monogamy."
 This command deletes the loaded collection.
 
 ```shell
-python3 -m src.generative_dating_agents.cli \
+python3 -m src.generative_matchmaking.cli \
 delete-user-profile-collection
 ```
 
@@ -113,7 +113,7 @@ This command will run the matchmaking
 algorithm for a given user id.
 
 ```shell
-python3 -m src.generative_dating_agents.cli \
+python3 -m src.generative_matchmaking.cli \
 find-matches \
 --user-id "f0e35556-8760-41ae-b0f9-4c777c48b170" \
 --n-matches 5
@@ -122,7 +122,7 @@ find-matches \
 This command will do the same but for all user ids sequentially.
 
 ```shell
-python3 -m src.generative_dating_agents.cli \
+python3 -m src.generative_matchmaking.cli \
 find-matches-for-all \
 --n-matches 25
 ```

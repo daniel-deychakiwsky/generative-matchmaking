@@ -10,7 +10,6 @@
         "a85496f8-6e72-45b8-8f0b-d2a924e1bdd9",
         "1a622e80-d879-43d3-a79e-684a9a46766b",
         "071e87fb-f024-40ec-8801-bfdc5b45cee6",
-        "ad65d5a8-c39c-49cf-87bf-e41f17f5b058",
         "1e90f21c-89d9-4793-b2d8-ad5243f0e22b",
         "53dee903-de57-4da3-9ac5-e4a6947ba11e",
         "7d76bfea-bafa-4ebf-ba7b-9fcfc5c34732",
@@ -25,6 +24,7 @@
         "905e1675-5046-4e16-95d6-56a70840fbb1"
     ],
     "bidirectional_candidate_user_ids": [
+        "ad65d5a8-c39c-49cf-87bf-e41f17f5b058",
         "ed490895-f103-4e08-83e3-63d8f00861be",
         "595a99d6-b630-44d4-9c43-9e13849e6130"
     ]

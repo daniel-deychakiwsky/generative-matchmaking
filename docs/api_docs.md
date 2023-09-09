@@ -1,3 +1,3 @@
 # API documentation
 
-:::generative_dating_agents
+:::generative_matchmaking
