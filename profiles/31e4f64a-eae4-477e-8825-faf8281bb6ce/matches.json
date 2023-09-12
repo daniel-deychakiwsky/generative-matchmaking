@@ -21,11 +21,11 @@
     ],
     "bidirectional_candidate_user_ids": [
         "24ad95cc-91a6-475c-8f2f-b6ed1892a8b5",
-        "dabe0a9c-15ae-4621-bbf6-469bcc82c50f",
-        "59c9cda0-6c6e-4d45-93f2-7d8e75d6c652",
         "9e3069d7-2ece-4fe9-8430-e46a18e003a2",
         "98661221-f19c-49a7-b3ce-38e65bb07609",
-        "66f8647a-d63d-4ac2-a01a-14ca45c86ea0",
-        "81c7f37e-c058-4bf1-8776-982ffb8e504d"
+        "dabe0a9c-15ae-4621-bbf6-469bcc82c50f",
+        "59c9cda0-6c6e-4d45-93f2-7d8e75d6c652",
+        "81c7f37e-c058-4bf1-8776-982ffb8e504d",
+        "66f8647a-d63d-4ac2-a01a-14ca45c86ea0"
     ]
 }

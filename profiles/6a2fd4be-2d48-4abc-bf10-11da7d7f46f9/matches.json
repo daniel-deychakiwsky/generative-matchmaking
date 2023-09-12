@@ -24,8 +24,8 @@
         "98856e04-edce-4190-9fbe-487f5bfa5e3e"
     ],
     "bidirectional_candidate_user_ids": [
-        "60822b5f-1ab3-472e-b4aa-780123e70a89",
         "ecf28d6e-3c38-4860-8140-25086f05acb6",
-        "84c713ba-6c5a-42fa-a3ae-f436330d74ed"
+        "84c713ba-6c5a-42fa-a3ae-f436330d74ed",
+        "60822b5f-1ab3-472e-b4aa-780123e70a89"
     ]
 }

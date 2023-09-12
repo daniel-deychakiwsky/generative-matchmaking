@@ -23,9 +23,9 @@
     ],
     "bidirectional_candidate_user_ids": [
         "f21a1b91-6e39-4585-a243-f2a01aff93c4",
-        "7d76bfea-bafa-4ebf-ba7b-9fcfc5c34732",
         "f44c3040-e8ac-452b-9932-d43f68edeca5",
         "e8942221-945c-4b47-a5f5-3d81f50b8640",
-        "5421b77e-2d3f-4ae4-bd2f-c4cfcdd3dd71"
+        "5421b77e-2d3f-4ae4-bd2f-c4cfcdd3dd71",
+        "7d76bfea-bafa-4ebf-ba7b-9fcfc5c34732"
     ]
 }
