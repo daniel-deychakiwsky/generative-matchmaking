@@ -1,4 +1,4 @@
-from typing import Dict, List, Set
+from typing import Dict, List, Tuple
 
 from ..data.user_profile import UserProfile
 from ..database.ops import QueryResult, query_user_profile_collection
@@ -12,7 +12,7 @@ from ..utils.io import (
 
 def _retrieve_candidate_user_profiles(
     query_user_profile: UserProfile, n_retrievals: int
-) -> List[UserProfile]:
+) -> List[Tuple[UserProfile, float]]:
     query_result: QueryResult = query_user_profile_collection(
         query_texts=query_user_profile.preferences_summary,
         n_results=n_retrievals,
@@ -28,39 +28,52 @@ def _retrieve_candidate_user_profiles(
         },
     )
 
-    return [
+    candidate_user_profiles = [
         read_user_profile(user_id=user_id)
         for user_id in (query_result["ids"][0] if len(query_result["ids"]) else [])
     ]
+    candidate_distances = (
+        (query_result["distances"][0] if len(query_result["distances"]) else [])
+        if query_result["distances"]
+        else []
+    )
+
+    return list(zip(candidate_user_profiles, candidate_distances))
 
 
 def find_matches(user_id: str, n_matches: int) -> Dict[str, List[str]]:
     query_user_profile: UserProfile = read_user_profile(user_id=user_id)
 
-    candidate_user_profiles: List[UserProfile] = _retrieve_candidate_user_profiles(
+    candidates: List[Tuple[UserProfile, float]] = _retrieve_candidate_user_profiles(
         query_user_profile=query_user_profile, n_retrievals=n_matches
     )
 
-    candidates_candidate_user_profiles: Dict[str, Set[str]] = {
+    candidate_candidates: Dict[str, Dict[str, float]] = {
         candidate_user_profile.user_id: {
-            c.user_id
-            for c in _retrieve_candidate_user_profiles(
+            c_candidate_user_profile.user_id: c_candidate_distance * candidate_distance
+            for c_candidate_user_profile, c_candidate_distance in _retrieve_candidate_user_profiles(
                 query_user_profile=candidate_user_profile, n_retrievals=n_matches
             )
         }
-        for candidate_user_profile in candidate_user_profiles
+        for candidate_user_profile, candidate_distance in candidates
     }
 
     bidirectional_candidate_user_ids: List[str] = [
-        c.user_id
-        for c in candidate_user_profiles
-        if query_user_profile.user_id in candidates_candidate_user_profiles[c.user_id]
+        item[0]
+        for item in sorted(
+            {
+                candidate_user_profile_id: c_candidate_dict[query_user_profile.user_id]
+                for candidate_user_profile_id, c_candidate_dict in candidate_candidates.items()
+                if query_user_profile.user_id in c_candidate_dict
+            }.items(),
+            key=lambda x: x[1],
+        )
     ]
 
     unidirectional_candidate_user_ids: List[str] = [
-        c.user_id
-        for c in candidate_user_profiles
-        if c.user_id not in bidirectional_candidate_user_ids
+        candidate_user_profile.user_id
+        for candidate_user_profile, _ in candidates
+        if candidate_user_profile.user_id not in bidirectional_candidate_user_ids
     ]
 
     matches: Dict[str, List[str]] = {

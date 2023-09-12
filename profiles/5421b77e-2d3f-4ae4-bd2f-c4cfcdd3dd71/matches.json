@@ -20,12 +20,12 @@
         "4f22154f-8fc7-41b6-999d-261fa6015473"
     ],
     "bidirectional_candidate_user_ids": [
-        "212dfc5a-f13a-4226-920c-0428cd73638f",
-        "dabe0a9c-15ae-4621-bbf6-469bcc82c50f",
-        "98661221-f19c-49a7-b3ce-38e65bb07609",
-        "66f8647a-d63d-4ac2-a01a-14ca45c86ea0",
-        "842053d6-d4d1-4434-9d63-c5478f2fc815",
         "4f993529-6a14-46be-93e1-6fceb1747e0f",
-        "e07d58ca-749b-4265-846b-8d60c644dedc"
+        "98661221-f19c-49a7-b3ce-38e65bb07609",
+        "e07d58ca-749b-4265-846b-8d60c644dedc",
+        "dabe0a9c-15ae-4621-bbf6-469bcc82c50f",
+        "212dfc5a-f13a-4226-920c-0428cd73638f",
+        "66f8647a-d63d-4ac2-a01a-14ca45c86ea0",
+        "842053d6-d4d1-4434-9d63-c5478f2fc815"
     ]
 }
