@@ -33,7 +33,9 @@ def _retrieve_candidate_user_profiles(
         for user_id in (query_result["ids"][0] if len(query_result["ids"]) else [])
     ]
     candidate_distances = (
-        query_result["distances"][0] if len(query_result["distances"]) else []  # type: ignore
+        (query_result["distances"][0] if len(query_result["distances"]) else [])
+        if query_result["distances"]
+        else []
     )
 
     return list(zip(candidate_user_profiles, candidate_distances))
