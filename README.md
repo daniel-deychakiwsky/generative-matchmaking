@@ -2,7 +2,9 @@
 
 ## Overview
 
-TODO
+Blog Post
+
+https://daniel-deychakiwsky.github.io/generative-matchmaking
 
 ## Running
 
